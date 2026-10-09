@@ -1,0 +1,36 @@
+'J'z
+Lenovo.CameraControlBackgroundService
+E0469640.SmartAppearance_5grkq8ppsgwt4
+ToggleBlurSwitch
+Result
+BlurOff
+BlurOn
+BlurError
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+CompanyName
+FileDescription
+BlurSwitchCS
+FileVersion
+1.0.0.0
+InternalName
+BlurSwitchCS.dll
+LegalCopyright
+Copyright 
+  2021
+LegalTrademarks
+OriginalFilename
+BlurSwitchCS.dll
+ProductName
+BlurSwitchCS
+ProductVersion
+1.0.0.0
+Assembly Version
+1.0.0.0
+SubC
+Lenov
+SubC

@@ -1,0 +1,32 @@
+--- mof dir? ---
+total 300
+drwxr-xr-x  5 user user   4096 Oct  6 00:57 .
+drwxr-xr-x 12 user user   4096 Oct  6 01:03 ..
+-r--------  1 user user    312 Oct  6 00:49 APIC
+-r--------  1 user user 107461 Oct  6 00:49 DSDT
+-r--------  1 user user    268 Oct  6 00:49 FACP
+-r--------  1 user user   3241 Oct  6 00:49 SSDT1
+-r--------  1 user user    313 Oct  6 00:49 SSDT10
+-r--------  1 user user    653 Oct  6 00:49 SSDT11
+-r--------  1 user user   3411 Oct  6 00:49 SSDT12
+-r--------  1 user user   4293 Oct  6 00:49 SSDT13
+-r--------  1 user user    554 Oct  6 00:49 SSDT14
+-r--------  1 user user  13871 Oct  6 00:49 SSDT15
+-r--------  1 user user    125 Oct  6 00:49 SSDT16
+-r--------  1 user user   1243 Oct  6 00:49 SSDT17
+-r--------  1 user user  29360 Oct  6 00:49 SSDT2
+-r--------  1 user user  14881 Oct  6 00:49 SSDT3
+-r--------  1 user user   1138 Oct  6 00:49 SSDT4
+-r--------  1 user user    128 Oct  6 00:49 SSDT5
+-r--------  1 user user  29064 Oct  6 00:49 SSDT6
+-r--------  1 user user     92 Oct  6 00:49 SSDT7
+-r--------  1 user user    248 Oct  6 00:49 SSDT8
+-r--------  1 user user  16008 Oct  6 00:49 SSDT9
+drwxr-xr-x  2 user user   4096 Oct  6 00:49 aml
+drwxr-xr-x  2 user user   4096 Oct  6 01:03 analysis
+drwxr-xr-x  2 user user   4096 Oct  6 00:49 dsl
+--- verify DS-01 header claim directly from DSDT hex ---
+                        Name (WQDA, Buffer (0x0418)
+                        {
+                            /* 0000 */  0x46, 0x4F, 0x4D, 0x42, 0x01, 0x00, 0x00, 0x00,  // FOMB....
+                            /* 0008 */  0x08, 0x04, 0x00, 0x00, 0x5E, 0x0C, 0x00, 0x00,  // ....^...

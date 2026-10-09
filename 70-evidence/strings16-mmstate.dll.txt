@@ -1,0 +1,24 @@
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Lenovo Group Limited
+FileDescription
+Helper dll for mic mute indicator
+FileVersion
+1.0.0.1
+InternalName
+mmstate
+LegalCopyright
+Copyright (C) Lenovo 2018.
+OriginalFilename
+mmstate.dll
+ProductName
+Fn and function keys
+ProductVersion
+1.0.0.1
+VarFileInfo
+Translation
+SubC
+Lenov
+SubC

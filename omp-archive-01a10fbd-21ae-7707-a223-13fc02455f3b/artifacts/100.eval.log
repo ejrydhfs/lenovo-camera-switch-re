@@ -1,0 +1,67 @@
+machine 0x8664 ts 1650851179
+.text 0x1000 0x28f5c 0x400 0x29000
+.nep 0x2a000 0x30 0x29400 0x200
+.rdata 0x2b000 0x29f90 0x29600 0x2a000
+.data 0x55000 0x1d80 0x53600 0x800
+.pdata 0x57000 0x2250 0x53e00 0x2400
+.rsrc 0x5a000 0x64110 0x56200 0x64200
+.reloc 0xbf000 0xcbc 0xba400 0xe00
+---- imports
+GDI32.dll (5)
+    SelectObject, CreateDIBSection, DeleteObject, DeleteDC, CreateCompatibleDC
+KERNEL32.dll (96)
+    SizeofResource, LockResource, LoadResource, FindResourceExW, FindResourceW, InitializeCriticalSectionEx, DeleteCriticalSection, CreateFileW, CreateEventW, DeviceIoControl, SetEvent, WTSGetActiveConsoleSessionId, WaitForSingleObject, ResetEvent, GlobalAlloc, GlobalLock, GlobalUnlock, GlobalFree, FreeResource, lstrlenW, LocalReAlloc, GetUserDefaultUILanguage, WriteFile, CreateDirectoryW, GetModuleFileNameW, SetThreadPriority, GetCurrentThread, EnterCriticalSection, InitializeCriticalSection, MultiByteToWideChar, GetSystemDirectoryW, HeapReAlloc, SetFilePointer, GetLocalTime, FindPackagesByPackageFamily, PackageIdFromFullName, K32EnumProcesses, ReadFile, GetFullPathNameW, VerSetConditionMask, VerifyVersionInfoW, GetCurrentProcessId, HeapFree, GetProcessHeap, HeapAlloc, SearchPathW, GetSystemDefaultUILanguage, GetLocaleInfoW, UnmapViewOfFile, CreateFileMappingW, MapViewOfFile, InitializeSListHead, GetSystemTimeAsFileTime, GetCurrentThreadId, QueryPerformanceCounter, GetStartupInfoW, WaitForSingleObjectEx, InitializeCriticalSectionAndSpinCount, IsProcessorFeaturePresent, TerminateProcess, SetUnhandledExceptionFilter, UnhandledExceptionFilter, RtlVirtualUnwind, RtlLookupFunctionEntry, RtlCaptureContext, IsDebuggerPresent, WideCharToMultiByte, RaiseException, HeapSize, HeapDestroy, CreateThread, GetVersionExW, GetTempPathW, GetUserPreferredUILanguages, GetModuleHandleW, ProcessIdToSessionId, Process32NextW, Process32FirstW, CreateToolhelp32Snapshot, CloseHandle, OpenProcess, lstrcmpiW, Sleep, GetTickCount64, GetLastError, SetLastError, LocalFree, LocalAlloc, FreeLibrary, GetProcAddress, LoadLibraryW, OutputDebugStringW, GetCurrentProcess, QueryFullProcessImageNameW, LoadLibraryExW, LeaveCriticalSection
+USER32.dll (53)
+    BringWindowToTop, SetForegroundWindow, SetWindowPos, LoadStringW, SetFocus, GetDesktopWindow, GetRawInputDeviceInfoW, SendInput, GetClassNameW, GetForegroundWindow, GetWindowThreadProcessId, WaitForInputIdle, GetRawInputData, SwitchToThisWindow, GetKeyState, PostMessageW, IsWindow, UpdateLayeredWindow, GetDC, GetWindowRect, MoveWindow, EnumDisplaySettingsW, ChangeDisplaySettingsExW, GetDisplayConfigBufferSizes, QueryDisplayConfig, SetDisplayConfig, EnumDisplayDevicesW, RegisterRawInputDevices, FindWindowW, LoadAcceleratorsW, GetMessageW, TranslateAcceleratorW, TranslateMessage, IsWindowVisible, SetWindowLongW, GetWindowLongW, GetSystemMetrics, EndDialog, DialogBoxParamW, KillTimer, PostQuitMessage, EndPaint, BeginPaint, DefWindowProcW, DestroyWindow, SetTimer, SetProcessDPIAware, UpdateWindow, DispatchMessageW, LoadCursorW, RegisterClassExW, CreateWindowExW, ShowWindow
+ADVAPI32.dll (20)
+    RegOpenKeyExW, CryptAcquireContextW, CryptCreateHash, CryptHashData, CryptDestroyHash, RegQueryValueExW, RegCloseKey, RegQueryInfoKeyW, RegEnumValueW, RegEnumKeyExW, RegCreateKeyExW, RegFlushKey, RegSetValueExW, OpenSCManagerW, OpenServiceW, CloseServiceHandle, ControlService, RegGetValueW, CryptReleaseContext, CryptGetHashParam
+SHELL32.dll (3)
+    ShellExecuteExW, ShellExecuteW, SHGetFolderPathW
+ole32.dll (12)
+    CoCreateInstance, CoTaskMemFree, CoInitializeEx, CoUninitialize, CoInitialize, OleRun, CoInitializeSecurity, CoSetProxyBlanket, CreateStreamOnHGlobal, CoFreeUnusedLibrariesEx, PropVariantClear, StringFromGUID2
+OLEAUT32.dll (22)
+    LPSAFEARRAY_UserFree, BSTR_UserUnmarshal64, LPSAFEARRAY_UserSize, BSTR_UserFree, BSTR_UserSize, VariantChangeType, SysAllocString, VariantInit, GetErrorInfo, SysFreeString, BSTR_UserMarshal64, LPSAFEARRAY_UserSize64, BSTR_UserSize64, BSTR_UserFree64, LPSAFEARRAY_UserMarshal, VariantClear, LPSAFEARRAY_UserFree64, LPSAFEARRAY_UserMarshal64, LPSAFEARRAY_UserUnmarshal, BSTR_UserUnmarshal, BSTR_UserMarshal, LPSAFEARRAY_UserUnmarshal64
+SHLWAPI.dll (11)
+    SHSetValueW, PathFileExistsW, PathIsDirectoryW, StrRChrW, StrStrIW, StrCmpIW, StrCmpW, SHGetValueW, StrCmpNIW, StrChrW, StrToIntExW
+MSVCP140.dll (7)
+    ?_Throw_C_error@std@@YAXH@Z, _Mtx_init_in_situ, _Mtx_destroy_in_situ, _Mtx_lock, _Mtx_unlock, ?_Xbad_function_call@std@@YAXXZ, ?_Xlength_error@std@@YAXPEBD@Z
+gdiplus.dll (16)
+    GdipReleaseDC, GdipCloneImage, GdiplusStartup, GdipGetImageWidth, GdipDisposeImage, GdipGetImageHeight, GdipFree, GdipDrawImageRectI, GdipSetSmoothingMode, GdipCreateFromHDC, GdiplusShutdown, GdipDeleteGraphics, GdipSetPageScale, GdipSetPageUnit, GdipLoadImageFromStream, GdipAlloc
+WTSAPI32.dll (2)
+    WTSQuerySessionInformationW, WTSFreeMemory
+VERSION.dll (3)
+    GetFileVersionInfoW, VerQueryValueW, GetFileVersionInfoSizeW
+SETUPAPI.dll (5)
+    SetupDiDestroyDeviceInfoList, SetupDiGetDeviceRegistryPropertyW, SetupDiEnumDeviceInterfaces, SetupDiGetClassDevsW, SetupDiGetDeviceInterfaceDetailW
+ludp.dll (3)
+    finish, initialize2, trackEvent2
+RPCRT4.dll (7)
+    NdrServerCall2, RpcStringBindingComposeW, RpcStringFreeW, RpcBindingFree, NdrClientCall3, NdrServerCallAll, RpcBindingFromStringBindingW
+HID.DLL (5)
+    HidD_GetPreparsedData, HidP_GetCaps, HidD_FreePreparsedData, HidD_GetFeature, HidD_GetAttributes
+WINTRUST.dll (1)
+    WinVerifyTrust
+VCRUNTIME140.dll (14)
+    __std_exception_copy, __std_exception_destroy, wcschr, wcsstr, __C_specific_handler, wcsrchr, __std_terminate, _CxxThrowException, memcpy, memmove, __current_exception, __current_exception_context, __FrameUnwindFilter, memset
+VCRUNTIME140_1.dll (1)
+    __CxxFrameHandler4
+api-ms-win-crt-runtime-l1-1-0.dll (21)
+    _get_wide_winmain_command_line, exit, _configure_wide_argv, _exit, _initterm, _seh_filter_exe, _cexit, _crt_atexit, _invalid_parameter_noinfo_noreturn, _set_app_type, _c_exit, abort, _register_thread_local_exe_atexit_callback, _initterm_e, _invalid_parameter_noinfo, _errno, _register_onexit_function, _initialize_onexit_table, _beginthreadex, terminate, _initialize_wide_environment
+api-ms-win-crt-heap-l1-1-0.dll (4)
+    free, malloc, _callnewh, _set_new_mode
+api-ms-win-crt-filesystem-l1-1-0.dll (2)
+    _wsplitpath_s, _wmakepath_s
+api-ms-win-crt-stdio-l1-1-0.dll (4)
+    _set_fmode, __stdio_common_vswprintf, __stdio_common_vswprintf_s, __p__commode
+api-ms-win-crt-string-l1-1-0.dll (9)
+    _wcsnicmp, wcsncpy_s, _wcsicmp, wcsnlen, _wcslwr_s, memcpy_s, wcsncmp, wcscpy_s, wcscat_s
+api-ms-win-crt-convert-l1-1-0.dll (1)
+    _wtoi
+api-ms-win-crt-math-l1-1-0.dll (4)
+    __setusermatherr, ceilf, pow, log10
+api-ms-win-crt-locale-l1-1-0.dll (1)
+    _configthreadlocale
+api-ms-win-crt-utility-l1-1-0.dll (1)
+    bsearch
+mscoree.dll (1)
+    _CorExeMain

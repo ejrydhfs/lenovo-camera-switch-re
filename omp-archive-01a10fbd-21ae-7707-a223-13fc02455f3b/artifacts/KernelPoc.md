@@ -1,0 +1,1 @@
+I'll start by reading the context files and my brief....Main's constraint noted — I'll make it a standalone read-only prober (no platform binding, no input device). Gathering remaining facts.

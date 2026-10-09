@@ -1,0 +1,45 @@
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+ext-ms-
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEF
+VS_VERSION_INFO
+StringFileInfo
+040904B0
+CompanyName
+Microsoft Corporation
+FileDescription
+Microsoft
+ C Runtime Library
+FileVersion
+14.16.27033.0 built by: vcwrkspc
+InternalName
+vcruntime140.dll
+LegalCopyright
+ Microsoft Corporation. All rights reserved.
+OriginalFilename
+vcruntime140.dll
+ProductName
+Microsoft
+ Visual Studio
+ 2017
+ProductVersion
+14.16.27033.0
+VarFileInfo
+Translation
+SubC
+Legal_policy_statement
+Microsof
+SubC
+Lenov
+SubC
+Legal_Policy_Statement
+SubC
+Legal_policy_statement
+Microsof
+SubC
+Legal_Policy_Statement
+SubC
+Lenov
+SubC

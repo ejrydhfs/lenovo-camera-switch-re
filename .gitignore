@@ -1,0 +1,23 @@
+# Build artifacts - rebuild with `make` / `make -C ... M=$PWD modules`
+*.o
+*.ko
+*.mod
+*.mod.c
+.*.cmd
+Module.symvers
+modules.order
+80-tools/bmfdec
+80-tools/bmf2mof
+80-tools/bmfparse
+
+# Lenovo/Microsoft binaries and full decompilations - not redistributed.
+# See README.md "Not included (not redistributed)".
+00-input/
+10-extracted/code$getextractpath$/
+10-extracted/analysis/blurswitchcs.decompiled.cs
+30-modules/
+50-ghidra/proj/
+50-ghidra/**/decompile*.txt
+50-ghidra/**/vtables-decompile.txt
+50-ghidra/**/*-decomp.c
+*.zip

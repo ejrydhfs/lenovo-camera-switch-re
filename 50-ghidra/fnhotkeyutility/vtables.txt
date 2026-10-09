@@ -1,0 +1,526 @@
+# Symbols matching CMoniter / vftable / RTTI
+SYM  14002be18  type_info::vftable_meta_ptr  type=Label
+SYM  14002be20  type_info::vftable  type=Label
+SYM  14002bee8  std::exception::vftable_meta_ptr  type=Label
+SYM  14002bef0  std::exception::vftable  type=Label
+SYM  14002bf00  std::bad_alloc::vftable_meta_ptr  type=Label
+SYM  14002bf08  std::bad_alloc::vftable  type=Label
+SYM  14002bf28  std::bad_array_new_length::vftable_meta_ptr  type=Label
+SYM  14002bf30  std::bad_array_new_length::vftable  type=Label
+SYM  140036bd8  ATL::CWin32Heap::vftable_meta_ptr  type=Label
+SYM  140036be0  ATL::CWin32Heap::vftable  type=Label
+SYM  140036c08  ATL::CAtlStringMgr::vftable_meta_ptr  type=Label
+SYM  140036c10  ATL::CAtlStringMgr::vftable  type=Label
+SYM  140037c10  DAX::CDolbyDAX::vftable_meta_ptr  type=Label
+SYM  140037c18  DAX::CDolbyDAX::vftable  type=Label
+SYM  14003af70  Gdiplus::Image::vftable_meta_ptr  type=Label
+SYM  14003af78  Gdiplus::Image::vftable  type=Label
+SYM  14003bc10  ZRegistry::vftable_meta_ptr  type=Label
+SYM  14003bc18  ZRegistry::vftable  type=Label
+SYM  14003ede0  CMoniterWmiGetFnQ::vftable_meta_ptr  type=Label
+SYM  14003ede8  CMoniterWmiGetFnQ::vftable  type=Label
+SYM  14003f548  CMoniterWmiUtilityEvent::vftable_meta_ptr  type=Label
+SYM  14003f550  CMoniterWmiUtilityEvent::vftable  type=Label
+SYM  140047198  std::_Func_impl_no_alloc<<lambda_9b6c218b6ccadab7254fad613b70932b>,void,tagINPUT*___ptr64>::vftable_meta_ptr  type=Label
+SYM  1400471a0  std::_Func_impl_no_alloc<<lambda_9b6c218b6ccadab7254fad613b70932b>,void,tagINPUT*___ptr64>::vftable  type=Label
+SYM  1400477c8  CMMPlatform::vftable_meta_ptr  type=Label
+SYM  1400477d0  CMMPlatform::vftable  type=Label
+SYM  1400477d8  CMMControlNotify::vftable_meta_ptr  type=Label
+SYM  1400477e0  CMMControlNotify::vftable  type=Label
+SYM  140047800  CMMControlNotify::vftable_meta_ptr  type=Label
+SYM  140047808  CMMControlNotify::vftable  type=Label
+SYM  140047840  CMMEndpointNotify::vftable_meta_ptr  type=Label
+SYM  140047848  CMMEndpointNotify::vftable  type=Label
+SYM  1400479f8  CMMEndpointLineControl::vftable_meta_ptr  type=Label
+SYM  140047a00  CMMEndpointLineControl::vftable  type=Label
+SYM  140047a48  CMMLineControl::vftable_meta_ptr  type=Label
+SYM  140047a50  CMMLineControl::vftable  type=Label
+SYM  14004dc58  type_info::RTTI_Complete_Object_Locator  type=Label
+SYM  14004dc80  type_info::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004dc98  type_info::RTTI_Base_Class_Array  type=Label
+SYM  14004dca8  type_info::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004dcd0  std::bad_array_new_length::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004dcf8  std::bad_array_new_length::RTTI_Base_Class_Array  type=Label
+SYM  14004dd18  std::bad_array_new_length::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004dd30  std::bad_array_new_length::RTTI_Complete_Object_Locator  type=Label
+SYM  14004dd58  std::bad_alloc::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004dd80  std::bad_alloc::RTTI_Base_Class_Array  type=Label
+SYM  14004dd98  std::bad_alloc::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004ddb0  std::bad_alloc::RTTI_Complete_Object_Locator  type=Label
+SYM  14004ddd8  std::exception::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004de00  std::exception::RTTI_Base_Class_Array  type=Label
+SYM  14004de10  std::exception::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004de28  std::exception::RTTI_Complete_Object_Locator  type=Label
+SYM  14004de50  ATL::CWin32Heap::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004de78  ATL::IAtlMemMgr::RTTI_Base_Class_Array  type=Label
+SYM  14004de88  ATL::IAtlMemMgr::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004dea0  ATL::IAtlMemMgr::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004dec8  ATL::CWin32Heap::RTTI_Base_Class_Array  type=Label
+SYM  14004dee0  ATL::CWin32Heap::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004def8  ATL::CWin32Heap::RTTI_Complete_Object_Locator  type=Label
+SYM  14004df20  ATL::CAtlStringMgr::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004df48  ATL::IAtlStringMgr::RTTI_Base_Class_Array  type=Label
+SYM  14004df58  ATL::IAtlStringMgr::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004df70  ATL::IAtlStringMgr::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004df98  ATL::CAtlStringMgr::RTTI_Base_Class_Array  type=Label
+SYM  14004dfb0  ATL::CAtlStringMgr::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004dfc8  ATL::CAtlStringMgr::RTTI_Complete_Object_Locator  type=Label
+SYM  14004dff0  DAX::CDolbyDAX::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e008  DAX::CDolbyDAX::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e030  DAX::CDolbyDAX::RTTI_Complete_Object_Locator  type=Label
+SYM  14004e058  DAX::CDolbyDAX::RTTI_Base_Class_Array  type=Label
+SYM  14004e068  Gdiplus::Image::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e090  Gdiplus::Image::RTTI_Base_Class_Array  type=Label
+SYM  14004e0a8  Gdiplus::Image::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e0c0  Gdiplus::Image::RTTI_Complete_Object_Locator  type=Label
+SYM  14004e0e8  Gdiplus::GdiplusBase::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e110  Gdiplus::GdiplusBase::RTTI_Base_Class_Array  type=Label
+SYM  14004e120  Gdiplus::GdiplusBase::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e138  Gdiplus::GdiplusBase::RTTI_Base_Class_Descriptor_at_(8,-1,0,64)  type=Label
+SYM  14004e160  ZRegistry::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e188  ZRegistry::RTTI_Base_Class_Array  type=Label
+SYM  14004e198  ZRegistry::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e1b0  ZRegistry::RTTI_Complete_Object_Locator  type=Label
+SYM  14004e1d8  CMoniterWmiGetFnQ::RTTI_Base_Class_Array  type=Label
+SYM  14004e1f8  IWbemObjectSink::RTTI_Base_Class_Array  type=Label
+SYM  14004e210  CMoniterWmiGetFnQ::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e238  IUnknown::RTTI_Base_Class_Array  type=Label
+SYM  14004e248  IUnknown::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e260  IUnknown::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e288  IWbemObjectSink::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e2b0  CMoniterWmiGetFnQ::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e2c8  IWbemObjectSink::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e2e0  CMoniterWmiGetFnQ::RTTI_Complete_Object_Locator  type=Label
+SYM  14004e308  CMoniterWmiUtilityEvent::RTTI_Base_Class_Array  type=Label
+SYM  14004e328  CMoniterWmiUtilityEvent::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e350  CMoniterWmiUtilityEvent::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e368  CMoniterWmiUtilityEvent::RTTI_Complete_Object_Locator  type=Label
+SYM  14004e390  std::_Func_impl_no_alloc<<lambda_9b6c218b6ccadab7254fad613b70932b>,void,tagINPUT*___ptr64>::RTTI_Base_Class_Array  type=Label
+SYM  14004e3a8  std::_Func_base<void,tagINPUT*___ptr64>::RTTI_Base_Class_Array  type=Label
+SYM  14004e3b8  std::_Func_impl_no_alloc<<lambda_9b6c218b6ccadab7254fad613b70932b>,void,tagINPUT*___ptr64>::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e3e0  std::_Func_base<void,tagINPUT*___ptr64>::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e408  std::_Func_impl_no_alloc<<lambda_9b6c218b6ccadab7254fad613b70932b>,void,tagINPUT*___ptr64>::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e420  std::_Func_base<void,tagINPUT*___ptr64>::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e438  std::_Func_impl_no_alloc<<lambda_9b6c218b6ccadab7254fad613b70932b>,void,tagINPUT*___ptr64>::RTTI_Complete_Object_Locator  type=Label
+SYM  14004e460  CMMPlatform::RTTI_Base_Class_Array  type=Label
+SYM  14004e470  CMMPlatform::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e498  CMMPlatform::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e4b0  CMMPlatform::RTTI_Complete_Object_Locator  type=Label
+SYM  14004e4d8  CMMControlNotify::RTTI_Base_Class_Array  type=Label
+SYM  14004e508  IAudioEndpointVolumeCallback::RTTI_Base_Class_Array  type=Label
+SYM  14004e520  IControlChangeNotify::RTTI_Base_Class_Array  type=Label
+SYM  14004e538  IUnknown::RTTI_Base_Class_Descriptor_at_(8,-1,0,66)  type=Label
+SYM  14004e560  IAudioEndpointVolumeCallback::RTTI_Base_Class_Descriptor_at_(8,-1,0,64)  type=Label
+SYM  14004e588  IUnknown::RTTI_Base_Class_Descriptor_at_(0,-1,0,66)  type=Label
+SYM  14004e5b0  CMMControlNotify::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e5d8  IAudioEndpointVolumeCallback::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e600  IControlChangeNotify::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e628  CMMControlNotify::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e640  IAudioEndpointVolumeCallback::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e658  IControlChangeNotify::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e670  CMMControlNotify::RTTI_Complete_Object_Locator  type=Label
+SYM  14004e698  CMMControlNotify::RTTI_Complete_Object_Locator  type=Label
+SYM  14004e6c0  CMMEndpointNotify::RTTI_Base_Class_Array  type=Label
+SYM  14004e6e0  IMMNotificationClient::RTTI_Base_Class_Array  type=Label
+SYM  14004e6f8  CMMEndpointNotify::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e720  IMMNotificationClient::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e748  CMMEndpointNotify::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e760  IMMNotificationClient::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e778  CMMEndpointNotify::RTTI_Complete_Object_Locator  type=Label
+SYM  14004e7a0  CMMEndpointLineControl::RTTI_Base_Class_Array  type=Label
+SYM  14004e7b8  CMMLineControl::RTTI_Base_Class_Array  type=Label
+SYM  14004e7c8  CMMEndpointLineControl::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e7f0  CMMLineControl::RTTI_Base_Class_Descriptor_at_(0,-1,0,64)  type=Label
+SYM  14004e818  CMMLineControl::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e830  CMMEndpointLineControl::RTTI_Class_Hierarchy_Descriptor  type=Label
+SYM  14004e848  CMMEndpointLineControl::RTTI_Complete_Object_Locator  type=Label
+SYM  14004e870  CMMLineControl::RTTI_Complete_Object_Locator  type=Label
+SYM  140055290  _com_error::RTTI_Type_Descriptor  type=Label
+SYM  1400552b8  std::bad_array_new_length::RTTI_Type_Descriptor  type=Label
+SYM  1400552e8  std::bad_alloc::RTTI_Type_Descriptor  type=Label
+SYM  140055310  std::exception::RTTI_Type_Descriptor  type=Label
+SYM  140055338  .J::RTTI_Type_Descriptor  type=Label
+SYM  140055350  <lambda_9b6c218b6ccadab7254fad613b70932b>::RTTI_Type_Descriptor  type=Label
+SYM  140055390  type_info::RTTI_Type_Descriptor  type=Label
+SYM  1400553b0  ATL::CWin32Heap::RTTI_Type_Descriptor  type=Label
+SYM  1400553d8  ATL::IAtlMemMgr::RTTI_Type_Descriptor  type=Label
+SYM  140055400  ATL::CAtlStringMgr::RTTI_Type_Descriptor  type=Label
+SYM  140055428  ATL::IAtlStringMgr::RTTI_Type_Descriptor  type=Label
+SYM  140055450  DAX::CDolbyDAX::RTTI_Type_Descriptor  type=Label
+SYM  140055478  Gdiplus::Image::RTTI_Type_Descriptor  type=Label
+SYM  1400554a0  Gdiplus::GdiplusBase::RTTI_Type_Descriptor  type=Label
+SYM  1400554d0  ZRegistry::RTTI_Type_Descriptor  type=Label
+SYM  1400554f0  IUnknown::RTTI_Type_Descriptor  type=Label
+SYM  140055510  CMoniterWmiGetFnQ::RTTI_Type_Descriptor  type=Label
+SYM  140055538  IWbemObjectSink::RTTI_Type_Descriptor  type=Label
+SYM  140055560  CMoniterWmiUtilityEvent::RTTI_Type_Descriptor  type=Label
+SYM  140055590  std::_Func_impl_no_alloc<<lambda_9b6c218b6ccadab7254fad613b70932b>,void,tagINPUT*___ptr64>::RTTI_Type_Descriptor  type=Label
+SYM  140055600  std::_Func_base<void,tagINPUT*___ptr64>::RTTI_Type_Descriptor  type=Label
+SYM  140055638  CMMPlatform::RTTI_Type_Descriptor  type=Label
+SYM  140055660  CMMControlNotify::RTTI_Type_Descriptor  type=Label
+SYM  140055688  IAudioEndpointVolumeCallback::RTTI_Type_Descriptor  type=Label
+SYM  1400556c0  IControlChangeNotify::RTTI_Type_Descriptor  type=Label
+SYM  1400556f0  CMMEndpointNotify::RTTI_Type_Descriptor  type=Label
+SYM  140055718  IMMNotificationClient::RTTI_Type_Descriptor  type=Label
+SYM  140055748  CMMLineControl::RTTI_Type_Descriptor  type=Label
+SYM  140055770  CMMEndpointLineControl::RTTI_Type_Descriptor  type=Label
+
+== VTABLE type_info::vftable_meta_ptr @ 14002be18
+   [0] +0x00 -> 14004dc58  
+   [1] +0x08 -> 140025b30  FUN_140025b30
+   [2] +0x10 -> 140055860  
+   [3] +0x18 -> 140055900  
+   [4] +0x20 -> 00000000  
+   [5] +0x28 -> 2d006900700061  
+   [6] +0x30 -> 77002d0073006d  
+   [7] +0x38 -> 63002d006e0069  
+
+== VTABLE type_info::vftable @ 14002be20
+   [0] +0x00 -> 140025b30  FUN_140025b30
+   [1] +0x08 -> 140055860  
+   [2] +0x10 -> 140055900  
+   [3] +0x18 -> 00000000  
+   [4] +0x20 -> 2d006900700061  
+   [5] +0x28 -> 77002d0073006d  
+   [6] +0x30 -> 63002d006e0069  
+   [7] +0x38 -> 2d00650072006f  
+
+== VTABLE std::exception::vftable_meta_ptr @ 14002bee8
+   [0] +0x00 -> 14004de28  
+   [1] +0x08 -> 1400028c0  FUN_1400028c0
+   [2] +0x10 -> 1400029f0  FUN_1400029f0
+   [3] +0x18 -> 14004ddb0  
+   [4] +0x20 -> 1400028c0  FUN_1400028c0
+   [5] +0x28 -> 1400029f0  FUN_1400029f0
+   [6] +0x30 -> 6f6c6c6120646162  
+   [7] +0x38 -> 6e6f69746163  
+
+== VTABLE std::exception::vftable @ 14002bef0
+   [0] +0x00 -> 1400028c0  FUN_1400028c0
+   [1] +0x08 -> 1400029f0  FUN_1400029f0
+   [2] +0x10 -> 14004ddb0  
+   [3] +0x18 -> 1400028c0  FUN_1400028c0
+   [4] +0x20 -> 1400029f0  FUN_1400029f0
+   [5] +0x28 -> 6f6c6c6120646162  
+   [6] +0x30 -> 6e6f69746163  
+   [7] +0x38 -> 14004dd30  
+
+== VTABLE std::bad_alloc::vftable_meta_ptr @ 14002bf00
+   [0] +0x00 -> 14004ddb0  
+   [1] +0x08 -> 1400028c0  FUN_1400028c0
+   [2] +0x10 -> 1400029f0  FUN_1400029f0
+   [3] +0x18 -> 6f6c6c6120646162  
+   [4] +0x20 -> 6e6f69746163  
+   [5] +0x28 -> 14004dd30  
+   [6] +0x30 -> 1400028c0  FUN_1400028c0
+   [7] +0x38 -> 1400029f0  FUN_1400029f0
+
+== VTABLE std::bad_alloc::vftable @ 14002bf08
+   [0] +0x00 -> 1400028c0  FUN_1400028c0
+   [1] +0x08 -> 1400029f0  FUN_1400029f0
+   [2] +0x10 -> 6f6c6c6120646162  
+   [3] +0x18 -> 6e6f69746163  
+   [4] +0x20 -> 14004dd30  
+   [5] +0x28 -> 1400028c0  FUN_1400028c0
+   [6] +0x30 -> 1400029f0  FUN_1400029f0
+   [7] +0x38 -> 004e0045  
+
+== VTABLE std::bad_array_new_length::vftable_meta_ptr @ 14002bf28
+   [0] +0x00 -> 14004dd30  
+   [1] +0x08 -> 1400028c0  FUN_1400028c0
+   [2] +0x10 -> 1400029f0  FUN_1400029f0
+   [3] +0x18 -> 004e0045  
+   [4] +0x20 -> 00450044  
+   [5] +0x28 -> 0041004a  
+   [6] +0x30 -> 004f004b  
+   [7] +0x38 -> 00570054  
+
+== VTABLE std::bad_array_new_length::vftable @ 14002bf30
+   [0] +0x00 -> 1400028c0  FUN_1400028c0
+   [1] +0x08 -> 1400029f0  FUN_1400029f0
+   [2] +0x10 -> 004e0045  
+   [3] +0x18 -> 00450044  
+   [4] +0x20 -> 0041004a  
+   [5] +0x28 -> 004f004b  
+   [6] +0x30 -> 00570054  
+   [7] +0x38 -> 004e0043  
+
+== VTABLE ATL::CWin32Heap::vftable_meta_ptr @ 140036bd8
+   [0] +0x00 -> 14004def8  
+   [1] +0x08 -> 140004da0  FUN_140004da0
+   [2] +0x10 -> 140004db0  FUN_140004db0
+   [3] +0x18 -> 140004dd0  ATL::CWin32Heap::Reallocate
+   [4] +0x20 -> 140004e10  FUN_140004e10
+   [5] +0x28 -> 140004e20  ATL::CWin32Heap::`scalar_deleting_destructor'
+   [6] +0x30 -> 14004dfc8  
+   [7] +0x38 -> 140004e70  FUN_140004e70
+
+== VTABLE ATL::CWin32Heap::vftable @ 140036be0
+   [0] +0x00 -> 140004da0  FUN_140004da0
+   [1] +0x08 -> 140004db0  FUN_140004db0
+   [2] +0x10 -> 140004dd0  ATL::CWin32Heap::Reallocate
+   [3] +0x18 -> 140004e10  FUN_140004e10
+   [4] +0x20 -> 140004e20  ATL::CWin32Heap::`scalar_deleting_destructor'
+   [5] +0x28 -> 14004dfc8  
+   [6] +0x30 -> 140004e70  FUN_140004e70
+   [7] +0x38 -> 140004f10  FUN_140004f10
+
+== VTABLE ATL::CAtlStringMgr::vftable_meta_ptr @ 140036c08
+   [0] +0x00 -> 14004dfc8  
+   [1] +0x08 -> 140004e70  FUN_140004e70
+   [2] +0x10 -> 140004f10  FUN_140004f10
+   [3] +0x18 -> 140004f20  FUN_140004f20
+   [4] +0x20 -> 140004f90  FUN_140004f90
+   [5] +0x28 -> 140004fa0  FUN_140004fa0
+   [6] +0x30 -> 140004fb0  FUN_140004fb0
+   [7] +0x38 -> 420160efff48dba4  
+
+== VTABLE ATL::CAtlStringMgr::vftable @ 140036c10
+   [0] +0x00 -> 140004e70  FUN_140004e70
+   [1] +0x08 -> 140004f10  FUN_140004f10
+   [2] +0x10 -> 140004f20  FUN_140004f20
+   [3] +0x18 -> 140004f90  FUN_140004f90
+   [4] +0x20 -> 140004fa0  FUN_140004fa0
+   [5] +0x28 -> 140004fb0  FUN_140004fb0
+   [6] +0x30 -> 420160efff48dba4  
+   [7] +0x38 -> 4e59ef3e105487aa  
+
+== VTABLE DAX::CDolbyDAX::vftable_meta_ptr @ 140037c10
+   [0] +0x00 -> 14004e030  
+   [1] +0x08 -> 140008760  FUN_140008760
+   [2] +0x10 -> 6c006900740055  
+   [3] +0x18 -> 3a007900740069  
+   [4] +0x20 -> 320052004e0046  
+   [5] +0x28 -> 6e006e00610050  
+   [6] +0x30 -> 660052006c0065  
+   [7] +0x38 -> 68007300650072  
+
+== VTABLE DAX::CDolbyDAX::vftable @ 140037c18
+   [0] +0x00 -> 140008760  FUN_140008760
+   [1] +0x08 -> 6c006900740055  
+   [2] +0x10 -> 3a007900740069  
+   [3] +0x18 -> 320052004e0046  
+   [4] +0x20 -> 6e006e00610050  
+   [5] +0x28 -> 660052006c0065  
+   [6] +0x30 -> 68007300650072  
+   [7] +0x38 -> 63006e00750046  
+
+== VTABLE Gdiplus::Image::vftable_meta_ptr @ 14003af70
+   [0] +0x00 -> 14004e0c0  
+   [1] +0x08 -> 14000c690  FUN_14000c690
+   [2] +0x10 -> 14000c6f0  FUN_14000c6f0
+   [3] +0x18 -> 76007200650053  
+   [4] +0x20 -> 46006500630069  
+   [5] +0x28 -> 6900420072006f  
+   [6] +0x30 -> 74006100440067  
+   [7] +0x38 -> 740065004d0061  
+
+== VTABLE Gdiplus::Image::vftable @ 14003af78
+   [0] +0x00 -> 14000c690  FUN_14000c690
+   [1] +0x08 -> 14000c6f0  FUN_14000c6f0
+   [2] +0x10 -> 76007200650053  
+   [3] +0x18 -> 46006500630069  
+   [4] +0x20 -> 6900420072006f  
+   [5] +0x28 -> 74006100440067  
+   [6] +0x30 -> 740065004d0061  
+   [7] +0x38 -> 73006300690072  
+
+== VTABLE ZRegistry::vftable_meta_ptr @ 14003bc10
+   [0] +0x00 -> 14004e1b0  
+   [1] +0x08 -> 14000ebd0  FUN_14000ebd0
+   [2] +0x10 -> 14003b3e0  
+   [3] +0x18 -> 00000004  
+   [4] +0x20 -> 14003b3f0  
+   [5] +0x28 -> 00000004  
+   [6] +0x30 -> 14003b400  
+   [7] +0x38 -> 00000008  
+
+== VTABLE ZRegistry::vftable @ 14003bc18
+   [0] +0x00 -> 14000ebd0  FUN_14000ebd0
+   [1] +0x08 -> 14003b3e0  
+   [2] +0x10 -> 00000004  
+   [3] +0x18 -> 14003b3f0  
+   [4] +0x20 -> 00000004  
+   [5] +0x28 -> 14003b400  
+   [6] +0x30 -> 00000008  
+   [7] +0x38 -> 14003b410  
+
+== VTABLE CMoniterWmiGetFnQ::vftable_meta_ptr @ 14003ede0
+   [0] +0x00 -> 14004e2e0  
+   [1] +0x08 -> 140013040  FUN_140013040
+   [2] +0x10 -> 140012ff0  FUN_140012ff0
+   [3] +0x18 -> 140013000  FUN_140013000
+   [4] +0x20 -> 140013090  FUN_140013090
+   [5] +0x28 -> 140013240  FUN_140013240
+   [6] +0x30 -> 73006500720050  
+   [7] +0x38 -> 70007900540073  
+
+== VTABLE CMoniterWmiGetFnQ::vftable @ 14003ede8
+   [0] +0x00 -> 140013040  FUN_140013040
+   [1] +0x08 -> 140012ff0  FUN_140012ff0
+   [2] +0x10 -> 140013000  FUN_140013000
+   [3] +0x18 -> 140013090  FUN_140013090
+   [4] +0x20 -> 140013240  FUN_140013240
+   [5] +0x28 -> 73006500720050  
+   [6] +0x30 -> 70007900540073  
+   [7] +0x38 -> 74006100440065  
+
+== VTABLE CMoniterWmiUtilityEvent::vftable_meta_ptr @ 14003f548
+   [0] +0x00 -> 14004e368  
+   [1] +0x08 -> 140013040  FUN_140013040
+   [2] +0x10 -> 140012ff0  FUN_140012ff0
+   [3] +0x18 -> 1400136f0  FUN_1400136f0
+   [4] +0x20 -> 140013730  FUN_140013730
+   [5] +0x28 -> 1400137c0  FUN_1400137c0
+   [6] +0x30 -> 00000000  
+   [7] +0x38 -> 6e006e00610050  
+
+== VTABLE CMoniterWmiUtilityEvent::vftable @ 14003f550
+   [0] +0x00 -> 140013040  FUN_140013040
+   [1] +0x08 -> 140012ff0  FUN_140012ff0
+   [2] +0x10 -> 1400136f0  FUN_1400136f0
+   [3] +0x18 -> 140013730  FUN_140013730
+   [4] +0x20 -> 1400137c0  FUN_1400137c0
+   [5] +0x28 -> 00000000  
+   [6] +0x30 -> 6e006e00610050  
+   [7] +0x38 -> 660052006c0065  
+
+== VTABLE std::_Func_impl_no_alloc<<lambda_9b6c218b6ccadab7254fad613b70932b>,void,tagINPUT*___ptr64>::vftable_meta_ptr @ 140047198
+   [0] +0x00 -> 14004e438  
+   [1] +0x08 -> 140020470  FUN_140020470
+   [2] +0x10 -> 140020470  FUN_140020470
+   [3] +0x18 -> 140020450  
+   [4] +0x20 -> 140020440  
+   [5] +0x28 -> 140020420  FUN_140020420
+   [6] +0x30 -> 140020430  
+   [7] +0x38 -> 4d0049004d0057  
+
+== VTABLE std::_Func_impl_no_alloc<<lambda_9b6c218b6ccadab7254fad613b70932b>,void,tagINPUT*___ptr64>::vftable @ 1400471a0
+   [0] +0x00 -> 140020470  FUN_140020470
+   [1] +0x08 -> 140020470  FUN_140020470
+   [2] +0x10 -> 140020450  
+   [3] +0x18 -> 140020440  
+   [4] +0x20 -> 140020420  FUN_140020420
+   [5] +0x28 -> 140020430  
+   [6] +0x30 -> 4d0049004d0057  
+   [7] +0x38 -> 740069006e006f  
+
+== VTABLE CMMPlatform::vftable_meta_ptr @ 1400477c8
+   [0] +0x00 -> 14004e4b0  
+   [1] +0x08 -> 140022010  FUN_140022010
+   [2] +0x10 -> 14004e670  
+   [3] +0x18 -> 14002275c  FUN_14002275c
+   [4] +0x20 -> 140022750  FUN_140022750
+   [5] +0x28 -> 140022750  FUN_140022750
+   [6] +0x30 -> 140022710  FUN_140022710
+   [7] +0x38 -> 14004e698  
+
+== VTABLE CMMPlatform::vftable @ 1400477d0
+   [0] +0x00 -> 140022010  FUN_140022010
+   [1] +0x08 -> 14004e670  
+   [2] +0x10 -> 14002275c  FUN_14002275c
+   [3] +0x18 -> 140022750  FUN_140022750
+   [4] +0x20 -> 140022750  FUN_140022750
+   [5] +0x28 -> 140022710  FUN_140022710
+   [6] +0x30 -> 14004e698  
+   [7] +0x38 -> 140022610  FUN_140022610
+
+== VTABLE CMMControlNotify::vftable_meta_ptr @ 1400477d8
+   [0] +0x00 -> 14004e670  
+   [1] +0x08 -> 14002275c  FUN_14002275c
+   [2] +0x10 -> 140022750  FUN_140022750
+   [3] +0x18 -> 140022750  FUN_140022750
+   [4] +0x20 -> 140022710  FUN_140022710
+   [5] +0x28 -> 14004e698  
+   [6] +0x30 -> 140022610  FUN_140022610
+   [7] +0x38 -> 140022660  FUN_140022660
+
+== VTABLE CMMControlNotify::vftable @ 1400477e0
+   [0] +0x00 -> 14002275c  FUN_14002275c
+   [1] +0x08 -> 140022750  FUN_140022750
+   [2] +0x10 -> 140022750  FUN_140022750
+   [3] +0x18 -> 140022710  FUN_140022710
+   [4] +0x20 -> 14004e698  
+   [5] +0x28 -> 140022610  FUN_140022610
+   [6] +0x30 -> 140022660  FUN_140022660
+   [7] +0x38 -> 140022660  FUN_140022660
+
+== VTABLE CMMControlNotify::vftable_meta_ptr @ 140047800
+   [0] +0x00 -> 14004e698  
+   [1] +0x08 -> 140022610  FUN_140022610
+   [2] +0x10 -> 140022660  FUN_140022660
+   [3] +0x18 -> 140022660  FUN_140022660
+   [4] +0x20 -> 1400226d0  FUN_1400226d0
+   [5] +0x28 -> 140022670  FUN_140022670
+   [6] +0x30 -> 4d21c709a09513ed  
+   [7] +0x38 -> 47397fc4345f7bbd  
+
+== VTABLE CMMControlNotify::vftable @ 140047808
+   [0] +0x00 -> 140022610  FUN_140022610
+   [1] +0x08 -> 140022660  FUN_140022660
+   [2] +0x10 -> 140022660  FUN_140022660
+   [3] +0x18 -> 1400226d0  FUN_1400226d0
+   [4] +0x20 -> 140022670  FUN_140022670
+   [5] +0x28 -> 4d21c709a09513ed  
+   [6] +0x30 -> 47397fc4345f7bbd  
+   [7] +0x38 -> 14004e778  
+
+== VTABLE CMMEndpointNotify::vftable_meta_ptr @ 140047840
+   [0] +0x00 -> 14004e778  
+   [1] +0x08 -> 140022770  FUN_140022770
+   [2] +0x10 -> 140022660  FUN_140022660
+   [3] +0x18 -> 140022660  FUN_140022660
+   [4] +0x20 -> 140022830  FUN_140022830
+   [5] +0x28 -> 140022880  FUN_140022880
+   [6] +0x30 -> 140022880  FUN_140022880
+   [7] +0x38 -> 140022660  FUN_140022660
+
+== VTABLE CMMEndpointNotify::vftable @ 140047848
+   [0] +0x00 -> 140022770  FUN_140022770
+   [1] +0x08 -> 140022660  FUN_140022660
+   [2] +0x10 -> 140022660  FUN_140022660
+   [3] +0x18 -> 140022830  FUN_140022830
+   [4] +0x20 -> 140022880  FUN_140022880
+   [5] +0x28 -> 140022880  FUN_140022880
+   [6] +0x30 -> 140022660  FUN_140022660
+   [7] +0x38 -> 140022660  FUN_140022660
+
+== VTABLE CMMEndpointLineControl::vftable_meta_ptr @ 1400479f8
+   [0] +0x00 -> 14004e848  
+   [1] +0x08 -> 140024210  FUN_140024210
+   [2] +0x10 -> 1400243a0  FUN_1400243a0
+   [3] +0x18 -> 1400243e0  FUN_1400243e0
+   [4] +0x20 -> 140024420  FUN_140024420
+   [5] +0x28 -> 140024460  FUN_140024460
+   [6] +0x30 -> 140024590  FUN_140024590
+   [7] +0x38 -> 1400246b0  FUN_1400246b0
+
+== VTABLE CMMEndpointLineControl::vftable @ 140047a00
+   [0] +0x00 -> 140024210  FUN_140024210
+   [1] +0x08 -> 1400243a0  FUN_1400243a0
+   [2] +0x10 -> 1400243e0  FUN_1400243e0
+   [3] +0x18 -> 140024420  FUN_140024420
+   [4] +0x20 -> 140024460  FUN_140024460
+   [5] +0x28 -> 140024590  FUN_140024590
+   [6] +0x30 -> 1400246b0  FUN_1400246b0
+   [7] +0x38 -> 140024720  FUN_140024720
+
+== VTABLE CMMLineControl::vftable_meta_ptr @ 140047a48
+   [0] +0x00 -> 14004e870  
+   [1] +0x08 -> 1400248b0  FUN_1400248b0
+   [2] +0x10 -> 1400249a0  FUN_1400249a0
+   [3] +0x18 -> 140024ac0  FUN_140024ac0
+   [4] +0x20 -> 140024be0  FUN_140024be0
+   [5] +0x28 -> 140024d00  FUN_140024d00
+   [6] +0x30 -> 140024f70  FUN_140024f70
+   [7] +0x38 -> 1400251f0  FUN_1400251f0
+
+== VTABLE CMMLineControl::vftable @ 140047a50
+   [0] +0x00 -> 1400248b0  FUN_1400248b0
+   [1] +0x08 -> 1400249a0  FUN_1400249a0
+   [2] +0x10 -> 140024ac0  FUN_140024ac0
+   [3] +0x18 -> 140024be0  FUN_140024be0
+   [4] +0x20 -> 140024d00  FUN_140024d00
+   [5] +0x28 -> 140024f70  FUN_140024f70
+   [6] +0x30 -> 1400251f0  FUN_1400251f0
+   [7] +0x38 -> 140025310  FUN_140025310

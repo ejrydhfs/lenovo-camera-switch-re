@@ -1,0 +1,885 @@
+18001d5f0 | ctlWaitForPropertyChange
+      xref 180002fda DATA in ctlWaitForPropertyChange@180002fc0
+18001d610 | ctlReservedCall
+      xref 180002c6a DATA in ctlReservedCall@180002c50
+18001d620 | ctlGetSupported3DCapabilities
+      xref 180001f2a DATA in ctlGetSupported3DCapabilities@180001f10
+18001d640 | ctlGetSet3DFeature
+      xref 180001daa DATA in ctlGetSet3DFeature@180001d90
+18001d658 | ctlCheckDriverVersion
+      xref 180001099 DATA in ctlCheckDriverVersion@180001080
+18001d670 | ctlEnumerateDisplayOutputs
+      xref 1800014eb DATA in ctlEnumerateDisplayOutputs@1800014c0
+18001d690 | ctlGetDeviceProperties
+      xref 180003d0a DATA in FUN_180003c90@180003c90
+      xref 180001b0a DATA in ctlGetDeviceProperties@180001af0
+18001d6a8 | ctlGetDisplayProperties
+      xref 180001b6a DATA in ctlGetDisplayProperties@180001b50
+18001d6c0 | ctlGetAdaperDisplayEncoderProperties
+      xref 1800019ea DATA in ctlGetAdaperDisplayEncoderProperties@1800019d0
+18001d6e8 | ctlGetZeDevice
+      xref 1800020b2 DATA in ctlGetZeDevice@180002090
+18001d6f8 | ctlGetSharpnessCaps
+      xref 180001eca DATA in ctlGetSharpnessCaps@180001eb0
+18001d710 | ctlGetCurrentSharpness
+      xref 180001aaa DATA in ctlGetCurrentSharpness@180001a90
+18001d728 | ctlSetCurrentSharpness
+      xref 180002d2a DATA in ctlSetCurrentSharpness@180002d10
+18001d740 | ctlI2CAccess
+      xref 18000211a DATA in ctlI2CAccess@180002100
+18001d750 | ctlAUXAccess
+      xref 18000103a DATA in ctlAUXAccess@180001020
+18001d760 | ctlGetPowerOptimizationCaps
+      xref 180001cea DATA in ctlGetPowerOptimizationCaps@180001cd0
+18001d780 | ctlGetPowerOptimizationSetting
+      xref 180001d4a DATA in ctlGetPowerOptimizationSetting@180001d30
+18001d7a0 | ctlSetPowerOptimizationSetting
+      xref 180002e4a DATA in ctlSetPowerOptimizationSetting@180002e30
+18001d7c0 | ctlPixelTransformationGetConfig
+      xref 1800029ca DATA in ctlPixelTransformationGetConfig@1800029b0
+18001d7e0 | ctlPixelTransformationSetConfig
+      xref 180002a2a DATA in ctlPixelTransformationSetConfig@180002a10
+18001d800 | ctlPanelDescriptorAccess
+      xref 1800028aa DATA in ctlPanelDescriptorAccess@180002890
+18001d820 | ctlGetSupportedRetroScalingCapability
+      xref 180001f8a DATA in ctlGetSupportedRetroScalingCapability@180001f70
+18001d848 | ctlGetSetRetroScaling
+      xref 180001e0a DATA in ctlGetSetRetroScaling@180001df0
+18001d860 | ctlGetSupportedScalingCapability
+      xref 180001fea DATA in ctlGetSupportedScalingCapability@180001fd0
+18001d888 | ctlGetCurrentScaling
+      xref 180001a4a DATA in ctlGetCurrentScaling@180001a30
+18001d8a0 | ctlSetCurrentScaling
+      xref 180002cca DATA in ctlSetCurrentScaling@180002cb0
+18001d8b8 | ctlGetLACEConfig
+      xref 180001c8a DATA in ctlGetLACEConfig@180001c70
+18001d8d0 | ctlSetLACEConfig
+      xref 180002dea DATA in ctlSetLACEConfig@180002dd0
+18001d8e8 | ctlSoftwarePSR
+      xref 180002eba DATA in ctlSoftwarePSR@180002ea0
+18001d8f8 | ctlGetIntelArcSyncInfoForMonitor
+      xref 180001bca DATA in ctlGetIntelArcSyncInfoForMonitor@180001bb0
+18001d920 | ctlGetIntelArcSyncProfile
+      xref 180001c2a DATA in ctlGetIntelArcSyncProfile@180001c10
+18001d940 | ctlSetIntelArcSyncProfile
+      xref 180002d8a DATA in ctlSetIntelArcSyncProfile@180002d70
+18001d960 | ctlEnumEngineGroups
+      xref 1800011db DATA in ctlEnumEngineGroups@1800011b0
+18001d978 | ctlEngineGetProperties
+      xref 18000116a DATA in ctlEngineGetProperties@180001150
+18001d990 | ctlEngineGetActivity
+      xref 18000110a DATA in ctlEngineGetActivity@1800010f0
+18001d9a8 | ctlEnumFans
+      xref 18000125b DATA in ctlEnumFans@180001230
+18001d9b8 | ctlFanGetProperties
+      xref 1800015ba DATA in ctlFanGetProperties@1800015a0
+18001d9d0 | ctlFanGetConfig
+      xref 18000155a DATA in ctlFanGetConfig@180001540
+18001d9e0 | ctlFanSetDefaultMode
+      xref 180001683 DATA in ctlFanSetDefaultMode@180001670
+18001d9f8 | ctlFanSetFixedSpeedMode
+      xref 1800016da DATA in ctlFanSetFixedSpeedMode@1800016c0
+18001da10 | ctlFanSetSpeedTableMode
+      xref 18000173a DATA in ctlFanSetSpeedTableMode@180001720
+18001da28 | ctlFanGetState
+      xref 180001621 DATA in ctlFanGetState@180001600
+18001da38 | ctlEnumFrequencyDomains
+      xref 1800012db DATA in ctlEnumFrequencyDomains@1800012b0
+18001da50 | ctlFrequencyGetProperties
+      xref 18000180a DATA in ctlFrequencyGetProperties@1800017f0
+18001da70 | ctlFrequencyGetAvailableClocks
+      xref 1800017a2 DATA in ctlFrequencyGetAvailableClocks@180001780
+18001da90 | ctlFrequencyGetRange
+      xref 18000186a DATA in ctlFrequencyGetRange@180001850
+18001daa8 | ctlFrequencySetRange
+      xref 18000198a DATA in ctlFrequencySetRange@180001970
+18001dac0 | ctlFrequencyGetState
+      xref 1800018ca DATA in ctlFrequencyGetState@1800018b0
+18001dad8 | ctlFrequencyGetThrottleTime
+      xref 18000192a DATA in ctlFrequencyGetThrottleTime@180001910
+18001daf8 | ctlGetSupportedVideoProcessingCapabilities
+      xref 18000204a DATA in ctlGetSupportedVideoProcessingCapabilities@180002030
+18001db28 | ctlGetSetVideoProcessingFeature
+      xref 180001e6a DATA in ctlGetSetVideoProcessingFeature@180001e50
+18001db48 | ctlEnumMemoryModules
+      xref 18000135b DATA in ctlEnumMemoryModules@180001330
+18001db60 | ctlMemoryGetProperties
+      xref 1800021ea DATA in ctlMemoryGetProperties@1800021d0
+18001db78 | ctlMemoryGetState
+      xref 18000224a DATA in ctlMemoryGetState@180002230
+18001db90 | ctlMemoryGetBandwidth
+      xref 18000218a DATA in ctlMemoryGetBandwidth@180002170
+18001dba8 | ctlOverclockGetProperties
+      xref 1800022aa DATA in ctlOverclockGetProperties@180002290
+18001dbc8 | ctlOverclockWaiverSet
+      xref 180002853 DATA in ctlOverclockWaiverSet@180002840
+18001dbe0 | ctlOverclockGpuFrequencyOffsetGet
+      xref 18000230a DATA in ctlOverclockGpuFrequencyOffsetGet@1800022f0
+18001dc08 | ctlOverclockGpuFrequencyOffsetSet
+      xref 18000236b DATA in ctlOverclockGpuFrequencyOffsetSet@180002350
+18001dc30 | ctlOverclockGpuVoltageOffsetGet
+      xref 18000249a DATA in ctlOverclockGpuVoltageOffsetGet@180002480
+18001dc50 | ctlOverclockGpuVoltageOffsetSet
+      xref 1800024fb DATA in ctlOverclockGpuVoltageOffsetSet@1800024e0
+18001dc70 | ctlOverclockGpuLockGet
+      xref 1800023ca DATA in ctlOverclockGpuLockGet@1800023b0
+18001dc88 | ctlOverclockGpuLockSet
+      xref 18000242a DATA in ctlOverclockGpuLockSet@180002410
+18001dca0 | ctlOverclockVramFrequencyOffsetGet
+      xref 1800026da DATA in ctlOverclockVramFrequencyOffsetGet@1800026c0
+18001dcc8 | ctlOverclockVramFrequencyOffsetSet
+      xref 18000273b DATA in ctlOverclockVramFrequencyOffsetSet@180002720
+18001dcf0 | ctlOverclockVramVoltageOffsetGet
+      xref 18000279a DATA in ctlOverclockVramVoltageOffsetGet@180002780
+18001dd18 | ctlOverclockVramVoltageOffsetSet
+      xref 1800027fb DATA in ctlOverclockVramVoltageOffsetSet@1800027e0
+18001dd40 | ctlOverclockPowerLimitGet
+      xref 18000255a DATA in ctlOverclockPowerLimitGet@180002540
+18001dd60 | ctlOverclockPowerLimitSet
+      xref 1800025bb DATA in ctlOverclockPowerLimitSet@1800025a0
+18001dd80 | ctlOverclockTemperatureLimitGet
+      xref 18000261a DATA in ctlOverclockTemperatureLimitGet@180002600
+18001dda0 | ctlOverclockTemperatureLimitSet
+      xref 18000267b DATA in ctlOverclockTemperatureLimitSet@180002660
+18001ddc0 | ctlPowerTelemetryGet
+      xref 180002c0a DATA in ctlPowerTelemetryGet@180002bf0
+18001ddd8 | ctlPciGetProperties
+      xref 18000290a DATA in ctlPciGetProperties@1800028f0
+18001ddf0 | ctlPciGetState
+      xref 18000296a DATA in ctlPciGetState@180002950
+18001de00 | ctlEnumPowerDomains
+      xref 1800013db DATA in ctlEnumPowerDomains@1800013b0
+18001de18 | ctlPowerGetProperties
+      xref 180002b4a DATA in ctlPowerGetProperties@180002b30
+18001de30 | ctlPowerGetEnergyCounter
+      xref 180002a8a DATA in ctlPowerGetEnergyCounter@180002a70
+18001de50 | ctlPowerGetLimits
+      xref 180002aea DATA in ctlPowerGetLimits@180002ad0
+18001de68 | ctlPowerSetLimits
+      xref 180002baa DATA in ctlPowerSetLimits@180002b90
+18001de80 | ctlEnumTemperatureSensors
+      xref 18000145b DATA in ctlEnumTemperatureSensors@180001430
+18001dea0 | ctlTemperatureGetProperties
+      xref 180002f1a DATA in ctlTemperatureGetProperties@180002f00
+18001dec0 | ctlTemperatureGetState
+      xref 180002f7a DATA in ctlTemperatureGetState@180002f60
+18001df00 | Unknown exception
+      xref 180005904 DATA in FUN_180005900@180005900
+18001df48 | bad array new length
+      xref 180003310 DATA in FUN_180003310@180003310
+      xref 18000331f DATA in FUN_180003310@180003310
+18001df60 | map/set too long
+      xref 180004774 DATA in FUN_180004770@180004770
+18001df78 | EnableDebugLogs
+      xref 180005238 DATA in FUN_180005180@180005180
+18001df98 | SOFTWARE\Intel\Display\IGCL
+      xref 18000523f DATA in FUN_180005180@180005180
+18001dfd0 | CAPILoader: %d:%s(): 
+      xref 180005833 DATA in FUN_1800057e0@1800057e0
+      xref 180005898 DATA in FUN_1800057e0@1800057e0
+18001dfe8 | Removing adapter ID: 0x%X:0x%X\n
+      xref 180003e58 DATA in FUN_180003c90@180003c90
+18001e008 | ClearOldRTHandleDuplicates
+      xref 180003e64 DATA in FUN_180003c90@180003c90
+18001e028 | Calling LoadLibrary(%ws)\n
+      xref 18000555b DATA in FUN_180005180@180005180
+18001e048 | ctlInitPerAdapter
+      xref 180005562 DATA in FUN_180005180@180005180
+      xref 180005700 DATA in FUN_180005180@180005180
+      xref 1800055ee DATA in FUN_180005180@180005180
+      xref 18000565b DATA in FUN_180005180@180005180
+      xref 18000569d DATA in FUN_180005180@180005180
+18001e060 | ctlSetRuntimePath
+      xref 1800055a0 DATA in FUN_180005180@180005180
+18001e078 | pfnSetRuntimePath() returned 0x%X\n
+      xref 1800055e7 DATA in FUN_180005180@180005180
+18001e0a0 | ctlInit
+      xref 1800055ff DATA in FUN_180005180@180005180
+18001e0a8 | ctlClose
+      xref 1800048e7 DATA in FUN_180004800@180004800
+      xref 18000566e DATA in FUN_180005180@180005180
+18001e0b8 | Result = %d\n
+      xref 180004aa8 DATA in FUN_180004800@180004800
+      xref 1800056f9 DATA in FUN_180005180@180005180
+      xref 180005654 DATA in FUN_180005180@180005180
+      xref 180005696 DATA in FUN_180005180@180005180
+      xref 180004d43 DATA in FUN_180004ae0@180004ae0
+18001e0c8 | \PCI
+      xref 180003f66 DATA in FUN_180003ee0@180003ee0
+18001e0e0 | Retrieved PCIPath = %ws\n
+      xref 180003fa1 DATA in FUN_180003ee0@180003ee0
+18001e100 | GetControlLibRTPath
+      xref 180003fac DATA in FUN_180003ee0@180003ee0
+      xref 18000405b DATA in FUN_180003ee0@180003ee0
+      xref 180004129 DATA in FUN_180003ee0@180003ee0
+      xref 180004273 DATA in FUN_180003ee0@180003ee0
+      xref 1800042c1 DATA in FUN_180003ee0@180003ee0
+18001e118 | System\CurrentControlSet\Enum
+      xref 180003fed READ in FUN_180003ee0@180003ee0
+18001e158 | Constructed Registry path = %ws\n
+      xref 180004054 DATA in FUN_180003ee0@180003ee0
+18001e180 | Driver
+      xref 18000407b DATA in FUN_180003ee0@180003ee0
+      xref 1800040e9 DATA in FUN_180003ee0@180003ee0
+18001e190 | Retrieved driver entry = %ws\n
+      xref 18000411d DATA in FUN_180003ee0@180003ee0
+18001e1b0 | SYSTEM\CurrentControlSet\Control\Class\
+      xref 18000415d READ in FUN_180003ee0@180003ee0
+18001e200 | ControlApiPath
+      xref 1800041d6 DATA in FUN_180003ee0@180003ee0
+      xref 180004242 DATA in FUN_180003ee0@180003ee0
+18001e220 | Not able to read registry value for runtime\n
+      xref 180004267 DATA in FUN_180003ee0@180003ee0
+18001e250 | Returned = %ws\n
+      xref 1800042ba DATA in FUN_180003ee0@180003ee0
+18001e260 | Already initialized, returning already init data\n
+      xref 1800051c0 DATA in FUN_180005180@180005180
+18001e298 | ctlInit2
+      xref 1800051c7 DATA in FUN_180005180@180005180
+      xref 1800051f9 DATA in FUN_180005180@180005180
+      xref 180005478 DATA in FUN_180005180@180005180
+      xref 1800054a1 DATA in FUN_180005180@180005180
+      xref 180005797 DATA in FUN_180005180@180005180
+      xref 18000571d DATA in FUN_180005180@180005180
+      xref 18000573d DATA in FUN_180005180@180005180
+      xref 1800056c1 DATA in FUN_180005180@180005180
+18001e2a8 | Overrall Result = %d\n
+      xref 1800051f2 DATA in FUN_180005180@180005180
+      xref 180005790 DATA in FUN_180005180@180005180
+18001e2c0 | ext-ms-win-setupapi-classinstallers-l1-1-0
+      xref 180005286 DATA in FUN_180005180@180005180
+18001e2f0 | ext-ms-win-setupapi-classinstallers-l1-1-2
+      xref 18000529a DATA in FUN_180005180@180005180
+18001e320 | _8086
+      xref 18000543f DATA in FUN_180005180@180005180
+18001e330 | Intel
+      xref 180005454 DATA in FUN_180005180@180005180
+18001e340 | SetupDiGetDeviceInterfaceDetail(): %ws\n
+      xref 180005471 DATA in FUN_180005180@180005180
+18001e370 | ctlInitPerAdapter() succeeded. RT API version = 0x%X\n
+      xref 1800056ba DATA in FUN_180005180@180005180
+18001e3a8 | ctlInitPerAdapter() failed, so ignoring\n
+      xref 180005711 DATA in FUN_180005180@180005180
+18001e3d8 | Already loaded, ignoring\n
+      xref 18000558f DATA in FUN_180005180@180005180
+18001e3f8 | ctlClose2
+      xref 180004aaf DATA in FUN_180004800@180004800
+18001e408 | ctlEnumerateDevices
+      xref 180004eeb DATA in FUN_180004d80@180004d80
+18001e420 | Not able to get ctlEnumerateDevices from hLib = 0x%X\n
+      xref 180004f06 DATA in FUN_180004d80@180004d80
+18001e458 | ctlEnumerateDevices2_GetDeviceCount
+      xref 180004f0d DATA in FUN_180004d80@180004d80
+      xref 180004f6e DATA in FUN_180004d80@180004d80
+      xref 180005100 DATA in FUN_180004d80@180004d80
+18001e480 | phTempDevices is NULL!!\n
+      xref 180004f67 DATA in FUN_180004d80@180004d80
+18001e4a0 | %d handles added to runtime list\n
+      xref 1800050f9 DATA in FUN_180004d80@180004d80
+18001e4c8 | %d adapters from hLib = 0x%X\n
+      xref 180004c9e DATA in FUN_180004ae0@180004ae0
+18001e4e8 | ctlEnumerateDevices2
+      xref 180004d4a DATA in FUN_180004ae0@180004ae0
+      xref 180004ca5 DATA in FUN_180004ae0@180004ae0
+18001e500 | list too long
+      xref 180003c6e DATA in FUN_180003790@180003790
+18001e510 | ntdll.dll
+      xref 180005a02 DATA in __ms_apiset_flexlink_Initialize@1800059f0
+18001e520 | ApiSetQueryApiSetPresence
+      xref 180005a1b DATA in __ms_apiset_flexlink_Initialize@1800059f0
+18001e540 | ApiSetQueryApiSetPresenceEx
+      xref 180005a32 DATA in __ms_apiset_flexlink_Initialize@1800059f0
+18001e578 | bad allocation
+      xref 180006065 DATA in FUN_180006060@180006060
+      xref 18000606c DATA in FUN_180006060@180006060
+18001e758 | bad exception
+      xref 18000a475 DATA in FUN_18000a470@18000a470
+      xref 18000a47c DATA in FUN_18000a470@18000a470
+18001ee70 | __based(
+18001ee80 | __cdecl
+18001ee88 | __pascal
+18001ee98 | __stdcall
+18001eea8 | __thiscall
+18001eeb8 | __fastcall
+18001eec8 | __vectorcall
+18001eed8 | __clrcall
+18001eef0 | __swift_1
+18001ef00 | __swift_2
+18001ef18 | __restrict
+18001ef28 | __unaligned
+18001ef38 | restrict(
+18001ef50 |  delete
+18001ef78 | operator
+18001f000 | `vftable'
+18001f010 | `vbtable'
+18001f038 | `local static guard'
+18001f050 | `string'
+18001f060 | `vbase destructor'
+18001f078 | `vector deleting destructor'
+18001f098 | `default constructor closure'
+18001f0b8 | `scalar deleting destructor'
+18001f0d8 | `vector constructor iterator'
+18001f0f8 | `vector destructor iterator'
+18001f118 | `vector vbase constructor iterator'
+18001f140 | `virtual displacement map'
+18001f160 | `eh vector constructor iterator'
+18001f188 | `eh vector destructor iterator'
+18001f1a8 | `eh vector vbase constructor iterator'
+18001f1d0 | `copy constructor closure'
+18001f1f0 | `udt returning'
+18001f210 | `local vftable'
+18001f220 | `local vftable constructor closure'
+18001f250 |  delete[]
+18001f260 | `omni callsig'
+18001f270 | `placement delete closure'
+18001f290 | `placement delete[] closure'
+18001f2b0 | `managed vector constructor iterator'
+18001f2d8 | `managed vector destructor iterator'
+18001f300 | `eh vector copy constructor iterator'
+18001f328 | `eh vector vbase copy constructor iterator'
+18001f358 | `dynamic initializer for '
+18001f378 | `dynamic atexit destructor for '
+18001f3a0 | `vector copy constructor iterator'
+18001f3c8 | `vector vbase copy constructor iterator'
+18001f3f8 | `managed vector copy constructor iterator'
+18001f428 | `local static thread guard'
+18001f448 | operator "" 
+18001f458 | operator co_await
+18001f470 | operator<=>
+18001f480 |  Type Descriptor'
+18001f498 |  Base Class Descriptor at (
+18001f4b8 |  Base Class Array'
+18001f4d0 |  Class Hierarchy Descriptor'
+18001f4f0 |  Complete Object Locator'
+18001f510 | `anonymous namespace'
+18001f540 | api-ms-win-core-fibers-l1-1-1
+      xref 18001f528 DATA in ?
+18001f580 | api-ms-win-core-synch-l1-2-0
+      xref 18001f530 DATA in ?
+      xref 180020250 DATA in ?
+18001f5c0 | kernel32
+      xref 18001f538 DATA in ?
+      xref 180020298 DATA in ?
+18001f5d8 | api-ms-
+      xref 180011581 DATA in FUN_1800114b8@1800114b8
+      xref 18000b57b DATA in try_get_function@18000b4d8
+18001f5f0 | FlsAlloc
+      xref 18000b62d DATA in __vcrt_FlsAlloc@18000b624
+      xref 18000b63d DATA in __vcrt_FlsAlloc@18000b624
+18001f608 | FlsFree
+      xref 18000b674 DATA in __vcrt_FlsFree@18000b66c
+      xref 18000b687 DATA in __vcrt_FlsFree@18000b66c
+18001f618 | FlsGetValue
+      xref 18000b6bc DATA in __vcrt_FlsGetValue@18000b6b4
+      xref 18000b6cf DATA in __vcrt_FlsGetValue@18000b6b4
+18001f630 | FlsSetValue
+      xref 18000b709 DATA in __vcrt_FlsSetValue@18000b6fc
+      xref 18000b712 DATA in __vcrt_FlsSetValue@18000b6fc
+18001f648 | InitializeCriticalSectionEx
+      xref 180011759 DATA in FUN_180011734@180011734
+      xref 18000b762 DATA in __vcrt_InitializeCriticalSectionEx@18000b750
+      xref 18000b775 DATA in __vcrt_InitializeCriticalSectionEx@18000b750
+18001f770 | (null)
+      xref 18000eeef DATA in FUN_18000ee94@18000ee94
+      xref 18000eef6 DATA in FUN_18000ee94@18000ee94
+18001f780 | (null)
+      xref 18000eab6 DATA in FUN_18000ea58@18000ea58
+      xref 18000eac2 DATA in FUN_18000ea58@18000ea58
+      xref 18000ef0d DATA in FUN_18000ee94@18000ee94
+      xref 18000ef14 DATA in FUN_18000ee94@18000ee94
+18001f8b8 | mscoree.dll
+      xref 18000fa14 DATA in FUN_18000f9f8@18000f9f8
+18001f8d0 | CorExitProcess
+      xref 18000fa2c DATA in FUN_18000f9f8@18000f9f8
+18001fd0c | Sunday
+      xref 18001fa68 DATA in ?
+18001fd14 | Monday
+      xref 18001fa70 DATA in ?
+18001fd20 | Tuesday
+      xref 18001fa78 DATA in ?
+18001fd28 | Wednesday
+      xref 18001fa80 DATA in ?
+18001fd38 | Thursday
+      xref 18001fa88 DATA in ?
+18001fd44 | Friday
+      xref 18001fa90 DATA in ?
+18001fd50 | Saturday
+      xref 18001fa98 DATA in ?
+18001fd90 | January
+      xref 18001fb00 DATA in ?
+18001fd98 | February
+      xref 18001fb08 DATA in ?
+18001fda4 | March
+      xref 18001fb10 DATA in ?
+18001fdac | April
+      xref 18001fb18 DATA in ?
+18001fdc4 | August
+      xref 18001fb38 DATA in ?
+18001fdd0 | September
+      xref 18001fb40 DATA in ?
+18001fde0 | October
+      xref 18001fb48 DATA in ?
+18001fde8 | November
+      xref 18001fb50 DATA in ?
+18001fdf8 | December
+      xref 18001fb58 DATA in ?
+18001fe10 | MM/dd/yy
+      xref 18001fb70 DATA in ?
+18001fe20 | dddd, MMMM dd, yyyy
+      xref 18001fb78 DATA in ?
+18001fe38 | HH:mm:ss
+      xref 18001fb80 DATA in ?
+18001fe80 | Sunday
+      xref 18001fbc8 DATA in ?
+18001fe90 | Monday
+      xref 18001fbd0 DATA in ?
+18001fea0 | Tuesday
+      xref 18001fbd8 DATA in ?
+18001feb0 | Wednesday
+      xref 18001fbe0 DATA in ?
+18001fec8 | Thursday
+      xref 18001fbe8 DATA in ?
+18001fee0 | Friday
+      xref 18001fbf0 DATA in ?
+18001fef0 | Saturday
+      xref 18001fbf8 DATA in ?
+18001ff68 | January
+      xref 18001fc60 DATA in ?
+18001ff78 | February
+      xref 18001fc68 DATA in ?
+18001ff90 | March
+      xref 18001fc70 DATA in ?
+18001ffa0 | April
+      xref 18001fc78 DATA in ?
+18001ffb0 | June
+      xref 18001fc88 DATA in ?
+18001ffc0 | July
+      xref 18001fc90 DATA in ?
+18001ffd0 | August
+      xref 18001fc98 DATA in ?
+18001ffe0 | September
+      xref 18001fca0 DATA in ?
+18001fff8 | October
+      xref 18001fca8 DATA in ?
+180020008 | November
+      xref 18001fcb0 DATA in ?
+180020020 | December
+      xref 18001fcb8 DATA in ?
+180020048 | MM/dd/yy
+      xref 18001fcd0 DATA in ?
+180020060 | dddd, MMMM dd, yyyy
+      xref 18001fcd8 DATA in ?
+180020088 | HH:mm:ss
+      xref 18001fce0 DATA in ?
+1800200a0 | en-US
+      xref 18001fce8 DATA in ?
+1800202c0 | api-ms-win-core-datetime-l1-1-1
+      xref 180020220 DATA in ?
+180020300 | api-ms-win-core-file-l1-2-2
+      xref 180020228 DATA in ?
+180020340 | api-ms-win-core-localization-l1-2-1
+      xref 180020230 DATA in ?
+180020390 | api-ms-win-core-localization-obsolete-l1-2-0
+      xref 180020238 DATA in ?
+1800203f0 | api-ms-win-core-processthreads-l1-1-2
+      xref 180020240 DATA in ?
+180020440 | api-ms-win-core-string-l1-1-0
+      xref 180020248 DATA in ?
+180020480 | api-ms-win-core-sysinfo-l1-2-1
+      xref 180020258 DATA in ?
+1800204c0 | api-ms-win-core-winrt-l1-1-0
+      xref 180020260 DATA in ?
+180020500 | api-ms-win-core-xstate-l2-1-0
+      xref 180020268 DATA in ?
+180020540 | api-ms-win-rtcore-ntuser-window-l1-1-0
+      xref 180020270 DATA in ?
+180020590 | api-ms-win-security-systemfunctions-l1-1-0
+      xref 180020278 DATA in ?
+1800205f0 | ext-ms-win-ntuser-dialogbox-l1-1-0
+      xref 180020280 DATA in ?
+180020640 | ext-ms-win-ntuser-windowstation-l1-1-0
+      xref 180020288 DATA in ?
+180020690 | advapi32
+      xref 180020290 DATA in ?
+1800206a8 | ntdll
+      xref 1800202a0 DATA in ?
+1800206c0 | api-ms-win-appmodel-runtime-l1-1-2
+      xref 1800202a8 DATA in ?
+180020708 | user32
+      xref 1800202b0 DATA in ?
+180020718 | ext-ms-
+      xref 180011594 DATA in FUN_1800114b8@1800114b8
+180020730 | AreFileApisANSI
+      xref 1800116e4 DATA in FUN_1800116d0@1800116d0
+180020750 | LCMapStringEx
+      xref 1800117c0 DATA in FUN_1800117a4@1800117a4
+      xref 1800117d1 DATA in FUN_1800117a4@1800117a4
+180020768 | LocaleNameToLCID
+      xref 18001189c DATA in FUN_180011890@180011890
+      xref 1800118a6 DATA in FUN_180011890@180011890
+180020780 | AppPolicyGetProcessTerminationMethod
+      xref 180011681 DATA in FUN_180011678@180011678
+      xref 180011694 DATA in FUN_180011678@180011678
+180020840 | NAN(SNAN)
+      xref 1800207f0 DATA in ?
+180020850 | nan(snan)
+      xref 180020800 DATA in ?
+180020860 | NAN(IND)
+      xref 180020810 DATA in ?
+180020870 | nan(ind)
+      xref 180020820 DATA in ?
+18002087c | e+000
+      xref 1800125dd DATA in FUN_1800124d0@1800124d0
+1800208a8 | ja-JP
+      xref 180014a84 DATA in FUN_18001490c@18001490c
+      xref 180014b6f DATA in FUN_18001490c@18001490c
+      xref 180020888 DATA in ?
+1800208b8 | zh-CN
+      xref 180014a84 DATA in FUN_18001490c@18001490c
+      xref 180014b6f DATA in FUN_18001490c@18001490c
+      xref 180020890 DATA in ?
+1800208c8 | ko-KR
+      xref 180014a84 DATA in FUN_18001490c@18001490c
+      xref 180014b6f DATA in FUN_18001490c@18001490c
+      xref 180020898 DATA in ?
+1800208d8 | zh-TW
+      xref 180014a84 DATA in FUN_18001490c@18001490c
+      xref 180014b6f DATA in FUN_18001490c@18001490c
+      xref 1800208a0 DATA in ?
+180021fa8 | de-DE
+180022128 | sl-SI
+180022230 | hi-IN
+1800222c8 | bn-IN
+1800222d8 | pa-IN
+1800222f8 | ta-IN
+180022308 | te-IN
+180022318 | kn-IN
+180022348 | sa-IN
+1800223f8 | de-CH
+180022478 | sr-SP-Latn
+1800224b8 | se-SE
+180022520 | de-AT
+180022560 | sr-SP-Cyrl
+1800225e8 | fr-CH
+180022638 | de-LI
+180022678 | bs-BA-Latn
+1800226e0 | sr-BA-Latn
+180023900 | bn-in
+180023910 | bs-ba-latn
+180023968 | de-at
+180023978 | de-ch
+180023988 | de-de
+180023998 | de-li
+180023c48 | fr-ch
+180023cb8 | hi-in
+180023d78 | kn-in
+180023ea8 | pa-in
+180023f38 | sa-in
+180023f68 | se-se
+180023f88 | sl-si
+180024020 | sr-ba-latn
+180024038 | sr-sp-cyrl
+180024050 | sr-sp-latn
+1800240a8 | ta-in
+1800240b8 | te-in
+180024bf0 | 1#INF
+      xref 1800176a7 DATA in FUN_18001752c@18001752c
+180024bf8 | 1#QNAN
+      xref 180017697 DATA in FUN_18001752c@18001752c
+180024c00 | 1#SNAN
+      xref 18001768e DATA in FUN_18001752c@18001752c
+180024c08 | 1#IND
+      xref 18001766b DATA in FUN_18001752c@18001752c
+180024e70 | CONOUT$
+      xref 18001ae22 DATA in __dcrt_lowio_ensure_console_output_initialized@18001ae00
+      xref 18001aedd DATA in __dcrt_write_console@18001ae7c
+1800266b0 | log10
+      xref 18001b554 DATA in FUN_18001b550@18001b550
+      xref 18001b561 DATA in FUN_18001b550@18001b550
+180026df4 | .rdata
+180026ea4 | .edata
+180026f04 | .data
+180026f48 | .pdata
+180026f58 | _RDATA
+180028b54 | ControlLib.dll
+      xref 1800287dc DATA in ?
+180028b63 | ctlAUXAccess
+      xref 180028950 DATA in ?
+180028b70 | ctlCheckDriverVersion
+      xref 180028954 DATA in ?
+180028b86 | ctlClose
+      xref 180028958 DATA in ?
+180028b8f | ctlEngineGetActivity
+      xref 18002895c DATA in ?
+180028ba4 | ctlEngineGetProperties
+      xref 180028960 DATA in ?
+180028bbb | ctlEnumEngineGroups
+      xref 180028964 DATA in ?
+180028bcf | ctlEnumFans
+      xref 180028968 DATA in ?
+180028bdb | ctlEnumFrequencyDomains
+      xref 18002896c DATA in ?
+180028bf3 | ctlEnumMemoryModules
+      xref 180028970 DATA in ?
+180028c08 | ctlEnumPowerDomains
+      xref 180028974 DATA in ?
+180028c1c | ctlEnumTemperatureSensors
+      xref 180028978 DATA in ?
+180028c36 | ctlEnumerateDevices
+      xref 18002897c DATA in ?
+180028c4a | ctlEnumerateDisplayOutputs
+      xref 180028980 DATA in ?
+180028c65 | ctlFanGetConfig
+      xref 180028984 DATA in ?
+180028c75 | ctlFanGetProperties
+      xref 180028988 DATA in ?
+180028c89 | ctlFanGetState
+      xref 18002898c DATA in ?
+180028c98 | ctlFanSetDefaultMode
+      xref 180028990 DATA in ?
+180028cad | ctlFanSetFixedSpeedMode
+      xref 180028994 DATA in ?
+180028cc5 | ctlFanSetSpeedTableMode
+      xref 180028998 DATA in ?
+180028cdd | ctlFrequencyGetAvailableClocks
+      xref 18002899c DATA in ?
+180028cfc | ctlFrequencyGetProperties
+      xref 1800289a0 DATA in ?
+180028d16 | ctlFrequencyGetRange
+      xref 1800289a4 DATA in ?
+180028d2b | ctlFrequencyGetState
+      xref 1800289a8 DATA in ?
+180028d40 | ctlFrequencyGetThrottleTime
+      xref 1800289ac DATA in ?
+180028d5c | ctlFrequencySetRange
+      xref 1800289b0 DATA in ?
+180028d71 | ctlGetAdaperDisplayEncoderProperties
+      xref 1800289b4 DATA in ?
+180028d96 | ctlGetCurrentScaling
+      xref 1800289b8 DATA in ?
+180028dab | ctlGetCurrentSharpness
+      xref 1800289bc DATA in ?
+180028dc2 | ctlGetDeviceProperties
+      xref 1800289c0 DATA in ?
+180028dd9 | ctlGetDisplayProperties
+      xref 1800289c4 DATA in ?
+180028df1 | ctlGetIntelArcSyncInfoForMonitor
+      xref 1800289c8 DATA in ?
+180028e12 | ctlGetIntelArcSyncProfile
+      xref 1800289cc DATA in ?
+180028e2c | ctlGetLACEConfig
+      xref 1800289d0 DATA in ?
+180028e3d | ctlGetPowerOptimizationCaps
+      xref 1800289d4 DATA in ?
+180028e59 | ctlGetPowerOptimizationSetting
+      xref 1800289d8 DATA in ?
+180028e78 | ctlGetSet3DFeature
+      xref 1800289dc DATA in ?
+180028e8b | ctlGetSetRetroScaling
+      xref 1800289e0 DATA in ?
+180028ea1 | ctlGetSetVideoProcessingFeature
+      xref 1800289e4 DATA in ?
+180028ec1 | ctlGetSharpnessCaps
+      xref 1800289e8 DATA in ?
+180028ed5 | ctlGetSupported3DCapabilities
+      xref 1800289ec DATA in ?
+180028ef3 | ctlGetSupportedRetroScalingCapability
+      xref 1800289f0 DATA in ?
+180028f19 | ctlGetSupportedScalingCapability
+      xref 1800289f4 DATA in ?
+180028f3a | ctlGetSupportedVideoProcessingCapabilities
+      xref 1800289f8 DATA in ?
+180028f65 | ctlGetZeDevice
+      xref 1800289fc DATA in ?
+180028f74 | ctlI2CAccess
+      xref 180028a00 DATA in ?
+180028f81 | ctlInit
+      xref 180028a04 DATA in ?
+180028f89 | ctlMemoryGetBandwidth
+      xref 180028a08 DATA in ?
+180028f9f | ctlMemoryGetProperties
+      xref 180028a0c DATA in ?
+180028fb6 | ctlMemoryGetState
+      xref 180028a10 DATA in ?
+180028fc8 | ctlOverclockGetProperties
+      xref 180028a14 DATA in ?
+180028fe2 | ctlOverclockGpuFrequencyOffsetGet
+      xref 180028a18 DATA in ?
+180029004 | ctlOverclockGpuFrequencyOffsetSet
+      xref 180028a1c DATA in ?
+180029026 | ctlOverclockGpuLockGet
+      xref 180028a20 DATA in ?
+18002903d | ctlOverclockGpuLockSet
+      xref 180028a24 DATA in ?
+180029054 | ctlOverclockGpuVoltageOffsetGet
+      xref 180028a28 DATA in ?
+180029074 | ctlOverclockGpuVoltageOffsetSet
+      xref 180028a2c DATA in ?
+180029094 | ctlOverclockPowerLimitGet
+      xref 180028a30 DATA in ?
+1800290ae | ctlOverclockPowerLimitSet
+      xref 180028a34 DATA in ?
+1800290c8 | ctlOverclockTemperatureLimitGet
+      xref 180028a38 DATA in ?
+1800290e8 | ctlOverclockTemperatureLimitSet
+      xref 180028a3c DATA in ?
+180029108 | ctlOverclockVramFrequencyOffsetGet
+      xref 180028a40 DATA in ?
+18002912b | ctlOverclockVramFrequencyOffsetSet
+      xref 180028a44 DATA in ?
+18002914e | ctlOverclockVramVoltageOffsetGet
+      xref 180028a48 DATA in ?
+18002916f | ctlOverclockVramVoltageOffsetSet
+      xref 180028a4c DATA in ?
+180029190 | ctlOverclockWaiverSet
+      xref 180028a50 DATA in ?
+1800291a6 | ctlPanelDescriptorAccess
+      xref 180028a54 DATA in ?
+1800291bf | ctlPciGetProperties
+      xref 180028a58 DATA in ?
+1800291d3 | ctlPciGetState
+      xref 180028a5c DATA in ?
+1800291e2 | ctlPixelTransformationGetConfig
+      xref 180028a60 DATA in ?
+180029202 | ctlPixelTransformationSetConfig
+      xref 180028a64 DATA in ?
+180029222 | ctlPowerGetEnergyCounter
+      xref 180028a68 DATA in ?
+18002923b | ctlPowerGetLimits
+      xref 180028a6c DATA in ?
+18002924d | ctlPowerGetProperties
+      xref 180028a70 DATA in ?
+180029263 | ctlPowerSetLimits
+      xref 180028a74 DATA in ?
+180029275 | ctlPowerTelemetryGet
+      xref 180028a78 DATA in ?
+18002928a | ctlReservedCall
+      xref 180028a7c DATA in ?
+18002929a | ctlSetCurrentScaling
+      xref 180028a80 DATA in ?
+1800292af | ctlSetCurrentSharpness
+      xref 180028a84 DATA in ?
+1800292c6 | ctlSetIntelArcSyncProfile
+      xref 180028a88 DATA in ?
+1800292e0 | ctlSetLACEConfig
+      xref 180028a8c DATA in ?
+1800292f1 | ctlSetPowerOptimizationSetting
+      xref 180028a90 DATA in ?
+180029310 | ctlSetRuntimePath
+      xref 180028a94 DATA in ?
+180029322 | ctlSoftwarePSR
+      xref 180028a98 DATA in ?
+180029331 | ctlTemperatureGetProperties
+      xref 180028a9c DATA in ?
+18002934d | ctlTemperatureGetState
+      xref 180028aa0 DATA in ?
+180029364 | ctlWaitForPropertyChange
+      xref 180028aa4 DATA in ?
+1800296b2 | SetupDiDestroyDeviceInfoList
+1800296d2 | SetupDiEnumDeviceInterfaces
+1800296f0 | SetupDiGetDeviceInterfaceDetailW
+180029714 | SetupDiGetClassDevsW
+18002972a | SETUPAPI.dll
+18002973a | GetProcAddress
+18002974c | OutputDebugStringA
+180029762 | GetLastError
+180029772 | FreeLibrary
+180029780 | LoadLibraryW
+180029790 | RegGetValueW
+18002979e | KERNEL32.dll
+1800297ae | RtlInitAnsiString
+1800297c2 | GetVersion
+1800297d0 | GetModuleHandleA
+1800297e4 | RtlFreeUnicodeString
+1800297fc | RtlAnsiStringToUnicodeString
+18002981a | ADVAPI32.dll
+180029828 | ntdll.dll
+180029834 | RtlCaptureContext
+180029848 | RtlLookupFunctionEntry
+180029862 | RtlVirtualUnwind
+180029876 | UnhandledExceptionFilter
+180029892 | SetUnhandledExceptionFilter
+1800298b0 | GetCurrentProcess
+1800298c4 | TerminateProcess
+1800298d8 | IsProcessorFeaturePresent
+1800298f4 | QueryPerformanceCounter
+18002990e | GetCurrentProcessId
+180029924 | GetCurrentThreadId
+18002993a | GetSystemTimeAsFileTime
+180029954 | InitializeSListHead
+18002996a | IsDebuggerPresent
+18002997e | GetStartupInfoW
+180029990 | GetModuleHandleW
+1800299a4 | RtlPcToFileHeader
+1800299b8 | RaiseException
+1800299ca | RtlUnwindEx
+1800299d8 | InterlockedFlushSList
+1800299f0 | SetLastError
+180029a00 | EncodePointer
+180029a10 | EnterCriticalSection
+180029a28 | LeaveCriticalSection
+180029a40 | DeleteCriticalSection
+180029a58 | InitializeCriticalSectionAndSpinCount
+180029a80 | TlsAlloc
+180029a8c | TlsGetValue
+180029a9a | TlsSetValue
+180029aa8 | TlsFree
+180029ab2 | LoadLibraryExW
+180029ac4 | ExitProcess
+180029ad2 | GetModuleHandleExW
+180029ae8 | GetModuleFileNameW
+180029afe | HeapFree
+180029b0a | HeapAlloc
+180029b16 | FlsAlloc
+180029b22 | FlsGetValue
+180029b30 | FlsSetValue
+180029b3e | FlsFree
+180029b48 | LCMapStringW
+180029b58 | GetStdHandle
+180029b68 | GetFileType
+180029b76 | FindClose
+180029b82 | FindFirstFileExW
+180029b96 | FindNextFileW
+180029ba6 | IsValidCodePage
+180029bb8 | GetACP
+180029bc2 | GetOEMCP
+180029bce | GetCPInfo
+180029bda | GetCommandLineA
+180029bec | GetCommandLineW
+180029bfe | MultiByteToWideChar
+180029c14 | WideCharToMultiByte
+180029c2a | GetEnvironmentStringsW
+180029c44 | FreeEnvironmentStringsW
+180029c5e | GetProcessHeap
+180029c70 | GetStringTypeW
+180029c82 | FlushFileBuffers
+180029c96 | WriteFile
+180029ca2 | GetConsoleOutputCP
+180029cb8 | GetConsoleMode
+180029cca | SetStdHandle
+180029cda | GetFileSizeEx
+180029cea | SetFilePointerEx
+180029cfe | HeapSize
+180029d0a | HeapReAlloc
+180029d18 | CloseHandle
+180029d26 | CreateFileW
+180029d34 | WriteConsoleW
+18002a49a | abcdefghijklmnopqrstuvwxyz
+18002a4ba | ABCDEFGHIJKLMNOPQRSTUVWXYZ
+18002a6c1 | abcdefghijklmnopqrstuvwxyz
+18002a6e1 | ABCDEFGHIJKLMNOPQRSTUVWXYZ
+18002f102 | StringFileInfo
+18002f126 | 040904E4
+18002f13e | FileDescription
+18002f160 | Intel Graphics Control Lib Loader for Intel Graphics
+18002f1d2 | FileVersion
+18002f1ec | 1.0.12865
+18002f206 | ProductVersion
+18002f224 | 1.0
+18002f232 | ProductName
+18002f24c | Intel Graphics Control Lib Loader for Windows(R)
+18002f2b6 | LegalCopyright
+18002f2d4 | Copyright (C) 2021-22 Intel Corporation
+18002f32a | VarFileInfo
+18002f34a | Translation
+18002f368 | <?xml version='1.0' encoding='UTF-8' standalone='yes'?>\r\n<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>\r\n  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">\r\n    <security>\r\n      <requestedPrivileges>\r\n        <requestedExecutionLevel level='asInvoker' uiAcce...

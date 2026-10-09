@@ -1,0 +1,16 @@
+140006be0 InitializeCriticalSectionEx thunked=InitializeCriticalSectionEx
+140009d88 thunk_FUN_140011d08 thunked=FUN_140011d08
+140009dc0 thunk_FUN_140011d08 thunked=FUN_140011d08
+14000a928 thunk_FUN_140006690 thunked=FUN_140006690
+140011464 common_vsprintf<__crt_stdio_output::standard_base,wchar_t> thunked=common_vsprintf<__crt_stdio_output::standard_base,wchar_t>
+140011db0 _calloc_base thunked=_calloc_base
+140012a08 common_initialize_environment_nolock<wchar_t> thunked=common_initialize_environment_nolock<wchar_t>
+140012ff0 _malloc_base thunked=_malloc_base
+140014c98 common_flush_all thunked=common_flush_all
+140017224 thunk_FUN_140016ccc thunked=FUN_140016ccc
+1400182b4 thunk_FUN_140017ea0 thunked=FUN_140017ea0
+14001bc88 common_lseek<__int64> thunked=common_lseek<__int64>
+14001bc90 common_lseek_nolock<__int64> thunked=common_lseek_nolock<__int64>
+14001c5b8 GetStringTypeW thunked=GetStringTypeW
+14001d6f4 _control87 thunked=_control87
+14001e670 _guard_dispatch_icall thunked=_guard_dispatch_icall

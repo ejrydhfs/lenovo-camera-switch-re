@@ -1,0 +1,1164 @@
+ERROR : Unable to initialize critical section in CAtlBaseModule
+api-ms-win-core-synch-l1-2-0.dll
+kernel32.dll
+sr-Latn-CS
+sr-SP-Latn
+sr-Cyrl-CS
+sr-SP-Cyrl
+sr-Latn-BA
+sr-BA-Latn
+sr-Cyrl-BA
+sr-BA-Cyrl
+iu-Latn-CA
+iu-CA-Latn
+bs-Cyrl-BA
+bs-BA-Cyrl
+bs-Latn-BA
+bs-BA-Latn
+zh-Hant
+zh-CHT
+zh-Hans
+zh-CHS
+%s\%s\%s.mui
+%s\%s.mui
+.\%s\%s.mui
+.\%s.mui
+MUI\%04hx
+MUI\0409
+Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11CF-8B85-00AA005B4383}
+Locale
+en-US
+ar-SA
+bg-BG
+ca-ES
+zh-TW
+cs-CZ
+da-DK
+de-DE
+el-GR
+es-ES_tradnl
+fi-FI
+fr-FR
+he-IL
+hu-HU
+is-IS
+it-IT
+ja-JP
+ko-KR
+nl-NL
+nb-NO
+pl-PL
+pt-BR
+rm-CH
+ro-RO
+hr-HR
+sk-SK
+sq-AL
+sv-SE
+th-TH
+tr-TR
+ur-PK
+id-ID
+uk-UA
+be-BY
+sl-SI
+et-EE
+lv-LV
+lt-LT
+tg-Cyrl-TJ
+fa-IR
+vi-VN
+hy-AM
+az-Latn-AZ
+eu-ES
+hsb-DE
+mk-MK
+st-ZA
+ts-ZA
+tn-ZA
+ve-ZA
+xh-ZA
+zu-ZA
+af-ZA
+ka-GE
+fo-FO
+hi-IN
+mt-MT
+se-NO
+yi-001
+ms-MY
+kk-KZ
+ky-KG
+sw-KE
+tk-TM
+uz-Latn-UZ
+tt-RU
+bn-IN
+pa-IN
+gu-IN
+or-IN
+ta-IN
+te-IN
+kn-IN
+ml-IN
+as-IN
+mr-IN
+sa-IN
+mn-MN
+bo-CN
+cy-GB
+km-KH
+lo-LA
+my-MM
+gl-ES
+kok-IN
+mni-IN
+sd-Deva-IN
+syr-SY
+si-LK
+chr-Cher-US
+iu-Cans-CA
+am-ET
+tzm-Arab-MA
+ks-Arab
+ne-NP
+fy-NL
+ps-AF
+fil-PH
+dv-MV
+bin-NG
+ff-Latn-NG
+ha-Latn-NG
+ibb-NG
+yo-NG
+quz-BO
+nso-ZA
+ba-RU
+lb-LU
+kl-GL
+ig-NG
+kr-Latn-NG
+om-ET
+ti-ET
+gn-PY
+haw-US
+la-001
+so-SO
+ii-CN
+pap-029
+arn-CL
+moh-CA
+br-FR
+ug-CN
+mi-NZ
+oc-FR
+co-FR
+gsw-FR
+sah-RU
+quc-Latn-GT
+rw-RW
+wo-SN
+prs-AF
+gd-GB
+ku-Arab-IQ
+qps-ploc
+qps-ploca
+ar-IQ
+ca-ES-valencia
+zh-CN
+de-CH
+en-GB
+es-MX
+fr-BE
+it-CH
+nl-BE
+nn-NO
+pt-PT
+ro-MD
+ru-MD
+sv-FI
+ur-IN
+az-Cyrl-AZ
+dsb-DE
+tn-BW
+se-SE
+ga-IE
+ms-BN
+uz-Cyrl-UZ
+bn-BD
+pa-Arab-PK
+ta-LK
+mn-Mong-CN
+sd-Arab-PK
+tzm-Latn-DZ
+ks-Deva-IN
+ne-IN
+ff-Latn-SN
+quz-EC
+ti-ER
+qps-Latn-x-sh
+qps-plocm
+ar-EG
+zh-HK
+de-AT
+en-AU
+es-ES
+fr-CA
+se-FI
+mn-Mong-MN
+dz-BT
+quz-PE
+ar-LY
+zh-SG
+de-LU
+en-CA
+es-GT
+fr-CH
+hr-BA
+smj-NO
+tzm-Tfng-MA
+ar-DZ
+zh-MO
+de-LI
+en-NZ
+es-CR
+fr-LU
+smj-SE
+ar-MA
+en-IE
+es-PA
+fr-MC
+sma-NO
+ar-TN
+en-ZA
+es-DO
+fr-029
+sma-SE
+ar-OM
+en-JM
+es-VE
+fr-RE
+sms-FI
+ar-YE
+en-029
+es-CO
+fr-CD
+sr-Latn-RS
+smn-FI
+ar-SY
+en-BZ
+es-PE
+fr-SN
+sr-Cyrl-RS
+ar-JO
+en-TT
+es-AR
+fr-CM
+sr-Latn-ME
+ar-LB
+en-ZW
+es-EC
+fr-CI
+sr-Cyrl-ME
+ar-KW
+en-PH
+es-CL
+fr-ML
+ar-AE
+en-ID
+es-UY
+fr-MA
+ar-BH
+en-HK
+es-PY
+fr-HT
+ar-QA
+en-IN
+es-BO
+en-MY
+es-SV
+en-SG
+es-HN
+en-AE
+es-NI
+es-PR
+es-US
+es-419
+es-CU
+bs-Cyrl
+bs-Latn
+sr-Cyrl
+sr-Latn
+az-Cyrl
+az-Latn
+uz-Cyrl
+mn-Cyrl
+iu-Cans
+tzm-Tfng
+tg-Cyrl
+uz-Latn
+pa-Arab
+mn-Mong
+sd-Arab
+chr-Cher
+iu-Latn
+tzm-Latn
+ff-Latn
+ha-Latn
+quc-Latn
+ku-Arab
+atiadlxx.dll
+atiadlxx
+InitADL ::LenovoAssemblyValidation ValidateAssembly had sign
+InitADL failed ::LenovoAssemblyValidation ValidateAssembly
+ADL's API is missing!
+atiadlxx DLL is missing!
+Unable to Initialize ADL. Error code = %d
+Unable to get Adapter count. Error code = %s
+%s\%s
+Windows.UI.Core.CoreWindow
+ExpandCollapseButton
+AirplaneMode Win10_ExpandActionCenterWindow GetCurrentPattern Line:%d  GetLastError: %d
+AirplaneMode Win10_ExpandActionCenterWindow Invoke Line:%d  GetLastError: %d
+AirplaneMode Win10_ExpandActionCenterWindow Invoke success
+ToggleButton
+AirplaneMode Win10_IsACButtonAvailable hwnd == null Line: %d  GetLastError: %d
+AirplaneMode Win10_IsACButtonAvailable CoCreateInstance Line: %d GetLastError: %d
+AirplaneMode Win10_IsACButtonAvailable ElementFromHandle Line: %d GetLastError: %d
+AirplaneMode Win10_IsACButtonAvailable Win10_GetActionCenterToggleButtonCount Line: %d GetLastError: %d
+AirplaneMode Win10_IsACButtonAvailable Collopse
+AirplaneMode Win10_ExpandActionCenterWindow success
+AirplaneMode Win10_ExpandActionCenterWindow failed %d 
+AirplaneMode Win10_IsACButtonAvailable not Collopse Line: %d 
+AirplaneMode Win10_IsACButtonAvailable Win10_GetActionCenterButton bSuccess=%d,pszButtonMUITitle=%s,pszButtonResTitle=%s,length=%d
+AirplaneMode Win10_WaitUntilWindowVisible processID = %d
+AirplaneMode Win10_WaitUntilWindowVisible processID != shellExperiencePID
+AirplaneMode Win10_WaitUntilWindowVisible Win10_IsACButtonAvailable Line: %d GetLastError: %d
+AirplaneMode Win10_WaitUntilWindowVisible get_CurrentIsEnabled Line: %d GetLastError: %d
+AirplaneMode Win10_WaitUntilWindowVisible get_CurrentIsKeyboardFocusable Line: %d GetLastError: %d
+AirplaneMode Win10_WaitUntilWindowVisible StrCmp bButtonEnabled %d bButtonKbdFocusable %d
+AirplaneMode Win10_WaitUntilWindowVisible !bButtonEnabled || !bButtonKbdFocusable false
+AirplaneMode Win10_WaitUntilWindowVisible (*airPlaneModeButton)->Release() Line: %d GetLastError: %d
+AirplaneMode Win10_WaitUntilWindowVisible airPlaneModeButton == NULL Line: %d 
+AirplaneMode InvokeActionCenter FindWindow Shell_TrayWnd Line: %d GetLastError: %d
+AirplaneMode InvokeActionCenter GenerateKeyInputs = %d
+van.dll
+AirplaneMode Win10_ToggleACButton NULL == actionCenterButton Line: %d 
+AirplaneMode Win10_ToggleACButton GetCurrentPattern Line: %d GetLastError: %d
+AirplaneMode Win10_ToggleACButton NULL = sptrPattern Line: %d 
+AirplaneMode Win10_ToggleACButton pToggle is NULL Line: %d 
+AirplaneMode Win10_ToggleACButton get_CurrentToggleState Line: %d GetLastError: %d
+AirplaneMode Win10_ToggleACButton get_CurrentToggleState oldState %d
+AirplaneMode Win10_ToggleACButton Invoke
+ProcessorNameString
+HARDWARE\DESCRIPTION\System\CentralProcessor\0
+AirplaneMode Win10_ToggleACButton sptrPattern is NULL Line: %d 
+AirplaneMode Win10_ToggleACButton sptrPattern is not NULL Line: %d 
+AirplaneMode Win10_ToggleACButton Invoke Line: %d GetLastError: %d
+AirplaneMode Win10_ToggleACButton Invoke successed
+ShellExperienceHost.exe
+AirplaneMode  ==== sessionID :%d  currentSessionId :%d 
+ar-sa
+es-es
+sr-latn-rs
+sl-si
+ca-es
+ru-RU
+AirplaneMode Win10_ToggleActionCenterButton ProcessIdToSessionId :%d  Line: %d GetLastError: %d
+AirplaneMode Win10_ToggleActionCenterButton ProcessIdToSessionId :%d success
+AirplaneMode Win10_ToggleActionCenterButton GetShellExperienceProcessID try again :%d  Line: %d  GetLastError: %d
+AirplaneMode Win10_ToggleActionCenterButton GetShellExperienceProcessID :%d  success
+AirplaneMode Win10_ToggleActionCenterButton InvokeActionCenter
+AirplaneMode Win10_ToggleActionCenterButton InvokeActionCenter Line: %d  GetLastError: %d
+AirplaneMode Win10_ToggleActionCenterButton InvokeActionCenter success
+AirplaneMode Win10_ToggleActionCenterButton Win10_WaitUntilWindowVisible Line: %d  GetLastError: %d
+AirplaneMode Win10_ToggleActionCenterButton Win10_WaitUntilWindowVisible ture 
+AirplaneMode Win10_ToggleActionCenterButton Win10_ToggleACButton Line: %d  GetLastError: %d
+AirplaneMode Win10_ToggleActionCenterButton Win10_ToggleACButton success
+AirplaneMode Win10_ToggleAirplaneMode bAlreadyRun
+AirplaneMode Win10_ToggleAirplaneMode szAirplaneModeMUITitle %s
+AirplaneMode Win10_ToggleAirplaneMode GetAirplaneModeTextFromMUI Line: %d  GetLastError: %d
+AirplaneMode Win10_ToggleAirplaneMode GetUserDisplayLanguage Line: %d  GetLastError: %d
+AirplaneMode Win10_ToggleAirplaneMode currentUILanguage bSuccess
+AirplaneMode Win10_ToggleAirplaneMode Win10_ToggleActionCenterButton1 Line: %d  GetLastError: %d
+AirplaneMode Win10_ToggleAirplaneMode catch!!!!!!!!!!!!!!!!
+AirplaneMode Win10_ToggleAirplaneMode run end %d 
+CXmlDocTool::AnalyzeXmlDoc CoInitialize() fail!
+CXmlDocTool::AnalyzeXmlDoc paramter fail!
+AnalyzeUserChoiceXmlDoc xmlDoc.CreateInstance() fail!
+AnalyzeUserChoiceXmlDoc wsXmlDocName  fail!
+AnalyzeUserChoiceXmlDoc  oobe not exist !
+oemdata
+value
+true
+AnalyzeUserChoiceXmlDoc  exception!
+AnalyzeOobeXmlDoc xmlDoc.CreateInstance() fail!
+eFirstExperience
+AnalyzeOobeXmlDoc  oemdata not exist !
+oobe
+registration
+checkbox2
+label
+AnalyzeOobeXmlDoc  exception !
+checkbox3
+%s\OOBE\Info\userchoices.xml
+IsOSOOBESwitchOnMerteris  not exist, error:%d
+%s\OOBE\Info\oobe.xml
+szOobeXmlPathFullPath  not exist, error:%d
+AnalyzeOobeXmlDoc return error:%d
+AnalyzeUserChoiceXmlDoc return error:%d
+CameraPrivacy SwitchCameraStatus CoCreateInstance Line: %d  GetLastError: %d
+CameraPrivacy SwitchCameraStatus pMoniker[nIndexCamera]->BindToObject Line: %d  GetLastError: %d
+CameraPrivacy SwitchCameraStatus QueryInterface Line: %d  GetLastError: %d
+CameraPrivacy SwitchCameraStatus pCameraControl[i]->Set Line: %d  GetLastError: %d
+CameraPrivacy SwitchCameraStatus out
+FNR2: Failed to initialize CIntelHelper
+ERROR: Failed to initialize ControlAPI. Error Code= 0x%X
+INFO: ControlAPI initialization successful.
+ERROR: Failed to get the list of Intel Adapters. Error Code= 0x%X
+INFO: Adapter Count: %d
+ERROR: Failed to allocate memory to adapter handle.
+ERROR: Failed to enumerate adapter. Error Code= 0x%X
+INFO: DisplayCount= %d
+ERROR: Failed to allocate memory to display handle.
+ERROR: Failed to enumerate display handle. Error Code= 0x%X
+Display num = %d
+ERROR: Failed in ctlGetIntelArcSyncInfoForMonitor. ErrorCode= 0x%X
+isIntelArcSyncSupportedOnMonitor -> true; ability = %d
+set mode = %s 
+ERROR: Failed in ctlGetIntelArcSyncProfile. ErrorCode= 0x%X
+DaxRpcEndpoint
+ncalrpc
+Utility:FNR2PannelRfreshFunc::ChangeDisplayRfreshParam ChangeDisplaySettingsEx failed =%d
+EMDriver CKernelLib Init!
+\\.\EnergyDrv
+EMDriver CKernelLib Init OpenDevice Line: %d  GetLastError : %d
+EMDriver CKernelLib Init CreateEvent Line: %d  GetLastError : %d
+EMDriver CKernelLib Init LaunchNotifyThread Line: %d  GetLastError : %d
+EMDriver CKernelLib Init end!
+EMDriver CKernelLib GetGpioInfo DeviceIo 1 IOControlCode %x
+EMDriver CKernelLib DeviceIo DeviceIoControl Line: %d  GetLastError : %d
+EMDriver CKernelLib DeviceIo 2 IOControlCode %x
+EMDriver CKernelLib DeviceIo m_hDevice is NULL Line: %d !
+EMDriver CKernelLib GetDeviceStateCode DeviceIoControl Line: %d  GetLastError : %d
+EMDriver CKernelLib GetDeviceStateCode m_hDevice is NULL Line: %d !
+EMDriver CKernelLib NotifyThread Start
+EMDriver CKernelLib NotifyThread OpenDevice Line: %d  GetLastError : %d
+EMDriver CKernelLib NotifyThread WTSGetActiveConsoleSessionId not m_nSessionId! Line: %d  GetLastError : %d
+EMDriver CKernelLib NotifyThread CreateEvent Line: %d  GetLastError : %d
+EMDriver CKernelLib NotifyThread DeviceIoControl Line: %d  GetLastError : %d
+EMDriver CKernelLib NotifyThread WaitForSingleObject start
+EMDriver CKernelLib NotifyThread WaitForSingleObject end
+EMDriver CKernelLib NotifyThread nNotifyState = %x
+EMDriver CKernelLib NotifyThread pcKernelLib DeviceIo Line: %d  GetLastError : %d
+EMDriver CKernelLib NotifyThread WTSGetActiveConsoleSessionId m_nSessionId != CurrentId Line: %d  GetLastError : %d
+EMDriver CKernelLib LaunchNotifyThread _beginthreadex Line: %d  GetLastError : %d
+EMDriver CKernelLib GetKBLOutput CreateFile INVALID_HANDLE_VALUE Line: %d  GetLastError : %d
+EMDriver CKernelLib GetKBLOutput DeviceIoControl wParam=%d!
+EMDriver CKernelLib GetKBLLevels GetKBLOutput wParam=%d!
+EMDriver CKernelLib GetSmartKeyBoardEventMode CreateFile INVALID_HANDLE_VALUE Line: %d  GetLastError : %d
+EMDriver CKernelLib GetSmartKeyBoardEventMode  IOCTL_ENERGYDRV_INFOb Result: %d  SmartKeyBoardEventMode : %d ,dwReturned:%d
+EMDriver CKernelLib GetEmdriverSpecVersion CreateFile INVALID_HANDLE_VALUE Line: %d  GetLastError : %d
+EMDriver CKernelLib GetEmdriverSpecVersion DeviceIoControl IOCTL_PMDRV_QUERTY_BIOS_INFORMATION wParam=%d!
+EMDriverMsgCenter CKernelLib m_EMNotifyEvent %d = %x
+EMDriverMsgCenter CKernelLib m_EMNotifyEvent GetEmdriverSpecVersion retVerison =%d
+EMDriverMsgCenter CKernelLib m_EMNotifyEvent GetSmartKeyBoardEventMode return not hotkey!Line: %d 
+init AMD dll error.
+FNR2PannelRfreshFunc::GetVideoControllerInfoRate CoCreateInstance Line: %d  GetLastError: %d
+ROOT\CIMV2
+FNR2PannelRfreshFunc::GetVideoControllerInfoRate ConnectServer Line: %d  GetLastError: %d
+Connected to ROOT\WMI WMI namespace
+FNR2PannelRfreshFunc::GetVideoControllerInfoRate CoSetProxyBlanket Line: %d  GetLastError: %d
+FNR2PannelRfreshFunc::GetVideoControllerInfoRate ExecQuery Line: %d  GetLastError: %d
+MinRefreshRate
+MaxRefreshRate
+CurrentRefreshRate
+FNR2PannelRfreshFunc::GetVideoControllerInfoRate _lowrate = %d,_highrate = %d, _currentrate = %d
+FNR2PannelRfreshFunc::GetVideoControllerInfoRate GetBIOSInfomation exception!!! 
+FNR2PannelRfreshFunc::GetVideoOutputInfo CoCreateInstance Line: %d  GetLastError: %d
+ROOT\WMI
+FNR2PannelRfreshFunc::GetVideoOutputInfo ConnectServer Line: %d  GetLastError: %d
+FNR2PannelRfreshFunc::GetVideoOutputInfo CoSetProxyBlanket Line: %d  GetLastError: %d
+FNR2PannelRfreshFunc::GetVideoOutputInfo ExecQuery Line: %d  GetLastError: %d
+InstanceName
+FNR2PannelRfreshFunc::GetVideoOutputInfo pclsObj->Get Line: %d  GetLastError: %d
+VideoOutputTechnology
+FNR2PannelRfreshFunc::GetVideoOutputInfo GetBIOSInfomation exception!!! 
+FNR2PannelRfreshFunc::CallAdaptiveRefresh getDriverCapbility DRIVER_NOT_SUPPORT Line: %d  GetLastError: %d
+FNR2PannelRfreshFunc::CallAdaptiveRefresh CallAMDRefreshCenter fail Line: %d  GetLastError: %d
+FNR2PannelRfreshFunc::CallAdaptiveRefresh CallInterRefreshCenter fail Line: %d  GetLastError: %d
+FNR2PannelRfreshFunc::CallAdaptiveRefresh getDriverCapbility fail Line: %d  GetLastError: %d
+FNR2PannelRfreshFunc::CallAdaptiveRefresh::EnumDisplayDevices Line: %d  GetLastError: %d
+FNR2PannelRfreshFunc::CallAMDRefreshCenter::SetAMDVRRState fail Line: %d  GetLastError: %d
+FnRefreshRate_2
+KbdHotkey
+CallAMDRefreshCenter lowRate,%d highRate,%d curRate: %d  GetLastError: %d
+CallAMDRefreshCenter!!!! GetLastError: %d
+FNR2PannelRfreshFunc::CallInterRefreshCenter::SetINTELLRRState fail Line: %d  GetLastError: %d
+!!!  FNR2 unkown status 
+FNR2PannelRfreshFunc::IntelChangeMonitorRefreshRate GetDisplayConfigBufferSizes lpPathArray=NULL
+FNR2PannelRfreshFunc::IntelChangeMonitorRefreshRate SetDisplayConfig Failed
+FNR2PannelRfreshFunc::IntelChangeMonitorRefreshRate 11QueryDisplayConfig failed =%d
+FNR2PannelRfreshFunc::IntelChangeMonitorRefreshRate QueryDisplayConfig failed =%d
+ FNR2PannelRfreshFunc::IntelChangeMonitorRefreshRate failed =%d
+SupportPanelRefeshRate
+SYSTEM\CurrentControlSet\Services\LenovoFnAndFunctionKeys\Capbility
+g_bBIOSSupportFNR2FeatureCapbilty ReadRegDWord return failed:%d
+g_bBIOSSupportFNR2FeatureCapbilty not support the FN R 2.0 
+MsgLogic g_HandleEvent e_Event_PANEL_RFESHRATE retChangeRfresh Line: %d  GetLastError: %d
+FNR2PannelRfreshFunc::CallInterRefreshCenter::ChangePannleRfresh ChangeDisplayRfreshPram  failed =%d
+FNR2PannelRfreshFunc::CallAMDRefreshCenter::ChangePannleRfresh ChangeDisplayRfreshPram  failed =%d
+HidKeyboardMsgCenter HID_InitHidDeviceTable CreateHidhkDeviceTable Line: %d  GetLastError : %d
+HidKeyboardMsgCenter HID_RegKeyboardRawInput RegisterRawInputDevices Line: %d  GetLastError : %d
+HidKeyboardMsgCenter HID_RawInputDataProcess HKIDCLASS_TYPE_2 TRY_SECOND_OPEN HidFindDevice Line: %d  GetLastError : %d
+HidKeyboardMsgCenter HID_RawInputDataProcess HidFindDevice open 
+HidKeyboardMsgCenter HID_RawInputDataProcess HidGetFnLkOrStickyState TRY_SECOND_OPEN  Line: %d  GetLastError : %d
+HidKeyboardMsgCenter HID_RawInputDataProcess HidGetFnLkOrStickyState Line: %d  GetLastError : %d
+HidKeyboardMsgCenter HID_RawInputDataProcess UEFIHKID_CAPSLK_KEY Line: %d  GetLastError : %d
+HidKeyboardMsgCenter HID_RawInputDataProcess UtilityHIDKey  wParam invalid ,Line: %d 
+ServiceForBigDataMetrics
+SOFTWARE\Lenovo\LenovoUtility
+FnHotkeyUtility SetBigdataMetrics  return fail! Value is %d  GetLastError: %d 
+FnHotkeyUtility WinMain lpCmdLine not cmd.empty():  %s
+-UIMERTICSON
+-UIMERTICSOFF
+FnHotkeyUtility WinMain lpCmdLine cmd.empty()
+Lenovo_Utility_Window
+LenovoUtility::Run Lenovo_Utility_Window is exist
+FnHotkeyUtility WndProc::UI_TO_SERVICE_METRICS_ON
+FnHotkeyUtility WndProc::UI_TO_SERVICE_METRICS_OFF
+ WM_TIMER hide OSD end ID_TIMER_HIDEWND
+FnHotkeyUtility WndProc::PBT_APMRESUMEAUTOMATIC
+Vid_
+Pid_
+VID&
+PID&
+{00001124-0000-1000-8000-00805F9B34FB}_
+HID\%s
+vid_17ef&pid_7226
+SOFTWARE\Lenovo\Hotkey
+Software\Lenovo\Hotkey\VID_1915&PID_eee0
+Software\Lenovo\Hotkey\VID_17EF&PID_60F6
+Software\Lenovo\Hotkey\VID_17EF&PID_60F7
+Software\Lenovo\Hotkey\VID_17EF&PID_60F8
+Software\Lenovo\Hotkey\VID_17EF&PID_60F9
+Software\Lenovo\Hotkey\VID_17EF&PID_60FA
+Software\Lenovo\Hotkey\VID_17EF&PID_60FB
+Software\Lenovo\Hotkey\VID_17EF&PID_60FC
+Software\Lenovo\Hotkey\VID_17EF&PID_6125
+Software\Lenovo\Hotkey\VID_17EF&PID_6139
+Software\Lenovo\Hotkey\VID_17EF&PID_613A
+Software\Lenovo\Hotkey\VID_17EF&PID_613B
+Software\Lenovo\Hotkey\VID_17EF&PID_613C
+Utility::hidbase::g_InitDuetKBD init regKey success!
+Ex_31
+Ex_1A
+Ex_91
+Ex_20
+Ex_25
+Ex_27
+Utility::hidbase::UpdateHidhkDeviceTableFromProgram update ITS mouse registry success!!!!
+Utility::hidbase::UpdateHidhkDeviceTableFromProgram CreateKey failed=%d
+ControlLib
+%s.dll
+root\CIMV2
+BiosInfo GetBIOSInfomatio find device success : %d
+BiosInfo GetBIOSInfomation pEnumerator->Next %d Line: %d GetLastError: %d
+BiosInfo GetBIOSInfomation exception!!! 
+Name
+SELECT * FROM Win32_PnPEntity WHERE DeviceID LIKE "%ACPI\\LIC0001%"
+SELECT * FROM Win32_PnPEntity WHERE DeviceID LIKE "%ACPI\\IDEA2004%"
+SELECT * FROM Win32_PnPEntity WHERE DeviceID LIKE "%ACPI\\IDEA2008%"
+ITS3func IsITSSvrRun hSCM %d
+ITS3func IsITSSvrRun hService %d
+ITS3func IsITSSvrRun hService2 %d
+ITS3func IsITSSvrRun bResult %d
+ITS3func inter g_ITS3GetStatus init function!
+ITS3func g_ITS3GetStatus BiosInfo init.
+ITS3func g_ITS3GetStatus ITS3.0 or 4.0 find HardWareID exist
+LITSSVC
+ITS3func IsITSSvrRun not found ITS_SERVICE_NAME Line: %d  GetLastError: %d
+ITS3func CCHandle::IsITSSvrRun is UnKnow 
+Version
+SYSTEM\CurrentControlSet\Services\LITSSVC\LNBITS\IC
+ITS3func g_ITS3GetStatus ReadRegDWord %d 
+ITS3func g_ITS3GetStatus Init pITSVersion %d
+ITS3func CCHandle::IsITSSvrRun is 5.0
+ITS3func g_ITS3GetStatus Init Line: %d  GetLastError: %d
+ITS3func g_ITS3GetStatus IsITSSvrRun not found ITS_SERVICE_REGISTRY_VERSION_VALUE Line: %d  GetLastError: %d
+ITS3func g_ITS3GetStatus IsITSSvrRun is Unknow  Line: %d  
+ITS3func g_ITS3GetStatus Init ReadRegDWord %d
+ITS3func g_ITS3GetStatus IsITSSvrRun is 3.1
+ITS3func g_ITS3GetStatus Init pITSVersion : %d
+ITS3func g_ITS3GetStatus Init Unknown regedit version
+ITS3func g_ITS3GetStatus IsITSSvrRun is Unknow Line: %d  
+Capability
+SYSTEM\CurrentControlSet\Services\LITSSVC\LNBITS\IC\MMC
+ITS3func g_ITS3GetStatus Init pITSCapability %d
+ITS3func g_ITS3GetStatus IsITSSvrRun supported
+ITS3func g_ITS3GetStatus IsITSSvrRun is 3.1 
+ITS3func g_ITS3GetStatus IsITSSvrRun is 1 or gaming book
+ITS3func g_SendITS3ServiceControlCode dwRetVal: %d Line: %d  GetLastError: %d
+ITS3func _Thread_PreInitITS3 g_ITS3GetStatus Line: %d  GetLastError: %d
+ITS3func g_PreInitITS3GetStatus already init 
+ITS3func g_PreInitITS3GetStatus ::CreateThread fail! Line: %d  GetLastError: %d
+SOFTWARE\Lenovo\lva
+SOFTWARE\Lenovo\lvaprcu
+SOFTWARE\Lenovo\lvaw
+SOFTWARE\Lenovo\lvad
+LenovoVoiceFunc LaunchLvaKey IsSessionLocked Line: %d  GetLastError: %d
+LenovoVoiceFunc LaunchLvaKey GetLvaInstallPath=%d
+LenovoVoiceFunc LaunchLvaKey os_version_num = %d
+Cortana
+LenovoVoiceFunc LaunchLvaKey ::FindWindow Line: %d  GetLastError: %d
+LenovoVoiceFunc LaunchLvaKey=%d
+LenovoVoiceFunc LaunchLvaKey ::FindWindow Line: %d  success = %d
+ms-cortana2:
+open
+LaunchLvaKey ShellExecuteEx  fail =  %d
+Shell_TrayWnd
+LenovoVoiceFunc LaunchLvaKeyFindWindow Shell_TrayWnd failed = %d
+LenovoVoiceFunc LaunchLvaKey FindWindow Shell_TrayWnd success = %d
+ms-cortana:
+SOFTWARE\Lenovo\amm
+LenovoVoiceFunc::IsAIMeetingWin32Install is not install! Line: %d  GetLastError: %d
+E046963F.AIMeetingManager_k1h2ywk1493x8
+AIMeetingManager.exe
+LenovoVoiceFunc::IsAIMeetingProcessExist is not exist! Line: %d  GetLastError: %d
+1.0.0.0
+%d.%d.%d.%d
+6E7CPP4MI491
+1.0.0.1
+PRELOAD
+C:\ProgramData\Lenovo\FnHotkeyUtility
+ludp initialize2 failed!(ret=%d)
+ludp initialize2 success
+Status
+click
+Value
+KbdHotkeyPress
+SOFTWARE\WOW6432Node\Lenovo\AnonymousMetrics
+Enabled
+Utility  GetOOBEFlagCollectionEnabled::dwOOBECollectionFlag = %d
+Utility BigDataAgent::GetOOBEFlagCollectionEnabled::ReadRegString error:%d
+Utility IsOSOOBESwitchOnMerteris  = GetLastError : %d
+Utility BigDataAgent::GetOOBEFlagCollectionEnabled::RegKeyExists not exist, error:%d
+Utility BigDataAgent::GetUICollectionEnabled::ServiceForBigDataMetrics OFF error:%d
+Utility BigDataAgent::GetUICollectionEnabled::ReadRegString error:%d
+Utility BigDataAgent::GetUICollectionEnabled::RegKeyExists not exist, error:%d
+E0469640.LenovoUtility_5grkq8ppsgwt4
+Utility GetCollectionTotalSwitch UI_Collection_Flag_Off
+Utility GetCollectionTotalSwitch GetOOBEFlagCollectionEnabled 1
+Utility GetCollectionTotalSwitch GetOOBEFlagCollectionEnabled 0
+Mode
+version
+MoniterWmiGetFnQ Indicate FnQ Button press(%d),(%d)_
+MoniterWmiGetFnQ Indicate FnQ Button press(%d)_  Line: %d GetLastError: %d
+MoniterWmiGetFnQ SetStatus Call complete. hResult = 0x%X
+MoniterWmiGetFnQ SetStatus Call in progress.
+MoniterWmiGetFnQ StartFnQMonitor Monitor oc button done.
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor CoInitializeSecurity Line: %d  GetLastError: %d
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor CoCreateInstance Line: %d  GetLastError: %d
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor ConnectServer Line: %d  GetLastError: %d
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor ConnectServer to ROOT\WMI WMI namespace
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor CoSetProxyBlanket Line: %d  GetLastError: %d
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor CreateObjectStub Line: %d  GetLastError : %d
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor QueryInterface Line: %d  GetLastError : %d
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor ExecNotificationQueryAsync Line: %d  GetLastError : %d
+PressTypeDataVal
+MoniterWmiUtilityEvent SetStatus Call complete. hResult = 0x%X
+MoniterWmiUtilityEvent SetStatus Call in progress.
+MoniterWmiUtilityEvent StartUtilityEventMonitor Monitor LSKEvent button done.
+MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor CoInitializeSecurity Line: %d  GetLastError: %d
+MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor CoCreateInstance Line: %d  GetLastError: %d
+Could not connect. Err code = 0x%x
+MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor Connected to ROOT\WMI WMI namespace
+MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor CoSetProxyBlanket Line: %d  GetLastError: %d
+CreateObjectStub failed!
+MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor QueryInterface Line: %d  GetLastError: %d
+MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor ExecNotificationQueryAsync Line: %d  GetLastError: %d
+PannelRfreshFunc GetConnectorInfo CoCreateInstance Line: %d  GetLastError: %d
+PannelRfreshFunc GetConnectorInfo ConnectServer Line: %d  GetLastError: %d
+PannelRfreshFunc GetConnectorInfo CoSetProxyBlanket Line: %d  GetLastError: %d
+PannelRfreshFunc GetConnectorInfo ExecQuery Line: %d  GetLastError: %d
+PannelRfreshFunc GetConnectorInfo pclsObj->Get Line: %d  GetLastError: %d
+PannelRfreshFunc GetBIOSInfomation exception!!! 
+CSO1402
+AUOC391
+LEN8A90
+LEN8A91
+SDC4152
+LEN8A98
+LEN9123
+CSO0C14
+AUO91C3
+BOE098E
+CMN1520
+IVO061F
+LGD06AC
+LEN9053
+BOE09C1
+AUO439D
+LEN9082
+CSO1505
+LEN8C97
+BOE09EA
+LEN8C98
+LEN8A92
+BOE0997
+LEN8A93
+CSO1601
+LEN8A94
+AUOD394
+AUOD1ED
+BOE08E8
+LEN9059
+LEN9152
+AUOEDD1
+BOE810A
+CSO1615
+AUOF19F
+BOE0AC1
+LEN8AA4
+LEN8AA5
+LEN8B9E
+CSO1416
+LEN8AAA
+AUO26A4
+LEN8AAB
+AUOB78D
+LGD0657
+BOE08DF
+AUO449D
+LEN89A8
+CMN175C
+LEN89A9
+LEN9154
+LEN8AA2
+LEN8AA3
+AUO5895
+LGD06A5
+BOE0998
+BOE0985
+CSO1600
+LGD06C1
+BOE0A2D
+LGD06DE
+CSO1507
+BOE0A1C
+AUOB69B
+LGD06D8
+CSO1606
+BOE0A1F
+CSO160A
+BOE0A40
+CSO1609
+LGDD806
+BOE9809
+BOE1C0A
+AUO9558
+AUO9BB6
+LEN9056
+BOE2D0A
+LGDDE06
+CSO0715
+LEN905A
+BOE400A
+CSO0616
+LEN9150
+CSO1316
+AUO9F9C
+TMX0016
+LEN9153
+CSO1610
+BOE0A9B
+CSO160B
+CSO1612
+CSO1618
+LEN8AA7
+BOE0AFF
+LEN8AA9
+AUOEBAO
+LEN8AA8
+AUOEBA0
+BOE0B23
+AUOC9A4
+CSO1613
+AUO9C9F
+TMX1600
+TMX1602
+BOE0B11
+CSO161B
+AUOAEA3
+CSO161A
+PannelRfreshFunc::ChangePannleRfresh ChangeDisplayRfreshParam PANNEL_SUPPORT_60_AND_90_HZ_GROUP Line: %d  GetLastError: %d
+PannelRfreshFunc::ChangePannleRfresh ChangeDisplayRfreshParam PANNEL_SUPPORT_60_AND_48_HZ_GROUP Line: %d  GetLastError: %d
+PannelRfreshFunc::ChangePannleRfresh ChangeDisplayRfreshParam PANNEL_SUPPORT_60_AND_120_HZ_GROUP Line: %d  GetLastError: %d
+PannelRfreshFunc::ChangePannleRfresh ChangeDisplayRfreshParam PANNEL_SUPPORT_60_AND_144_HZ_GROUP Line: %d  GetLastError: %d
+PannelRfreshFunc::ChangePannleRfresh ChangeDisplayRfreshParam PANNEL_SUPPORT_60_AND_165_HZ_GROUP Line: %d  GetLastError: %d
+PannelRfreshFunc::ChangePannleRfresh ChangeDisplayRfreshParam PANNEL_SUPPORT_48_AND_165_HZ_GROUP Line: %d  GetLastError: %d
+PannelRfreshFunc::ChangePannleRfresh ChangeDisplayRfreshParam PANNEL_SUPPORT_60_AND_240_HZ_GROUP Line: %d  GetLastError: %d
+PannelRfreshFunc::ChangePannleRfresh_new::EnumDisplayDevices Line: %d  GetLastError: %d
+PannelRfreshFunc::ChangeDisplayRfreshParam IsSupportFreshParam Line: %d  GetLastError: %d
+PannelRfreshFunc::ChangeDisplayRfreshParam ChangeDisplaySettingsEx Line: %d  GetLastError: %d
+PannelRfreshFunc::ChangePannleRfresh dmDisplayFrequency is not support! Line: %d 
+MsgLogic g_HandleEvent e_Event_PANEL_RFESHRATE CreateThread IDB_PANNEL_RFRESH Line: %d  GetLastError: %d
+FnRefreshRate
+MSSMBios_RawSMBiosTables
+SmbiosMajorVersion
+SmbiosMinorVersion
+SMBiosData
+SystemProductName
+SYSTEM\HardwareConfig\Current
+Control Panel\International\Geo
+PremierKey GetLanguageName countryName is not null ,Line: %d 
+PremierKey GetLanguageName countryName is null ,Line: %d 
+Languages
+Control Panel\International\User Profile
+PremierKey GetLanguageName catch error , Line: %d  GetLastError: %d
+CPremierKey::FindPcmanagerService=%d
+SerialNumber
+SELECT * FROM Win32_BIOS
+Utility::CServiceURL::GetBIOS failed! error:%d
+Utility::CServiceURL::initBIOS failed! error:%d
+&mt=
+&sn=
+&ll=
+?cc=
+https://pcsupport.lenovo.com/premierhome
+--serviceexperts --source=hotkeyF9
+ServiceKey_Consumer
+\QRCode.html
+E046963F.LenovoCompanion_k1h2ywk1493x8
+support
+SOFTWARE\WOW6432Node\Lenovo\PcManager
+LenovoInstallPath
+LenovoPcManager.exe
+ CCHandle::LaunchLenovoPcManager::LenovoAssemblyValidation ValidateAssembly:%d
+lenovo-vantage3:%s
+run app failed %d
+g_OnInitOSDDialog add SetWindowLong =%d
+g_RenderOSD  g_PNG == NULL, g_PNG = %d
+g_CreateOpenAnimateThread   Show OSD  %d 
+g_CreateOpenAnimateThread NULL == g_hOSDWnd  Show OSD  %d failed 
+_LENOVOSUPERKEY_WINDOW_CLASS_NAME_3_0_
+Utility::Smartkey3xEvent::smartkey3x_ev_function:Single Click  quit !!!! 
+_Thread_Launch_LenovoSmartkey3x_EVENT_FOR_CLICK_
+MsgLogic::Smartkey3xEvent::smartkey3x_ev_function:Single Click  quit !!!! 
+MsgLogic::_Thread_Launch_LenovoSmartkey3x::ActivateLenovoUtilityAppx ActivateApplication() return fail!=%d
+MsgLogic::Smartkey3xEvent::smartkey3x_ev_function:PostMessage  dwClickEvent !=%d
+https://www.microsoft.com/store/apps/9PCMMNB260TX
+_Thread_Launch_LenovoSmartkey3x ShellExecuteEx LENOVO_UTILITY_MSSTORE_DOWNLOAD_URL fail =  %d
+Utility::Superkey2UiFunc::superkey2_ui_function::_Thread_Launch_LenovoVantage3xOrPcm::LaunchLenovoVantage3x fail!=%d
+Utility::Superkey2UiFunc::superkey2_ui_function::_Thread_Launch_LenovoVantage3xOrPcm::LaunchLenovoPcManager fail!=%d
+E0469640.LenovoUtility_5grkq8ppsgwt4!LenovoUtility
+-LSK3XSINGLECLICK
+-LSK3XDOUBLECLICK
+MsgLogic::ActivateLenovoUtilityAppx CoInitializeEx() return fail!=%d
+MsgLogic::ActivateLenovoUtilityAppx ActivateApplication() return fail!=%d
+ Get system directory failed with error: %d
+%s\SnippingTool.exe
+ms-screensketch:
+SnippingToolKey snipping_tool_key::_Thread_LaunchSnippingToolKey_ScreenSketch LautchSnippingToolKey_ScreenSketch Line: %d  GetLastError: %d
+SnippingToolKey snipping_tool_key::_Thread_LaunchSnippingToolKey_ScreenSketch LauchSnippingToolKey_Win32 Line: %d  GetLastError: %d
+lenovo-vantage3:dashboard
+Superkey2UiFunc superkey2_ui_function::LaunchLenovoVantage3x Launch Lenovo-vantage failed! Line: %d  GetLastError: %d
+Lenovo Vantage
+Superkey2UiFunc::lenovo-vantage3=%d
+Superkey2UiFunc superkey2_ui_function::LaunchLenovoVantage3x IsInstalledVantage3x Line: %d  GetLastError: %d
+%sLenovoPcManager.exe
+Superkey2UiFunc superkey2_ui_function::LaunchLenovoPcManager ReadRegString Line: %d  GetLastError: %d
+Superkey2UiFunc superkey2_ui_function::LaunchLenovoPcManager RegKeyExists Line: %d  GetLastError: %d
+Superkey2UiFunc superkey2_ui_function::_Thread_Launch_LenovoVantage3xOrPcm LaunchLenovoVantage3x Line: %d  GetLastError: %d
+Superkey2UiFunc superkey2_ui_function::_Thread_Launch_LenovoVantage3xOrPcm LaunchLenovoPcManager Line: %d  GetLastError: %d
+%s_FnHotkeyUtility.Log 
+%s\_FnHotkeyUtility.Log 
+%d-%d-%d %d:%d:%d
+[%s %d] %s 
+utility log file is create failed
+Software\Lenovo\LenovoUtility\log
+Tool IsSessionLocked WTSGetActiveConsoleSessionId fail = %d
+Tool IsSessionLocked WTSQuerySessionInformation Line: %d  GetLastError: %d
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+CurrentBuildNumber
+Tool GetOsVersion fail, GetLastError=%d
+Tool GetLanguageName catch error Line: %d  GetLastError: %d
+not exist  app failed %d
+not exist  app reg failed %d
+SOFTWARE\Lenovo\LenovoHotkeysService
+GeoEnabled
+MsgLogic g_HandleEvent Init g_bRunOnce start Line: %d 
+MsgLogic g_HandleEvent Init GetHotKeyConfig fail! Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent Init CAMERA_BIT7 fail! Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent Init TOUCHPAD_BIT6 fail! Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent Init MIC_BIT5 fail! Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent Init NUMLK_BIT3 fail! Line: %d  GetLastError: %d
+CMFCFeedbackDlg::OnInitDialog GetCountryName() fail!
+CMFCFeedbackDlg::OnInitDialog GetLanguageName() fail!
+FeatureTools::GetGeoCollectionStatus() fail!
+FeatureTools::SetGeoCollectionStatus() fail!
+MsgLogic g_HandleEvent HandleEvent pEventData->EventType=%s 
+MsgLogic g_HandleEvent m_OsdSupport CAMERA_BIT7  TRUE
+MsgLogic g_HandleEvent SwitchCameraStatus  in ....
+Camera
+MsgLogic g_HandleEvent m_bExistRFDevice&8
+MsgLogic g_HandleEvent m_bExistRFDevice&8 pInfoData->Data[0] %d
+MsgLogic g_HandleEvent camera unkown status! Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent e_Event_CapsLock GetLanguageName is ja ,do not show osd!
+SYSTEM\CurrentControlSet\Services\LenovoFnAndFunctionKeys\ControlShowOSD
+ShowCapsNumlkOSD
+ CapsLock Clicktimes:%d CapslkStatus:%d:%x bCapslkOFF:%x
+Utility:Capslock not show OSD on!
+CapsLocK
+Touchpad
+MsgLogic g_HandleEvent e_Event_Backlight_new
+MsgLogic g_HandleEvent e_Event_Backlight_new ::mode=%d  Failed Line: %d  GetLastError: %d
+FnSpace
+MsgLogic g_HandleEvent GetDesktopWindow  Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent Win10_ToggleAirplaneMode Line: %d  GetLastError: %d
+Airplane
+Utility::MsgLogic g_HandleEvent::Init g_hWnd == NULL false! 
+MsgLogic g_HandleEvent::e_Event_Mic  m_volumemgr.RefreshDevice return false %d error:%d
+MsgLogic g_HandleEvent e_Event_Mic Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent::Init bRunOnce volume catch  !!!! exception  GetLasterror:%d  
+MicMute
+Utility:Numberlock not show OSD on!
+NumLock
+MsgLogic e_Event_NumberLock try catch Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent e_Event_FnQ Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent e_Event_FnQ_X60 Line: %d  GetLastError: %d
+VOIPAnswer
+VOIPDecline
+g_VoIPContrlMgr.AnswerCall() return fail! = %d, GetLastError:% d
+MsgLogic g_HandleEvent Teams not Installed, check AIMeeting install Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent e_Event_VOIP_ANSWER_2 AIMeeingManager is install and running, Hotkey not responds
+g_VoIPContrlMgr.EndCallOrHangUp() return fail! = %d, GetLastError:% d
+MsgLogic g_HandleEvent e_Event_VOIP_END_2 Teams not Installed Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent e_Event_SNAP_TOOL CreateThread Line: %d  GetLastError: %d
+SnippingTool
+FnLock
+ServiceKey
+FnCtrl
+CreateThread _Thread_Launch_LenovoSmartkey3x fail! error:%d
+SuperKey
+MsgLogic g_HandleEvent e_Event_HID_SUPERKEY
+MsgLogic g_HandleEvent e_Event_HID_SUPERKEY CreateThread _Thread_Launch_LenovoVantage3xOrPcm Line: %d  GetLastError: %d
+CameraHW
+MsgLogic g_HandleEvent e_Event_PANEL_RFESHRATE CreateThread _Thread_Panel_Rfresh_2_Thread Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent e_Event_PANEL_RFESHRATE
+MsgLogic g_HandleEvent e_Event_PANEL_RFESHRATE CreateThread _Thread_Panel_Rfresh_Thread Line: %d  GetLastError: %d
+MsgLogic e_Event_DOLBY_THREE_MODE:: catch error , Line: %d  GetLastError: %d
+ms-settings:bluetooth
+MsgLogic g_HandleEvent e_Event_Bluetooth ShellExecute fail Line: %d  GetLastError: %d
+{B94BA572-658F-40E6-861D-DFB7BB4001A8}
+MsgLogic e_Event_DOLBY_THREE_MODE::Dolby Initialize failed! error:%d
+MsgLogic e_Event_DOLBY_THREE_MODE::Dolby UnInstall! error:%d
+MsgLogic e_Event_DOLBY_THREE_MODE::Dolby Not Start! Set Dolby Enable
+DolbyMode
+MsgLogic e_Event_DOLBY_THREE_MODE::OpenRPC Not Start! error:%d
+MsgLogic g_HandleEvent e_Event_HID_SUPERKEY CreateThread _Thread_night_screen_mode Line: %d  GetLastError: %d
+FnLGamingLogo
+FnUPluginLed
+KBDrightness_Up_Down
+RGB_KBD_LE_X50
+RGB_KBD_LE_X60
+MsgLogic e_Event_SERVICE_KEY_C970::LaunchLenovoOnlineServiceUrl() return fail!
+MsgLogic g_HandleEvent e_Event_HID_SUPERKEY CreateThread _Thread_switch_camera Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent e_Event_HID_SUPERKEY CreateThread _Thread_switch_touchpad Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent !!!! !!!! unknown Event !!!! EventType %d  Line: %d
+MsgLogic g_HandleEvent Handle end
+e_Event_OnekeyStudio_ITS
+e_Event_Bluetooth
+e_Event_Backlight_new
+e_Event_SPDIF_TouchPad
+e_Event_Camera
+e_Event_TouchPad
+e_Event_All_RF
+e_Event_Carema_Utility
+e_Event_Event2_bit5_AirPlane
+e_Event_CapsLock
+e_Event_NumberLock
+e_Event_Mic
+e_Event_ControlPanel
+e_Event_TouchScreen
+e_Event_General
+e_Event_FnQ
+e_Event_FnQ_X60
+e_Event_LSK
+e_Event_LSK_2_WMI
+e_Event_HID_SUPERKEY
+e_Event_LSK_CLICK
+e_Event_VOIP_ANSWER
+e_Event_VOIP_END
+e_Event_VOIP_ANSWER_2
+e_Event_VOIP_END_2
+e_Event_SNAP_TOOL
+e_Event_FNLK_ON
+e_Event_FNLK_OFF
+e_Event_SERVICE
+e_Event_VOICE
+e_Event_CAMERA_SWITCH_ON
+e_Event_CAMERA_SWITCH_OFF
+e_Event_PANEL_RFESHRATE
+e_Event_LAUNCH_VANTAAGE
+e_Event_DOLBY_THREE_MODE
+e_Event_NIGHT_SCREEN_MODE
+e_Event_GAMELOGO_FNL_ON
+e_Event_GAMELOGO_FNL_OFF
+e_Event_PLUGIN_LED_FNU_ON
+e_Event_PLUGIN_LED_FNU_OFF
+e_Event_KBDBRIGHT_OFF
+e_Event_KBDBRIGHT_L1
+e_Event_KBDBRIGHT_L2
+e_Event_KBDBRIGHT_L3
+e_Event_RGB_KBD_LE_WAVE
+e_Event_RGB_KBD_LE_BREATH
+e_Event_RGB_KBD_LE_SMOOTH
+e_Event_RGB_KBD_LE_ALWAYS
+e_Event_RGB_KBD_LE_OFF
+e_Event_RGB_KBD_LE_RAINBOW
+e_Event_RGB_KBD_LE_BLUE
+e_Event_RGB_KBD_LE_RIPPLE
+e_Event_RGB_KBD_LE_RAINING
+e_Event_RGB_KBD_LE_AWAVEM
+e_Event_RGB_KBD_LE_AWAVELR
+e_Event_Mouse_ITS
+e_Event_SERVICE_KEY_C970
+e_Event_CAMERA_BG_BLUR
+e_Event_PTP_TOUCHPAD
+MsgLogic g_HandleEvent Init g_ITS3GetStatus 3.0 | 3.1 |4.0 success!
+MsgLogic g_HandleEvent Init g_ITS3GetStatus false! is 1.0 Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent GetDeviceStateCode its1.0 uDevCode=%d
+MsgLogic g_HandleEvent g_ITS3GetStatus 3.0 button push down 
+CurrentSetting
+MsgLogic g_HandleEvent 3.1 button push down g_ITS3GetStatus bSuccess %d
+MsgLogic g_HandleEvent ITS3.1 read reg error and quit action! Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent g_ITS3GetStatus pdwState %d
+MsgLogic g_HandleEvent ITS3_1 Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent g_ITS3GetStatus bEnable error , Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent Ig_ITS4_0 ReadRegDWord Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent ITS4_0 ITS_SERVICE_REGISTRY_SETTING_HIGH_PERFORMANCE Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent ITS4_0 ITS_SERVICE_REGISTRY_SETTING_AUTO Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent ITS4_0 ITS_SERVICE_REGISTRY_SETTING_COOL Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent ITS4_0 g_ITS3GetStatus bEnable %d
+MsgLogic g_HandleEvent ITS4_0 g_ITS3GetStatus bEnable  error
+MsgLogic g_HandleEvent 5.0 button push down g_ITS3GetStatus bSuccess %d
+MsgLogic g_HandleEvent ITS5.0 ReadRegDWord! Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent ITS5_0 ITS_SERVICE_REGISTRY_SETTING_HIGH_PERFORMANCE Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent ITS5_0 ITS_SERVICE_REGISTRY_SETTING_AUTO Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent ITS5_0 ITS_SERVICE_REGISTRY_SETTING_COOL Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent g_ITS3GetStatus bEnable %d
+MsgLogic g_HandleEvent g_ITS3GetStatus bEnable  error
+MsgLogic g_HandleEvent g_ITS_Version_3 is Unknow Line: %d  GetLastError: %d
+SystemUsesLightTheme
+Software\Microsoft\Windows\CurrentVersion\Themes\Personalize
+AppsUseLightTheme
+ColorsDarkMode
+MsgLogic  e_Event_NIGHT_SCREEN_MODE hSettingNightLight Line: %d  GetLastError: %d
+MsgLogic  e_Event_NIGHT_SCREEN_MODE try catch Line: %d  GetLastError: %d
+SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{13E9CBF6-6E32-40D0-874A-018DFEFB0851}_is1
+e_Event_CAMERA_BG_BLUR BlurSwitchCLR Switch retBlur=%d
+BackgroundBlur
+e_Event_CAMERA_BG_BLUR LaunchSmartAppearance UWP success 
+e_Event_CAMERA_BG_BLUR LaunchSmartAppearance UWP failed =%d
+MsgLogic e_Event_CAMERA_BG_BLUR strLVFComponentInstallPath RegKeyExists Line: %d  GetLastError: %d
+MsgLogic  e_Event_CAMERA_BG_BLUR try catch Line: %d  GetLastError: %d
+SetTouchPadControl SendInput failed: 0x%x
+SOFTWARE\Microsoft\Windows\CurrentVersion\PrecisionTouchPad\Status
+GetTouchPadControl state is on now
+GetTouchPadControl state is off now
+MsgLogic g_HandleEvent e_Event_TouchPad_Switch ret=%d  Failed Line: %d  GetLastError: %d
+Teams.exe
+C:\Program Files
+ VoIPContrlManager::IsSkypeAndTeamsProccessRunningEx LenovoAssemblyValidation ValidateAssembly:%d
+SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Lync.exe
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Teams
+InstallLocation
+WMIMonitorMsgCenter UtilityFnQStatus wParam=%d, %d
+WMIMonitorMsgCenter UtilityFnQStatus FnQ msgVersion = %d
+WMIMonitorMsgCenter g_UtilityEvent UtilityLSK2.0Status  wParam=%d
+WMIMonitorMsgCenter g_UtilityEvent UtilityLSK2.0Status  wParam invalid
+E0469640.SmartAppearance_5grkq8ppsgwt4
+lenovo-smartappearance:backgroundsettingpage
+MsgLogic e_Event_CAMERA_BG_BLUR Launch lenovo-smartappearance failed! Line: %d GetLastError: %d
+ms-windows-store://pdp/?productid=9NRLFDZ54PZB
+e_Event_CAMERA_BG_BLUR ShellExecuteEx LENOVO_SMARTAPPEARANCE_DOWNLOAD_URL fail =  %d
+0123456789ABCDEF
+Lenovo.AssemblyValidation.Native.dll
+6111A8F5DA37D68E73A00141B5D86E53B0F06C5511078BD252D806D3D67D7026
+SYSTEM\CurrentControlSet\Control\MediaCategories\
+A nested exception occurred after the primary exception that caused the C++ module to fail to load.
+{0}: {1}
+--- Start of primary exception ---
+--- End of primary exception ---
+--- Start of nested exception ---
+--- End of nested exception ---
+NestedException
+The C++ module failed to load during vtable initialization.
+The C++ module failed to load while attempting to initialize the default appdomain.
+The C++ module failed to load during native initialization.
+The C++ module failed to load during process initialization.
+The C++ module failed to load during appdomain initialization.
+The C++ module failed to load during registration for the unload events.
+The C++ module failed to load.
+A nested exception occurred after the primary exception that caused the C++ module to fail to load.
+{0}: {1}
+--- Start of primary exception ---
+--- End of primary exception ---
+--- Start of nested exception ---
+--- End of nested exception ---
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTU
+PNG(
+/ P6pL
+,/KPip
+/-P?pR
+/ P6pL
+,/KPip
+/-P?pR
+/ P6pL
+,/KPip
+/-P?pR
+/ P6pL
+,/KPip
+/-P?pR
+/ P6pL
+,/KPip
+/-P?pR
+/ P6pL
+,/KPip
+/-P?pR
+(&F)
+(&X)
+(&H)
+(&A) ...
+MS Shell Dlg
+VS_VERSION_INFO
+StringFileInfo
+040904b0
+CompanyName
+Lenovo(beijing) Limited
+FileDescription
+This utility controls special keyboard functions like hotkeys and function keys, on your Lenovo notebook.
+FileVersion
+2.0.0.25
+InternalName
+FnHotkeyUtility.exe
+LegalCopyright
+2022 Lenovo. All rights reserved.
+OriginalFilename
+FnHotkeyUtility.exe
+ProductName
+Lenovo Hotkeys
+ProductVersion
+2.0.0.25
+VarFileInfo
+Translation
+FnHotkeyUtility
+Lenovo_Utility_Window
+Letalski na
+Modo avi
+im rada u avionu
+Mode d'avi
+SubC
+Lenov
+SubC

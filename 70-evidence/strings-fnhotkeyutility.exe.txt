@@ -1,0 +1,9850 @@
+!This program cannot be run in DOS mode.
+~CRich
+.text
+`.nep
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+\$ H
+W H+
+\$0H
+D$TA
+L$`A
+L$P3
+D$@H
+T$TH
+D$8H
+D$0H
+D$(D
+D$(L
+D$TH
+D$ H
+@USVWATAVAWH
+;]@|
+t3D9d7
+`A_A^A\_^[]
+t$03
+|$8H
+K H+
+H;{ H
+t$0H
+|$8H
+@UVAVH
+\$`I
+D$pH
+|$8L
+d$0L
+l$(A
+|$ L
+~0H3
+T$xH3
+t@H;
+L9t$hu
+D$pL
+|$ L
+l$(L
+d$0H
+|$8H
+\$`H
+@A^^]
+L9t$hu
+D$pI
+l$xf
+|$ AVH
+t$0H;
+N'H;
+t$0H
+\$8H
+l$@H
+|$HH
+SVWATAUAVAWH
+t$`I
+N'I;
+t$`H
+\$hJ
+ A_A^A]A\_^[
+t$ AVH
+\$HH
+t$XH
+l$PH
+T$ H
+D$ H
+(D$ H
+D$ H
+l$ L
+L$ H
+\$0H
+t$8H
+t=L;
+t$8H
+\$0H
+\$0H
+L$ A
+D$ L
+\$ fD
+\$ L
+@USVWAVH
+|$@M
+|$ H
+|$(H
+L$XL
+D$PP
+D$HL
+D$HH
+)D$`
+H9|$@
+L$ L
+L$ H
+9\$(
+|$0A
+L$ L
+L$8H
+L$0H
+L$0H
+L$8H
+;\$(
+L$0H
+L$ L
+D$@M
+L$ H
+A^_^[]
+UVWH
+)E'H
+xgH9}
+xEH9}
+d$ M
+D$ L
+xMH9]
+9]wt)H
+d$ M
+d$ H
+UWATAUAVH
+\$xH
+|$pH
+T$pH
+D9|$p
+|$ H
+|$0H
+T$ H
+D$ H
+tk9|$ teI
+L$0H
+L$0H
+T$$H
+D$$E
+\$xL
+@A^A]A\_]
+@A^A]A\_]
+@UAVH
+T$X3
+|$8H
+|$0H
+H9|$0u
+L$8H
+T$@H
+L$`A
+D$(L
+L$HH
+D$ H
+T$`H
+L$PH
+L$`H
+f9<Au
+T$`H
+\$P9{
+H9|$0u
+L$0H
+L$0H
+|$0H
+L$8H
+L$0H
+t$ WH
+L$8H
+t$@E3
+t$8H
+\$8H
+L$8L
+t$HH
+UVWATAUAVAWH
+T$4H
+T$4H
+|$43
+D$@8
+L$DA
+T$@H
+L$HH
+t 9|$0u
+T$@H
+L$@A
+T$@H
+T$0H
+D9|$0uWL
+D$8H
+T$0H
+|$HH
+T$0H
+|$ M
+D$8H
+A_A^A]A\_^]
+\$03
+t$8H
+D$8H
+D$ L
+L$8H
+t$0H
+\$0H
+\$0H
+l$8H
+t$@H
+\$0H
+Pu9H
+\$0H
+t$8H
+\$03
+t$8H
+l$ WH
+\$@H
+l$HH
+t$0L
+t$8H
+<IcB
+t$03
+t$8H
+\$@H
+\$0H
+t$8H
+\$0H
+t$8H
+\$0H
+\$0H
+|$ AUAVAWH
+t$@H
+\$HH
+l$PH
+|$XI
+t$@H
+ A_A^A]
+\$0H
+l$8H
+t$@H
+\$0H
+\$0H
+\$03
+\$(L
+L$ SUVH
+@^][
+|$83
+t$0H
+t$(L
+\$ H
+|$8H
+@^][
+@^][
+t$ WATAUAVAWH
+l$0L
+l$ A
+L$0H
+t$0M
+D$(H
+f9\$(u6H
+L$0H
+t$0M
+L$0H
+l$8M
+l$8I
+T$8I
+L$8H
+L$8H
+L$0H
+D$X;D$p
+t$8M
+l$ H
+T$ H
+T$ H
+l$HL
+l$HH
+T$HH
+L$HH
+D$T;D$t
+t$HM
+l$ H
+T$ H
+T$ H
+l$@L
+l$@H
+T$@H
+L$@H
+D$P;D$x
+t$@M
+T$ H
+T$ H
+L$@H
+L$`H
+L$HH
+D$hH
+L$8H
+L$0H
+L$@H
+L$`H
+L$HH
+D$hH
+L$8H
+L$0H
+L$@H
+L$`H
+L$HH
+L$hH
+L$8H
+L$0H
+A_A^A]A\_
+WATAUAVAWH
+T$`H
+D$(H
+D$ D
+L$(H
+D$`H
+\$(H
+D$<H
+\$(H
+L$(H
+\$0M
+\$0I
+T$0I
+P`H9\$0u5I
+L$(H
+\$ I
+T$ I
+T$ H
+L$0H
+L$(H
+L$0H
+\$0H
+\$ M
+T$ I
+T$ H
+\$XH
+\$XI
+T$XI
+L$XH
+\$XH
+\$ M
+T$ I
+T$ H
+\$PH
+\$PI
+T$PI
+L$PH
+\$PH
+T$ I
+T$ H
+D$HH
+D$HI
+T$HI
+L$HH
+\$HH
+T$ H
+T$ H
+D$@H
+D$@H
+T$@H
+L$@H
+\$@H
+T$ H
+T$ H
+L$@H
+L$HH
+L$PH
+L$XH
+L$0H
+L$(H
+L$@H
+L$HH
+L$PH
+L$XH
+L$0H
+L$(H
+D$h3
+L$@H
+D$l3
+L$HH
+D$p3
+L$PH
+L$XH
+L$xH
+L$0H
+L$(H
+\$`H
+A_A^A]A\_
+L$PA
+D$ 3
+D$PH
+T$PH
+D$@H
+T$PH
+D$@H
+T$0H
+D$PL
+D$ H
+L$PH
+L$PH
+\$@H
+|$ AVH
+t$0L
+D$0H
+It$0H
+t$@H
+\$8H
+|$HH
+|$ ATAVAWH
+\$@H
+|$XH
+l$HH
+t$PH
+ A_A^A\
+A'H;
+t$8H
+\$0H
+\$8H
+D$H3
+\$HL
+D$ 3
+L$HL
+\$8H
+D$`f
+L$pf
+L$8L
+L$@L
+D$`A
+L4`H
+T$0H
+\$0L
+T$ E3
+L$0L
+L$8L
+D$`Hc
+L$@A
+4$Hc
+L$8H
+L$HL
+M`H3
+L$0H
+VWATAVAWH
+D$P3
+D$(3
+D$($
+D$,H
+T$ I
+T$ H
+L$ H
+T$ I
+u-9\$ vA
+;\$ r
+L$PH3
+\$`I
+A_A^A\_^
+@USAUAVAWH
+\$$L
+T$$I
+T$$H
+T$$I
+\$ 9\$$
+L$TA
+T$PH
+T$8H
+D$ H
+D$ H
+\$ ;\$$
+M H3
+A_A^A][]
+VAVAWH
+H#U0H
+\$XI
+l$`H
+0A_A^^
+H#E0H
+T$ H
+D$ H
+(D$ H
+D$ L
+|$ I
+H#]0H
+L$ H
+|$PA
+|$PA
+t$ WH
+\$0H
+l$8H
+^0L3
+tOL;
+l$8H
+\$0L
+t$@H
+t$HH
+t$8H
+\$0H
+L$8E3
+L$HH
+D$HH
+D$(H
+L$ L
+D$ L
+\$@H
+t$PH
+L$8H
+D$0H
+L$(L
+D$ L
+D$tH
+T$0H
+D$PH
+D$0L
+D$(H
+D$pH
+\$XH
+t$`H
+\$X3
+t$`H
+@SVWH
+@_^[
+l$pt{
+D$pH
+l$8E3
+D$0E3
+@_^[
+l$8H
+D$xH
+D$0A
+l$(L
+l$ H
+l$`3
+@_^[
+D$pH
+l$8E3
+D$0E3
+\$hH
+ufE3
+D$`H
+D$0L
+D$XH
+D$PH
+|$@H
+|$pH
+u|E3
+|$8H
+D$0L
+u`E3
+|$8H
+D$0L
+D$pH
+\$XH
+l$PH
+L$xH
+L$0L
+L$(H
+l$xD
+L$ H
+9D$p
+l$PH
+WATAUAVAWH
+d$pL
+d$hL
+d$XL
+d$`L
+d$@D
+d$8L
+d$ E3
+L$P=
+L$PH
+D$pH
+D$ L
+L$pH
+D$hL
+D$@L
+d$8L
+d$0D
+d$(L
+d$ E3
+\$PH
+L$XH
+T$`H
+L$XH
+L$hH
+L$pH
+d$8L
+L$hH
+D$XL
+D$(L
+d$ A
+L$XH
+T$ L
+L$`E
+L$`H
+d$(L
+d$ L
+L$`H
+d$(L
+d$ L
+L$`H
+d$(L
+d$ L
+D$PL
+A_A^A]A\_
+VWATAVAWH
+d$xL
+d$hL
+d$pL
+d$XL
+d$@D
+d$8L
+d$ E3
+L$P=
+L$PH
+D$xH
+D$ L
+L$XH
+L$pH
+L$hH
+L$xH
+L$xH
+D$hL
+D$@L
+d$8L
+d$0D
+d$(L
+d$ E3
+d$8L
+L$hH
+D$pL
+D$(L
+d$ A
+L$pH
+T$ L
+L$XA
+\$`H
+L$XH
+d$(L
+d$ L
+\$`H
+L$XH
+d$(L
+d$ L
+D$PH
+L$XH
+d$XE
+|$PD
+A_A^A\_^
+D$8H
+T$L3
+L$8H
+H+D$8H
+D$PD
+T$pH
+|$pH
+D$l=
+T$xH
+D$`H;
+\$`H
+D$`H;
+\$\L
+L$TL
+D$XH
+D$TH
+D$ L
+L$XL
+D$@H
+D$8H
+D$TH
+D$ L
+L$XL
+D$@H
+D$8H
+t$DH
+D$8H
+D$`H;
+D$8H
+\$H3
+T$8H
+SVWH
+L$hH
+L$0L
+t$xH
+L$pH
+L$(H
+t$hD
+L$ H
+9D$`
+H95o
+@_^[
+UVWAVAWH
+L$@H
+D$0H
+D$(H
+|$@D
+|$ A
+PA_A^_^]
+L$ I
+|$83
+L$ H
+L$(H
+SAWH
+L$ M
+|$8H
+L$ 3
+\$ H
+L$(H
+\$(H
+@SAVAWH
+D$hH
+D$pH
+l$`H
+t$8H
+|$0H
+L$hH
+D$(L
+L$hL
+|$ H
+D$hE
+L$pL
+D$ `
+D$hL
+L$pH
+t$8H
+|$0H
+@A_A^[
+@A_A^[
+D$(L
+L$PH
+D$ H
+@USVWATAVAWH
+\$ D
+MpH3
+A_A^A\_^[]
+\$0H
+\$PH
+\$pH
+L$0H
+T$pL
+\$ D
+\$ D
+L$pA
+\$PH
+\$0H
+T$0L
+L$pL
+@USVWATAVAWH
+\$ D
+\$0H
+\$PH
+\$pH
+L$0H
+T$pL
+t+w)
+D$ A
+\$ D
+\$ D
+L$pA
+\$PH
+\$0H
+T$0L
+L$pL
+MpH3
+A_A^A\_^[]
+xQ;Y
+\$0H
+t$@H
+l$8H
+t$0H
+\$8H
+\$8H
+\$0H
+\$0H
+L$ H
+VWATAVAWH
+t$(L
+d$ E3
+L$hH
+fD9$Cu
+L$hH
+\$hH
+t$(L
+\$`H
+l$pH
+0A_A^A\_^
+t$8H
+\$0H
+ATAVH
+\$@3
+|$X3
+|$ E3
+l$HH
+t$Pf
+t$PH
+l$HH
+|$XH
+\$@L
+|$ H
+(A^A\
+(A^A\
+@USVATAUAVAWH
+D$@H
+|$DH
+|$AL
+L$AD
+|$@L
+D$DH
+D$D;
+L$AH
+tSA+
+D$@<
+\$DD
+T$XL
+|$PL
+|$TL+
+L$TL
+D$PH
+D$HH
+D$ I
+L$pH
+L$xf
+\$(H
+D$ E3
+\$LI
+L$LH
+D$(M
+\$`3
+D$0I
+D$Pf
+;D$TulH
+T$`H
+L$`H
+T$xf;
+\$XA
+L$`H
+|$H3
+|$HL
+D$ 3
+t$XA
+|$hA
+\$DH
+\$DH
+D$@<
+A_A^A]A\^[]
+t$ L
+D$@H
+L$@H
+\$0H
+l$8H
+t$HH
+\$0H
+t$8H
+t"H;
+\$0H
+t$8H
+t$8H
+\$0H
+\$0H
+L$0L
+L$@H
+D$ A
+|$ UH
+\$hH
+T$`H
+\$pH
+\$XL
+|$PA
+\$HH
+\$@3
+@SVWH
+T$pH
+|$0H
+|$DH
+D$(L
+|$ 3
+t$(D
+D$ L
+tpE3
+|$(L
+|$ 3
+tpE3
+|$(L
+|$ 3
+D$XH
+L$ L
+SUVWATH
+l$xI
+D$pL
+l$8H
+t$0L
+t$0A
+l$8L
+d$p@
+|$(u7
+D$xH
+@A\_^][
+@A\_^][
+@A\_^][
+@UVAVAWH
+D$@3
+l$ M
+D$,3
+D$6f
+D$(L
+f9(t
+T$(H
+D$ H
+D$,3
+D$6f
+D$(L
+f9(t	H
+T$(H
+D$ 3
+L$@H3
+XA_A^^]
+@USVATAUAVH
+D$H 
+D$\E3
+D$dL
+D$LE
+D$HL
+D$ L
+l$(H
+D$|H
+D$h 
+D$ E3
+l$@H
+T$HD
+L$@H
+D$hH
+D$(L
+l$0H
+T$hH
+D$ H
+fD9,CH
+D$HA
+D$ L
+l$0H
+A^A]A\^[]
+UVWATAUAVAWH
+L$03
+D$8 
+D$LL
+D$0 
+D$DD
+\$@f
+|$ND
+d$Lf
+E8d*
+4*u;D8~
+ 8D)
+`A_A^A]A\_^]
+@UVATAVAWH
+d$`M
+D$hH
+D$ E3
+L$hH
+D$`L
+d$XE3
+d$PE3
+d$H3
+d$@H
+D$8L
+d$0L
+d$(L
+L$`H
+L$hH
+D$dH
+D$8L
+L$pH
+D$0L
+L$`;
+L$hH
+A_A^A\^]
+UAVAWH
+E8E3
+D$8L
+|$0E3
+t$8H
+|$@E
+t$HH
+|$PL
+t$XL
+|$`L
+t$hL
+|$pL
+t$xL
+L$HH
+t$HH
+D$HA
+D$ H
+L$XH
+t$XH
+D$XA
+D$ H
+L$hH
+t$hH
+D$hA
+D$ H
+L$xH
+t$xH
+D$xA
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+\$8H
+D$ E3
+D$ E3
+D$ E3
+D$ E3
+D$ E3
+D$ E3
+D$ E3
+M8H3
+A_A^]
+@SVATAWH
+\$`D
+D$hL
+D$ E3
+L$hH
+D$`H
+\$XE3
+\$PE3
+\$H3
+\$@H
+\$8H
+\$0H
+\$(H
+D$`D
+L$`H
+L$hL
+L$pH
+\$8L
+\$0H
+\$(I
+L$hL
+L$`A
+L$`H
+L$hH
+A_A\^[
+\$@E3
+|$8E3
+\$0H
+\$@E3
+|$8E3
+\$0H
+\$`H
+\$0H
+L$ SUVH
+@^][
+|$83
+t$0H
+t$(L
+\$ H
+|$8H
+@^][
+@^][
+@SUVH
+L$ D
+L$ 3
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+t$8H
+t$8H
+\$0H
+t$8H
+t$8H
+\$0H
+\$0H
+\$0H
+\$0H
+t$8H
+t$8H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+t$8H
+t$8H
+\$0H
+\$0H
+\$0H
+t$8H
+t$8H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+t$8H
+t$8H
+\$0H
+t$8H
+t$8H
+\$0H
+\$0H
+t$8H
+t$8H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+t$8H
+t$8H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+)t$ H
+(t$ H
+(t$ 
+\$0H
+)t$ H
+(t$ H
+(t$ 
+\$0H
+T$ H
+)D$ 
+\$PH
+\$0H
+)t$ H
+(t$ H
+(t$ 
+\$0H
+)t$ H
+(t$ H
+(t$ 
+\$0H
+)t$ H
+(t$ H
+(t$ 
+\$0H
+)t$ H
+(t$ H
+(t$ 
+\$0H
+\$0H
+\$0H
+\$0H
+t$8H
+t$8H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+t$8H
+t$8H
+\$0H
+\$0H
+SVWATAUAVAWH
+l$PL
+l$hL
+l$`L
+l$@D
+l$8L
+l$ E3
+|$PL
+l$hH
+D$hH
+D$ L
+t$PI
+l$`H
+L$hH
+D$`L
+D$@L
+l$8L
+l$0D
+l$(L
+l$ E3
+t$PI
+l$8L
+t$PI
+l$XI
+L$`H
+D$XL
+D$(L
+l$ A
+t$PI
+L$XH
+T$ L
+L$pD
+L$pH
+l$(L
+l$ L
+t$PH
+L$XH
+T$pH
+L$XH
+|$PI
+A_A^A]A\_^[
+SVWH
+L$@H
+|$PL
+D$HH
+L$@H
+|$PL
+D$HH
+L$@H
+|$PL
+D$HH
+ _^[
+@SVWAVH
+|$0H
+|$0@
+l$xu1
+|$hH
+D$(L
+L$pH
+|$pL
+D$ H
+T$`H
+8A^_^[
+8A^_^[
+8A^_^[
+|$hH
+D$(L
+L$pH
+|$pL
+D$ H
+T$`H
+D$`=
+8A^_^[
+8A^_^[
+8A^_^[
+8A^_^[
+|$hH
+D$(L
+L$pH
+|$pL
+D$ H
+T$`H
+D9t$`r6H
+8A^_^[
+8A^_^[
+|$`H
+L$@H3
+\$pH
+D$(E3
+D$ 3
+D$@A
+D$ H
+D$HA
+D$ H
+D$PA
+D$ H
+D$XA
+D$ H
+|$(E3
+|$(E3
+D$@A
+D$ H
+@UVAVH
+l$@r
+L$PH
+l$HL
+D$HI
+D$HH
+L$`H
+\$(D
+D$`I
+fB9,@u
+T$`I
+A^^]
+)D$`
+L$pf
+D$0H
+D$ H
+CD$@
+T$XH
+L$@H
+T$`3
+\$0H
+@USWATAUAWH
+fB9<Bu
+fB9<Bu
+f9<Zu
+\$(H
+A_A]A\_[]
+D$ E3
+D$(L
+L$PH
+D$ H
+L$@H
+D$ A
+D$(L
+L$PH
+D$ H
+t$0H
+A'H;
+t$0H
+\$8H
+l$@H
+L$ SUVWH
+l$xH
+l$(L
+8_^][
+L$HL
+t$(H
+t$ H
+L$`L
+t$(H
+t$ H
+\$PH
+|$hD
+D$hH
+T$PH
+@UWAVAWH
+|$@A
+|$8E3
+|$0E3
+A_A^_]
+D$ H
+T$@E3
+|$8E3
+|$0H
+|$(H
+|$ A
+MgE3
+|$8E3
+D$ H
+L9}o
+T$(H
+|$ L
+t$xH
+A_A^_]
+L$0H
+l$(H
+l$ H
+t$8H
+\$h3
+l$pH
+@UWAVAWH
+|$@A
+|$8E3
+|$0E3
+A_A^_]
+D$ H
+T$@E3
+|$8E3
+|$0H
+|$(H
+|$ A
+MgE3
+|$8E3
+D$ H
+L9}o
+T$(H
+|$ L
+t$xH
+A_A^_]
+VWATAVAWH
+d$xL
+d$hL
+d$pL
+d$XL
+d$@D
+d$8L
+d$ E3
+L$P=
+L$PH
+D$xH
+D$ L
+L$XH
+L$pH
+L$hH
+L$xH
+L$xH
+D$hL
+D$@L
+d$8L
+d$0D
+d$(L
+d$ E3
+d$8L
+L$hH
+D$pL
+D$(L
+d$ A
+|$PH
+L$pH
+T$ L
+L$XA
+\$`H
+L$XH
+d$(L
+d$ L
+\$`H
+L$XH
+d$(L
+d$ L
+D$PH
+L$XH
+d$XE
+|$PD
+A_A^A\_^
+D$0H
+T$(3
+\$$E3
+L$0H
+L$`H
+D$hH
+H+D$0H
+D$8D
+T$HH
+\$HH
+D$D=
+D$xH
+D$PH
+T$XH
+\$$3
+T$0H
+D$ H
+UVWATAUAVAWH
+D$ I
+u/D;
+A_A^A]A\_^]
+ATAVAWH
+|$PL
+t$ L
+|$@L
+d$8L
+d$0D
+d$(L
+d$ E3
+d$8L
+\$`I
+A_A^A\
+VWATAVAWH
+d$0I
+D$0H
+D$(H
+\$HL
+d$ A
+\$pI
+A_A^A\_^
+L$0L
+d$8H
+L$8H
+P D9
+T$8H
+d$(L
+L$PL
+d$ E3
+D$@H
+\$@H;
+L$0H
+L$0H
+T$8H
+L$0H
+@USVWH
+D$ H
+H9uw
+T$@E3
+t$8E3
+t$0H
+t$(H
+t$ A
+t$0E3
+_^[]
+T$ E3
+T$ L
+t$(L
+T$ E3
+t$(L
+T$ E3
+t$(L
+T$ E3
+_^[]
+t$`H
+|$XH
+L$pH
+D$pI
+D$0H
+t$(L
+fD9$Fu
+t$`I
+t$HL
+d$PH
+t$ H
+D$@H
+L$@H
+D$PH
+L$PH
+L$@H
+\$ L
+D$PH
+t$XH
+\$HH
+SVWATAUAVAWH
+D$0H
+\$(H
+\$ D
+D$HL
+|$XH
+D$`L
+t$hH
+D$0H
+t$(H
+\$ D
+\$@A;
+-t	fA
+pA_A^A]A\_^[
+\$PH
+t$8H
+L$XH
+\$XA
+\$`f
+\$`H
+D$hf
+D$hH
+D$ H
+T$(H
+D$(H
+t$8H
+\$PH
+|$0H
+VWAVH
+L$ L
+\$ H
+\$(H
+\$@H
+D$HH
+D$xH
+\$pH
+PA^_^
+L$ L
+SVWAVAWH
+D$0H
+D$8H
+D$@H
+D$0H
+D$ L
+L$8L
+D$@H
+T$PH
+D$PH
+D$0H
+L$XH
+T$`H
+L$hH
+T$pH
+L$xH
+D$HH
+L$HH
+L$PH
+L$0H
+A_A^_^[
+@SUVWAVH
+L$hL
+D$pH
+D$pH
+T$xH
+\$xH
+D$(	
+l$ E3
+0A^_^][
+L$ D
+\$@H
+t$HH
+D$ D
+\$@H
+t$HH
+\$@H
+t$HH
+|$ AVH
+t$(3
+t$ D
+t$(D
+D$ L
+2D9r
+t<D9r
+l$HH
+\$@H
+t$PH
+|$XH
+VWATAUAWH
+ Hcl$pM
+\$PA
+t$XL
+t$XH
+\$P;x
+l$`3
+ A_A]A\_^
+t$ WATAUAVAW
+|$Pf
+D$`A
+|$0f
+D$@A
+D$PH
+fB9<@u
+A'H;
+|$Pf
+D$`D
+|$0f
+D$@D
+D$PH
+|$pH
+|$pA
+|$0H
+|$@H
+|$HH
+|$@H
+|$0A
+|$PH
+|$`H
+|$hH
+|$`H
+|$PA
+L$0L
+D$PH
+D$(	
+|$ E3
+A_A^A]A\_
+|$0H
+L$xL
+T$xH
+D$xH
+T$pH
+D$(	
+|$ L
+D$HH
+|$0H
+T$8H
+T$@H
+D$xH
+T$pH
+D$0H
+D$HH
+D$PH
+D$@L
+D$(	
+\$@L
+D$XH
+T$@H
+T$@H
+@USH
+d$(L
+D$(E3
+L$ E3
+D$8L
+d$0H
+D$(I
+M/H3
+|$P3
+D$XH
+|$XH
+|$ I
+|$0H
+t,E3
+|$0H
+\$`E3
+l$@H
+l$P;
+D$XH
+l$XL
+D$ D
+L$XH
+T$PH
+T$ E3
+L$XH
+t$8H
+l$@H
+\$`H
+|$0H
+L$XH
+\$`3
+|$0H
+D$ p
+L$ H
+D$4H
+D$ H
+D$ p
+D$0H
+D$PH
+L$ H
+D$P	
+D$ H
+D$ p
+D$0H
+D$PH
+D$P	
+L$ SVWH
+t$`H
+t$(L
+0_^[
+L$tA
+)D$@
+)L$P
+)D$`
+D$(	
+D$@H
+D$0H
+L$0H
+D$@A
+D$ H
+L$@H
+L$PA
+D$(L
+L$<H
+D$ H
+t$<H
+D$PH
+T$PH
+D$(	
+\$03
+L$p3
+|Dp\H
+D$pH
+D$ t
+l$0E3
+l$0D
+l$(H
+L$bH
+T$`D
+D$^D
+D$dD
+L$@H
+T$8D
+D$0L
+L$(E3
+T$ A
+|$0E3
+L$PH
+l$ H
+L$ SWH
+|$(H
+L$@A
+D$0A
+D$ H
+D$PA
+D$(L
+L$ L
+@SUVWH
+L$@I
+D$(L
+L$4H
+D$ H
+_^][
+L$ H
+D$ A
+\$@H
+L$@A
+L$ L
+L$H3
+tK9\$@v
+L$HH
+u+9Y
+L$HH
+D$ 8
+T$LH
+T$ H
+UVWATAUAVAWH
+\$0M
+\$(E3
+D$ H
+\$0L
+A_A^A]A\_^]
+|$xI
+l$PH
+t$@H
+L$xL
+|$0L
+D$xH
+t$@H
+t$HH
+SVWATAUAVAWH
+D$0H
+\$(H
+\$ D
+D$HL
+|$XH
+D$`L
+t$hH
+D$0H
+t$(H
+\$ D
+\$@A;
+-t	fA
+pA_A^A]A\_^[
+L$0L
+D$0H
+T$0H
+D$0H
+T$0H
+D$0H
+T$0H
+D$pH
+\$0L
+D$xH
+\$(H
+t$HL
+|$@H
+D$pL
+\$0L
+D$xH
+D$pM
+|$@L
+t$HH
+|$PH
+D$HH
+D$ A
+D$HH
+D$(L
+L$PL
+\$ H
+\$PH
+\$HH
+D$(L
+L$XH
+D$ H
+\$@H
+\$@H
+L$ SVWH
+t$`H
+t$(L
+0_^[
+L$ SUVWAVH
+t$(L
+l$ H
+0A^_^][
+D$03
+D$8H
+D$ L
+D$8H
+D$ L
+D$0H
+D$8H
+D$ L
+D$0H
+D$ L
+|$ ATAVAW
+t$8H
+D$ E3
+t$8H
+D$ E3
+D$(H
+D$ L
+f94Hu
+t$`E3
+D$`H
+D$0H
+t$(H
+t$ A
+D$`H
+D$0L
+|$(H
+t$ A
+fA94Gu
+fB94Bu
+D$ A
+9X }
+u	;Z 
+UUUUUUU
+L$ A
+t$PH
+t$@H
+|$ A
+D$(H
+D$ L
+D$ D
+t$ L
+L$`L
+t$@H
+t$PH
+L$@D9D$`H
+t$hH
+t$xH
+L$@L
+|$ A
+t$@H
+t$PH
+L$@D9
+t$hH
+t$xH
+L$@L
+t$@H
+t$PH
+t$hH
+t$xH
+T$hL
+t$ E3
+t$@H
+t$PH
+t$`H
+t$@H
+t$PH
+t$ E3
+t$hH
+t$xH
+t$xH
+t$hA
+t$@H
+t$PH
+t$XH
+t$PH
+t$@A
+L$hL
+t$@H
+t$PH
+t$@H
+t$PH
+L$hH
+t$ E3
+t$ E3
+t$ E3
+t$ E3
+t$ E3
+D$(	
+t$ E3
+t$ E3
+t$ E3
+t$ E3
+A_A^A\
+D$@H
+T$HH
+D$PH
+D$`H
+D$pH
+D$(H
+L$(H
+D$ H
+D$8H
+L$8H
+D$0H
+@UVWAVH
+D95g
+A^_^]
+D$(L
+D$ H
+D$(L
+D$ H
+D$(L
+D$ H
+A^_^]
+t$8H
+D$0L
+A^_^]
+A^_^]
+A^_^]
+\$ H
+\$0H
+\$8H
+\$0H
+\$ D
+\$@H
+\$PH
+\$XH
+\$PH
+\$@D
+\$`H
+\$pH
+\$xH
+\$pH
+\$`D
+L$ L
+D$@H
+|$ H
+|$0H
+|$8H
+|$0H
+|$ D
+|$@H
+|$PH
+|$XH
+|$PH
+|$@D
+|$`H
+|$pH
+|$xH
+|$pH
+|$`D
+L$ L
+D$@H
+T$(H
+D$ 8P
+D$ D9H }
+A A9
+UUUUUUU
+D$ H
+T$ H
+)D$ 
+\$PH
+l$XH
+|$0H
+\$8H
+l$@H
+L$ A
+L$Pf
+@UAVH
+D$(L
+D$ L
+D$(L
+D$ H
+D$(L
+D$ H
+M L;
+D$ M
+T$ I
+M L;
+L$hH
+D$hH
+L$hH
+L$h3
+|$pH
+D$ H
+L$hH
+|$pH
+L$hH
+|$p3
+D$pA
+D$pA
+D$pA
+D$pA
+D$pA
+D$pA
+|$pL
+|$pL
+|$ M
+T$ I
+L$hM
+D$0L;
+M`H3
+@UATAVH
+L$0A
+T$$D
+A^A\]
+|$(A
+D$03
+D$ 9D$$
+fD9t$0ta
+D$ 9D$$t
+;fD9t$0t 
+D$0H
+f9<Fu
+L$0H
+D$@H
+D$ E3
+L$PA
+D$(L
+L$<H
+D$ H
+l$<H
+L$PH
+f9<Au
+T$PH
+D$0f98
+D$0H
+D$0H
+f9<Fu
+L$0H
+D$@H
+D$ E3
+L$PA
+D$(L
+L$<H
+D$ H
+l$<H
+L$PH
+f9<Au
+T$PH
+D$0f98
+D$0H
+D$8 
+D$8"
+D$8#
+D$8$
+D$8%
+D$8&
+D$8'
+D$8(
+D$8)
+D$8*
+D$8+
+D$8,
+D$8-
+D$8.
+D$8/
+D$80
+D$81
+D$82
+D$83
+D$84
+D$85
+D$86
+D$88
+D$89
+D$8:
+\$ L
+\$0H
+\$PH
+\$pH
+L$0L
+D$PH
+L$ A
+D$ f
+T$ H
+UVWATAUAVAWH
+t$xH
+D$pH
+D$pP
+M@fD
+t$0E3
+t$HE3
+L$HH
+D$XE3
+D$ E3
+t$DL
+L$DL
+t$ A
+U<E3
+L$H3
+L$DL
+t$ A
+HcE<E3
+t$`3
+|$@L
+L$D@
+|$AA
+|$ H
+D$DE
+D8|$@u?H
+D$DD8|$Au?H
+D$DD8|$Bu9A;
+|$`D
+D$DA
+D$DH
+L$XH
+L$DL
+|$ A
+L$H3
+L$XL
+L$PL
+D$P 
+D9l$P
+;|$Ps
+L$H3
+A_A^A]A\_^]
+@UVH
+|$PH
+|$`I
+fF9<@u
+T$PH
+T$hH
+L$PH
+T$HH
+L$@H
+|$`H
+|$PH
+$r:H
+\$0H
+|$@H
+C\$0H
+D$0fD
+D$ $
+T$HH
+L$0H
+T$pH
+L$0H
+CT$p
+D$@H
+|$HH
+\$0H
+D$0L
+@upH
+L$pD
+CL$p
+L$pH
+@SVAVAWH
+l$PH
+|$XL
+d$`M
+l$ H
+A'H;
+<>fE
+<>fE
+d$`H
+|$XH
+l$PL
+l$ H
+(A_A^^[
+@VWAVH
+\$PH
+l$XH
+d$`L
+l$(E3
+|$ M
+A'H;
+D$pO
+l$(L
+d$`H
+l$XH
+\$PL
+|$ H
+0A^_^
+UVWH
+l$@H
+D$HH
+\$PH
+ _^]
+\$0H
+\$03
+\$0H
+|$0H
+\$8H
+D$P3
+l$8H
+l$@H
+D$ L
+L$8H
+D$03
+L$8L
+x!ff
+;|$H
+L$8H
+l$83
+l$@3
+L$8H
+l$8H
+L$@H
+L$PH3
+\$pH
+l$xH
+\$0H
+l$83
+|$@H
+V0u	H
+H9n u
+|$@H
+\$0H
+l$8H
+t$ WH
+D$@H
+\$8H
+\$0H
+D$8H
+D$ L
+L$8H
+D$0H
+L$0H
+|$ E3
+L$0H
+L$8H
+L$@H3
+\$pH
+t$xH
+t$03
+|$8H
+|$8H
+t$0H
+\$0H
+VWAVH
+fA9,Fu
+\$HH
+l$PH
+ A^_^
+|$ H
+\$0H
+\$8H
+t$@H
+|$HH
+VWAVH
+D$HL
+D$@H
+T$8I
+T$8H
+f9<Bu
+D$ H
+D$0H
+D$ H
+T$(H
+f9<Bu
+D$ H
+D$0H
+D$ H
+T$@H
+L$HH3
+PA^_^
+UWATAVAWH
+T$ E3
+D9f`t
+u&L9
+L9f@
+M'H3
+A_A^A\_]
+|$ UATAUAVAWH
+H9~@
+H9^@
+D$ L
+d$ E3
+\$pI
+A_A^A]A\]
+\$ UVWATAUAVAWH
+fD90u(I
+fD94ru
+u	H9
+t$H9
+u	H9
+ubH9
+udH9
+t\E3
+u"H9
+A_A^A]A\_^]
+UAVAWH
+fD98
+D$HH
+fD9<Cu
+D$XL
+|$XD
+|$`L
+|$h3
+\$0D
+|$@H
+D$@H
+D$ A
+\$HH
+t$@L
+t$XD
+D$8H
+D$(H
+D$pH
+D$ L
+L$PE3
+|$pH
+L$pH
+T$pH
+t$XM
+A_A^]
+|$ ATAVAWH
+l$HH
+t$PHc
+\$@fD
+ A_A^A\
+l$ AVH
+t$0H
+|$8H
+|$8L
+l$HH
+t$0H
+\$@H
+t$03
+t$0H
+\$8H
+t$8H
+\$0H
+\$0H
+t$8H
+D$@3
+D$8H
+|$8L
+|$03
+D$ D
+L$8L
+L$0E3
+L$0H
+\$ H
+L$0H
+|$0H
+L$8H
+L$@H3
+\$hH
+VWAVH
+)t$P
+)|$@D
+)D$0H
+D$(H
+D$ 3
+\$$H
+D$$;
+D$ v
+;\$$r
+L$(H3
+(t$P
+(|$@D
+(D$0H
+`A^_^
+UVWH
+D$(H
+\$ H
+L$ ;
+)t$P
+)|$@
+)D$0
+;\$ r
+(D$0
+(|$@
+(t$P
+L$(H3
+`_^]
+D$(H
+L$(H3
+\$ L
+L$(H3
+D$(H
+\$ L
+L$(H3
+L$(H3
+t$ H
+WAVAWH
+f9t]
+\$HH
+l$PH
+t$XH
+ A_A^_
+\$0H
+t$8H
+\$0H
+t$ WH
+D$8H
+\$0H
+L$8H3
+\$`H
+t$hH
+T$(H
+L$(H
+L$0H
+L$(H
+L$0H
+L$ L
+L$0H
+L$ L
+L$ H
+t$ WH
+\$0H
+L$8H3
+\$`H
+t$hH
+T$(H
+L$(H
+L$0H
+L$(H
+L$0H
+L$ L
+L$0H
+L$ L
+L$ H
+t$ WH
+D$8H
+\$0H
+L$8H3
+\$`H
+t$hH
+T$(H
+L$(H
+L$0H
+L$(H
+L$0H
+L$ L
+L$0H
+L$ L
+L$ H
+UVWH
+T$ L
+UVWAVAWH
+T$ L
+A_A^_^]
+UVWH
+D$0H
+\$ H
+\$(H
+T$(H
+L$(H
+L$ H
+L$ H
+L$(H
+L$ H
+L$ H
+L$(H
+L$0H3
+\$pH
+@_^]
+UVWH
+D$0H
+\$ H
+\$(H
+T$(H
+L$(H
+L$ H
+L$ H
+L$(H
+L$ H
+L$ H
+L$(H
+L$0H3
+\$pH
+@_^]
+|$8L
+D$HH
+L$HH
+T$83
+|$8H
+\$0H
+t$@H
+t$ AWH
+\$PH
+t$XH
+|$`L
+t$hH
+|$8L
+|$0D
+|$(L
+|$ D
+|$8L
+|$0D
+t$(H
+t$ D
+UWAVH
+l$0H
+e A^_]
+D$(H
+D$ D
+t$(H
+|$ D
+\$0H
+\$0H
+x	;^Xu&H
+\$0H
+l$8H
+t$@H
+t!eH
+uxHc
+uTL+
+D$8H
+D$8H
+D$@H
+D$(H
+D$(H
+T$0H
+\$ WH
+T$PH
+L$XH
+T$PL
+L$0L
+L$`H
+L$(3
+\$hH
+@SVWH
+T$`H
+L$hH
+T$`L
+L$0L
+L$pH
+L$(3
+@_^[
+\$03
+\$@H
+x AVH
+\$0H
+l$8H
+t$@H
+|$HH
+ntelA
+GenuD
+ineI
+t(=`
+t!=p
+ w$H
+T$ H
+D$ "
+D$ $
+\$(3
+t$0H
+L$0L
+L$(H
+L$ 3
+L$PH
+D$PH
+D$@H
+D$H3
+L$ D
+ED$`H
+u0HcH<H
+;csm
+\$03
+\$ UH
+M H1E
+ H3E H3E
+\$HH
+\$0H
+\$0H
+D$`A
+L$`H3
+D$H3
+L$8H
+D$0H
+D$(H
+D$@E3
+L$@A
+L$HH3
+\$`H
+l$hH
+t$pH
+L$$A
+L$03
+L$ M
+\$0H
+l$8H
+t$@H
+WATAUAVAWH
+fD98u
+fD9<Bu
+fF9<Bu
+\$PH
+l$XH
+t$`H
+ A_A^A]A\_
+\$(D
+\$ 3
+tDE3
+\$ E3
+\$PH
+t$XH
+L$ H
+D$XM
+x AVH
+L$PI
+l$8H
+t$@H
+|$HH
+G$H;A$u
+\$0H
+t$8H
+L$ SWH
+D$ E3
+L$03
+t$ UWATAVAWH
+|$8D
+T$@L
+L$HH
+\$0H
+D$0A
+D$(E3
+D$0H
+L$0L
+D$PI
+L$0L
+L$0L
+D$<A
+L$0L
+D$PI
+T$PA
+L$0L
+D$PI
+L$0L
+D$PI
+T$PA
+L$0L
+D$PI
+t)fA;
+L$0I
+L$0E3
+L$8H
+D$0L
+L$0L
+D$PI
+L$0L
+L$0L
+L$0L
+D$PI
+L$0L
+L$0L
+L$PE
+L$0L
+D$PI
+T$PA
+L$0L
+D$PI
+T$PA
+L$0L
+D$PI
+A_A^A\_]
+t&L+
+x AVH
+D$ I
+t{I+
+uEIc
+fA9,Xu
+\$@H
+l$HH
+t$PH
+|$XH
+D$ H
+fA9,Xu
+\$HH
+l$PH
+t$XH
+D$ H
+t>H+
+\$@H
+t$HH
+	jXG
+jXG(8
+hjXL
+jXL)
+jXL)
+@jXL
+jXL)
+,"(3
+30& 
+x AVH
+\$0H
+l$8H
+t$@H
+|$HH
+SleepConditionVariableCS
+WakeAllConditionVariable
+bad allocation
+V"g/
+>#g/
+ADL2_Main_ControlX2_Create
+ADL2_Adapter_NumberOfAdapters_Get
+ADL2_Main_Control_Create
+ADL2_Main_Control_Destroy
+ADL2_Adapter_Primary_Get
+ADL2_Adapter_AdapterInfo_Get
+ADL2_Adapter_Active_Get
+ADL2_Adapter_RegValueInt_Get
+ADL2_Adapter_RegValueInt_Set
+ADL2_Adapter_RegValueString_Get
+ADL2_Adapter_RegValueString_Set
+ADL2_DFP_GPUScalingEnable_Set
+ADL2_DFP_GPUScalingEnable_Get
+ADL2_Display_PreservedAspectRatio_Set
+ADL2_Display_PreservedAspectRatio_Get
+ADL2_Display_ImageExpansion_Set
+ADL2_Display_ImageExpansion_Get
+ADL2_Display_DisplayInfo_Get
+ADL2_Adapter_AdapterInfoX4_Get
+ADL2_Display_FreeSyncState_Get
+ADL2_Display_FreeSyncState_Set
+ADL2_Display_Property_Get
+ADL2_Display_Property_Set
+ADL2_Display_ColorDepth_Get
+ADL2_Display_ColorDepth_Set
+ADL2_Display_PixelFormat_Get
+ADL2_Display_PixelFormat_Set
+ADL2_Display_ColorTemperatureSource_Get
+ADL2_Display_Color_Get
+ADL2_Display_Color_Set
+ADL2_Display_ColorTemperatureSource_Set
+ADL2_Chill_Settings_Set
+ADL2_Chill_Settings_Get
+ADL2_TurboSyncSupport_Get
+vector too long
+unordered_map/set too long
+invalid hash bucket count
+bad array new length
+	<	b	
+Unknown exception
+oobe
+FirstExperience
+string too long
+3)6{
+3)6{
+3)6{
+3)6{
+CTL_INTEL_ARC_SYNC_PROFILE_RECOMMENDED
+CTL_INTEL_ARC_SYNC_PROFILE_OFF
+SELECT * FROM Win32_VideoController
+SELECT InstanceName, VideoOutputTechnology FROM WmiMonitorConnectionParams
+ctlInit
+ctlClose
+ctlSetRuntimePath
+ctlWaitForPropertyChange
+ctlReservedCall
+ctlGetSupported3DCapabilities
+ctlGetSet3DFeature
+ctlCheckDriverVersion
+ctlEnumerateDevices
+ctlEnumerateDisplayOutputs
+ctlGetDeviceProperties
+ctlGetDisplayProperties
+ctlGetAdaperDisplayEncoderProperties
+ctlGetZeDevice
+ctlGetSharpnessCaps
+ctlGetCurrentSharpness
+ctlSetCurrentSharpness
+ctlI2CAccess
+ctlAUXAccess
+ctlGetPowerOptimizationCaps
+ctlGetPowerOptimizationSetting
+ctlSetPowerOptimizationSetting
+ctlPixelTransformationGetConfig
+ctlPixelTransformationSetConfig
+ctlPanelDescriptorAccess
+ctlGetSupportedRetroScalingCapability
+ctlGetSetRetroScaling
+ctlGetSupportedScalingCapability
+ctlGetCurrentScaling
+ctlSetCurrentScaling
+ctlGetLACEConfig
+ctlSetLACEConfig
+ctlSoftwarePSR
+ctlGetIntelArcSyncInfoForMonitor
+ctlGetIntelArcSyncProfile
+ctlSetIntelArcSyncProfile
+ctlEnumEngineGroups
+ctlEngineGetProperties
+ctlEngineGetActivity
+ctlEnumFans
+ctlFanGetProperties
+ctlFanGetConfig
+ctlFanSetDefaultMode
+ctlFanSetFixedSpeedMode
+ctlFanSetSpeedTableMode
+ctlFanGetState
+ctlEnumFrequencyDomains
+ctlFrequencyGetProperties
+ctlFrequencyGetAvailableClocks
+ctlFrequencyGetRange
+ctlFrequencySetRange
+ctlFrequencyGetState
+ctlFrequencyGetThrottleTime
+ctlGetSupportedVideoProcessingCapabilities
+ctlGetSetVideoProcessingFeature
+ctlEnumMemoryModules
+ctlMemoryGetProperties
+ctlMemoryGetState
+ctlMemoryGetBandwidth
+ctlOverclockGetProperties
+ctlOverclockWaiverSet
+ctlOverclockGpuFrequencyOffsetGet
+ctlOverclockGpuFrequencyOffsetSet
+ctlOverclockGpuVoltageOffsetGet
+ctlOverclockGpuVoltageOffsetSet
+ctlOverclockGpuLockGet
+ctlOverclockGpuLockSet
+ctlOverclockVramFrequencyOffsetGet
+ctlOverclockVramFrequencyOffsetSet
+ctlOverclockVramVoltageOffsetGet
+ctlOverclockVramVoltageOffsetSet
+ctlOverclockPowerLimitGet
+ctlOverclockPowerLimitSet
+ctlOverclockTemperatureLimitGet
+ctlOverclockTemperatureLimitSet
+ctlPowerTelemetryGet
+ctlPciGetProperties
+ctlPciGetState
+ctlEnumPowerDomains
+ctlPowerGetProperties
+ctlPowerGetEnergyCounter
+ctlPowerGetLimits
+ctlPowerSetLimits
+ctlEnumTemperatureSensors
+ctlTemperatureGetProperties
+ctlTemperatureGetState
+g_PreInitITS3GetStatus
+SELECT * FROM LENOVO_GAMEZONE_SMART_FAN_MODE_EVENT
+SELECT * FROM LENOVO_UTILITY_EVENT
+LenovoHotkeyService
+map/set too long
+ValidateAssembly
+ValidateCertFile
+i-gS
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+Y+{	a
+<Module>
+ModuleLoadException
+<CrtImplementationDetails>
+ModuleLoadExceptionHandlerException
+ModuleUninitializer
+__scrt_native_startup_state
+TriBool
+Progress
+_GUID
+IUnknown
+LanguageSupport
+gcroot<System::String ^>
+__s_GUID
+$ArrayType$$$BY0A@P6AHXZ
+<CppImplementationDetails>
+ICLRRuntimeHost
+$ArrayType$$$BY00Q6MPEBXXZ
+$ArrayType$$$BY0A@P6AXXZ
+ICorRuntimeHost
+ThisModule
+_EXCEPTION_POINTERS
+KERNEL32.dll
+mscorlib
+BlurSwitchCS
+System.Data
+System
+System.Xml
+Microsoft.Win32.Primitives
+netstandard
+System.AppContext
+System.Collections.Concurrent
+System.Collections
+System.Collections.NonGeneric
+System.Collections.Specialized
+System.ComponentModel.Annotations
+System.ComponentModel
+System.ComponentModel.EventBasedAsync
+System.ComponentModel.Primitives
+System.ComponentModel.TypeConverter
+System.Console
+System.Data.Common
+System.Diagnostics.Contracts
+System.Diagnostics.Debug
+System.Diagnostics.FileVersionInfo
+System.Diagnostics.Process
+System.Diagnostics.StackTrace
+System.Diagnostics.TextWriterTraceListener
+System.Diagnostics.Tools
+System.Diagnostics.TraceSource
+System.Drawing.Primitives
+System.Dynamic.Runtime
+System.Globalization.Calendars
+System.Globalization
+System.Globalization.Extensions
+System.IO.Compression.ZipFile
+System.IO
+System.IO.FileSystem
+System.IO.FileSystem.DriveInfo
+System.IO.FileSystem.Primitives
+System.IO.FileSystem.Watcher
+System.IO.IsolatedStorage
+System.IO.MemoryMappedFiles
+System.IO.Pipes
+System.IO.UnmanagedMemoryStream
+System.Linq
+System.Linq.Expressions
+System.Linq.Parallel
+System.Linq.Queryable
+System.Net.Http.Rtc
+System.Net.NameResolution
+System.Net.NetworkInformation
+System.Net.Ping
+System.Net.Primitives
+System.Net.Requests
+System.Net.Security
+System.Net.Sockets
+System.Net.WebHeaderCollection
+System.Net.WebSockets.Client
+System.Net.WebSockets
+System.ObjectModel
+System.Reflection
+System.Reflection.Emit
+System.Reflection.Emit.ILGeneration
+System.Reflection.Emit.Lightweight
+System.Reflection.Extensions
+System.Reflection.Primitives
+System.Resources.Reader
+System.Resources.ResourceManager
+System.Resources.Writer
+System.Runtime.CompilerServices.VisualC
+System.Runtime
+System.Runtime.Extensions
+System.Runtime.Handles
+System.Runtime.InteropServices
+System.Runtime.InteropServices.RuntimeInformation
+System.Runtime.InteropServices.WindowsRuntime
+System.Runtime.Numerics
+System.Runtime.Serialization.Formatters
+System.Runtime.Serialization.Json
+System.Runtime.Serialization.Primitives
+System.Runtime.Serialization.Xml
+System.Security.Claims
+System.Security.Cryptography.Algorithms
+System.Security.Cryptography.Csp
+System.Security.Cryptography.Encoding
+System.Security.Cryptography.Primitives
+System.Security.Cryptography.X509Certificates
+System.Security.Principal
+System.Security.SecureString
+System.ServiceModel.Duplex
+System.ServiceModel.Http
+System.ServiceModel.NetTcp
+System.ServiceModel.Primitives
+System.ServiceModel.Security
+System.Text.Encoding
+System.Text.Encoding.Extensions
+System.Text.RegularExpressions
+System.Threading
+System.Threading.Overlapped
+System.Threading.Tasks
+System.Threading.Tasks.Parallel
+System.Threading.Thread
+System.Threading.ThreadPool
+System.Threading.Timer
+System.ValueTuple
+System.Xml.ReaderWriter
+System.Xml.XDocument
+System.Xml.XmlDocument
+System.Xml.XmlSerializer
+System.Xml.XPath
+System.Xml.XPath.XDocument
+CallConvCdecl
+System.Runtime.CompilerServices
+DecoratedNameAttribute
+NativeCppClassAttribute
+ValueType
+ToggleBlurSwitch
+SecurityAction
+System.Security.Permissions
+SecurityPermissionAttribute
+AssemblyAttributesGoHereSM
+IsConst
+Enum
+Exception
+SerializationInfo
+System.Runtime.Serialization
+StreamingContext
+SecurityCriticalAttribute
+System.Security
+Object
+Stack
+EventHandler
+SecuritySafeCriticalAttribute
+EventArgs
+PrePrepareMethodAttribute
+System.Runtime.ConstrainedExecution
+IDisposable
+AppDomain
+UnsafeValueTypeAttribute
+Int32
+IsImplicitlyDereferenced
+IsLong
+Guid
+DebuggerStepThroughAttribute
+System.Diagnostics
+ReliabilityContractAttribute
+Consistency
+IEnumerator
+FixedAddressValueTypeAttribute
+GCHandle
+Interlocked
+Monitor
+RuntimeEnvironment
+Marshal
+RuntimeHelpers
+Delegate
+Type
+String
+IntPtr
+RuntimeTypeHandle
+SecurityRulesAttribute
+SecurityRuleSet
+AssemblyAttributesGoHere
+IsBoxed
+HandleProcessCorruptedStateExceptionsAttribute
+System.Runtime.ExceptionServices
+SuppressUnmanagedCodeSecurityAttribute
+ModuleHandle
+RuntimeMethodHandle
+Module
+BlurSwitchCLR.BlurSwitchCLR.Switch
+<CrtImplementationDetails>.ThrowNestedModuleLoadException
+innerException
+nestedException
+<CrtImplementationDetails>.ThrowModuleLoadException
+errorMessage
+<CrtImplementationDetails>.RegisterModuleUninitializer
+handler
+<CrtImplementationDetails>.FromGUID
+guid
+__get_default_appdomain
+ppUnk
+__release_appdomain
+<CrtImplementationDetails>.GetDefaultDomain
+<CrtImplementationDetails>.DoCallBackInDefaultDomain
+function
+cookie
+__scrt_is_safe_for_managed_code
+value
+<CrtImplementationDetails>.DefaultDomain.DoNothing
+<CrtImplementationDetails>.DefaultDomain.HasPerProcess
+<CrtImplementationDetails>.DefaultDomain.HasNative
+<CrtImplementationDetails>.DefaultDomain.NeedsInitialization
+<CrtImplementationDetails>.DefaultDomain.NeedsUninitialization
+<CrtImplementationDetails>.DefaultDomain.Initialize
+?A0xfe34a43c.??__E?Initialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA@@YMXXZ
+?A0xfe34a43c.??__E?Uninitialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA@@YMXXZ
+?A0xfe34a43c.??__E?IsDefaultDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2_NA@@YMXXZ
+?A0xfe34a43c.??__E?InitializedVtables@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+?A0xfe34a43c.??__E?InitializedNative@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+?A0xfe34a43c.??__E?InitializedPerProcess@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+?A0xfe34a43c.??__E?InitializedPerAppDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+<CrtImplementationDetails>.LanguageSupport.InitializeVtables
+<CrtImplementationDetails>.LanguageSupport.InitializeDefaultAppDomain
+<CrtImplementationDetails>.LanguageSupport.InitializeNative
+<CrtImplementationDetails>.LanguageSupport.InitializePerProcess
+<CrtImplementationDetails>.LanguageSupport.InitializePerAppDomain
+<CrtImplementationDetails>.LanguageSupport.InitializeUninitializer
+<CrtImplementationDetails>.LanguageSupport._Initialize
+<CrtImplementationDetails>.LanguageSupport.UninitializeAppDomain
+<CrtImplementationDetails>.LanguageSupport._UninitializeDefaultDomain
+<CrtImplementationDetails>.LanguageSupport.UninitializeDefaultDomain
+<CrtImplementationDetails>.LanguageSupport.DomainUnload
+<CrtImplementationDetails>.LanguageSupport.Cleanup
+<CrtImplementationDetails>.LanguageSupport.{ctor}
+<CrtImplementationDetails>.LanguageSupport.{dtor}
+<CrtImplementationDetails>.LanguageSupport.Initialize
+.cctor
+gcroot<System::String ^>..PE$AAVString@System@@
+gcroot<System::String ^>.=
+gcroot<System::String ^>.{dtor}
+gcroot<System::String ^>.{ctor}
+<CrtImplementationDetails>.AtExitLock._handle
+<CrtImplementationDetails>.AtExitLock._lock_Construct
+<CrtImplementationDetails>.AtExitLock._lock_Set
+<CrtImplementationDetails>.AtExitLock._lock_Get
+<CrtImplementationDetails>.AtExitLock._lock_Destruct
+<CrtImplementationDetails>.AtExitLock.IsInitialized
+<CrtImplementationDetails>.AtExitLock.AddRef
+<CrtImplementationDetails>.AtExitLock.RemoveRef
+?A0xca49281b.__alloc_global_lock
+?A0xca49281b.__dealloc_global_lock
+_exit_callback
+_initatexit_m
+_initatexit_app_domain
+_app_exit_callback
+DecodePointer
+_Ptr
+EncodePointer
+_initterm_e
+pfbegin
+pfend
+_initterm
+<CrtImplementationDetails>.ThisModule.Handle
+_initterm_m
+<CrtImplementationDetails>.ThisModule.ResolveMethod<void const * __clrcall(void)>
+methodToken
+___CxxCallUnwindDtor
+pDtor
+pThis
+wWinMainCRTStartup
+_getFiberPtrId
+_cexit
+Sleep
+abort
+__security_init_cookie
+__FrameUnwindFilter
+__m2mep@?Switch@BlurSwitchCLR@1@$$FSAHXZ
+__@@_PchSym_@00@UfhvihUbbUwldmolzwhUzkkhvierxvxorvmgCUzkkhvierxvxorvmgUyofihdrgxsxoiUcGEUivovzhvUkxsOlyq@4B2008FD98C1DD4
+_GUID_cb2f6723_ab3a_11d2_9c40_00c04fa30a3e
+_GUID_cb2f6722_ab3a_11d2_9c40_00c04fa30a3e
+?Uninitialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA
+?A0xfe34a43c.?Uninitialized$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZEA
+?InitializedNative@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?A0xfe34a43c.?InitializedNative$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZEA
+_GUID_90f1a06c_7712_4762_86b5_7a5eba6bdb02
+_GUID_90f1a06e_7712_4762_86b5_7a5eba6bdb02
+?InitializedPerAppDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?Entered@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?hasNative@DefaultDomain@<CrtImplementationDetails>@@0W4TriBool@2@A
+?InitializedPerProcess@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?Count@AllDomains@<CrtImplementationDetails>@@2HA
+?Initialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA
+?InitializedNativeFromCCTOR@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?IsDefaultDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2_NA
+?InitializedVtables@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?InitializedNative@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?InitializedPerProcess@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?hasPerProcess@DefaultDomain@<CrtImplementationDetails>@@0W4TriBool@2@A
+__xc_mp_z
+__xi_vt_z
+?A0xfe34a43c.?InitializedPerProcess$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZEA
+__xc_ma_a
+__xc_ma_z
+?A0xfe34a43c.?InitializedPerAppDomain$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZEA
+__xi_vt_a
+?A0xfe34a43c.?Initialized$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZEA
+__xc_mp_a
+?A0xfe34a43c.?InitializedVtables$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZEA
+?A0xfe34a43c.?IsDefaultDomain$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZEA
+__m2mep@?DoNothing@DefaultDomain@<CrtImplementationDetails>@@$$FCAJPEAX@Z
+__m2mep@?_UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@$$FCAJPEAX@Z
+__unep@?DoNothing@DefaultDomain@<CrtImplementationDetails>@@$$FCAJPEAX@Z
+__unep@?_UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@$$FCAJPEAX@Z
+?A0xca49281b.__onexitbegin_m
+?A0xca49281b.__exit_list_size
+__onexitend_app_domain
+?_lock@AtExitLock@<CrtImplementationDetails>@@$$Q0PEAXEA
+?_ref_count@AtExitLock@<CrtImplementationDetails>@@$$Q0HA
+?A0xca49281b.__onexitend_m
+__exit_list_size_app_domain
+__onexitbegin_app_domain
+__xi_z
+__scrt_current_native_startup_state
+__scrt_native_startup_lock
+__xc_a
+__xi_a
+__scrt_native_dllmain_reason
+__xc_z
+.ctor
+info
+context
+message
+Nested
+get_NestedException
+set_NestedException
+__set_formal
+ToString
+GetObjectData
+formatString
+<backing_store>NestedException
+NestedException
+AddHandler
+SingletonDomainUnload
+source
+arguments
+lock
+_ModuleUninitializer
+value__
+<alignment member>
+Switch
+Increment
+Decrement
+Exchange
+CompareExchange
+Enter
+Exit
+GetRuntimeInterfaceAsIntPtr
+Alloc
+Free
+op_Explicit
+get_Target
+set_Target
+ThrowExceptionForHR
+GetHRForException
+GetObjectForIUnknown
+PrepareDelegate
+PrepareConstrainedRegions
+AddValue
+GetValue
+KeepAlive
+Format
+Empty
+ToPointer
+Dispose
+Invoke
+GetType
+get_Message
+get_InnerException
+IsDefaultAppDomain
+get_CurrentDomain
+get_Id
+add_ProcessExit
+add_DomainUnload
+GetTypeFromHandle
+GetEnumerator
+Push
+MoveNext
+get_Current
+FromIntPtr
+ToIntPtr
+AllocHGlobal
+FreeHGlobal
+ResolveMethodHandle
+GetFunctionPointer
+get_Module
+get_ModuleHandle
+GetExceptionPointers
+FnHotkeyUtility
+FnHotkeyUtility.exe
+lo)W
+U,H 
+=oj%
+MYo&
+ATTM
+qy5]baS
+s6ya
+8d@]
+I[I#
+qwaE|t
+/#~^
+:shg
+\NU-
+ M?r
+I\xg
+F,U[
+#n	5
+`d]b
+ % %
+ % %
+( % %
+ % %
+, % %
+ % %
+, % %
+ % %
+ % %
+ % %
+SkipVerification
+System.Security.Permissions.SecurityPermissionAttribute, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+UnmanagedCode
+System.Security.Permissions.SecurityPermissionAttribute, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+SkipVerification
+RSDS
+E:\LUT-LENSU-LEN\SvcSrc\LenovoKBDHetkey\Bin\x64\Release\FnHotkeyUtility.pdb
+GCTL
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.nep
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.CRTMA$XCA
+.CRTMA$XCC
+.CRTMA$XCZ
+.CRTMP$XCA
+.CRTMP$XCZ
+.CRTVT$XCA
+.CRTVT$XCZ
+.rdata
+.rdata$T
+.rdata$ilfixup
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.bss
+.pdata
+.rsrc$01
+.rsrc$02
+ (08@HP
+p2@%
+`2@%
+FnHotkeyUtility.exe
+ctlAUXAccess
+ctlCheckDriverVersion
+ctlClose
+ctlEngineGetActivity
+ctlEngineGetProperties
+ctlEnumEngineGroups
+ctlEnumFans
+ctlEnumFrequencyDomains
+ctlEnumMemoryModules
+ctlEnumPowerDomains
+ctlEnumTemperatureSensors
+ctlEnumerateDevices
+ctlEnumerateDisplayOutputs
+ctlFanGetConfig
+ctlFanGetProperties
+ctlFanGetState
+ctlFanSetDefaultMode
+ctlFanSetFixedSpeedMode
+ctlFanSetSpeedTableMode
+ctlFrequencyGetAvailableClocks
+ctlFrequencyGetProperties
+ctlFrequencyGetRange
+ctlFrequencyGetState
+ctlFrequencyGetThrottleTime
+ctlFrequencySetRange
+ctlGetAdaperDisplayEncoderProperties
+ctlGetCurrentScaling
+ctlGetCurrentSharpness
+ctlGetDeviceProperties
+ctlGetDisplayProperties
+ctlGetIntelArcSyncInfoForMonitor
+ctlGetIntelArcSyncProfile
+ctlGetLACEConfig
+ctlGetPowerOptimizationCaps
+ctlGetPowerOptimizationSetting
+ctlGetSet3DFeature
+ctlGetSetRetroScaling
+ctlGetSetVideoProcessingFeature
+ctlGetSharpnessCaps
+ctlGetSupported3DCapabilities
+ctlGetSupportedRetroScalingCapability
+ctlGetSupportedScalingCapability
+ctlGetSupportedVideoProcessingCapabilities
+ctlGetZeDevice
+ctlI2CAccess
+ctlInit
+ctlMemoryGetBandwidth
+ctlMemoryGetProperties
+ctlMemoryGetState
+ctlOverclockGetProperties
+ctlOverclockGpuFrequencyOffsetGet
+ctlOverclockGpuFrequencyOffsetSet
+ctlOverclockGpuLockGet
+ctlOverclockGpuLockSet
+ctlOverclockGpuVoltageOffsetGet
+ctlOverclockGpuVoltageOffsetSet
+ctlOverclockPowerLimitGet
+ctlOverclockPowerLimitSet
+ctlOverclockTemperatureLimitGet
+ctlOverclockTemperatureLimitSet
+ctlOverclockVramFrequencyOffsetGet
+ctlOverclockVramFrequencyOffsetSet
+ctlOverclockVramVoltageOffsetGet
+ctlOverclockVramVoltageOffsetSet
+ctlOverclockWaiverSet
+ctlPanelDescriptorAccess
+ctlPciGetProperties
+ctlPciGetState
+ctlPixelTransformationGetConfig
+ctlPixelTransformationSetConfig
+ctlPowerGetEnergyCounter
+ctlPowerGetLimits
+ctlPowerGetProperties
+ctlPowerSetLimits
+ctlPowerTelemetryGet
+ctlReservedCall
+ctlSetCurrentScaling
+ctlSetCurrentSharpness
+ctlSetIntelArcSyncProfile
+ctlSetLACEConfig
+ctlSetPowerOptimizationSetting
+ctlSetRuntimePath
+ctlSoftwarePSR
+ctlTemperatureGetProperties
+ctlTemperatureGetState
+ctlWaitForPropertyChange
+CreateCompatibleDC
+CreateDIBSection
+SelectObject
+DeleteObject
+DeleteDC
+GDI32.dll
+LoadLibraryExW
+QueryFullProcessImageNameW
+GetCurrentProcess
+OutputDebugStringW
+LoadLibraryW
+GetProcAddress
+FreeLibrary
+LocalAlloc
+LocalFree
+SetLastError
+GetLastError
+GetTickCount64
+Sleep
+lstrcmpiW
+OpenProcess
+CloseHandle
+CreateToolhelp32Snapshot
+Process32FirstW
+Process32NextW
+ProcessIdToSessionId
+GetModuleHandleW
+GetUserPreferredUILanguages
+HeapAlloc
+GetProcessHeap
+HeapFree
+GetCurrentProcessId
+GetVersionExW
+CreateThread
+HeapDestroy
+HeapSize
+HeapReAlloc
+RaiseException
+SizeofResource
+LockResource
+LoadResource
+FindResourceExW
+FindResourceW
+InitializeCriticalSectionEx
+DeleteCriticalSection
+CreateFileW
+CreateEventW
+DeviceIoControl
+SetEvent
+WTSGetActiveConsoleSessionId
+WaitForSingleObject
+ResetEvent
+GlobalAlloc
+GlobalLock
+GlobalUnlock
+GlobalFree
+FreeResource
+lstrlenW
+LocalReAlloc
+GetUserDefaultUILanguage
+WriteFile
+CreateDirectoryW
+GetModuleFileNameW
+SetThreadPriority
+GetCurrentThread
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSection
+MultiByteToWideChar
+GetSystemDirectoryW
+GetTempPathW
+SetFilePointer
+GetLocalTime
+FindPackagesByPackageFamily
+PackageIdFromFullName
+K32EnumProcesses
+ReadFile
+GetFullPathNameW
+VerSetConditionMask
+VerifyVersionInfoW
+KERNEL32.dll
+SendInput
+GetClassNameW
+GetForegroundWindow
+GetWindowThreadProcessId
+WaitForInputIdle
+GetDesktopWindow
+SetFocus
+BringWindowToTop
+SetForegroundWindow
+SetWindowPos
+LoadStringW
+EnumDisplaySettingsW
+ChangeDisplaySettingsExW
+GetDisplayConfigBufferSizes
+QueryDisplayConfig
+SetDisplayConfig
+EnumDisplayDevicesW
+RegisterRawInputDevices
+FindWindowW
+LoadAcceleratorsW
+GetMessageW
+TranslateAcceleratorW
+TranslateMessage
+DispatchMessageW
+LoadCursorW
+RegisterClassExW
+CreateWindowExW
+ShowWindow
+UpdateWindow
+SetProcessDPIAware
+SetTimer
+DestroyWindow
+DefWindowProcW
+BeginPaint
+EndPaint
+PostQuitMessage
+KillTimer
+DialogBoxParamW
+EndDialog
+IsWindowVisible
+GetRawInputDeviceInfoW
+GetRawInputData
+SetWindowLongW
+GetWindowLongW
+GetSystemMetrics
+MoveWindow
+GetWindowRect
+GetDC
+UpdateLayeredWindow
+IsWindow
+PostMessageW
+GetKeyState
+SwitchToThisWindow
+USER32.dll
+RegOpenKeyExW
+RegQueryValueExW
+RegCloseKey
+RegQueryInfoKeyW
+RegEnumValueW
+RegEnumKeyExW
+RegCreateKeyExW
+RegFlushKey
+RegSetValueExW
+OpenSCManagerW
+OpenServiceW
+CloseServiceHandle
+ControlService
+RegGetValueW
+CryptReleaseContext
+CryptGetHashParam
+CryptDestroyHash
+CryptHashData
+CryptCreateHash
+CryptAcquireContextW
+ADVAPI32.dll
+SHGetFolderPathW
+ShellExecuteExW
+ShellExecuteW
+SHELL32.dll
+CoCreateInstance
+CoTaskMemFree
+CoInitializeEx
+CoUninitialize
+CoInitialize
+OleRun
+CoInitializeSecurity
+CoSetProxyBlanket
+CreateStreamOnHGlobal
+CoFreeUnusedLibrariesEx
+PropVariantClear
+StringFromGUID2
+ole32.dll
+BSTR_UserUnmarshal64
+LPSAFEARRAY_UserFree64
+LPSAFEARRAY_UserMarshal64
+LPSAFEARRAY_UserUnmarshal64
+BSTR_UserFree64
+BSTR_UserSize64
+LPSAFEARRAY_UserSize64
+BSTR_UserMarshal64
+OLEAUT32.dll
+StrCmpW
+SHGetValueW
+StrCmpNIW
+StrChrW
+StrToIntExW
+StrRChrW
+PathIsDirectoryW
+PathFileExistsW
+SHSetValueW
+StrCmpIW
+StrStrIW
+SHLWAPI.dll
+?_Xlength_error@std@@YAXPEBD@Z
+?_Throw_C_error@std@@YAXH@Z
+_Mtx_init_in_situ
+_Mtx_destroy_in_situ
+_Mtx_lock
+_Mtx_unlock
+?_Xbad_function_call@std@@YAXXZ
+MSVCP140.dll
+GdipAlloc
+GdipFree
+GdipDisposeImage
+GdipCloneImage
+GdipLoadImageFromStream
+GdiplusStartup
+GdiplusShutdown
+GdipGetImageWidth
+GdipGetImageHeight
+GdipCreateFromHDC
+GdipDeleteGraphics
+GdipSetPageScale
+GdipSetPageUnit
+GdipSetSmoothingMode
+GdipDrawImageRectI
+GdipReleaseDC
+gdiplus.dll
+WTSQuerySessionInformationW
+WTSFreeMemory
+WTSAPI32.dll
+GetFileVersionInfoSizeW
+GetFileVersionInfoW
+VerQueryValueW
+VERSION.dll
+SetupDiGetClassDevsW
+SetupDiEnumDeviceInterfaces
+SetupDiGetDeviceInterfaceDetailW
+SetupDiGetDeviceRegistryPropertyW
+SetupDiDestroyDeviceInfoList
+SETUPAPI.dll
+trackEvent2
+finish
+initialize2
+ludp.dll
+RpcBindingFromStringBindingW
+RpcStringBindingComposeW
+RpcStringFreeW
+RpcBindingFree
+NdrClientCall3
+NdrServerCallAll
+NdrServerCall2
+RPCRT4.dll
+HidD_GetAttributes
+HidD_GetPreparsedData
+HidP_GetCaps
+HidD_FreePreparsedData
+HidD_GetFeature
+HID.DLL
+WinVerifyTrust
+WINTRUST.dll
+__std_exception_copy
+__std_exception_destroy
+wcschr
+wcsstr
+__C_specific_handler
+wcsrchr
+__CxxFrameHandler4
+__std_terminate
+_CxxThrowException
+memset
+memmove
+__current_exception
+__current_exception_context
+memcpy
+VCRUNTIME140.dll
+VCRUNTIME140_1.dll
+_invalid_parameter_noinfo_noreturn
+free
+malloc
+_wsplitpath_s
+_wmakepath_s
+__stdio_common_vswprintf
+_invalid_parameter_noinfo
+_errno
+_wcsicmp
+_beginthreadex
+__stdio_common_vswprintf_s
+_wcsnicmp
+wcsncpy_s
+_wtoi
+wcscpy_s
+wcscat_s
+_wcslwr_s
+wcsnlen
+_callnewh
+_initialize_onexit_table
+_register_onexit_function
+_crt_atexit
+_cexit
+_seh_filter_exe
+_set_app_type
+__setusermatherr
+_configure_wide_argv
+_initialize_wide_environment
+_get_wide_winmain_command_line
+_initterm
+_initterm_e
+exit
+_exit
+_set_fmode
+_c_exit
+_register_thread_local_exe_atexit_callback
+_configthreadlocale
+_set_new_mode
+__p__commode
+terminate
+wcsncmp
+memcpy_s
+bsearch
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-utility-l1-1-0.dll
+WideCharToMultiByte
+IsDebuggerPresent
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+TerminateProcess
+IsProcessorFeaturePresent
+InitializeCriticalSectionAndSpinCount
+WaitForSingleObjectEx
+GetStartupInfoW
+QueryPerformanceCounter
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+MapViewOfFile
+CreateFileMappingW
+UnmapViewOfFile
+GetLocaleInfoW
+GetSystemDefaultUILanguage
+SearchPathW
+__FrameUnwindFilter
+abort
+ceilf
+log10
+_CorExeMain
+mscoree.dll
+.?AV_com_error@@
+.?AVbad_array_new_length@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AV<lambda_9b6c218b6ccadab7254fad613b70932b>@@
+.?AVtype_info@@
+.?AVCWin32Heap@ATL@@
+.?AUIAtlMemMgr@ATL@@
+.?AVCAtlStringMgr@ATL@@
+.?AUIAtlStringMgr@ATL@@
+.?AVCDolbyDAX@DAX@@
+.?AVImage@Gdiplus@@
+.?AVGdiplusBase@Gdiplus@@
+.?AVZRegistry@@
+.?AUIUnknown@@
+.?AVCMoniterWmiGetFnQ@@
+.?AUIWbemObjectSink@@
+.?AVCMoniterWmiUtilityEvent@@
+.?AV?$_Func_impl_no_alloc@V<lambda_9b6c218b6ccadab7254fad613b70932b>@@XPEAUtagINPUT@@@std@@
+.?AV?$_Func_base@XPEAUtagINPUT@@@std@@
+.?AVCMMPlatform@@
+.?AVCMMControlNotify@@
+.?AUIAudioEndpointVolumeCallback@@
+.?AUIControlChangeNotify@@
+.?AVCMMEndpointNotify@@
+.?AUIMMNotificationClient@@
+.?AVCMMLineControl@@
+.?AVCMMEndpointLineControl@@
+xxxxxxxxxxxx
+wxxxx
+xxxxx
+~~~~~~~~~~~~~~
+ "! 
+ !! 
+ "! 
+ '((& 
+ &((& 
+ &((& 
+"(..(!
+"(..(!
+"(..(!
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)00)"
+#)0/)"
+#)0/)"
+#)00)#
+#)0/)#
+#)0/)"
+#)00*$
+#)00*$
+%*0/)"
+#)00,'
+#)00+'
+ '+?/)"
+#)0?-)'$##""! 
+#)??-)'%##%')-?/)"
+#)0?/-,*))))(& 
+#)0?/-,*))*,-/?/)"
+#)0????00//0.(!
+#)0???00000????/)"
+#)0????00000.(!
+"(.000000000000.(!
+#)0?/-,**)))(& 
+ ')))))))))))))(' 
+#)0?-*'%##### 
+ "############" 
+#)00+' 
+#)00*$
+#)0/)#
+#)0/)#
+#)00*$
+#)0?+'
+#)0?-)'%####"""! 
+#)0?/-,*)))))))(& 
+#)0????0000000/.(!
+#(.000000000000.(!
+ ')))))))))))))(' 
+ "############" 
+xxxxxxxxxxxx
+wxxxx
+xxxxx
+~~~~~~~~~~~~~~
+ "! 
+ !! 
+ "! 
+ '((& 
+ &((& 
+ &((& 
+"(..(!
+"(..(!
+"(..(!
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)0/)"
+#)00)"
+#)0/)"
+#)0/)"
+#)00)#
+#)0/)#
+#)0/)"
+#)00*$
+#)00*$
+%*0/)"
+#)00,'
+#)00+'
+ '+?/)"
+#)0?-)'$##""! 
+#)??-)'%##%')-?/)"
+#)0?/-,*))))(& 
+#)0?/-,*))*,-/?/)"
+#)0????00//0.(!
+#)0???00000????/)"
+#)0????00000.(!
+"(.000000000000.(!
+#)0?/-,**)))(& 
+ ')))))))))))))(' 
+#)0?-*'%##### 
+ "############" 
+#)00+' 
+#)00*$
+#)0/)#
+#)0/)#
+#)00*$
+#)0?+'
+#)0?-)'%####"""! 
+#)0?/-,*)))))))(& 
+#)0????0000000/.(!
+#(.000000000000.(!
+ ')))))))))))))(' 
+ "############" 
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+siTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151481, 2013/03/13-12:09:15        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:10286F601B9C11E48CD0F67E46B2B330" xmpMM:InstanceID="xmp.iid:10286F5F1B9C11E48CD0F67E46B2B330" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:227f0dce-e726-49e4-988d-c074394ac3bc" stRef:documentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+ j-.
+	XDd
+7%59
+F7//
+	L%Hn
+---)
+hNPo
+DSSSK
+4Kd*
+}{+4
+h"P_
+^[OO
+*((h
+Zijj
+IGGg
+&	AA
+hz(^
+q=8EXVV
+<p +;;[
+f:zQm
+o&&&
+T`?eJ
+rVyy
+I8vtvv
+gfeu
+rrr*CBBJT
+}{Ibbb
+jPvW
+VMMMO
+abbb
+{,""pG@@6
+wUTT
+.MOO
+_9::
+\<5`
+:::V
+bE8)
+aaaG455
+[w %%
+ILHJ
+vPII
+\#e,--?$,%
+qppp
+tivuq
+]rsssM
+';a3
+ynCC
+D%0I
+=T}}=
+]~, ,
+qMB"d
+K?655]
+A>1J
+uNee
+LwrZ
+2n#;;
+/!!a
+y<^=
+3X__
+lllb
+enhh
+_PPp
+>Cl$
+U\aaa
+4<0B
+Jmm-)==
+3EKK
+edLA.
+xRRR
+`ooogii
+AAA9
+z555
+g}QQQ
+Y,VU
+:88!
+SWWw
+Fyyy
+c`A7
+~^HG
+^ZZ*
+MpIr
+:\oKK
+ZYYY*
+MMM]
+eJ:F[[[
+nUUUV~~~
+wSSK
+NCCC
+S~A!!!
+23''
+d];1!
+QLs)/?
+->>~
+Fxh~vv
+eee}%+
+.DDl
+.^<z`
+fxxx
+$e{D
+0 ##c9r
+l'M:B
++**J
+?5mmm-
+p(,l
+<Y:i
+>sfOKKK
+o751
+Yc>}
+LcMMM=
+U]YYYV
+}zkk
+'xSR
+)S}@!a
+*E7K<v
+(TWW
+0aBUpp
+kojj
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+siTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151481, 2013/03/13-12:09:15        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:57ACBDAD1B9D11E48CD0F67E46B2B330" xmpMM:InstanceID="xmp.iid:57ACBDAC1B9D11E48CD0F67E46B2B330" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:227f0dce-e726-49e4-988d-c074394ac3bc" stRef:documentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>i
+IDATx
+0	cd
+/Q&M
++Q[[
+ZJR"
+L%Id)++K
+uPUU-
+NRSenn.	
+{zzVP
+BZZZ
+"X&''
+(QYYI9Cz/
+L!!!
++++i\"Y
+(`:/
+_999
+k%%%-
+V)))
+1?[ii
+.***F
+177W!
+5%%%9
+ZhmM
+	"999
+/^<144t
+Ow!@
+`xi1
+E***NC
+222f
+mbZ&xysF
+-TPP
+c+X^TT
+==--
+BwQ 
+2d%A
+>qqvv
+-11q
+.L#L
+4TIb
+%%%?
+)N,'
+yrrrZ
+^S^^
+"0;;
+GGGG
+fff~7n
+[6oN
+bdt`
+v&\&
+7!!|
+e'pP
+\.wj
+0///
+c<g\]
+l'RSS3
+ff	&
+B}O&<<|
+K/7r
+WE/N
+r?II
+_SUUU
+JAC4n%
+		yTPP
+GNMM
+y%%%
+9>>>
+Vz{y
+\/<NOO
+$)))
+8.g*
+kedd
+5%%%
+[AAA
+@(3s
+j\m#
+iN#m
+t^EEe
+0}~FF
+	@PpP
+L777Wi
+:._~U`	
+@PnnniVVV2S
+P;N;U]
+V1Ahii
+>/3339;;
+Nfp>
+yzzz
+TSS3URR
+={vm
+[UY)mh`
+3SSVg
+z1XBy
+05u;
+Q`)K
+JIJ*\MJ
+caqqnK
+q8Vm
+TT\\
+Zk5u
+#D}1a
+LLL<
+Wa15
+<UZZZm
+x>!a
+=UUU#YY
+LI(++
+)6vo
+1(XC
+)X-X
+L27?
+|p**'~
++..~
+kdff^
+.sqq
+@EEEC^^
+YUU1
+yyyO3
+MsP0
+!Uu!
+%h1j
+3BWw4
+XJh	g
+u)z<be	
+'lGeKNN"
+$(kH
+	X+y
+%){H
+d	BRs
+l!cu
+vJII
+*eee	==
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+siTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151481, 2013/03/13-12:09:15        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:4CA39F611B9C11E48CD0F67E46B2B330" xmpMM:InstanceID="xmp.iid:4CA39F601B9C11E48CD0F67E46B2B330" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:227f0dce-e726-49e4-988d-c074394ac3bc" stRef:documentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>4
+IDATx
+	XSG
+V-n-
+1lzX]
+\imm-
+ejjJsvv
+3g$X
+Viii
+dCww
+(??_
+X3Rt
+UT4t	
+7tuuix
+pqaa
+@QMMM
+?}ss
+qNll
+:z{{
+DQQQ
+H)&&f$
+og333
+8EV\\
+\777
+jm~C>
+fdfVK
+S;j)
+.Cer[
+|fM?srr
+>~~~
+BdG*=+x
+NJ:t
+wVVV
+InUU
+wuu=
+9YQQ
+!fff
+v ///
+78!=--
+pqqy
++sKJJD
+:s.>>
+|2gN
+irK2{
+xW._~
+X7=p
+wdI-2@
+APSS
+d[(m
+:9:88
+knN	
+leFFF
+5@$u-ir@
+T2N2
+BZj*;>>
+TLLc
+v#3,,L
+	I^^^
+`ffD
+V,))
+S###]
+'!!a
+bF{x,$
+n)++[
+PXXx
+qEiii:
+xq7''
+N`Sb
+ d`+
+Bbj0
+f/t>X=
+	TL&
+uuu|5
+YYYY&
+w2|LY
+KJJJU}naa
+amm=
+C'#vOE
+fff}
+$-((PY
+\vvv^
+1'O&
+z	Y/Y
+	Omi<
+}}}2
+mj@jaQQ
+G&Gq
+\vUUU
+>5"C
+~~1m!
+/33s
+kjZZ
+KJj~
+]b*%
+(>>~
+|oMM
+:yyy	
+em}b
+6lQFF
+<Y*_~
+FFwh#x
+y92"B
+AB-z
+:zxx
+Cd5N
+s&=*
+Z(RE
+VVV4
+Fr96d
+JKKs
+uppp
+3g$X}
+Jkkk1
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+siTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151481, 2013/03/13-12:09:15        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:4CA39F5D1B9C11E48CD0F67E46B2B330" xmpMM:InstanceID="xmp.iid:4CA39F5C1B9C11E48CD0F67E46B2B330" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:227f0dce-e726-49e4-988d-c074394ac3bc" stRef:documentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+[IDATx
+UQPy]q
+Beqa
+{.]$
+H7--
+M%Ja
+5>>>|l>
+T/--
+jfff
+S'[<
+(GVVV
+~jzzz}
+j'#|
+uOrr
+9Rw?HGG
+(44t
+ekk;
+}kkk+
+aaa_
+tYab
+PxPm
+VVV>
+lWPP
+|e@[),
+v"}G'''}
+=z4_U
+U>>>
+ccSDr
+.QSSS
+z?  
+!!!=g
+iK^{
+PXM]
+`nn>!33s
+UQwI
+i;99
+'=&`U+
+ckk+
+Q[[+
+SSRR
+OPPP
+Aiqqq
+wL''
+YXX8
+\nfQQ
+'}}}-
+wVWWos
+|yPBB
+666#
+z+`m'
+7ppp
+d][[
+w(++{2
+D[//
+!hp'
+9s&O
+zhhh
+gfe=S
+d]CC
+w<<|rgK
+rsss
+`%mAnqqq
+k z*
+em?|
+6`y?
+sssc
+a_1TeeeY?
+n7WW
+KKK3\'O^
+UWWW
+hi}/
+:5fi
+1XXNQQQ
+X.ee
+n@0S
+TJJJSy
+WPPP
+olhh
+kWbS
+:Njjj
+[7o^
++MAdii9L
+qJKKsU
+0`4bW
++>>>A
+dzC;-777
+X]]]8
+-"#"
+=,//
+1wbc
+g=;v
+8DKKK\UK(
+NNgjjj
+Os.-#
+'N$A?
+_LLL
+<Xm``0P
+x\<o
+KJJZ!/
+N--%_
+s=<|
+x20~
+lWt?r2
+N|phhh
+zzzv
+WYYy
+tr1WY
+XZZZ
+@jjj
+uGuu
+DH]#
+-OHH(
+?iii
+SCCCS
+?#I(
+!CCC
++wvvfb
+C5W$
+>!,&EEE
+iiiu
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+siTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151481, 2013/03/13-12:09:15        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:E6D3AEA51B9B11E48CD0F67E46B2B330" xmpMM:InstanceID="xmp.iid:E6D3AEA41B9B11E48CD0F67E46B2B330" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:227f0dce-e726-49e4-988d-c074394ac3bc" stRef:documentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+"J+ZDq-
+bm]_[
+h]Z@A
+:(T[I
+<77W^SS
+2,--
+ZS!!!
+	)Y3
+`Vyy9
+HT^UUURTT
+^w77
+vuc0
+rTTTlXXX1
+8???v
+9::~
+277w	
+8qQNN
++VtG
+Pfff
+zk]]]
+-vvv3
+bqUQQ
+S[[[
+wBEGG
+8,,l
+|0,44
+~~~k
+iii?M
+H$zJW
+*-UkN
+EDD<T
+X?i`@
+cff6
+STTt
+LMMi/Z}}}]{
+}1777A
+zzz22
+I\MM
+PCrpp0!
+@a37P
+iHHH
+jPUUUM.
+"7''
+uTzn
+`rrr
+S___
+*###
+#S}m
+tJjj9
+sqq1
+$$$D,Y
+>22r6u
+lIx0t
+9::.R
+yauuu
+mmm'
+.0  Su
+]5FD
+^Rrr
+FYZZ
+doo?
+Z7>.
+XyEEuG
+044t
+y<^~UU
+%V433
+kX?j
+gZ[yyy
+Pr=%
+elAdhhhw
+HLL<H
+:TL\
+X5FD
+B\U;j
+{]FF
+UqqqRB|
+A!`7
+={V5
+55BP]QQ
+~)--}.
+P!M>
+,,,F7
+)((8C
+51`s
+PV,_~k
+!SBI
+zfffN
+b`gg
+mt566
+3%i+
+BD\2i
+BaEeee
+hp*:
+Q8J~
+_w$*
+%W"`h
+6JOOO
+v[>>>
+wd2Y
+UZZ*
+@iD,
+AiBVV
+.ef{
+ 2Ui
+2,--
+qdP/'2Y
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+siTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151481, 2013/03/13-12:09:15        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:408FCBFC1B9D11E48CD0F67E46B2B330" xmpMM:InstanceID="xmp.iid:079503261B9D11E48CD0F67E46B2B330" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:227f0dce-e726-49e4-988d-c074394ac3bc" stRef:documentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>]8
+PIDATx
+bG,(
+555Q
+XXl1`
+rfffcee%6
+X<KQQQLSS
+X+.X
+QZBB
+UVV&
+REEE
+K(*.
+oVPP
+'nf_
+^RRR
+D[}|
+dddT
+tzQYYY^NN
+;]UUu
+u@@@
+_,--#
+_Ctc#
+R~-1
+/eee
+jBB1
+`;Chfj
+ , +
+jjjC
+kii-
+SYYY
+RC(_
+F###
+FPvvv5
+X1\e+.
+***z
+@Y.q
+^ONN>
+/_&DDDd7}
+k,@x
+\[[K
+}AAAj\\
+_WTT
+Bx,&
+%>999O
+!\ic
+*[[g
+IA\\\
+Ntuu
+@~Cx *
+K]]]
+zzzN
+e8s&u_dd
+pODD
+sMII
+wMNNn
+q)++
+u$j;
+W[[{MXh
+[			
+NB|H
+`'RYYY
+W^!l
+N$H@$Y.
+nvww
++I,(
+00  
+=6oF
+011q
+KQ__
+ERRR
+hVO4
+ZSSS
+a#--
+7UUUt
+o^n.YgS4!
+Lttt
+pj[e
+ahh8
+fFFF
+Y&...
+rrr}ccc
+{BL2
+ $&ImA
+0%99
+snn.
+- D#8l
+=cYBn
+/ ~~
+vPTT
+8y~B
+uNH1
+9 jLKO/
+#?!tqv
+i4Z.
+BBBBy
+Ahdd
+5KESS
+kl`0*
+*|Gqq
+YSKhh
+KKKC
+#^tp
++++?u
+.];{{O
+v-j<
+n311	
+V-67
+vAB 
+SYyy-
+a`tL
+/TTTF%''G
+Qvoff
+aMqII
+s811
+7jTT755
+w[li)
+e$$%%
+4300
+addt
+1alDx
+XJXn
+\*jF
+i`+++
+Kww4
+hhh(-))I
+###s!
+wt_dd
+DEE9
+.,--
+8xp<XBg4
+$X0J
+~Qff
+>t"e7
+@RPTD
+Zd,!
+Mb%7
+KXiei
+CCBB
+6$M\!
+Ahgg
+tog2
+UIII;
+:B 544|
+JJJv
+G#i4
+<I1Z
+c	<;
+&JIII
+`	Cjjj
+~~~R
+4a	B
++<<<
+IUUU
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+siTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151481, 2013/03/13-12:09:15        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:10286F5C1B9C11E48CD0F67E46B2B330" xmpMM:InstanceID="xmp.iid:10286F5B1B9C11E48CD0F67E46B2B330" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:227f0dce-e726-49e4-988d-c074394ac3bc" stRef:documentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+	\SW
+#8(E@D
+E q*,,
+$		X
+^v	*
+~bcc
+k377
+eL%%%~S
+ZUTT
+]QQQc
+kWPP
+. MM
+HZZZ
+vvv6~
+~3UUU
+aaa7
+W_}e
+bc"R
+ l;x
+@aAA
+YQu+++
+FZZZ
+^%%%
+JJJ.K
+N;;;
+i[AR
+haa1O"
+kiiiM
+[*p[
+$4;;
+**(J
+$%';9/^
+ngqq1
+&nnn
+ ^{{
+EVVV
+GQuuqI
+7|8*
+g=;v
+<knnf
+eErRR
+VD[#*
+h\X^
+aDDDL``
+l466
+*A?b
+Smmc
+KEEE-B
+:99y
+OKke
+bQq1
+uM8B
+;*++
+E<VRR
+Rwtt
+====M
+t466
+400p
+EEE5
+3jjj=Y
+X,Vivvv
+WPPP.--
+@dMRSRR
+VVVbK
+[MMM
+0#!!
+3qTv
+]LLL
+9b9Tu
+}}}oRH
+kjj:
+^Yo|
+NNq$
+:e	2UQ
+NNJJ
+qF,A~
+EEE_8::
+HIIyN
+bnww
+TUkk
+i7cF
+|"""
+TWWw8***
+-,,>
+r.!a
+m056
+nff6
+`LDV
++**~
+/(00
+/vqa
+9s4j+
+LfKyyy
+=hS)T
+3966
+0{Ux:Y^^
+R__?
+&''7
+WXXx
+W{{{
+0'KK
+u> O
+H2RV
+$6eee
++B/kE
+3F<Ot
+qEpp
+~KSSS
+`0p6
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+siTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151481, 2013/03/13-12:09:15        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:57ACBDA91B9D11E48CD0F67E46B2B330" xmpMM:InstanceID="xmp.iid:57ACBDA81B9D11E48CD0F67E46B2B330" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:227f0dce-e726-49e4-988d-c074394ac3bc" stRef:documentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>2{
+IDATx
+6"%R
+6K!\
+<=g<
+J=(-}
+#sss
+T"1-111.999n		
+XK|||
+xyySh!
+].$V)%%Eh
+5jT=
+.,,$
+ZZZ(T
+vm>j
+uRVV
+r<<<
+L%%%5
+/+7n
+ K |
+feeQf
+xC%%
+{'''
+040p
+pwff
+TLKK
+HLLl
+GSSSk
+BCC3mmm?"
+cCCC9
+9s|KJJ
+*((8
+TUTN
+7f+!
+HK/KKK
+0XR~P:
+(,,L
+v3c`
++++3
+@uuu
+))US&M:
+oipZ
+zs|KKKu
+BBBc
+<G]]gm
+IIIDlS
+:=B8o
+1cDEDD
+-**"
+XbbcW
+q=Ax
+vEFD
+YAAaQ/
+@7@t
+KZZZ
+[HYY
+)\0h
+wegg'
+*s~;
+I,i\nn2
+268N
+qww?
+?'GGgF
+p>!t
+:99MD
+CBBri
+<7WW
+K5551
+~~~Q
+zyzf
+)KDccc=
+Ct&4
+P?KKK/
+=&''
+6RTT
+~TUq
+Nci>
+6YYY
+uuu}o
+{wRYY
+CCC9
+	,qqvN
+{zzN
+)`8@8\
++3mZ
+bR[[
+RRR:-T
+JKKo$$$,
+urpp
+c7ddd
+GC8l
+qqq1
+r@__?
+\%I\\\
+>;;<
+kSss
+=KW__
+	KvN
+744LE
+.C>0c>
+a`bai
+HJJj 
+: TUU
+ppp(&
+bPZF
+Ahjj
+555C
+dE8$
+w,lff
+;.(((
+iRdD
+zzx$
+p5qz)
+EXeee
+de[M
+, !!
+b=xxZ
+EDjk
+.**j
+^rss
+455E
+qFFF
+d	??
+)||(
+-RRR(
+:Y@qqq
+TTTPFR$
+)11QXCC#
+PVV.
+WYY9277
+"1-111.999n			
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+siTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151481, 2013/03/13-12:09:15        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:E6D3AEA91B9B11E48CD0F67E46B2B330" xmpMM:InstanceID="xmp.iid:E6D3AEA81B9B11E48CD0F67E46B2B330" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:227f0dce-e726-49e4-988d-c074394ac3bc" stRef:documentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+>BldU
+0;:p	
+4M\\
+>g}}}?
+{Eyy
+~]^*
+ZOOO
++`dkk
+FUbb
+n-..
+Y[[{
+UUUK
+X,?&
+UpEE
+0fq:
+?+--
+{232
+;>%%%}
+w[[3
+CUUU
+1*>@
+MMMv
+]]]-
+mZ	0t
++L^$/
+$k4Z
+0HQQQ
+_PPP
+n$$$d
+;&&&
+aaa^
+Y`._
+/fggo
+}saa
+uf[q
+67w_
+r3i;
+7@gBB
+BAn+''
+c~SSS
+m7++
+jjii
+:--M
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+siTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151481, 2013/03/13-12:09:15        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:408FCC001B9D11E48CD0F67E46B2B330" xmpMM:InstanceID="xmp.iid:408FCBFF1B9D11E48CD0F67E46B2B330" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:227f0dce-e726-49e4-988d-c074394ac3bc" stRef:documentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+|IDATx
+	TSg
+>hA<.," *"[
+6666L
+mBK7
+i			=aaa
+hP[[k
+`DlMKz
+f577
+B53$
+9s"$/
+.fffZ
+Nuuu
+*2B!
+Ws;::
+Innn[
+a<BhHt
+-~A<S
+dee5
+AA#P'|
+\'ez
+..\4
+!D8i
+QLLL4
+0iii
+;~\8
+azh:
+tOOO
+!4 B
+;:8\BW]R
+joddd
+$+)1
+Y Ax
+LMMs
+544F
+tBvmm
+9*=@
+!433
+%D8m
+_ffd`
+#$:f5}
+VTT,
+@E#l
+|wP6
+{RR~
+|>!BKK
+##"p'|E
+a|\\
+pWl,F
+,))Y
+",..
+Jt|f
+aRb"F
+CCBn%'%
+=))Qd
+---u
+b766vo	
+fXYY
+J2}`hjj
+D"~OOO
+,YRZRRB
+(SLMO
+)#==
+tppH
+;!!B
+Srnn
+"tvv
+.#Tz
+[F[[
+nnn_
+0((h	
+`uuu
+^ ]]]m*
+]WWw
+\leu
+QTTt
+5!on
+>\6u
+vvq	!B
+666V
+1gd 
+0Bww
+w}[{
+RSS')
+sqv.g0
+?P'd
+*(H"B
+FeEE
+666L(
+XYY1
+fP[[klnn
+)88X
+Z[[u
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:5F77C5CFD5D211E98A44C02F18CF00B5" xmpMM:InstanceID="xmp.iid:5F77C5CED5D211E98A44C02F18CF00B5" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:d201b668-c67f-4e24-9380-cf53968d9a1a" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+TJQJj
+o4kc
+...i
+WHHH
+]]]!@4
+,#SSS
+srrr077
+1000o
+Mtuu
+vIII~YYYiqqq
+{/333%!!
+`hhhG///
+|<**
+AAAAJ^^^
+G}}}
+fFFF
+?i[S
+)S|Z
+322.'%%
+$.Gj
+;[XXtS$z
+QpYYjj
+Y3j>M
+( nT
+s_yK]RR
+wuss
+/111G
+{srr.-'
+ad5-
+yzzF
+~DYP&
+ 4OEg
+Yiii
+;w6HHH
+S"""
+,200
+@Qt[
+qckY3m
+s> D5~
+OPTTT6
+EQu(
+q;Ut'U
+(BpT
+:!@"
+2   \
+K],'N
+|AP0
+z]vuu]*Y>
+}iUe
+AR4H
+j ((
+'$&&
+`ZTJJ
+86..N%
+Y[[ORG
+		Y]
+E?]]
+JsppxG
+*tMP:wT
+a}ff
+}yyy7
+@]]}ggg?U
+Pf%~g+p%
+~~~SY
+<;GG
+WZZZ
+-`$D
+;			{u4
+		q"
+-ZHp
+WbF29
+Pt_||
+j```-
+LY%Nb
+idoo?T
+tn0A
+1XX?oo
+kvWe
+fA/\
+Yv066~E~d
+hffV
+kzzz
+|:2N
+722j'_
+)DoU
+)))yD"K
+DPeU
+%kk.^H
+5})}
+:'/@p
+Z%@SS
+{poU
+rGDD
+VU|/
+nLQ]h
+h|7k
+ekk[>
+Y@7u
+`E7@
+E&''
+sq(Tk
+9s&IS
+xs9FEf
+1@Q'
+c8'M
+=>>>
+0 8--
+s{{{D
+!;;;;
+T>I5((
+Jizzz
+f)h/
+@___
+^{-U&
+IBBBinnn
+NNNz
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:5F77C5D3D5D211E98A44C02F18CF00B5" xmpMM:InstanceID="xmp.iid:5F77C5D2D5D211E98A44C02F18CF00B5" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:d201b668-c67f-4e24-9380-cf53968d9a1a" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+"%`A
+fqYw&Co#
+ww9e
+OOOo
+p8$*	
+~	777I11
+P511
+De-5
+JTTTX(**
+.Aq6
+d#88
+)"##g<{
+=aaaquu
+|.)))
+P!--
+dHII
+6FEEy
+X)..
+,"`?
+lmmcx
+FD==v
+K=<<
+B^^~
+***S
+wbbb
+}*"""
+YQQQY
+I a#
+M/v^nn
+%###
+	dd00?6
+?UVV&:88
+|&m=7}
+$bIII
+|YZUU
+.svv
+Yjjj=v
+(;;;h
+UaTT
+v11y???
+{x.++;ZZZZ
+3flb
+}222
+ 9*x
+/G49
+s			+
+9*{mmm
+o```
+dj!!VL
++A}om
+khhLX
+g%%%7y
+#&#G
+18T3
+***:\PP
+'500pmrrr
+Xpyy
+Cy8mI
+l1wP
+'|||
+ny8O
+8\VPUU
+[=A T>
+*gyyy
+3f 	
+&%%}cggw
+~}2|$3
+]tVn
+q(.**
+cWww
+pmGMMM
+KKKKc
+Rmll
+:::fx
+awK[
+z.##
+WAAAqBC
+w=>>~9
+FVVV
+G_\]]G
+6'%%e'
+Wxndd
+~w```
+cv^TT
+TskP%
+<u" 
+m:::
+2i (
+#G.j
+<---u
+4j(x
+\T%##
+jh11
+KKKS
+"`YY
+$`NN
+?NII
+$&&V
+QQQ.
+ijjlo
+	D@B
+'Orm
+IIIU
+dU" 
+21d0d
+)/++
+5k~=s
+syyy
+VaOt
+Tqss
+UXXXJ*x
+2P-<<\
+YYYMUQQ1
+>|xk
+]Wppp
+O]]]
+Ngff>!
+)~~~
+MNNN<
+Z[[/
+RQQi]x
+PiS"`
+044td
+@^^^:o^hhh
+B#55
+L:..
+ottt
+:th2o(
+9///
+L:###n
+$***
+RSSO
+lllD
+}	kkkQ
+		}A>
+4iRQ
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:76E0759CD5D211E98A44C02F18CF00B5" xmpMM:InstanceID="xmp.iid:76E0759BD5D211E98A44C02F18CF00B5" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:d201b668-c67f-4e24-9380-cf53968d9a1a" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+c4Hx. (jD
+VWW)
+SSSk
+SXXXEppp%
+Gx_X
+MBBB*
+T)((p
+/4utt
+&Ann]
+:(++k
+V[QQQ
+8#???3555}
+A&DDD<!
+fZ(hcccW
+899),_
+acc3F]]
+efiii
+(+++
+***j
+pO]MMM
+yyy7
+jaaa+
+=::zKk
+V+@lj
+>655
+EAAAJFFF
+8111
+>=1??
+[h2G
+6Bo.
+Zo!k
+5Xf,;r
+T	Vo%
+?TKMM
+^CCCW
+2r'c
+.RSS3}
+SUU5
+U&:L
+}sss
+~w''
+ubcc# 
+;fsb%
+LX6,#
+;/)**
+_]]]
+b^0Ob
+2b^0O
+"\\\
+v3DFF
+{qe())y
+q Att
+ibb2E
+c7,,luc
+5//o
+i`Z|B
+NGKK
+iK">,
+w]ii
+IIIe!!!
+0A`bb
+\{zz
+Ir.4
+e-dPP
+#-CC
+O]]]w
+*[XX
+4<@wrr
+.qHY
+cQu W
+433kx
+wYLS
+<x v
+k6Xa
+FFF}[
+|u!7
+ehhh
+	g0u!3
+OWRR
+.d64Kf
+8/g]
+YTVVV5u
+SRR~
+(upp
+\Qiyzzz
+I^^^VFF
+|$~z
+kFpp
+3:***
+5XB;)
+*3u!
+.zyy
+gbbb
+F>XnY
+~gUHH
+FUTT
+>;y*
+Niii	
++|$..n
+&%8::
+tppp_
+obb2
+"s|yj
+cbbF
+LOO?lgg
+_'wM0
+mCCC
+"///
+d*@p
+(VO[[[O
+@x/@.
+FEEE
+Zeeeb
+$PQQQ
+9&4	
+nnnm@k
+$%%Y;88
+8((H
+/_6\
+lYE||
+vjjjMqqq-
++GhQ
+IEND
+IHDR
+	pHYs
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)" xmp:CreateDate="2020-11-04T10:04:40+08:00" xmp:ModifyDate="2020-11-05T15:17:03+08:00" xmp:MetadataDate="2020-11-05T15:17:03+08:00" dc:format="image/png" photoshop:ColorMode="3" photoshop:ICCProfile="sRGB IEC61966-2.1" photoshop:History="2020-11-05T15:16:25+08:00&#x9;
+ ITS_on_x60.png 
+&#xA;2020-11-05T15:17:03+08:00&#x9;
+ ITS_on_x60.png 
+&#xA;2020-11-05T15:17:03+08:00&#x9;
+ ITS_on_x60.png 
+&#xA;" xmpMM:InstanceID="xmp.iid:62ab1a86-06e2-4336-8680-04d4ad47ef9e" xmpMM:DocumentID="xmp.did:62ab1a86-06e2-4336-8680-04d4ad47ef9e" xmpMM:OriginalDocumentID="xmp.did:62ab1a86-06e2-4336-8680-04d4ad47ef9e"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action="created" stEvt:instanceID="xmp.iid:62ab1a86-06e2-4336-8680-04d4ad47ef9e" stEvt:when="2020-11-04T10:04:40+08:00" stEvt:softwareAgent="Adobe Photoshop CC (Macintosh)"/> </rdf:Seq> </xmpMM:History> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+%7IDATx
+w\SW
+mD	@L
+vyyy
+=z4o
+E~$I:
+ IRW
+D^\\
+cx!TTT
+BIII
+rY_}
+xNmy
+Vt#G
+7oXg
+<]XX(
+bqCmmmCMMM
+ZXYYY
+:zxx
+;:;{8
+6mWVVV
+QQ##;u
+JEMZ
+9:8v
+p:88
+F|)()
+9wnb
+	!"##
+zkwqqq9
+G]T<:
+Uj?C
+PPt3
+{px\[3
+T*%J
+TUW	
+@:dP
+Q	qw
+$iOU0{
+BCCm
+K99S
+z)'g
+>lnEE
+ h:4&
+?yj_`P
+HT]"
+X[[sG
+0@c	c
+MHeVV
+oiooo
+]RiC
+jiQ)}
+).~x
+'fTT
+:Rm5
+Vey{y
+W&._
+abejJU0
+z?*j
+D*~eUe
+1cvBc
+?		MU-
+v\/==
+;9:u
+o_4L
+JEY>
+@\UUU
+U+egk
+p8\4
+DY.1
+|3	&R
+HVHH
+h\|`
+r.]<
+Ko@S
+@^PP JK;
+rU[:%
+;<<"
+0b+h
+ '33S
+2LG|
+zV033SXXP
+|*Xq
+/o:~
+B:?>
+T*tS
+pD|||
+.VP	
+,kcL
+dfgO
+cG+4
+|   
+?qb\
+SRRB
+<y|W
++YV^
+	"  
+D,|}
+\///
+Ettt
+iiiE
+xz+H
+ kjj
+NNNM
+b}|;
+H$j"@m
+Exzz
+%%%"
+@QU]-
+a{{{[
+[3dry
+hmeE
+[_R\
+*88d
+G'>^l
+t9q*-
+?<y^
+ ;[;
+gO+KK
+-,*h
+HT-033
+@VUV
+nepP
+Ja%5
+w+IiiieX
+'Mxo
+ok	,--
+^p:tN!
+zQVE
+jC<	
+xf6|
+l_[[
+,K3!VTT
+^.WH&N
+*++E
+0|a>
+jurr
+!wW~
+m[V8:;w
+Ghdd
+<<=B
+]lmm
+.HHh
+%3bc
+3YYY
+4wcl
+(rrr
+16ZLA
+L;sF
+0ZLI
+J%I\
+d)))
+iaEEE
+mOII
+y{-4
+]\{ge_Z
+-&<D
+	,6h
+aRRR
+~65f~RRR6
+/, I
+/JKK
+223?
+TZZrgZ
+FGGK[
+	f<3
+IeIIIff
+aa}_www
+QdrY
+W\{Pp
+!CB_}
+BQMu
+KUKHe
+PSw:
+Q#Gnuvv
+mfcc
+rmurr
+fs'O
+IMUeUIyEyqQa
++???
+l(++k
+y$,h
+^D~~
+A]*4
+exxx
+		)KLL
+D^xxx
+?Mbb"/..
+@!=\W
+flll
+IEND
+IHDR
+sRGB
+DeXIfMM
+IDATx
+sVDc.
+w#$jl
+~Svv
+Uvyy
+Qiy<G@
+TD<OJ
+WLLLq||
+|%%%
+,XP4m
+NHUHS
+>:z"
+jP('
+,--)
+ky{y
+aURr
+XN~;
+)9)y
+Bip^6
+VLll
+MZPv
+TH>P
+>1*jK
+!;ET
+&GAA
+Xzh0hQ
+:U;S
+	(DFF
+|f[^^V
+ $4'
+Ml2^
+\zzqs
+WchA*
+SYY)
+IC]NI
+={6;-5
+>bwx
+yi"`oo
+3P@>
+K$ H`
+ydP`
+p__?L
+DCkw
+"H$D
+M-IX
+EEE 
+hPw` 
+dEWd
+},{f
+dc1[4
+D@<y
+G`F~
+4(/d
+-XrQ
+D-8k
+9ttVKw
+<91'';
+#QV`
+MK$?
+mPFYAAAa\
+'{2r/
+Eqh\
+=VL~+=
+/+^lT
+	!k)
+fLH=
+V4!m#+
+h4Gz
+w}:y
+S5I/
+FCIeT
+;N4$
+Ppvs
+1e2J
+VIII
+$IsF
+ ,Ax
+V	XN]^*
+[W?(
+ITR~:2
+8:JOL
+pS> 
+#op}
+.666d
+o Og
+ZGS{ 
+K0ji#
+@S4dU
+Q/ck#
+pC:7
+ji\V
+9v|0#DDD
+5;;;h]
+UQyB
+yX7&
+HOFZ
+tx1|
+-CR.
+sU! N]hD
+RXe4
+AwS+
+9|xBz
+1b#EV8
+KhGJ
+m4i`M
+Qifhsh
+A@Iu
+6mzu
+K">"eFh
+8`C2a
+&7/7c@
++EV6
+Diq7
+nF{TDB
+3_~F
+=ztC77wIS$'%
+c6h>
+;C>;
+jA>`f
+3F#0
+mK$<y
+DeT+
++KF]
+e #d
+l|||;
+fOlP
+jg,y
+zFFI=_
+AB4j
+jnL..^
+TM  
+K5F3
+gDc6
+f?<5
+~^8' 
+ulM\
+6mDf
+UG 11
+" ,,,}
+HJtt
+-*$E^
+`LHn_:
+XG_"
+%""bL
+IEND
+IHDR
+sRGB
+DeXIfMM
+)RIDATx
+{!0u
+F>3D4o
+Fn!1
+c2T3
+!**J[
+@zz:
+b;^m
+gVVf:
+NJJJ
+sruuurvvv
+opHH
+233R#""N
+@N\$
+5n:p
+NNNv
+Yj6~
+t3Nz
+cvvvzFffrfzzrBb
+*UnV
+m[7o
+:thh
+?:6n
+tjrr|jjZjZzZ
+MH.j
+={vcj
+7FAC
+zyyWE\.
+ez$!g
+{6,l_
+/\4	
+\DOLL
+	SSS"
+FI@>a
+rr@-(
+EyC@|B
+E9'k
+'Sfa+
+0$]A
+n]""
+nQfT
+cSmjK
+LFHL
+i;;`
+*>h6
+;1Pn`
+{HZ6
+4b@,
+<1"Vf
+@I]:u
+Q8>DS>
+r#YM
+a\SN
+c56o
+B>&&
+W}!c
+iiib
+dbcc"
+5ttt
+ACbe~<n
+6-o//>
+DVbE
+Emk$ 
+{xxT
+	EM`nt
+ 222
+#fR:
+q>.,5B
+^t3A
+3!jg
+99QQQ
+|y%1
+eI@5rP
+R26ii
+*>!!QY
+$D-K7/
+B! ^7
+CrJ2
+1-(LL
+^3yzq0
+fM/x
+0FLUe
+O=	eN*
+FI;	
+g/\\z
+YosRI8
+2bj.+
+,V,^W
+D!hs)
+:/OoO
+eEEF
+'wlz
+crBoA
+f|O,
+Ma7.
+XGs<
+@|;!
+^	f#
+\9I,
+#mqK
+Jefd
+SFzz)
+~,cA4
+"]Ex
+qj.S
+_!bI(	a/
+$F"]
+#I)w_
+m=1!6"
+Db9y
+Ck>D
+.88X
+j@dd
+k##o
+di&5-
+["`&
+m4y`
+f5F]L
+7oZ9k
+(3m[! 
+.^8(
+QagN
+Xg!@,
+BN2|
+H|?c
+k>A&
+DPPP^
+Mb$O
+K4ydc
+edYYf
+H6^^
+`]X'
+kV/V
+eSn,`
+Q7n\?
+e`YX&e
+6*Q 
+oK_{
+R\	(
+HnLf
+@mH"
+XZE#B
+lp%>.>
+.@)XL
+I-:w
+I:j<
+D@QgABvoltj
+$ !H
+xa#J&
+I&`2
+|hhh
+Y&88
+T~/W3
+%>Ar
+5kxN
+ys~T;
+r8v6;!!A;#O
+{?7h2
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:76E075A0D5D211E98A44C02F18CF00B5" xmpMM:InstanceID="xmp.iid:76E0759FD5D211E98A44C02F18CF00B5" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:d201b668-c67f-4e24-9380-cf53968d9a1a" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?><
+IDATx
+cbjjZ^(
+X0PC
+222jJJJ
+777C
+			O
+iiin
+4)**
+.fff2
++ccc+
+iEmm
+rynjjj
+988<
+v!!!5
+			E
+`ppp
+-))I
+N|7l
+a+	PO
+c...
+_tvttt
+?""b
+`+Abb
+Iekkk
+~8nnno
+U'}EEE>
+=j6q
+,]YYY
+E@HHH
+Vsx)
+6|aff
+NNNon
+?%%e
+'FFF
+iGnnn
+v}MMM
+q6Byy
+\.?[]]
+$@5q
+=zLc
+b}&;]
+dee-U
+,#pqq
+:%@V;
+WYXX
+zyy-
+UUU=\
+`Ahsw
+bbbv
+yqEEE
+MDDD83
+6+@GGG
+LMM]
+K/mo
+ ^\YY
+ee`+
+/<===S
+vWi{WVE
+.4OHH
+mn!"
+%v8x
+QR\\\
+]UUU{
+P+++O
+fffv
++++O
+~t@@
+yNmmm
+MHWV
+5m#+
+2Q}{
+]<>c
+ct74
+2922
+6III9
+}OMppp
+-	!n
+hs^0^K
+			E
+"lU5 
+R&><
+>xk v
+f:{zz
+U=[z
+oftB
+eQ`5
+fcc#
+1	P	bbb>
+_433
+.GEE
+J{{{
+{v(VUC
+iiin
+73Ak
+}bbb*V
+~Exx
+k(>!
+.,--
+e2Y1
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:5F77C5CBD5D211E98A44C02F18CF00B5" xmpMM:InstanceID="xmp.iid:5F77C5CAD5D211E98A44C02F18CF00B5" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:d201b668-c67f-4e24-9380-cf53968d9a1a" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+b,HB
+qcWT0A
+hTVV*fee
+D8F^^^TKKKLEE
+=Q6.X
+IIIj
+HJOO
+=-X}
+(U]]m
+*Y%%%
+tY@F^^^;V
+K{bX
+ (@a
+VL&3
+bbbR]
+[%%%EQ
+455u
+s999
+'DGG;
+*~~~Z:::.
+/_>H-
+vmRuuu2
+<%%%
+3yyy
+KQQq
+fbbr
+ICCC
+ad\\
+i%%%}jySSS
+~L-omm-
+sgt{{
+[TUU
+M!!!e
+_WVV
+{999[&M
+p^YO
+~FFF
+1m[[[
+A%s"@r
+>>>;
+WZZZcMMM*$.s
+]pmR R-
+TVV>
+677se
+]fJJJ
+'))9
+]UUU*
+ZYYy
+}|7o
+{zzf
+>755=
+\~@_
+_YYY
+r#Z@.
+-:@/OKK
+"IH0x
+?999
+,Yczzz
+/NGG
+#hYq
+W(@!f
+t*MHHx
+n]`q
+DYYy
+PHqqq
+6}:y
+FgKbY
+=z.u
+W0+**
+ ###1888
+,[[[
+rZZZ
+YNHB
+2,occc
+EEE7
+JOOo3
+]mmmunnn
+'$&&
+jYVV
+eDEE
+zmIII
+JNNn
+BBB\
+CCC}
+233C6n
+ %%%
+-_zz
+^777K
+]A/'
+A|CF
+I}rR
+D`IHFFF
+>-KT
+NS@	
+hkk{
+*>Bdd
+---}y}=H}
+f/!!
+W\[[
+{:72
+Mfff
+m?QQQ
+4///
+AUUU
+?KJJ
+b:::v
+3g)X#
+,Lsuuu*
+***,C
+,--E
+---,
+fRRR
+[Q~~
+'Jaq
+)))Q
+/133
+Zzzz
+e>>>RXM
+E4F-
+cBXFUVV*fee
+u`u"
+"///
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:6BCBABFED5CE11E98A44C02F18CF00B5" xmpMM:InstanceID="xmp.iid:6BCBABFDD5CE11E98A44C02F18CF00B5" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:d201b668-c67f-4e24-9380-cf53968d9a1a" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>(
+IDATx
+VR)G
+q9rg
+d:::z
+<^K@
+J@-8
+TVSS
+[SSS
+R8Z8
+LAT6
+E .dgg
+uuu6jjjM
+Rqqq;y4
+.Akkk
+OAAA
+*! %
+TVV6
+M.&&
+n677
+yy>J
+6e?33
+JJJ6
+H09%%
+][[[
+n}((
+Fkjj
+;wn	
+*++/gdd\
+A,^)
++ZEE
+kzzz
+"qB$
+3LKK;
+YYYa@
+s56l
+&G*33s
+8!B"22
+Zgkk
+8D#U
+\]]}
+UwN6
+F.{zz
+]'''-WWW
+KNJJJ
+>>>G
+IE~B@!
+y\WWwZW
+$&&z
+lSee
+m,--}
+mcuLTTTL{tcH$
+vIMM
+YTkw
+y444l
+q.""
+xMSSS
+0ua[
+MMMK
+>==}
+ ebH
+"`6z
+V-Hy
+kA%>=z
+v+**J
+*}mEE
+?~f%
+;wn0C
+cLIIq
+;~"@NNn"f
+<px2@
+1c ;i+	
+4hP8
+	VVV
+{WWW
+z>99y
+jjjxy9::
+wegw
+i5.\
+bYXfzz
+rx)%jm
+\w' f&
+j<-J
+3`3h
+8%@{{{[vv
+Hccc
+bcco<}
+l	X]]
++))	
+gffn
+.\Slii
+)KUUu0
+hqqq
+|N__
+#^bbb
+R*U0x
+`7~B
+333W
+&000R
+|0ZY
+?===w
+[3455
+ic@<
+F`@(
+622r
+?777P]]
+dDMM
+RE--
+0+++J
+k<==
+qZP/
+D5#!JG
+o*++
+yyy.
+6-++K
+O7HQQ
+233CA
+pI%F
+6u1!`
+Ta]CCC
+_4/[
+U&&&{
+f\>$0
+DGGWb
+4mmm{
+mB@)
+'@Hc
+]EEE-8
+c#`G
+lddD
+ZZZ6
+D .dff*
+Jaaa{cc#ICF
+vy% 
+(IfI
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:37887C8BD3A311E9AD6BA8D875BD7B64" xmpMM:InstanceID="xmp.iid:37887C8AD3A311E9AD6BA8D875BD7B64" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:4d3982da-4ad0-441a-ac4a-5b9dfa214db8" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+(IDATx
+kLSi
+lB4\
+q :QC
+1/'P
+g:N1C
+j{zzt,T~Du
+0xtttoDD
+a}}}
+@N  
+(jjj
+FsA@
+2,((h
+<$$$
+	! $
+(HX^^
+bip:
+}}}m
+~KVVV
+F@Op
+u|vvv\~~~
+5Lqq
+mmmM
+)$lnn.
+%`WW
+Hrrr!
+K^@jLj
+fRJV
+T|Nw
+o'&&
+MIII9
+2S_Yn
+YWRn
+h9>>
+veee
+KqrH866
+PX1!	
+::&	
+O#T6J>E
+	$!=
+|4Y,~
+5HBzP
+v!A)
+%>++k
+*ICII
+	! $
+_	! $
+-g	!
+_	! $
+eJss
+O@n1
+eeCgg
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:37887C87D3A311E9AD6BA8D875BD7B64" xmpMM:InstanceID="xmp.iid:37887C86D3A311E9AD6BA8D875BD7B64" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:4d3982da-4ad0-441a-ac4a-5b9dfa214db8" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+coEW{
+4)6~
+TqOW
+Nlkk
+Kaaa
+CCC?WWW
+@QUUe-++
+X,Ot	#
+i---v
+L*++
+Mooo|RR
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+\WK(
+uJLLt
+j{}}
+{,K4
+M?wxx
+066v
+<{w:
+$:I}
+V?/###(
+d[sw
+g:c%
+e]h5
+v1=f
+;:;;
+.&&&!
+i=e&
+333}&
+Y[[[
+u)))>
+	]nY
+IhA#_TtJ
+,CUWW
+$#bVVV
+0@:Du
+y rX
+>|X1
+I}[[[+
+ukeqq
+\k+R0    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+&%%}.,,
+x?Kkii
+J3A0
+ocBU2
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+kiTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:80DEDB2ED2CE11E9AD6BA8D875BD7B64" xmpMM:InstanceID="xmp.iid:80DEDB2DD2CE11E9AD6BA8D875BD7B64" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:57ACBDA81B9D11E48CD0F67E46B2B330" stRef:documentID="xmp.did:57ACBDA91B9D11E48CD0F67E46B2B330"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+{lTU
+lnnN
+999Q)))W
+H7.x
+Z2m6[
+:*++
+KJJ:X}T
+[\\<2&&
+2%222:55u
+owvvvI_
+zhYkk
+;vlMff
+wuu];w
+yd+2oZ
+j5]p
+YYY[
+,X`#
+CHEEE
+<27POO
+)|VUU
+MKK[.
+tvv6
+oMOO
+ADkk
+YWWg
+,;Tb
+7,] 
+})Clll
+8#	9*.
+4V}}
+uQRRR
+}k?w
+C9e[<
+2RSS
+xza~R
+WVVV{
+g<G.((
+			y2V
+c"4:
+|n};w
+&sC }
+edd8
+Oii) 
+)S7333]
+mXp_
+UV]H<
+nq,_
+hXoY
+"IHEE
+5wNk
+67:&
+]]]Gd;
+`QYi
+->Uc
+ FbH
++W>'oo
+K4a=
+"Y5T(
+c*$2X
+&%%]+((
+d477'
+KdNNNTJJ
+IEND
+IHDR
+KiTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""/>
+ </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>-CD
+IDATx
+]L[W
+FrZYcK
++}}}k
+]lH(
+GD	w
+=f=`
+-2"j
+KHNN
+3334
++++.l
+d}}}
+[[[?`
+1233
+=KKKV_
+u"N@ 
+%LII9799
+/8H@
+za/$$
+tihhhh
+	HpE
+wBT*
+;wz"
+xuuu
+Zm&{S
+Owww
+Zmf^^^5
+mooo
+OiiiKAAA]h#{
+...N
+@LLL
+:)--M#>
+31JKK
+@ggg;
+JeSjj
+,Cv8
+ZZZ:
+:6//
+KLLL
+###zv
+juRvvv%
++''G/
+744L|
+]eee
+,++s
+/Iv"77W
+-}ee
+-//O
+hhhx-
+:nyy
+(+++
+vi?t
+l&#qqq
+7Bl6
+],c,((
+|%%%
+%''G
+3&"p
+Fbbb~iii
+(111_
+]_^^vW/
+S\j#
+z2R$j
+ZY\\
+nwzzz
+{{QQQ
+G6ox.'
+ozzz
+2224l
+"Qs	nhh
+Q\OF
+$''/
+1yaa
+WpDd
+<PTT4
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:C49E1CC8ECD811E99EC9CDDBE58D6D73" xmpMM:InstanceID="xmp.iid:C49E1CC7ECD811E99EC9CDDBE58D6D73" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:f34df6bf-4732-4dec-adc4-2e26eeda8a95" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+{IDATx
+*">O
+6N<)N 	
+^			m
+TPP`6q
+"##%
+`AUU
+3++k
+9###
+Bwvv6-//
+!33s
+n755
+sBBB
+T*mZ
+|D|>_
++V,T
+;wjuPO
+,bZ/
+;L7d[[[
+\.#d
+_v?22
+Z@nnn
+{LMcCC
+{nnn
+TXk9
+Qaxx
+1m(..
+I+0>
+QQQ[x<
+1mlll
+***.
+ds@@
+G[KKK
+Nvvv
+3svv~
+i[vv
+ieUUU
+@o'q
+-<<<O
+KnH{{{w
+Go555
+"-"##
+)))n
+T*mc
+'m!$
+aKrr
++44t+
+5kbg
+dfff
+L;988
+LiLLL
+:u*+
+wLCHM
+4)]"
+<WEZ
+o	Vr
+6mzC
+i'++
+?QJJ
+.]z:r
+	L;999y
+iii7!
+0GLbbb)
+dqgx8p^
+<WWW
+kr"]
+Ceng
+]`a*
+_N7_
+uSRRB
+1niiiHMM
+E_vjm
+;wn&
+T^^~	
+!\.W
+oKZ[[
+III'
+3f>T
+0888
+gGyyy+6
+-a3|
+&///`
+$oEB
+yjjjzZZ
+S|||
+jxnP
+x'99
+'b---m:
+Kd8f3
+UtXh:|
+W:4p
+@WC8y
+dW-C}
+y`bl
+9%%%M
+yeqq
+eAAA_w
+EEEY
+lllW
+|B2]p
+D_, 
+}oRz
+;dkk
+_aaa
+hP}!{{{
+QQQm'O
+bGi&2
+IEND
+IHDR
+KiTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""/>
+ </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>-CD
+IDATx
+\WRR
+	 9px
+%#33s
+JKK]
+6fkF
+u}RRR
+AH<|
+LKK[
+X]]]
+q&%o
+5)))
+b+VXX8/0>
+rA`|
+.xDjj
+)))?A
+FC:@
+GEE%.[
+422r
+>;;{
+/555
+gHj~
+|yzBB
+EEE3
+];-T|&
+GqQ7x9
+Uuuu
+Z[[O[,
+1 Q(
+o_mYY
+Y___
+T544
+lhh(
+gdd,a
+]VVV
+.]Z`0
+0***AjDOOO
+bMMMyDD
+_|~*
+lnLLL
+2Id">>
+RSSiwL
+_kC@
+0..n 777
+999m
+:V+G
+eeeN
+;88H?
+Ztt4
+eM"/n
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:C49E1CC0ECD811E99EC9CDDBE58D6D73" xmpMM:InstanceID="xmp.iid:B834B0F2ECD811E99EC9CDDBE58D6D73" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:f34df6bf-4732-4dec-adc4-2e26eeda8a95" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+,"*]V
+  *V
+CJKKMsrr
+@CxX
+2((H
+*777>p
+oggW
+tJxxx
+uh.Tw)##
+U^^nbffFrA
+iP=!
+AYYY
+077w
+ahhhN6
+gCww
+iqoy@
+K!X@
+hv.]
+Gwrrr
+,zfffc
+ DAn_
+,222
+a]&H
+z_+B
+c555
+g<IgC;
+A^%%%
+(IKK+
+[7A^
+M|||
+v2qR*
+6QQQ$
+B{	T
+@Y>X
+5###'M
+DCQF
+```0
+$000
+<xpj
+O'?{ciii-i
+7,,l
+wof\\
+g]ss
+@2KD
+mSsp"
+;GFF*;
+c+%^O
+eC*Q
+6gCc
+%?Y`
+kW{M
+555l^
+<-kO
+			s!|/
+qPPP
+<%uj
+k6c\
+]XXX
+'N<H9P
+qKKK
+jiR;;;
+$Y-B
+A322.
+ytg8kb
+rqq9
+iD2x
+LN'e
+0j8p
+111q!!!
+jQzzzDo
+naaa
+"D0l
+gqqq
+#jb<[mbb
+#k9ufA*x
+TCCC
+eeeO
+26lB
+"DZ\\\
+iP=!
+Fa8F
+YYY6vvvuh&Tw)55
+nqhh
+3%Je
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:B834B0EBECD811E99EC9CDDBE58D6D73" xmpMM:InstanceID="xmp.iid:B834B0EAECD811E99EC9CDDBE58D6D73" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:f34df6bf-4732-4dec-adc4-2e26eeda8a95" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+cTD}
+jUR^{
+@)L2
+ 00P
+D5Waaa"
+T	?KaR[
+NJJj\
+K+++
+DTUu
+fPOD
+o...
+~ggg
+3gN.|
+<xp0
+pb>1
+4|D`
+'*(((
+UTTT>pv	
+>?//
+d?0I
+;v\Z]]}
+p!33
+,bjFF
+*:::
+|HP~
+hj(,,
+AAAS
+DO'i
+d%%%
+	F_Y
+\bc{	v
+qqq}h
+#""V
+077wz
+)H<F
+aNLL
+7nHH
+0=K>
+`5c[
+bE/hpw*
+M8i8~r
+zv{-
+O5VTT(
+FHY7
+>HY!tH
+./**j
+&7k)[(Tx<.
+nJr~
+.]<g
+*SSS
+ly$<
+|]ttt
+S''GnCG{4
++2Wg
+-<<<
+.!!a
+bQQQ
+	6x"287$88x.
+?))i
+!UUU
+[*#XM	
+h^^^}N
+x(L-T*
+7aFF
+u^DD
+J+**v
+hHop
+Fe&)q1
+g_C,
+YSSSQZZz)...
+H'1y
+2J6Vs
+hm	@
+T*yYY
+#\]]
+ZP^^^8p
+tO!|
+}077
+qaff
+='!:
+TJ^!a
+O^^^`PPP
+(OLL
+IEND
+IHDR
+KiTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""/>
+ </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>-CD
+IDATx
+]]]#ZJ
+%dKZZZPAA
+wJQQ
+488x"
+INNV
+"?44t
+y111
+Z^XXx
+0((h
+uuu_
+dsnn
+D|hc
+)Szz
+UWW/Z
+E@?F
+Gtvv
+6//o
+z}DEEE
+bjjj5d
+tvvn
+ 66v
+9F@E{{
+yk||
+PFp%%%
+%bBmm
+'8..
+FDDdz
+bh/9
+644,
+`u~lMMM
+>0WZZ:/))i
+9QUU
+AIII
+kF:V
+nmm=
+Estuu
+)OMMM
+M.33s
+~SX,
+6XiiiRBB
+fMQ[[
+bCBB
+6TWW
+9E@@
+]jjj!
+?NHHH
+$|@ 
+W^yecBBB
+UWW/z
+,SREVm
+o%''
+,SRE.
+pI</Y
+'&&&
+g[`.
+{KJJZ
+cITTTlkk
+zNj_F@
+cbLp
+T]pNX
+EEE>
+vEn'
+`qkBR
+IEND
+IHDR
+KiTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""/>
+ </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>-CD
+IDATx
+uw\w
+%66V
+}[[[
+lJKK
+urrr
+&f9#z
+`u]]
+quu}
+B```
+edd\
+= : <
+'rrr
+CQXX
+x133skRRR
+:]3:
+.+++T
+o$%%i
+89..nizz
+F8p_)E@
+c"##
+	hgDFF
+B1 !!a
+OHHH
+EEEKN
+wNdd
+M)**Z
+G3l]
+jQFFF
+^\zz
+MMM&
+VHrTWW
+eS1k
+ZG?.666J
+P]]]
+?<--m$
+"333T
+Zrss
+_?o)
+|=<<~'m
+TEEE
+4TJ7
+5jTG1
+jnn6
+TQQqy
+dEvv
+(|||
+3g>#
+X___
+">>~]||
+P\\\P___WWWW3{
+jRRR
+iii[U*U
+b\\\
+|.::
+}!&&
+@{XXXG
+]HMM
+..++
+7oVVWW
+8.>>~
+PVVvU
+tnnn
+pss{
+EEEu
+CRSSS
+8sCC
+.\X"
+c;$$d^HH
+'33S
+|||F
+555e999:8
+zguuuqFF
+.~a=HA
+...-*
+#111(...
+$%%M
+,..v
+Hu5kYT
+&Mzl
+;vlX^^
+(_e*>>
+L9*NU
+#`bb
+FcDD
+r	][
+`HMM
+4effj
+i !I
+0%$$
+	H0E
+!	(x{{
+zxx4
+Qzxx
+& $$
+$$~k6l
+www.  @
+IEND
+IHDR
+KiTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""/>
+ </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>-CD
+bIDATx
+}TSg
+6Ri{
+??d0
+FM)!
+pYPPP
+RTTd
+)bbb:
+NBnWII
+qqqm
+:l+`
++:::
+#:;;
+IHHP
+-"""R
+P(!d
+oKvv
+z{{{
+fM;p
+}>33
+FXXX
+olnn>
+jRSS
+zuuu
+HNN~
+dS322~
+>##c}rrr
+H>x"
+FIIIS
+TZZZ:
+fIxx
+ W\\
+044d
+Hxy`
+`YVVV
+'n,\
+-6hjj
+QPPP
+]___
+Bl`6
+qGCC
+`0t,[
+887jtY
+[}}}'
+x1hwkkk
+!\Hj
+&kll
+z{{oYophhH
+?kiii
+@hhh
+O[VV
+!nKy
+(.C6h
+555{
+C???
+<'''|
+7GEE
+222~
+T@Y]]]
+gs;RI~^
+lnGj
++)))
+944t
+P(8X
+wDGG_+))q
+fz3;
+RRR|
+IEND
+IHDR
+KiTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""/>
+ </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>-CD
+IDATx
+iAI&X]p?
+///*<<
+t}E@w
+0dIJJ
+:::<|}}
+ (D@
+ (D@
+ (D@
+ (D@
+ (D@
+ (D@
+ (D@
+ (D@
+{S'N
+(<<|	
+qc#\
+RmB"
+"555x
+TVVv
+8Tvvv
+6BBB
+rssg._
+"""^FOq
+HHHH
+IONN~+++kS\\
+geee
+x,11
+^>zw(
+&%%embbb
+x<D@
+KKKW
+liUU
+AAAn
+vM\\
+gm6[
+"CI@j
+;wnD
+Tfff
+_@*++k
+:''g
+RIIIO
+pt}}
+EY%%%m
+<yr<
+7<<<
+/zxx
+UUUM
+.ZGG
+b]aa
+f3777
+FEE-
+HlEEEeo
+~#++
+eYkVVV
+z.EQ
+lt@@
+T___m2
+L%''
+vtt\
+s_+**
+>44TYXX(
+kaaa
+kjj.
+B>`h
+#dyyy
+AAA>
+>|+&&
+T*UKFF
+5uuuW$
+TcccYXX
+de\\
+/2ph
+FGG{l
+nbbb
+P(Z[[
+eff~QZZ
++999
+4P(???9
+{JAAA5
+TDDDD|
+Gegg
+|5//
+|||&
+222RW
+*;;;
+, 5e
+1113
+jmZZZ
+c322&9
+PYYY:v
+FcWaaa
+}/9,,lDCC
+EQmb
+Bnnn
+an=Qw
+/^\>}
+#RSSW
+;-G*
+.`KK
+),,<
+WDBq
+ (D@
+ (D@
+ (D@
+ (D@
+ (D@
+ (D@
+^@&00pP'"$
+8D@___mRR
+e|||-
+z_Szz
+&))I
+IEND
+IHDR
+KiTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""/>
+ </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>-CD
+gIDATx
+Bp;q
+fXYYY
+EEE~
+,<<\
+[ZZ"w
+aJOOw
+333MBe
+Gz{{7
+6AsE
+* EP
+* EP
+* EP
+* EP
+* EP
+* EP
+* EP
+* EP
+* EP\j	
+eRnn
+!!!K
+|??C
+'&&n
+K/M.///
+d2/X
+DRRR
+LIII
+xEDD
+)))I
+ORRR
+!999
+$''g
+>,--
+y244
+Gcbb>
+KHHX
+]MBB
+gu=g
+zIII
+1//o
+rd.]
+Z]n0
+tiii
+2UUU
+Z[[-7o
+tHzz
+#`XX
+Gfff
+Q^^~
+!Lcc
+AYXXxm
+bsss
+w6777\
+O_lr
+N$$$
+, bcc
+N"YCC
+Mlll
+$,,l
+?%&&
+EgJJJ
+Zkkk
+5%;w
+ryupp
+DOOO
+FSc4
+D2pA
+@rss
+25555
+C*++[
+jvvv
+O`cc
+dggO
+8.;;
+Jsrr
+Ly!00
+e>c?
+Gbbb^
+KYYYc
+UUU|C
+_p~~
+wfLLL
+\PWWw
+333#_}
+I]aa
+FmVV
+Pz{H@@@{
+"~ND
+fss]]
+}w1l
+\]]}
+(///
+M---
+l67?|
+<<<|=<<|
+ryEnn
+PZZz5((h
+?~xee
+?mm+
+7Drrr"N
+Q^T11
+x+!!a
+("B,u
+$'''B
+`222f
+'iii
+a b6
+MMMj
+M_6B
+qWz>
+c?R	
+J(.4
+}w:>>
+* EP
+* EP
+* EP
+* EP
+* EP
+* EP
+qqqt
+EEE)
+0>>>O
+;\`qk
+IEND
+IHDR
+KiTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""/>
+ </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>-CD
+IDATx
+V{_K	
+G<<<
+6l0fff
+&7//
+C <V
+GTWW
+.++K
+`*//o
+eeei
+rssc
+@-B2
+[7._
+&8qU
+eee}
+3++kmlll
+UnWH
+HIIy
+?>+>>
+NIIY
+kRhC
+V\\<
+qljj
+eYKnn
+[iii%
+lnKKK
+j?uww
+RYKQ
+Nfff
+0aaa
+;***
+WUUU
+](++k
+B!?y
+fN&11
+QMK$
+Y```
+hkkkU
+Z`=Me
+;W\RR
+^}LL
+N"X,
+TZZZ
+/766
+.))9
+\Ui0
+Hdqqq/
+IWYYy
+RY?o
+}C@f
+4Afff
+Je}FF
+***~
+Fe2Y
+Frqh
+%%%ul
+!EQlTTTDyy
+UYYY
+aaac`
+BUUU?
+BAqqq/(
+FMMM
+/`JJJ 
+%lss
+:)Lxx
+uuu5"
+ZZZT
+FFFF~
+7gJKK
+g@QHH
+JLL|
+~z>'
+uuujX
+g"##
+njj2
+dMMMKVV
+N$''
+xlFF
+bo={
+ 3:_
+9SNQ
+czz8
+]iw(
+rssc
+~LLL
+3gf]
+#^&YOX
+~6>>
+C]nG
+'==}}zz
+w---*
+'T*U
+ymO;
+MLL|
+@QT,z
+juao
+<x*99
+lK~p
+zu!B
+C@]XX
+zyyif
+8EEE
+PUUe
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c148 79.164036, 2019/08/13-01:06:57        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:5A89CF70B89D11ECA3308C32473F4E5E" xmpMM:InstanceID="xmp.iid:5A89CF6FB89D11ECA3308C32473F4E5E" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:adfe3eeb-784e-4872-ac9c-de6db5cd6fca" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+CIDATx
+/,,l
+deeY
+x8Q/*ooo
+{dddCHHH#
+ZgggK
+RFFF
+Z<D(]
+[foo
+G%$$
+111n$
+mll<
+qINNN}
+njtt
+utt\
+p_): 
+XEF3
+T*Urkk
+djhhH
+|!&&f
+"##?y
+AAAb
+D"	"
+G#U$%
+466*
+7/	f+
+kqqq
+dnn>
+rSSS{
+JII!w
+:^BB
+WUU) 
+|m2222%
+ffffP
+ftt4
++W~s
+~e2Y
+<|n[!
+_mRRR
+kii)!
+YYYI
+ow["
+rp u
+y3m_
+@mbb2X
+4777=22
+Dccc3p
+g5bcc
+XPP@>W
+W]]-755
+9p!@\
+t23p
+w $;w
+kE&f
+b(EK
+~mf}
+r,Bt
+`QJJJu'
+=8N5
+zzz.$c
+X?t=t@
+kgg7
+844t2:
+rcccc
+x<W]
+yxhP
+W{{{
+JWJKK3
+`F&0I.]
+>kHLLl
+9!L6
+aaaKMM
+IEND
+IHDR
+sRGB
+DeXIfMM
+eIDATx
+]	tUE
+V! >h
+[dc9T
+E+++
+SZZz
+tfff
+cGZJJ
+|%""
+)p@_o*
+n"LnLL
+deeY$C
+j<\'10
+3aB{s
+C-s;
+BZkB|BAK
+Ib*P
+_8&`
+_8&`
+"K\\
+.,,dr
+-G]c5 
+F	XRRR
+%`QQ
+<	xA
+/_+G
+yyy_
+qtF	
+UTTX
+[oul0b
+LgS@
+thBjff
+H<gW?
+!`ii
+Dbbb
+ ,&Y
+#8Od
+8B@4
+eJINNnjCRV
+J&!!a
+v^k@
+B0uk
+o;F@
+@ATT
+sccc
+U>0p
+$01v2
+){~~
+u5uf
+b|[^Y&G	
+~ N+2
+nO\\\
+ZC^{
+UP4|
+P)?z
+5FG	H{
+8&0p
+XC@@G
+x1>>^
+.LMM
+/&###
+K7pd
+Kr$U
+IEND
+IHDR
+sRGB
+DeXIfMM
+DIDATx
+]	tUE
+	KXB
+@NNN,x
+_j^^^F
+8q"1
+#R_|
+SRR~W
+/^<v
+D|RR
+Ojv=^
+_x"Pm
+F5&j
+".==
+XUVVVA
+%8ka
+f8rq
+!_a(#
+$ mu|
+P{ca
+JZaO@
+ ,oY
+C "j@*
+&y$W
+t)}9
+"ceb}QQ
+55BrH
+8r*<
+r8-?
+$''w{
+WD9p
+~:u^
+&$$d
+>^V 
+(W]c5 
+NW{<
+k@*}
+3a6"
+S2F	
+Fd@4
+K)++
+Bl||
+Uf n
+Rl`_)
+ao"3
+}*S2h
+UG?|W
+0q}@D
+:03kd
+AC@h`x
+^k@*0
+P	X*[:Rq
+7p2))
+Iiii
+B* `
++<` 
+FR~?
+OKln
+\sM[
+y/**
+v*=R
+~ N+2
+nOzzz
+muHv
+8&0p
+MFU-
+^j^^^
+>=Vw
+@BBB
+sPnv
+yb7$
+IEND
+IHDR
+sRGB
+DeXIfMM
+IDATx
+H@JS$
+RuS#QJQ
+\_s3
+-Buz
+;YYY
+T{HCCC
+!P]]
+FUaa
+	0R__/
+(b2G@
+(b2G@
+(b2G@
+(b2G@
+)1@@
+O-sJ
+^ >b
+Wvv6
+;EEE
+X3tG
+E{Gb
+d~L1
+WZZZ
+1#v]
+$6Gt|II
+1r@.
+-[^I
+N3bBld`
+9%@\FO
+p%sW
+jCNj
+jCNj
+rRctF
+"Q`&
+yz8d==
+<xp	
+G]TUU
+kt1#G
+4iR?
+t9rum
+*x:u
+8qb~
+	1"V.N
+2[mN	
+l0,m97
+ Lo*
+"VVur/
+h&b1H@
+U"2o
+#mMC
+`sqq1
+8p |
+\PPp
+P^^~
+x.-Y
+tICCC
+Yeee
+EEE7
+Vf A
+IEND
+IHDR
+sRGB
+DeXIfMM
+IDATx
+(Ub#
+G	EB
+1T{|kk
+jjj"
++++o
+|yxAA
+#---r
+)1@@
+O-sJ
+QTT4
+>a*6E
+"hos
+p"tA|
+E{&>
+_UUu
+)S&M
+W|#fe*L
+8|Co
+/^\p
+^^VVV
+1r@.
+Iq=_2P
+1#v5
+1:#@<
+1:#@
+;#@:
+|9#@z\
+Jyyy
+vaaa%]
+	1"V.N
+2[mN	
+cw_nL
+l0,m9
+ Lo*
+"VVur
+z'//
+%pSGG
+TTT4
+izGq#
+Z4R`
+Kkkk
+{rss
++++{
+0TTT\
+d	`\
+G ???
+_V+@
+IEND
+IHDR
+sRGB
+DeXIfMM
+IDATx
+H)UbG
+RuS#
+;,fq
+wggg
+VWWw
+[PlB 
+5551
+jkkc
+z6Rb
+)1@@
+.]Z?v
+eN	X
+l|2Y
++Jv+
+.999
+0`@)
+~F+>
+rANj=
+`*@qH
+8|Co
+&Q=J=
+!	|f
+[	V^
+mv[ZZ>\
+ugLt
+tcqJ
+9%@\FO+"
+e%-]
+Iq=_:P
+1#v5
+1:#@<
+2h<.
+jCNj
+rRctF
+A)///
+!'5F
+>2](Q
+x66W
+1#v.F
+rW]	
+g.Qz 
+"f.6]
+N_\/x
+=y`1
+Bn9S6
+=`tPK$
+ GEl
+ GEl
+x&b1H@
+_.**
+l+))
+Q>B t
+5559
+rHk-
+lvi$Xr
+kkkca8
+~hCCCGKKK
+eaH:
+IEND
+IHDR
+sRGB
+DeXIfMM
+vIDATx
+UQ*X
+@@A ---
+}{SEE
+-j,/
+joAA
+:n7t
+---e
+cG35
+EQff
+-(@O]]
+]3> `?
+	YYY
+&%,Y
+QrZaa
+ZUqp
+U^^^
+ZQ\\
+M?Ec
+RY,l
+YUW8
+Xo=x
+n\0N
+8Fi;
+UWLT
+9vk,
+9Yc4F
+9Yc4F
+fIv7
+ruCN
+GOuc
+2E*s
+7KXYFc
+#`4(
+Y\i&,
+Q___i
+9+;j
+)))v
+/}>_?
+=v8F
+yEEEk
+IEND
+IHDR
+sRGB
+DeXIfMM
+aIDATx
+[>>>E2?
+4hpK
+@^^^
+$K<*
+rrlS
+`bOO
+jEEET
+xtDDD
+FEEm
+qaaa
+7III9
+VL(G
+&`~~
+cqhh
+'##c
+`	mQrr
+9# G
+8&&FjrEF3f
+mp,C{-
+=BYVR
+66u	
+X_9&
+M]B&
+66u	
+X_9&
+-E@*
+	nso#/
+S-N5
+k!!!}>
+<-I@
+]?\-
+CSk#
+t/((8
+H5"5
+6L'MLKK
+zrzz
+)))1
+v%DFF
+^I@2h
+$Sq)v
+111)
+E-5q
+Kk?`
+o&VBJ5
+<*yh
+4hpW
+L@'H
+4HMMu"
+k?;t
+L@Cp=
+L@GD
+H#anE
+'>Rg
+3QC@
+-u)%*
+(000?..
+p9<22
+q:j?
+Oxxx
+IEND
+IHDR
+sRGB
+DeXIfMM
+IDATx
+L l	!
+KUu-
+SxbbbQZZ
+hA ...
+/8??
+ `pnn
+|AAA5
+eBEmHG
+&L8&o
+s>"""i
+^HHHh*
+cccw
+W_}y
+\&`3
+URRRa=!
+1)W{
+>HMM
+$a<;(O
+z|y<
+P% mu
+-sX[_C
+k%f2}
+&+P_3
+k%f2}5}
+M@r6
+q*7!`*
+md#l
+fqqGFa
+q&SN
+Fk,=SY
+222R_{
+1c$-
+jXXX?\]
+1`8e3
+UTh){
+R*aN
+Nyyy
+,s	S
+``+=
+}HHHDTT
+g<f8
+tWQQQ
+X%m9
+8f5Tk@|
+0$,	S
+0v5_w
+6kGw
+[!k(
+Ng(=
+s]ppp
+pN$W
+kL>9*
+k@'p
+@@8?
+2p@i
+mU0p
+qjj*
+Nef#
+CxTX 
+7&&f
+lwD_#
+1EGV
+P?l9g
+P?l9g
+KHeA
+CNrrr
+b|||
+1`YZ
+5kVaZZ
+>!9~4
+IEND
+IHDR
+sRGB
+DeXIfMM
+wIDATx
+qM\Fy&
+ep?rvv.
+T ^=
+nPPP
+nnnIB
+iii-
+q>!J
+H<B(
+LaX1Yb~
+uOx_Nwttt@
+l9d/]
+&L8g
+{Nhg
+="##?
+9sfc
+//d! 
+85!!a
+n{Sd
+|<8C
+!44t(
+9%%E?
+kTdxO
+bbbb)
+K[J:
+VAJIc
+V6J:
+}9s[r
+K#""
+)+vF{
+)S"-
+@CRr
+<aD)n1Y
+GcfR
+*G&[@L"
+3G@*
+/''g
+V.MF>
+[-XB
+2/BB
+P9{uc
+W?"!
+5O@)
+`U`7
+|`1_
+!`7m@Cuw
+35#<
+.,,\
+6lHV
+Y3*Om
+x$=Innn
+w)B@
+*#[\\
+m@k+I
+[l8F
+I;Ja
+"CkqI_
+$]lW
+oJxE
+PC<**j
+EDD4
+{_vFS
+~N3g
+,jp'&&
+k2h	`+
+fYYY
+fxRRR"
+*	5G@C
+*	5E
+/l!	
+|qqq
+]siB$D
+f<;2"
+/cUk
+#`)vD
+tXUV
+IEND
+IHDR
+sRGB
+DeXIfMM
+IDATx
+PA\P
+quu-
+=vX&
+_JJJ
+C 66
+Cy K
+[[#0
+#b&dUm
+*_a9
+K*L*
+0)]RaJtI
+8nqq
+3gNC<c-y
+=zT[
++~3f
+"##?
+}/9ys
+;wno4
+3=h6U
+?)))
+)M*T
+.MCK
+;v,GR
+?1H[J
+gb:&
+-G0M
+#w<z
+{d#pK
+ia-T
+1;7w
+lAe@
+%hA{4
+01<H(?v
+QTM=
+F}x}
+[HiZ
+I?995
+oLO@
+P	J\F7
+C269
+mmP|||K,
+!j@F>,
+u53g
+  !go$
+TSx<
+mo<'
+!kM>Q/
+[i~y
+*E@7
+<y2&''gErr
+>wotr
+2]N^
+I2Z_
+]K}(
+:,^xM
+$3S(
+NA@FB
+}Q8g
+NE@FB
+RXq'
+n]Thh
+Fc5~
+jdI|#
+CE(9
+.g]]]
+{w71
+o/a6
+w"##k#,]
+WN.>
+5g4e
+O9GFBq
+GEE}D9
+>33s
+EEE7;w
+v@b+[u
+WUOE
+NTn%
+iUWI
+QIh(
+E>|d9s
+p/EBzs
+?8p,
+vm!#
+k$''
+|<r*Y
+~)))
+-|o}
+|}}]
+C7|8
+IEND
+IHDR
+sRGB
+DeXIfMM
+|IDATx
+KL<Xc
+GQ@T
+y"Lu
+suu-
+T ^]
+VQTT
+" "x#`
+U###
+,b(?8
+\.G@
+U#?F@
+{wgx
+ $ !!!
+h-rm
+M@06
+W_}u
+$y(VW
++^^^~x_
+,>T!`hh
+ /!G
+= {-ti
+|J2#
+iaJ!s
+@2^~
+ ot{
+<xp"#
+D>tM
+999g
+H[}}}
+,\1`
+Dcccs
+8"tH%'
+utIxxx
+lGEp
+Wq3b
+b:&Q
+N@9(
+|[+Df
+bs=mv
+	9{#!
+P9Gu
+qFB,
+"E,"
+[n~y
+SnFx8
+jg^-yd=
+K3<==}Z
+5k.]
+=#_ppp_J
+Lm[3
+>|;!!
+c9E'
+DFFF)
+ZY())
+~}.N
+h*Qk?
+^	9<
+5NBN@
+}@k+I
+pzyn3
+T"CoqI_
+G;+++
+U"_*
+Zah>
+~qqq
+4iR0
+)w`E
+CN16
+{j*L
+$3eP
+ 44t
+Rk@B
+{:]f
+Qdb@
+jHN7
+Y/F_GS
+FB"_
+'yyy
+PL>V
+i&%%
+|D4|
+vO@Zb
+3!??
++?*G
+`gOt
+f<;*"
+Z#~0
+#{_5a
+h5|`1
+t	^9
+?E@&
+oZZZEQQ
+]an*% 
+IEND
+IHDR
+sRGB
+DeXIfMM
+AIDATx
+_JJJ
+;v,`
+o. w
+M#""
+5G@N
++GEE
+3777
+~>!J
+0u	V
+\@#$
+u+,,,x
+V-wt
+{1;;
+*U\O
+%%%w
+sxEFF~6i
+C$^3K
+A_ZZZ
+|F>t
+KJJZ
+\K& EN
+]G|I
+"%-Y
+[T_]
+)n)v
+GPPPS
+}Oq 
+3g^&y
+TKV3Y
+%hCg
+rH2^J
+0ut^
+	E+/
+6l8k
+-(-V
+_F<%_IVV
+TQX5<
+d(D?Y
+]=$$
+vAn[
+A]RruK
+OyXX
+&r@F>Le
+k!'T=
+4E@R
+fHHkFO
+N@C'
+N@C'
+N@C'
+`1Gh
+7n,LJJ
+yyy%r
+?OOO
+RPPp
+iZ%>/
+IIIY
+E6??
+h)RG?
+' %(#!u2
+~>N>uP
+C@N>s
+!LNZQ
+/Ga6~
+4G;###
+%&&&
+VEHX
+:66v
+Q$;_
+Es;,
+Lj$0{KJJ
+-|!qH
+;XWI_E
+{hVWY
+^^^u
+$%%]c
+#	Hq
+1Gkw>kp
+	H#|
+cH<9
+[HB"
+4C@R
+(,Y[
+p|fp
+2Kyk
+OcU[
+OcU[
+wW,V.
+[ _6#
+IEND
+IHDR
+sRGB
+DeXIfMM
+xIDATx
+gSi?|
+IMM-
+pssK
+@bbb
+5 j?
+3G@-
+]3L	V
+M@06
+[{.]
+kQQQa
+3fd(!|
+PFii
+gyxx
+NY*W*^PP
+cB9BN
+r2R^
+DFF~>i
+>>>UPX
+V3egg
+Q_<}
+W%yx8s
+,z8G
+|t;==
+s[zNNN.`
++E>"
+A5"""b 
+teW`Far2J
+A_)<##c
+ycSr
+K|}}
+FB%^)
+ju9i
+VAJYo~
+FyWA
+Lshh
+SpM?
+:tXI#
+3G@.
+N@)T
+&"[gKS
+NF>X
+^yN@
+zyy)
+z1@Z
+mn~y
+h.R<
+-HII
+={6y
+UIZX
+Dwww
+:tpZ
+kh;e
+]Iy(
+{:55uUBB
+'O&-\
+0Y'{
+{l:l
+  #!
+}Q8f
+W.nL
+~}dHH
+jnI|=
+SL><
+SLLL
+"$-Y
+1Axz
+*5 L
+?~<y
+m/21 
+	R7L
+4KJJ
+/""b
+M3)))W
+8X!;Z
+	H+|a,g
+p|jq
+`J(O
+kZCN@M
+"n!_
+IEND
+IHDR
+sRGB
+DeXIfMM
+)IDATx
+m\PG
+K\0n#Ar
+&.9q
+~]}N
+@dpG
+i &&
+n...IB
+T;"""
+s-((
+yyy|
+5PRRB
+@dhu
+2KM	
+UKWiB
+6lXC
+hji=
+3c;w
+# /Y
+:-Ey
+y]<H
+~GEI.
+0a:s
+UkVQh
+t#cvo
+f3]@
+*,,,Q
+hS`Y
+?~|'
+ Y&4'
+8aMk
+Tvfgg
+|jiv
+Bx7=
+xoor
+zR?^m
+i*#<
+Y*zj
+Ighh
+\` 6
+7t:DEE
+|U5[TT
+177w
+vvvv
+h>^r
+Iy#]
+|ByI~
+Gaaa
+8\JT*
+&79,
+ $99yxxx
+={6%&&&5%%
+5''g
+z+be^u
+iWWe
+EFF~I{
+gZ~~
+|.^6
+C'|8
+IEND
+IHDR
+IDATx
+'}}}6
+^sfw
+e]]]o
+$koo
+X{rv
+$z{{
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+H!@ 5M
+?::Z
+bOOO[]]]eNN
+09(((A.
+Z|||
+J57???
+L:.oB
+---=4#
+P(Tf
+!qwwW
+^___
+J[{{
+OB$(//oyYY
+[~J|
+y,66
+U^TT
+ysvqq
+Ekyy
+QQQ_vww
+JNN~8U
+Okkk
+rAAA
+GIII
++srr.
+JKK{
+l#.I
+T*}u:
+![UJ
+sg|[[[
+:88x
+{zzF
+JBBB
+gZ[[
+o2^e
+~~~[
++--M
+111\^
+M4noB
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+H!@ 
+aREE
+=Y{{;
+pnnnBqI
+^sfw(
+mV6t
+IEND
+IHDR
+IDATx
+RGFF
+9999
++z#CCB(J
+.)))n
+qNNN~
+5SIgHdddfaa
+wwwR
+$Gccc}j
+tvXX
+ZA@+b(
+[UVVV
+-%[9
+c}||^
+>lmkk
++###W
+!]III
+e 3 
+t999H
+ckkkUiii
+|LDD
+tEEEUG
+M---W
+-KhW
+Y+`II
+ZXXx
+Y+`bb
++.444
+hG</
+Q:C@@
+:N@@
+Vy{{{FGG
+w@@+
+H73@@
+H7s@@3
+CyA@
+Lv@a`` %<<
+?egg
+jkkw
+k'&&
+If@@
+>>>qT*
+?(//Gk
+&{{!
+]<vT
+>`BB
++Wnpww
+n"2^kc
+MpQQQ
+@111
+E'sN
+wk___eGG
+K{zz
+I1-q
+W6xzz
+Yoii
+oMHw
+,++[
+U3>	W
+/^4w/
+S455
+H5::
+o[@*
+X_zz
+WTQQ
+T*uo
+7vuu
+lYFK 
+R	hj
+(}xx
+gyyy
+c{|>
+0???
+kkk/
+5h*f
+rH% 
+6&==
++D"Q
+'AmmmYEEEe
+`rH7
+'X,V
+Go#8{
+>{Z5x
+>|x;
+%;;[JL.
+jAll
+,Y___
+lJ@@
+6%.n
+IEND
+IHDR
+IDATx
+uEQW
+1c&o
+K-MMM
+(( B
+(( B
+(( B
+(( B
+(( B
+(( B
+<u||
+INNN#
+ruu}
+51VUU]=q
+)d@A
+^_c0
+P}ll
+{NCCCaQQQJff
+!  @
+0(((
+#Gv;::
+muuu
+<xpW_
+=<<Dyyy
+}UUU
+WWWaFF
+9)dZE
+T*I@@
++**>n
+uDFF
+_a?6
+$%%%
+8q"R.
+Li<V*
+"""f
+n"+~k
++V<w
+ACCC
+io;d
+,666
+@ccc
+:thlNN
+[;:%
+[ZZt
+wA{{{
+aPiHH
+HSSS
+#0Orr
+f/!@
+HG#  
+*;!555
+\vqqq
+cn{]]]~xx
+jgGE
+$00p
+n`VV
+y!44t
+KJJR
+v%111
+'-p2
+ NOO
+2:z>
+w$_mm
+P(Fw
+/,..
+aaa3
+(( B
+(( B
+(( B
+(( B
+(( B
+(( B
+:...
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c148 79.164036, 2019/08/13-01:06:57        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:7A7B79FF362111EC86E3E567B98AEEB1" xmpMM:InstanceID="xmp.iid:7A7B79FE362111EC86E3E567B98AEEB1" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:a89a923a-0b2b-4d5b-89c7-bcd147d89de4" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+Onb\
+dM8F
+222|
++66V
+=~\S%(
+)))c|||&
+\VVF
+juyLL
+WUUU:~
+I,**
+SPPps
+&{xp
+~H'Q
+Npb6
++|D2
+|||Vs,
+8;;w
+fibb
+O?mh
+3fB2
+aaaIW
+80.444
+tqqqq
+t;.]
+0bz b
+!!!!
+W_}5
+9NNNn
+cHeTm
+(INN^
+(**z
+doOO
+v_n'
+xc4e
+www'
+FSMz
+f	"O
++h*,,
+EDD$
+#vS6
+h	,2
+?ouuui
+[RNZ
+jy{1
+9Bo+A
+-WDs
+*$77
+j"S=
+oA24p^
+EiII
+m'Q2
+W_}u4
+"iXXX
+BCCW	
+~ $Mtt
+`MGEFF&	+
+ZhFF
+3SRR6
+e UL
+^xxx4
+.?(v
+5))i
+wrr"
+p>a%
+h*	Y\
+FDFF
+3UUU
+wL V
+BCCW
+}`TT
+aZZZ
+T*}W
+%/1|
+ZT999
+SSSmv9,
+:t#|
+j|||
+8FYE,k
+H1{P
+Tpp0YlQE
+>;edd
+RZZZ
+wKOO
+?F5Y
+gSE5Od
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c148 79.164036, 2019/08/13-01:06:57        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:7A7B79FB362111EC86E3E567B98AEEB1" xmpMM:InstanceID="xmp.iid:7A7B79FA362111EC86E3E567B98AEEB1" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:a89a923a-0b2b-4d5b-89c7-bcd147d89de4" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>l
+IDATx
+hT@\h
+WQqa
+9l(Z2
+6>>^
+8b;88
+j/%%%i:99e
+R-}}}
+M555M
+UTT4$
+RUU[KK
+v-  
+yoYo
+jff6z
+)..>
+g7uaIII~S
+~uaa
+xGrssS
+GGGO
+>}>h
+7111h
+111Y
+>31	
+,.99
+&Ky_
+WZ[[
+tV$+
+fM\C
+^FY(y'
+fNNN
++---
+@e??
+\>2}
+700X4v
+!!!M
+(y T
+'(???
+\`hh
+^qww
+@*mll&
+8sss
+vILL
+UIII
+q NHm,
+fZWWWW
+EGoC
+E2X'r
+===3
+ :::
+{*--m
+WB?	,
+ z]RR
+jjjj
+d1sz|
+	`Oz
+AxCuuu
+3srrR
+_wuu
++D"Q
+SR_/
+xHV.
+nnnd
+<yr|nnn
+U7vww7
+buuuNK^
+kOUUU
+LN,Qff
+-[63W"
+&9;;
+&Cxd
+ayIG
+\*v#
+{===c
+bkk;
+^^^q>>>
+YC@\
+mmmm
+|;;;
+P]II
+]TTTt
+lZBB
+so''
+3RWW'
+bXD)
+UVVV
+j/%&&v
+>|x:
+^zzz
+P2KGGG
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c148 79.164036, 2019/08/13-01:06:57        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:38E2B2524B5F11ECBD74BE75EB0A8162" xmpMM:InstanceID="xmp.iid:38E2B2514B5F11ECBD74BE75EB0A8162" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:9458be98-448f-47fa-aedc-bbb79895cd79" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+AIDATx
+PWLFc&
+\_XX U
+-8.Z
+bttT
+H$2Q+ahC\
+-&&&
+|wddd
+?A@@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+Y=PU
+xX#fG1d@
+`Ml+
+~077
+<y~3
+6455
+ttt|$
+JnL`
+9v2F
+y^d@
+ki``
+meAy?
+x[[[
+1;A}
+l|<.
+_^G^O^
+}}}g
+xZu7j
+Bthyy
+    
+    
+    
+    
+    
+    
+    
+    
+    
+bttTc
+\l``
+wrrr}aa
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c148 79.164036, 2019/08/13-01:06:57        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:747BD0E34B5F11ECBD74BE75EB0A8162" xmpMM:InstanceID="xmp.iid:747BD0E24B5F11ECBD74BE75EB0A8162" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:cfffbde0-40be-40ea-88a7-2227f377c011" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+9Pr4
+hrrr9
+Q166Vz
+'OF)
+nGGGGnvv
+bdd$
+P[\\
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@@@
+@@@@
+@@@@
+@@@@
+}?//
+~kmm
+?ijjj
+kjj*
+y1: 
+<X266vlnn
+^r$Or
+wM[y
+@@@@
+    
+    
+    
+    
+    
+    
+    
+    
+     
+999T
+FKKK5J
+VVVr
+aWCC
+N5*FGG
+	F)((
+>J<v
+zgMH
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c148 79.164036, 2019/08/13-01:06:57        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:B45E8D73862C11ECACA0E950021E8AA0" xmpMM:InstanceID="xmp.iid:B45E8D72862C11ECACA0E950021E8AA0" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:c62c466d-2d86-4f6e-9081-6ecc64da0219" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+TIDATx
+\QQa1
+@JDqqq
+7onX
+-222T)))
+CKJJ4$T
+~}#u
+VUWWc
+eiii
+>~~~
+(>H\\
+%+`K
+H}N 
+8pfvv
+7#xp
+&Q/M
+/bcc?d
+k Qo%
+0L;~
+g*/]
+VWW_
+NGg*
+McBB
+%K6s
+z###w
+zN*)
+8cVVV
++Htz
+UUU%
+JoX2)
+}TZZ
+*G=hZx
+@-F=
+L6el
+I %s
+:UW\\
+on=,~
+%FEE
+/666
+NFzzz$
+F=na>
+H=va>w
+oHMM
+999[
+$d'Df
+W\?!
+)LHH
+m`0,
+|Y<Y@
+^putt
+WmBR
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c148 79.164036, 2019/08/13-01:06:57        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:B45E8D6F862C11ECACA0E950021E8AA0" xmpMM:InstanceID="xmp.iid:B45E8D6E862C11ECACA0E950021E8AA0" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:c62c466d-2d86-4f6e-9081-6ecc64da0219" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+]IDATx
+HHHh#O[Iy
+"`pss
+'N\ 
+nVUU
+'((h
+ >HJJ
+U<KTT
+i~pp
+bcc3v
+,..N
+0---
+1113\
+#''g<
+,)++
+GG~GG
+ZP\\
+h322^
+Ymb#
+G=z}
+9rd!
+K5-z
+k$t=
+/$''
+#"E$
+555u
+8BBB
+E@Iuu
+H	ryHQQ
+HMM]+
+zj-W
+Fc!W/$?
+lDbX
+CCC'
+_C7>>
+Ri }B~
+FAW_
+{>7l
+_D"Q
+vZG$u
+QKKKmdd
+-Y\f
+5..n
+zUjjj
+(ZUU
+iI'N
+B]}}
+ol=Q
+ESRR2
+%D=D@
+F=nb>
+HMlA
+B<7Y
+xvvv%Y~M
+?qh}
+|Y@G
+Axx8]
+7OF\
+F744
+&$$D
+aaaw
+IEND
+IHDR
+tEXtSoftware
+Adobe ImageReadyq
+iTXtXML:com.adobe.xmp
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c148 79.164036, 2019/08/13-01:06:57        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:daf52d0f-3a3c-43dc-bcc1-6622a5848f27" xmpMM:DocumentID="xmp.did:54DC3902862C11ECACA0E950021E8AA0" xmpMM:InstanceID="xmp.iid:54DC3901862C11ECACA0E950021E8AA0" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:c62c466d-2d86-4f6e-9081-6ecc64da0219" stRef:documentID="adobe:docid:photoshop:a68c10ad-c231-ba4c-a4de-1244829436b7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+IDATx
+;5Jp
+cit}}
+o|||T
+RPqq
+=:::"
+KJJr
+{QTT
+444x
+k]85
+`]mm-
+X,83
+_WWW
+zjNo
++Vlc
+;`vY
+c}sss
+E999
+OwG~SS
+z&gk
+>}(66v+/f
+AAAqnnn
+:q9#
+LSVVv
+.iiv
+iKiasss
+G3xW
+5WTT
+kWvvv
+!!!+
+zUjj
+JHHX
+e OF
+444\
+`-++;.
+X322
+/""b
+3,2~J
+'Z[[)
+5///K
+z&.B
+6lHe
+PfQO2
+il=W
+I_GJu=
+~)  `
+}&%%mc	&
+pg4V
+y!'''
++_aa
+huss
+/))1
+IEND
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+N0L0
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Trusted Root G40
+210429000000Z
+360428235959Z0i1
+DigiCert, Inc.1A0?
+8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA10
+>Mp$d
+}4}L
+!xE.
+IpB2
+6*f(_
+[K]taM?
+m&vh
+J>@G_
+#!Y`
+x8E0
+SA|X=G
+q]dL
+k0i0$
+http://ocsp.digicert.com0A
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+<0:08
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+:#D=
+:]Hm
+v~7q
+!usR
+ov7,
+/"lA
+jj@0HK4
+VxN0
+DigiCert, Inc.1A0?
+8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA10
+210913000000Z
+220913235959Z0l1
+North Carolina1
+Morrisville1
+Lenovo1
+G081
+Lenovo0
+}s-d
+C/s6[
+90<H
+y5u>
+t\i:
+%Q"nP
+HK':
+f@dQ
+3o~L>P
+Mhttp://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0S
+Mhttp://crl4.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0>
+70503
+0)0'
+http://www.digicert.com/CPS0
+http://ocsp.digicert.com0\
+Phttp://cacerts.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crt0
+(XwVExQ
+Tz?dTW
+G(|6
+F|Sp5
+0}0i1
+DigiCert, Inc.1A0?
+8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1
+xX|q
+=(C	
+'w^4
+Vj@a
+=.F8
+20220425014624Z
+DigiCert, Inc.1;09
+2DigiCert Trusted G4 RSA4096 SHA256 TimeStamping CA0
+220329000000Z
+330314235959Z0L1
+DigiCert, Inc.1$0"
+DigiCert Timestamp 2022 - 20
+x]~\6
+AjEB#AZ
+e,>~^
+D4R_
+Y,Dt
+b~p,
+/s)v
+S0Q0O
+Ihttp://crl3.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crl0
+http://ocsp.digicert.com0X
+Lhttp://cacerts.digicert.com/DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crt0
+*9Z9N
+dO>F
+D;iG
+2xJK7*L
+p0Ux
+HjYC
+t[cf
+Gc8G
+(f*^[0
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Trusted Root G40
+220323000000Z
+370322235959Z0c1
+DigiCert, Inc.1;09
+2DigiCert Trusted G4 RSA4096 SHA256 TimeStamping CA0
+=rIQU
+|jWz
+!hn7!
+{un'%
++Xt@(
+u($A
+fIRP
+,W5y+
+/s)v
+q]dL
+k0i0$
+http://ocsp.digicert.com0A
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+<0:08
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+ %41g
+i?Gw
+',=?k
+Axz8
+0w0c1
+DigiCert, Inc.1;09
+2DigiCert Trusted G4 RSA4096 SHA256 TimeStamping CA
+220425014624Z0+
+M|T07
+/1(0&0$0"
+h=u-I
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+210617175559Z
+220616175559Z0
+Washington1
+Redmond1
+Microsoft Corporation1;09
+2Microsoft Windows Hardware Compatibility Publisher0
+PS-2O[|
+'W);
+E0C1)0'
+ Microsoft Operations Puerto Rico1
+232825+4661110
+!vOR
+m0k0i
+chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crl0
+u0s0q
+ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crt0
+gKo(
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+120418234838Z
+270418235838Z0
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+^W1&
+-g<'<V
+}PH.=C
+!vOR
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+i+w#
+ip(sf
+83ha
+p%|Yi1$
+pCq<
+fvr`
+/^ r
+ot?`
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 2012
+1>0<
+(https://www.microsoft.com/en-us/windows 0
+8<A3
+j(`c
+c-@+
+Jy;E{E
+sohYY#
+20220426043812.421Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:86DF-4BBC-93351%0#
+Microsoft Time-Stamp Service
+bG6vf;
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+211028192744Z
+230126192744Z0
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:86DF-4BBC-93351%0#
+Microsoft Time-Stamp Service0
+78<9
+|k	}
+F[8n
+B`Mf
+	./^
+0	t:
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+=ccgT
+'];,|P
+;eLv
+)-ZO
+F-B7Y
+m{"=4
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+`}jR
+q\Q17
+&S|9a
+0\O,
+s=CN
+!]_0t
+\RQ]
+<F5)
+U0S0Q
+0A0?
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,	x
+J>f;O
+ctH,
+WITd
+!TkjE
+Af=i
+AI~~
+$5g+
+'B=%
+tt[j
+pcSM
+Washington1
+Redmond1
+Microsoft Corporation1-0+
+$Microsoft Ireland Operations Limited1&0$
+Thales TSS ESN:86DF-4BBC-93351%0#
+Microsoft Time-Stamp Service
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20220426025822Z
+20220427025822Z0t0:
+1,0*0
+1(0&0
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+bG6vf;
+V#SQ+
+37<o"0
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+bG6vf;
+0ZGq
+)~zmDF
+KsT~h
+t693
+yfz5

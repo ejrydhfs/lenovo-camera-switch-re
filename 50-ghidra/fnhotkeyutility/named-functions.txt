@@ -1,0 +1,3 @@
+# Functions whose symbol name matches interesting patterns
+14000fa60	81	ctlGetIntelArcSyncInfoForMonitor
+140025424	6	BlurSwitchCLR.BlurSwitchCLR.Switch

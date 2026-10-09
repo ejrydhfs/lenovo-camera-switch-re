@@ -1,0 +1,73 @@
+### fnhotkeyutility.exe WMI-related strings ###
+" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)" xmp:CreateDate="2020-11-04T10:04:40+08:00" xmp:ModifyDate="2020-11-05T15:17:03+08:00" xmp:MetadataDate="2020-11-05T15:17:03+08:00" dc:format="image/png" photoshop:ColorMode="3" photoshop:ICCProfile="sRGB IEC61966-2.1" photoshop:History="2020-11-05T15:16:25+08:00&#x9;
+#GUID
+.?AVCMoniterWmiGetFnQ@@
+.?AVCMoniterWmiUtilityEvent@@
+<CrtImplementationDetails>.FromGUID
+CreateEventW
+E:\LUT-LENSU-LEN\SvcSrc\LenovoKBDHetkey\Bin\x64\Release\FnHotkeyUtility.pdb
+EventArgs
+EventHandler
+FnHotkeyUtility
+FnHotkeyUtility.exe
+Guid
+ResetEvent
+SELECT * FROM LENOVO_GAMEZONE_SMART_FAN_MODE_EVENT
+SELECT * FROM LENOVO_UTILITY_EVENT
+SELECT * FROM Win32_VideoController
+SELECT InstanceName, VideoOutputTechnology FROM WmiMonitorConnectionParams
+SelectObject
+SetEvent
+StringFromGUID2
+System.ComponentModel.EventBasedAsync
+_GUID
+_GUID_90f1a06c_7712_4762_86b5_7a5eba6bdb02
+_GUID_90f1a06e_7712_4762_86b5_7a5eba6bdb02
+_GUID_cb2f6722_ab3a_11d2_9c40_00c04fa30a3e
+_GUID_cb2f6723_ab3a_11d2_9c40_00c04fa30a3e
+__s_GUID
+api-ms-win-crt-utility-l1-1-0.dll
+guid
+trackEvent2
+
+### 16-bit WMI strings in fnhotkeyutility ###
+Camera
+CameraHW
+CameraPrivacy SwitchCameraStatus CoCreateInstance Line: %d  GetLastError: %d
+CameraPrivacy SwitchCameraStatus QueryInterface Line: %d  GetLastError: %d
+CameraPrivacy SwitchCameraStatus out
+CameraPrivacy SwitchCameraStatus pCameraControl[i]->Set Line: %d  GetLastError: %d
+CameraPrivacy SwitchCameraStatus pMoniker[nIndexCamera]->BindToObject Line: %d  GetLastError: %d
+Connected to ROOT\WMI WMI namespace
+LenovoUtility::Run Lenovo_Utility_Window is exist
+Lenovo_Utility_Window
+MoniterWmiGetFnQ Indicate FnQ Button press(%d),(%d)_
+MoniterWmiGetFnQ Indicate FnQ Button press(%d)_  Line: %d GetLastError: %d
+MoniterWmiGetFnQ SetStatus Call complete. hResult = 0x%X
+MoniterWmiGetFnQ SetStatus Call in progress.
+MoniterWmiGetFnQ StartFnQMonitor Monitor oc button done.
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor CoCreateInstance Line: %d  GetLastError: %d
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor CoInitializeSecurity Line: %d  GetLastError: %d
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor CoSetProxyBlanket Line: %d  GetLastError: %d
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor ConnectServer Line: %d  GetLastError: %d
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor ConnectServer to ROOT\WMI WMI namespace
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor CreateObjectStub Line: %d  GetLastError : %d
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor ExecNotificationQueryAsync Line: %d  GetLastError : %d
+MoniterWmiGetFnQ _Thread_WmiFnQMonitor QueryInterface Line: %d  GetLastError : %d
+MoniterWmiUtilityEvent SetStatus Call complete. hResult = 0x%X
+MoniterWmiUtilityEvent SetStatus Call in progress.
+MoniterWmiUtilityEvent StartUtilityEventMonitor Monitor LSKEvent button done.
+MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor CoCreateInstance Line: %d  GetLastError: %d
+MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor CoInitializeSecurity Line: %d  GetLastError: %d
+MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor CoSetProxyBlanket Line: %d  GetLastError: %d
+MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor Connected to ROOT\WMI WMI namespace
+MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor ExecNotificationQueryAsync Line: %d  GetLastError: %d
+MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor QueryInterface Line: %d  GetLastError: %d
+MsgLogic  e_Event_CAMERA_BG_BLUR try catch Line: %d  GetLastError: %d
+MsgLogic e_Event_CAMERA_BG_BLUR Launch lenovo-smartappearance failed! Line: %d GetLastError: %d
+MsgLogic e_Event_CAMERA_BG_BLUR strLVFComponentInstallPath RegKeyExists Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent Init CAMERA_BIT7 fail! Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent SwitchCameraStatus  in ....
+MsgLogic g_HandleEvent camera unkown status! Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent e_Event_FnQ Line: %d  GetLastError: %d
+MsgLogic g_HandleEvent e_Event_FnQ_X60 Line: %d  GetLastError: %d

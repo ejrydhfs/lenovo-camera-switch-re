@@ -1,0 +1,254 @@
+--- /home/user/Downloads/lenovo-camera-switch-re/40-kernel-src/ideapad-laptop.c	2026-10-06 00:52:18.855776145 -0500
++++ ideapad-laptop.c	2026-10-06 01:09:46.865617448 -0500
+@@ -35,6 +35,7 @@
+ #include <linux/sysfs.h>
+ #include <linux/types.h>
+ #include <linux/wmi.h>
++#include <linux/workqueue.h>
+ #include "ideapad-laptop.h"
+ 
+ #include <acpi/battery.h>
+@@ -185,6 +186,12 @@
+ 	const struct power_supply_ext *battery_ext;
+ 	unsigned long cfg;
+ 	unsigned long r_touchpad_val;
++	/* Camera privacy switch (firmware "CAMS" bit + LSK WMI event) */
++	acpi_handle camera_switch_handle;
++	struct delayed_work camera_switch_work;
++	bool camera_switch_active;
++	bool camera_switch_reported;
++	bool camera_switch_on;
+ 	struct {
+ 		bool rapid_charge         : 1;
+ 		bool conservation_mode    : 1;
+@@ -247,6 +254,16 @@
+ 		 "Enable EC triggering work-around to force emitting tablet mode events. If you need this please report this to: platform-driver-x86@vger.kernel.org");
+ 
+ /*
++ * ACPI path of the camera-privacy child device of the camera's USB port.  Its
++ * _STA method returns 0x0f while the firmware's "CAMS" bit is set (camera
++ * enabled) and 0 once the privacy switch has disabled the camera.
++ */
++static char *camera_switch_path = "\\_SB.PCI0.GP17.XHC0.RHUB.HSP3.CAMA";
++module_param(camera_switch_path, charp, 0444);
++MODULE_PARM_DESC(camera_switch_path,
++		 "ACPI path of the camera privacy switch device (default: \\_SB.PCI0.GP17.XHC0.RHUB.HSP3.CAMA)");
++
++/*
+  * shared data
+  */
+ 
+@@ -876,8 +893,25 @@
+ 
+ static DEVICE_ATTR_RW(usb_charging);
+ 
++static int ideapad_camera_switch_read(struct ideapad_private *priv, bool *on);
++
++static ssize_t camera_switch_show(struct device *dev,
++				  struct device_attribute *attr, char *buf)
++{
++	struct ideapad_private *priv = dev_get_drvdata(dev);
++	bool on;
++
++	if (ideapad_camera_switch_read(priv, &on))
++		return -EIO;
++
++	return sysfs_emit(buf, "%d\n", on);
++}
++
++static DEVICE_ATTR_RO(camera_switch);
++
+ static struct attribute *ideapad_attributes[] = {
+ 	&dev_attr_camera_power.attr,
++	&dev_attr_camera_switch.attr,
+ 	&dev_attr_conservation_mode.attr,
+ 	&dev_attr_fan_mode.attr,
+ 	&dev_attr_fn_lock.attr,
+@@ -896,6 +930,8 @@
+ 
+ 	if (attr == &dev_attr_camera_power.attr)
+ 		supported = test_bit(CFG_CAP_CAM_BIT, &priv->cfg);
++	else if (attr == &dev_attr_camera_switch.attr)
++		supported = priv->camera_switch_handle != NULL;
+ 	else if (attr == &dev_attr_conservation_mode.attr)
+ 		supported = priv->features.conservation_mode;
+ 	else if (attr == &dev_attr_fan_mode.attr)
+@@ -1368,6 +1404,125 @@
+ 	{ KE_END },
+ };
+ 
++/*
++ * Camera privacy switch
++ *
++ * On several Lenovo consumer models (Legion 5 15ACH6H / 82JU and relatives)
++ * the EC exposes the position of the camera privacy switch in two ways:
++ *
++ *  - as an absolute firmware bit ("CAMS"), which gates the camera's USB port
++ *    and is observable through the ACPI _STA of the camera port's child
++ *    device, e.g. \_SB.PCI0.GP17.XHC0.RHUB.HSP3.CAMA; and
++ *  - as a firmware event delivered through the "Lenovo Utility Key Press
++ *    Event" WMI class (GUID 8FC0DE0C-B4E4-43FD-B0F3-8871711C1294), where the
++ *    event values 0x0c and 0x0d mean "switch on" and "switch off".  These are
++ *    the values the firmware's _WED returns for notify 0xd0 (see the DSDT).
++ *
++ * Both sources are read-only; the position is reported as
++ * SW_CAMERA_LENS_COVER (1 = lens covered / camera off) plus a "camera_switch"
++ * sysfs attribute (1 = camera on).
++ */
++#define IDEAPAD_CAMERA_SWITCH_EVENT_ON	0x0c
++#define IDEAPAD_CAMERA_SWITCH_EVENT_OFF	0x0d
++#define IDEAPAD_CAMERA_SWITCH_POLL_MS	2000
++
++static int ideapad_camera_switch_read(struct ideapad_private *priv, bool *on)
++{
++	unsigned long long status;
++	acpi_status ret;
++
++	if (!priv->camera_switch_handle)
++		return -ENODEV;
++
++	ret = acpi_evaluate_integer(priv->camera_switch_handle, "_STA", NULL,
++				    &status);
++	if (ACPI_FAILURE(ret))
++		return -EIO;
++
++	*on = !!(status & 0x0f);
++
++	return 0;
++}
++
++static void ideapad_camera_switch_report(struct ideapad_private *priv, bool on)
++{
++	if (priv->camera_switch_reported && priv->camera_switch_on == on)
++		return;
++
++	priv->camera_switch_on = on;
++	priv->camera_switch_reported = true;
++
++	dev_dbg(&priv->platform_device->dev, "camera switch: camera %s\n",
++		str_on_off(on));
++
++	/* SW_CAMERA_LENS_COVER is "1 == lens covered", i.e. the inverse */
++	input_report_switch(priv->inputdev, SW_CAMERA_LENS_COVER, !on);
++	input_sync(priv->inputdev);
++}
++
++static void ideapad_camera_switch_poll(struct work_struct *work)
++{
++	struct ideapad_private *priv = container_of(to_delayed_work(work),
++						    struct ideapad_private,
++						    camera_switch_work);
++	bool on;
++
++	if (!priv->camera_switch_active)
++		return;
++
++	if (!ideapad_camera_switch_read(priv, &on))
++		ideapad_camera_switch_report(priv, on);
++
++	if (priv->camera_switch_active)
++		schedule_delayed_work(&priv->camera_switch_work,
++				      msecs_to_jiffies(IDEAPAD_CAMERA_SWITCH_POLL_MS));
++}
++
++static void ideapad_camera_switch_setup(struct ideapad_private *priv)
++{
++	acpi_status ret;
++
++	ret = acpi_get_handle(NULL, camera_switch_path,
++			      &priv->camera_switch_handle);
++	if (ACPI_FAILURE(ret)) {
++		priv->camera_switch_handle = NULL;
++		dev_info(&priv->platform_device->dev,
++			 "camera privacy switch not available (%s: %s)\n",
++			 camera_switch_path, acpi_format_exception(ret));
++		return;
++	}
++
++	INIT_DELAYED_WORK(&priv->camera_switch_work,
++			  ideapad_camera_switch_poll);
++
++	dev_info(&priv->platform_device->dev,
++		 "camera privacy switch at %s\n", camera_switch_path);
++}
++
++static void ideapad_camera_switch_start(struct ideapad_private *priv)
++{
++	bool on;
++
++	if (!priv->camera_switch_handle)
++		return;
++
++	if (!ideapad_camera_switch_read(priv, &on))
++		ideapad_camera_switch_report(priv, on);
++
++	priv->camera_switch_active = true;
++	schedule_delayed_work(&priv->camera_switch_work,
++			      msecs_to_jiffies(IDEAPAD_CAMERA_SWITCH_POLL_MS));
++}
++
++static void ideapad_camera_switch_stop(struct ideapad_private *priv)
++{
++	if (!priv->camera_switch_handle)
++		return;
++
++	priv->camera_switch_active = false;
++	cancel_delayed_work_sync(&priv->camera_switch_work);
++}
++
+ static int ideapad_input_init(struct ideapad_private *priv)
+ {
+ 	struct input_dev *inputdev;
+@@ -1389,6 +1544,9 @@
+ 		goto err_free_dev;
+ 	}
+ 
++	/* Camera privacy switch position, see ideapad_camera_switch_report() */
++	input_set_capability(inputdev, EV_SW, SW_CAMERA_LENS_COVER);
++
+ 	err = input_register_device(inputdev);
+ 	if (err) {
+ 		dev_err(&priv->platform_device->dev,
+@@ -2312,6 +2470,18 @@
+ 		if (data->integer.value == 0x02 || data->integer.value == 0x03)
+ 			ideapad_fn_lock_led_notify(priv, data->integer.value == 0x02);
+ 
++		/*
++		 * Camera privacy switch.  The firmware reports the new
++		 * position as a dedicated event: 0x0c -> camera on,
++		 * 0x0d -> camera off.  Do not report these as key presses.
++		 */
++		if (data->integer.value == IDEAPAD_CAMERA_SWITCH_EVENT_ON ||
++		    data->integer.value == IDEAPAD_CAMERA_SWITCH_EVENT_OFF) {
++			ideapad_camera_switch_report(priv,
++				data->integer.value == IDEAPAD_CAMERA_SWITCH_EVENT_ON);
++			break;
++		}
++
+ 		ideapad_input_report(priv,
+ 				     data->integer.value | IDEAPAD_WMI_KEY);
+ 
+@@ -2398,10 +2568,14 @@
+ 
+ 	ideapad_debugfs_init(priv);
+ 
++	ideapad_camera_switch_setup(priv);
++
+ 	err = ideapad_input_init(priv);
+ 	if (err)
+ 		goto input_failed;
+ 
++	ideapad_camera_switch_start(priv);
++
+ 	err = ideapad_kbd_bl_init(priv);
+ 	if (err) {
+ 		if (err != -ENODEV)
+@@ -2495,6 +2669,8 @@
+ 
+ 	ideapad_shared_exit(priv);
+ 
++	ideapad_camera_switch_stop(priv);
++
+ 	acpi_remove_notify_handler(priv->adev->handle,
+ 				   ACPI_DEVICE_NOTIFY,
+ 				   ideapad_acpi_notify);

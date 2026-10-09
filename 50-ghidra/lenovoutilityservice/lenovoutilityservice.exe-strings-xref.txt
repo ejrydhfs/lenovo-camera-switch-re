@@ -1,0 +1,1061 @@
+1400206a0 | bad allocation
+      xref 140008961 DATA in FUN_14000895c@14000895c
+      xref 140008968 DATA in FUN_14000895c@14000895c
+1400207b0 | device or resource busy
+      xref 140020758 DATA in ?
+1400207c8 | invalid argument
+      xref 140020760 DATA in ?
+1400207e0 | no such process
+      xref 140020768 DATA in ?
+1400207f0 | not enough memory
+      xref 140020770 DATA in ?
+140020808 | operation not permitted
+      xref 140020778 DATA in ?
+140020820 | resource deadlock would occur
+      xref 140020780 DATA in ?
+140020840 | resource unavailable try again
+      xref 140020788 DATA in ?
+1400208e8 | generic
+      xref 1400096c4 DATA in FUN_1400096c4@1400096c4
+1400208f0 | kernel32.dll
+      xref 14000982e DATA in FUN_140009828@140009828
+      xref 140009df9 DATA in FUN_140009dc8@140009dc8
+140020910 | FlsAlloc
+      xref 14000983e DATA in FUN_140009828@140009828
+      xref 14000e505 DATA in __vcrt_FlsAlloc@14000e4ec
+      xref 140014628 DATA in __acrt_FlsAlloc@14001460c
+140020920 | FlsFree
+      xref 14000984e DATA in FUN_140009828@140009828
+      xref 14000e54f DATA in __vcrt_FlsFree@14000e534
+      xref 14001466f DATA in __acrt_FlsFree@140014654
+140020928 | FlsGetValue
+      xref 140009865 DATA in FUN_140009828@140009828
+      xref 14000e597 DATA in __vcrt_FlsGetValue@14000e57c
+      xref 1400146b7 DATA in __acrt_FlsGetValue@14001469c
+140020938 | FlsSetValue
+      xref 14000987c DATA in FUN_140009828@140009828
+      xref 14000e5da DATA in __vcrt_FlsSetValue@14000e5c4
+      xref 1400146fa DATA in __acrt_FlsSetValue@1400146e4
+140020948 | InitializeCriticalSectionEx
+      xref 140009893 DATA in FUN_140009828@140009828
+      xref 14000e63d DATA in __vcrt_InitializeCriticalSectionEx@14000e618
+      xref 14001475d DATA in __acrt_InitializeCriticalSectionEx@140014738
+140020968 | InitOnceExecuteOnce
+      xref 1400098aa DATA in FUN_140009828@140009828
+140020980 | CreateEventExW
+      xref 1400098c1 DATA in FUN_140009828@140009828
+140020990 | CreateSemaphoreW
+      xref 1400098d8 DATA in FUN_140009828@140009828
+1400209a8 | CreateSemaphoreExW
+      xref 1400098ef DATA in FUN_140009828@140009828
+1400209c0 | CreateThreadpoolTimer
+      xref 140009906 DATA in FUN_140009828@140009828
+1400209d8 | SetThreadpoolTimer
+      xref 14000991d DATA in FUN_140009828@140009828
+1400209f0 | WaitForThreadpoolTimerCallbacks
+      xref 140009934 DATA in FUN_140009828@140009828
+140020a10 | CloseThreadpoolTimer
+      xref 14000994b DATA in FUN_140009828@140009828
+140020a28 | CreateThreadpoolWait
+      xref 140009962 DATA in FUN_140009828@140009828
+140020a40 | SetThreadpoolWait
+      xref 140009979 DATA in FUN_140009828@140009828
+140020a58 | CloseThreadpoolWait
+      xref 140009990 DATA in FUN_140009828@140009828
+140020a70 | FlushProcessWriteBuffers
+      xref 1400099a7 DATA in FUN_140009828@140009828
+140020a90 | FreeLibraryWhenCallbackReturns
+      xref 1400099be DATA in FUN_140009828@140009828
+140020ab0 | GetCurrentProcessorNumber
+      xref 1400099d5 DATA in FUN_140009828@140009828
+140020ad0 | CreateSymbolicLinkW
+      xref 1400099f3 DATA in FUN_140009828@140009828
+140020ae8 | GetCurrentPackageId
+      xref 140009a03 DATA in FUN_140009828@140009828
+140020b00 | GetTickCount64
+      xref 140009a1a DATA in FUN_140009828@140009828
+140020b10 | GetFileInformationByHandleEx
+      xref 140009a31 DATA in FUN_140009828@140009828
+140020b30 | SetFileInformationByHandle
+      xref 140009a48 DATA in FUN_140009828@140009828
+140020b50 | GetSystemTimePreciseAsFileTime
+      xref 140009a5f DATA in FUN_140009828@140009828
+140020b70 | InitializeConditionVariable
+      xref 140009a76 DATA in FUN_140009828@140009828
+140020b90 | WakeConditionVariable
+      xref 140009a8d DATA in FUN_140009828@140009828
+140020ba8 | WakeAllConditionVariable
+      xref 140009aa4 DATA in FUN_140009828@140009828
+      xref 140009e1e DATA in FUN_140009dc8@140009dc8
+140020bc8 | SleepConditionVariableCS
+      xref 140009abb DATA in FUN_140009828@140009828
+      xref 140009e0e DATA in FUN_140009dc8@140009dc8
+140020be8 | InitializeSRWLock
+      xref 140009ad2 DATA in FUN_140009828@140009828
+140020c00 | AcquireSRWLockExclusive
+      xref 140009ae9 DATA in FUN_140009828@140009828
+140020c18 | TryAcquireSRWLockExclusive
+      xref 140009b00 DATA in FUN_140009828@140009828
+140020c38 | ReleaseSRWLockExclusive
+      xref 140009b17 DATA in FUN_140009828@140009828
+140020c50 | SleepConditionVariableSRW
+      xref 140009b2e DATA in FUN_140009828@140009828
+140020c70 | CreateThreadpoolWork
+      xref 140009b45 DATA in FUN_140009828@140009828
+140020c88 | SubmitThreadpoolWork
+      xref 140009b5c DATA in FUN_140009828@140009828
+140020ca0 | CloseThreadpoolWork
+      xref 140009b73 DATA in FUN_140009828@140009828
+140020cb8 | CompareStringEx
+      xref 140009b8a DATA in FUN_140009828@140009828
+      xref 14001455d DATA in __acrt_CompareStringEx@140014530
+140020cc8 | GetLocaleInfoEx
+      xref 140009ba1 DATA in FUN_140009828@140009828
+140020cd8 | LCMapStringEx
+      xref 140009bb8 DATA in FUN_140009828@140009828
+      xref 1400147c9 DATA in __acrt_LCMapStringEx@14001479c
+140021450 | address family not supported
+      xref 140009c1b DATA in FUN_140009c0c@140009c0c
+140021470 | address in use
+      xref 140009c2f DATA in FUN_140009c0c@140009c0c
+      xref 140020f88 DATA in ?
+140021480 | address not available
+140021498 | already connected
+1400214b0 | argument list too long
+1400214c8 | argument out of domain
+1400214e0 | bad address
+1400214f0 | bad file descriptor
+140021508 | bad message
+140021518 | broken pipe
+140021528 | connection aborted
+140021540 | connection already in progress
+140021560 | connection refused
+140021578 | connection reset
+140021590 | cross device link
+1400215a8 | destination address required
+1400215c8 | directory not empty
+1400215e0 | executable format error
+1400215f8 | file exists
+140021608 | file too large
+140021618 | filename too long
+140021630 | function not supported
+140021648 | host unreachable
+140021660 | identifier removed
+140021678 | illegal byte sequence
+140021690 | inappropriate io control operation
+1400216b8 | interrupted
+1400216c8 | invalid seek
+1400216d8 | io error
+1400216e8 | is a directory
+1400216f8 | message size
+140021708 | network down
+140021718 | network reset
+140021728 | network unreachable
+140021740 | no buffer space
+140021750 | no child process
+140021768 | no link
+140021770 | no lock available
+140021788 | no message available
+1400217a0 | no message
+1400217b0 | no protocol option
+1400217c8 | no space on device
+1400217e0 | no stream resources
+1400217f8 | no such device or address
+140021818 | no such device
+140021828 | no such file or directory
+140021848 | not a directory
+140021858 | not a socket
+140021868 | not a stream
+140021878 | not connected
+140021888 | not supported
+140021898 | operation canceled
+1400218b0 | operation in progress
+1400218c8 | operation not supported
+1400218e0 | operation would block
+1400218f8 | owner dead
+140021908 | permission denied
+140021920 | protocol error
+140021930 | protocol not supported
+140021948 | read only file system
+140021960 | result out of range
+140021978 | state not recoverable
+140021990 | stream timeout
+1400219a0 | text file busy
+1400219b0 | timed out
+1400219c0 | too many files open in system
+1400219e0 | too many files open
+1400219f8 | too many links
+140021a08 | too many symbolic link levels
+140021a28 | value too large
+140021a38 | wrong protocol type
+140021a50 | unknown error
+      xref 140009c27 DATA in FUN_140009c0c@140009c0c
+140021b70 | ERROR : Unable to initialize critical section in CAtlBaseModule\n
+      xref 140009cb7 DATA in CAtlBaseModule@140009c34
+140021c20 | api-ms-win-core-synch-l1-2-0.dll
+      xref 140009de4 DATA in FUN_140009dc8@140009dc8
+140021d78 | bad exception
+      xref 14000d755 DATA in FUN_14000d750@14000d750
+      xref 14000d75c DATA in FUN_14000d750@14000d750
+140022490 | __based(
+1400224a0 | __cdecl
+1400224a8 | __pascal
+1400224b8 | __stdcall
+1400224c8 | __thiscall
+1400224d8 | __fastcall
+1400224e8 | __vectorcall
+1400224f8 | __clrcall
+140022510 | __swift_1
+140022520 | __swift_2
+140022538 | __restrict
+140022548 | __unaligned
+140022558 | restrict(
+140022570 |  delete
+140022598 | operator
+140022620 | `vftable'
+140022630 | `vbtable'
+140022658 | `local static guard'
+140022670 | `string'
+140022680 | `vbase destructor'
+140022698 | `vector deleting destructor'
+1400226b8 | `default constructor closure'
+1400226d8 | `scalar deleting destructor'
+1400226f8 | `vector constructor iterator'
+140022718 | `vector destructor iterator'
+140022738 | `vector vbase constructor iterator'
+140022760 | `virtual displacement map'
+140022780 | `eh vector constructor iterator'
+1400227a8 | `eh vector destructor iterator'
+1400227c8 | `eh vector vbase constructor iterator'
+1400227f0 | `copy constructor closure'
+140022810 | `udt returning'
+140022830 | `local vftable'
+140022840 | `local vftable constructor closure'
+140022870 |  delete[]
+140022880 | `omni callsig'
+140022890 | `placement delete closure'
+1400228b0 | `placement delete[] closure'
+1400228d0 | `managed vector constructor iterator'
+1400228f8 | `managed vector destructor iterator'
+140022920 | `eh vector copy constructor iterator'
+140022948 | `eh vector vbase copy constructor iterator'
+140022978 | `dynamic initializer for '
+140022998 | `dynamic atexit destructor for '
+1400229c0 | `vector copy constructor iterator'
+1400229e8 | `vector vbase copy constructor iterator'
+140022a18 | `managed vector copy constructor iterator'
+140022a48 | `local static thread guard'
+140022a68 | operator "" 
+140022a78 | operator co_await
+140022a90 | operator<=>
+140022aa0 |  Type Descriptor'
+140022ab8 |  Base Class Descriptor at (
+140022ad8 |  Base Class Array'
+140022af0 |  Class Hierarchy Descriptor'
+140022b10 |  Complete Object Locator'
+140022b30 | `anonymous namespace'
+140022b60 | api-ms-win-core-fibers-l1-1-1
+      xref 140022b48 DATA in ?
+      xref 140024658 DATA in ?
+140022ba0 | api-ms-win-core-synch-l1-2-0
+      xref 140022b50 DATA in ?
+      xref 140024688 DATA in ?
+140022be0 | kernel32
+      xref 140022b58 DATA in ?
+      xref 1400246d0 DATA in ?
+140022bf8 | api-ms-
+      xref 1400143cd DATA in try_get_function@140014308
+      xref 14000e441 DATA in FUN_14000e39c@14000e39c
+1400235a0 | (null)
+      xref 140010fc6 DATA in type_case_s@140010f7c
+      xref 140010fcd DATA in type_case_s@140010f7c
+      xref 140010fd4 PARAM in type_case_s@140010f7c
+1400235b1 | null)
+      xref 14001100b DATA in type_case_s@140010f7c
+      xref 140011022 DATA in type_case_s@140010f7c
+      xref 140010ff9 READ in type_case_s@140010f7c
+      xref 140011002 READ in type_case_s@140010f7c
+140023698 | mscoree.dll
+      xref 14001224f DATA in try_cor_exit_process@14001223c
+1400236b0 | CorExitProcess
+      xref 140012267 DATA in try_cor_exit_process@14001223c
+140023a9c | Sunday
+      xref 1400237f8 DATA in ?
+140023aa4 | Monday
+      xref 140023800 DATA in ?
+140023ab0 | Tuesday
+      xref 140023808 DATA in ?
+140023ab8 | Wednesday
+      xref 140023810 DATA in ?
+140023ac8 | Thursday
+      xref 140023818 DATA in ?
+140023ad4 | Friday
+      xref 140023820 DATA in ?
+140023ae0 | Saturday
+      xref 140023828 DATA in ?
+140023b20 | January
+      xref 140023890 DATA in ?
+140023b28 | February
+      xref 140023898 DATA in ?
+140023b34 | March
+      xref 1400238a0 DATA in ?
+140023b3c | April
+      xref 1400238a8 DATA in ?
+140023b54 | August
+      xref 1400238c8 DATA in ?
+140023b60 | September
+      xref 1400238d0 DATA in ?
+140023b70 | October
+      xref 1400238d8 DATA in ?
+140023b78 | November
+      xref 1400238e0 DATA in ?
+140023b88 | December
+      xref 1400238e8 DATA in ?
+140023ba0 | MM/dd/yy
+      xref 140023900 DATA in ?
+140023bb0 | dddd, MMMM dd, yyyy
+      xref 140023908 DATA in ?
+140023bc8 | HH:mm:ss
+      xref 140023910 DATA in ?
+140023c10 | Sunday
+      xref 140023958 DATA in ?
+140023c20 | Monday
+      xref 140023960 DATA in ?
+140023c30 | Tuesday
+      xref 140023968 DATA in ?
+140023c40 | Wednesday
+      xref 140023970 DATA in ?
+140023c58 | Thursday
+      xref 140023978 DATA in ?
+140023c70 | Friday
+      xref 140023980 DATA in ?
+140023c80 | Saturday
+      xref 140023988 DATA in ?
+140023cf8 | January
+      xref 1400239f0 DATA in ?
+140023d08 | February
+      xref 1400239f8 DATA in ?
+140023d20 | March
+      xref 140023a00 DATA in ?
+140023d30 | April
+      xref 140023a08 DATA in ?
+140023d40 | June
+      xref 140023a18 DATA in ?
+140023d50 | July
+      xref 140023a20 DATA in ?
+140023d60 | August
+      xref 140023a28 DATA in ?
+140023d70 | September
+      xref 140023a30 DATA in ?
+140023d88 | October
+      xref 140023a38 DATA in ?
+140023d98 | November
+      xref 140023a40 DATA in ?
+140023db0 | December
+      xref 140023a48 DATA in ?
+140023dd8 | MM/dd/yy
+      xref 140023a60 DATA in ?
+140023df0 | dddd, MMMM dd, yyyy
+      xref 140023a68 DATA in ?
+140023e18 | HH:mm:ss
+      xref 140023a70 DATA in ?
+140023e30 | en-US
+      xref 140023a78 DATA in ?
+1400246f0 | api-ms-win-core-datetime-l1-1-1
+      xref 140024650 DATA in ?
+140024730 | api-ms-win-core-file-l1-2-2
+      xref 140024660 DATA in ?
+140024770 | api-ms-win-core-localization-l1-2-1
+      xref 140024668 DATA in ?
+1400247c0 | api-ms-win-core-localization-obsolete-l1-2-0
+      xref 140024670 DATA in ?
+140024820 | api-ms-win-core-processthreads-l1-1-2
+      xref 140024678 DATA in ?
+140024870 | api-ms-win-core-string-l1-1-0
+      xref 140024680 DATA in ?
+1400248b0 | api-ms-win-core-sysinfo-l1-2-1
+      xref 140024690 DATA in ?
+1400248f0 | api-ms-win-core-winrt-l1-1-0
+      xref 140024698 DATA in ?
+140024930 | api-ms-win-core-xstate-l2-1-0
+      xref 1400246a0 DATA in ?
+140024970 | api-ms-win-rtcore-ntuser-window-l1-1-0
+      xref 1400246a8 DATA in ?
+1400249c0 | api-ms-win-security-systemfunctions-l1-1-0
+      xref 1400246b0 DATA in ?
+140024a20 | ext-ms-win-ntuser-dialogbox-l1-1-0
+      xref 1400246b8 DATA in ?
+140024a70 | ext-ms-win-ntuser-windowstation-l1-1-0
+      xref 1400246c0 DATA in ?
+140024ac0 | advapi32
+      xref 1400246c8 DATA in ?
+140024ad8 | ntdll
+      xref 1400246d8 DATA in ?
+140024af0 | api-ms-win-appmodel-runtime-l1-1-2
+      xref 1400246e0 DATA in ?
+140024b38 | user32
+      xref 1400246e8 DATA in ?
+140024b48 | ext-ms-
+      xref 1400143e0 DATA in try_get_function@140014308
+140024b98 | LocaleNameToLCID
+      xref 140014884 DATA in __acrt_LocaleNameToLCID@140014878
+      xref 14001488e DATA in __acrt_LocaleNameToLCID@140014878
+140024bb0 | AppPolicyGetProcessTerminationMethod
+      xref 1400144e9 DATA in __acrt_AppPolicyGetProcessTerminationMethodInternal@1400144e0
+      xref 1400144fc DATA in __acrt_AppPolicyGetProcessTerminationMethodInternal@1400144e0
+140024c70 | NAN(SNAN)
+      xref 140024c20 DATA in ?
+140024c80 | nan(snan)
+      xref 140024c30 DATA in ?
+140024c90 | NAN(IND)
+      xref 140024c40 DATA in ?
+140024ca0 | nan(ind)
+      xref 140024c50 DATA in ?
+140024cac | e+000
+      xref 140015874 DATA in FUN_14001578c@14001578c
+140024cd8 | ja-JP
+      xref 140017b46 DATA in _setmbcp_nolock@1400179d0
+      xref 140017c30 DATA in _setmbcp_nolock@1400179d0
+      xref 140024cb8 DATA in ?
+140024ce8 | zh-CN
+      xref 140017b46 DATA in _setmbcp_nolock@1400179d0
+      xref 140017c30 DATA in _setmbcp_nolock@1400179d0
+      xref 140024cc0 DATA in ?
+140024cf8 | ko-KR
+      xref 140017b46 DATA in _setmbcp_nolock@1400179d0
+      xref 140017c30 DATA in _setmbcp_nolock@1400179d0
+      xref 140024cc8 DATA in ?
+140024d08 | zh-TW
+      xref 140017b46 DATA in _setmbcp_nolock@1400179d0
+      xref 140017c30 DATA in _setmbcp_nolock@1400179d0
+      xref 140024cd0 DATA in ?
+140025dc0 | de-DE
+140025f40 | sl-SI
+140026048 | hi-IN
+1400260e0 | bn-IN
+1400260f0 | pa-IN
+140026110 | ta-IN
+140026120 | te-IN
+140026130 | kn-IN
+140026160 | sa-IN
+140026210 | de-CH
+140026290 | sr-SP-Latn
+1400262d0 | se-SE
+140026338 | de-AT
+140026378 | sr-SP-Cyrl
+140026400 | fr-CH
+140026450 | de-LI
+140026490 | bs-BA-Latn
+1400264f8 | sr-BA-Latn
+140027710 | bn-in
+140027720 | bs-ba-latn
+140027778 | de-at
+140027788 | de-ch
+140027798 | de-de
+1400277a8 | de-li
+140027a58 | fr-ch
+140027ac8 | hi-in
+140027b88 | kn-in
+140027cb8 | pa-in
+140027d48 | sa-in
+140027d78 | se-se
+140027d98 | sl-si
+140027e30 | sr-ba-latn
+140027e48 | sr-sp-cyrl
+140027e60 | sr-sp-latn
+140027eb8 | ta-in
+140027ec8 | te-in
+1400289e0 | 1#INF
+      xref 14001b99f DATA in FUN_14001a7bc@14001a7bc
+1400289e8 | 1#QNAN
+      xref 14001b98c DATA in FUN_14001a7bc@14001a7bc
+1400289f0 | 1#SNAN
+      xref 14001b980 DATA in FUN_14001a7bc@14001a7bc
+1400289f8 | 1#IND
+      xref 14001b974 DATA in FUN_14001a7bc@14001a7bc
+140028c60 | CONOUT$
+      xref 14001d576 DATA in __dcrt_lowio_ensure_console_output_initialized@14001d554
+      xref 14001d625 DATA in __dcrt_write_console@14001d5c4
+14002a4a0 | log10
+      xref 14001dca4 DATA in FUN_14001dca0@14001dca0
+      xref 14001dcb1 DATA in FUN_14001dca0@14001dca0
+14002a4c0 | WMI:Connect ConnectServer failed!\n Error(%x)\n
+      xref 140001235 DATA in FUN_140001080@140001080
+14002a520 | WMI:Connect Server failed!\n Error(%x)\n
+      xref 140001243 DATA in FUN_140001080@140001080
+14002a570 | WMI:EnumInstances SysAllocString failed!\n Error\n
+      xref 1400075b1 DATA in FUN_1400073a0@1400073a0
+14002a5e0 | WMI:ExecMethodWMI SysAllocString failed!\n Error \n
+      xref 14000799e DATA in FUN_1400076d0@1400076d0
+      xref 140007a62 DATA in FUN_1400076d0@1400076d0
+      xref 1400081f5 DATA in FUN_140007f50@140007f50
+14002a648 | WMI:Get method successfully\n
+      xref 140007b4d DATA in FUN_1400076d0@1400076d0
+      xref 14000834d DATA in FUN_140007f50@140007f50
+14002a690 | WMI:ExecMethodWMI put var failed! error=0x%x\n
+      xref 140007ba4 DATA in FUN_1400076d0@1400076d0
+      xref 1400083a4 DATA in FUN_140007f50@140007f50
+14002a6f0 | WMI:ExecMethodWMI SpawnInstance failed! error=0x%x\n
+      xref 140007bb4 DATA in FUN_1400076d0@1400076d0
+      xref 1400083b4 DATA in FUN_140007f50@140007f50
+14002a760 | WMI:ExecMethodWMI get method(%s) failed! error=0x%x\n
+      xref 140007c13 DATA in FUN_1400076d0@1400076d0
+      xref 140008413 DATA in FUN_140007f50@140007f50
+14002a7d0 | WMI:ExecMethodWMI get object failed! error=0x%x\n
+      xref 140007de2 DATA in FUN_1400076d0@1400076d0
+      xref 1400085eb DATA in FUN_140007f50@140007f50
+14002a840 | WMI:ExecMethodWMI reconnect com server.\n
+      xref 140007df7 DATA in FUN_1400076d0@1400076d0
+      xref 140008600 DATA in FUN_140007f50@140007f50
+14002a898 | ReleaseWmi fatal error!\n
+      xref 14001e68d DATA in FUN_14001e680@14001e680
+14002a938 | get Feature Capbilty failed %d
+      xref 140001bcb DATA in FUN_140001a60@140001a60
+      xref 140001b11 DATA in FUN_140001a60@140001a60
+14002a980 | SYSTEM\CurrentControlSet\Services\LenovoFnAndFunctionKeys\Capbility
+      xref 140001b37 DATA in FUN_140001a60@140001a60
+      xref 140001b69 DATA in FUN_140001a60@140001a60
+      xref 140001bf0 DATA in FUN_140001a60@140001a60
+      xref 140001c52 DATA in FUN_140001a60@140001a60
+      xref 140001c7d DATA in FUN_140001a60@140001a60
+14002aa08 | SupportPanelRefeshRate
+      xref 140001b59 DATA in FUN_140001a60@140001a60
+      xref 140001b8a DATA in FUN_140001a60@140001a60
+14002aa38 | get Feature Capbilty failed 
+      xref 140001b9a DATA in FUN_140001a60@140001a60
+      xref 140001cdb DATA in FUN_140001a60@140001a60
+14002aa78 | SupportServiceKey
+      xref 140001c24 DATA in FUN_140001a60@140001a60
+      xref 140001cb1 DATA in FUN_140001a60@140001a60
+14002aaa8 | string too long
+      xref 140001ff4 DATA in FUN_140001ff0@140001ff0
+14002aab8 | bad array new length
+      xref 140002010 DATA in FUN_140002010@140002010
+      xref 14000201f DATA in FUN_140002010@140002010
+14002aad0 | Unknown exception
+      xref 140002134 DATA in FUN_140002130@140002130
+14002aae8 | LenovoUtilityService
+      xref 14000100a DATA in FUN_140001000@140001000
+      xref 14000230d DATA in FUN_1400021f0@1400021f0
+      xref 140002347 DATA in FUN_1400021f0@1400021f0
+      xref 1400023bd DATA in FUN_1400021f0@1400021f0
+      xref 140002411 DATA in FUN_1400021f0@1400021f0
+      xref 140002473 DATA in FUN_1400021f0@1400021f0
+      xref 1400024b5 DATA in FUN_1400021f0@1400021f0
+      xref 140002e1c DATA in FUN_140002e00@140002e00
+      xref 140002e23 DATA in FUN_140002e00@140002e00
+14002ab18 | install
+      xref 14000224d DATA in FUN_1400021f0@1400021f0
+14002ab28 | Lenovo Utility Service
+      xref 140002306 DATA in FUN_1400021f0@1400021f0
+14002ab58 | remove
+      xref 140002379 DATA in FUN_1400021f0@1400021f0
+14002ab68 | console
+      xref 1400024e7 DATA in FUN_1400021f0@1400021f0
+14002ab80 | Service failed to run w/err 0x%08lx\n
+      xref 140002701 DATA in FUN_1400021f0@1400021f0
+14002abd0 | Parameters:\n
+      xref 140002716 DATA in FUN_1400021f0@1400021f0
+14002abf0 |  -install  to install the service.\n
+      xref 140002722 DATA in FUN_1400021f0@1400021f0
+14002ac40 |  -remove   to remove the service.\n
+      xref 14000272e DATA in FUN_1400021f0@1400021f0
+14002ac90 |  -console  to run in console mode.\n
+      xref 14000273a DATA in FUN_1400021f0@1400021f0
+14002ace8 | mmstate
+      xref 140002aaa DATA in FUN_1400029b0@1400029b0
+      xref 140002ab6 DATA in FUN_1400029b0@1400029b0
+14002acf8 | EnterMicMuteStateTracking
+      xref 140002ae6 DATA in FUN_1400029b0@1400029b0
+14002ad18 | LeaveMicMuteStateTracking
+      xref 140002b09 DATA in FUN_1400029b0@1400029b0
+14002ad38 | GetState
+      xref 140002b29 DATA in FUN_1400029b0@1400029b0
+14002ad50 |  g_lsk.LSK_SetFeature(SET_KBD_MIC_LED_OFF return failed
+      xref 140002d30 DATA in FUN_140002bf0@140002bf0
+14002adc0 |  g_lsk.LSK_SetFeature __outParam return 1 
+      xref 140002d59 DATA in FUN_140002bf0@140002bf0
+14002ae20 |  g_lsk.LSK_SetFeature(SET_KBD_MIC_LED_ON return failed
+      xref 140002d47 DATA in FUN_140002bf0@140002bf0
+14002ae90 | CUtilityService CreateThreadpoolTimer() return failed! error: %d\n
+      xref 140002efe DATA in FUN_140002e00@140002e00
+14002af18 | %d: %ls\n
+      xref 140003071 DATA in FUN_140003050@140003050
+14002af30 |  Mark Feature Capbilty return success
+      xref 1400030c8 DATA in FUN_1400030b0@1400030b0
+14002af80 | :CUtilityService::ServiceWorkerThread LaunchFnHotkeyUtilityProcess return success
+      xref 140003118 DATA in FUN_1400030b0@1400030b0
+14002b030 | :CUtilityService::ServiceWorkerThread LaunchFnHotkeyUtilityProcess return fail, error: %d
+      xref 140003108 DATA in FUN_1400030b0@1400030b0
+14002b0f0 | UtilityService::OnStart enter.\n
+      xref 140003139 DATA in FUN_140003130@140003130
+14002b130 | CppWindowsService in OnStart
+      xref 140003148 DATA in FUN_140003130@140003130
+14002b170 | CreateThreadpoolWork failed
+      xref 14000317c DATA in FUN_140003130@140003130
+14002b1b0 | CUtilityService::OnStart CreateThreadpoolWork() return fail, error: %d
+      xref 140003194 DATA in FUN_140003130@140003130
+14002b240 | CUtilityService::OnStop enter.\n
+      xref 1400031c9 DATA in FUN_1400031c0@1400031c0
+14002b280 | CppWindowsService in OnStop
+      xref 1400031d8 DATA in FUN_1400031c0@1400031c0
+14002b2b8 | FnHotkeyUtility.exe
+      xref 1400050b5 DATA in FUN_140004880@140004880
+      xref 140005012 DATA in FUN_140004880@140004880
+      xref 14000433e DATA in FUN_140004100@140004100
+      xref 1400045c5 DATA in FUN_140004100@140004100
+      xref 1400045e0 DATA in FUN_140004100@140004100
+      xref 14000435a DATA in FUN_140004100@140004100
+      xref 140003270 DATA in FUN_1400031f0@1400031f0
+      xref 1400033a9 DATA in FUN_1400031f0@1400031f0
+      xref 140003dde DATA in FUN_140003b90@140003b90
+      xref 140003fb6 DATA in FUN_140003b90@140003b90
+      xref 140003fd0 DATA in FUN_140003b90@140003b90
+      xref 140003dfa DATA in FUN_140003b90@140003b90
+14002b2e0 | IsExistUtilityProcess The "%s" process is existance. Its session id is %u\n
+      xref 1400033b0 DATA in FUN_1400031f0@1400031f0
+14002b378 | SeDebugPrivilege
+      xref 1400033ea DATA in FUN_1400031f0@1400031f0
+      xref 14000349f DATA in FUN_1400031f0@1400031f0
+14002b3a0 | TerminateProcess error :%d 
+      xref 140003482 DATA in FUN_1400031f0@1400031f0
+14002b3e0 | GetCurrentUserNameAndSessionId WTSGetActiveConsoleSessionId() return fail, error: 0x%x\n
+      xref 140003337 DATA in FUN_1400031f0@1400031f0
+14002b490 | winsta0\default
+      xref 140003894 DATA in FUN_140003580@140003580
+      xref 14000389f DATA in FUN_140003580@140003580
+14002b4b0 | CreateProcessInUserSession CreateProcessAsUser() return fail, error: %d
+      xref 140003954 DATA in FUN_140003580@140003580
+14002b540 | LaunchLenovoUtilityAppx GetModuleFileName() return fail, error: %d
+      xref 1400041e3 DATA in FUN_140004100@140004100
+      xref 140003c7b DATA in FUN_140003b90@140003b90
+14002b5d0 | Launch Utility ProcessAgent exe were  signature  \n
+      xref 140003e0f DATA in FUN_140003b90@140003b90
+14002b640 | LaunchLenovoUtilityAppx wsAppPathAndCmd is "%s"\n
+      xref 140003e44 DATA in FUN_140003b90@140003b90
+14002b6a8 | success.
+      xref 1400045b1 DATA in FUN_140004100@140004100
+      xref 1400045c1 PARAM in FUN_140004100@140004100
+      xref 140003fa2 DATA in FUN_140003b90@140003b90
+      xref 140003fb2 PARAM in FUN_140003b90@140003b90
+14002b6c0 | failure!
+      xref 1400045b8 DATA in FUN_140004100@140004100
+      xref 140003fa9 DATA in FUN_140003b90@140003b90
+14002b6e0 | LaunchLenovoUtilityAppx Create "%s" process %s\n
+      xref 140003fbd DATA in FUN_140003b90@140003b90
+14002b740 | LaunchLenovoUtilityAppx "%s" process exit, It's return code is 0x%x\n
+      xref 140003fd7 DATA in FUN_140003b90@140003b90
+14002b7d0 | LaunchUserProcess wsAppPathAndCmd is "%s"\n
+      xref 14000444c DATA in FUN_140004100@140004100
+14002b830 | LaunchUserProcess Create "%s" process %s\n
+      xref 1400045cc DATA in FUN_140004100@140004100
+14002b890 | LaunchUserProcess "%s" process exit, It's return code is 0x%x\n
+      xref 1400045e7 DATA in FUN_140004100@140004100
+14002b910 | ::UtilityPackageCheckDelayTimerCallback CUtilityService is NULL!\n
+      xref 1400047bb DATA in FUN_1400047b0@1400047b0
+14002b9a0 | ::UtilityPackageCheckDelayTimerCallback m_pDirectoryWatcherMutex is NULL
+      xref 1400047d5 DATA in FUN_1400047b0@1400047b0
+14002ba40 | ::UtilityPackageCheckDelayTimerCallback  +++++++++++++++++++++ %d +++++++++++++++++++++ \n
+      xref 140004808 DATA in FUN_1400047b0@1400047b0
+14002bb00 | ::UtilityPackageCheckDelayTimerCallback LaunchFnHotkeyUtilityProcess sucess
+      xref 140004826 DATA in FUN_1400047b0@1400047b0
+14002bba0 | ::UtilityPackageCheckDelayTimerCallback LaunchFnHotkeyUtilityProcess fail
+      xref 14000482d DATA in FUN_1400047b0@1400047b0
+      xref 140004836 PARAM in FUN_1400047b0@1400047b0
+14002bc40 | ::UtilityPackageCheckDelayTimerCallback  ----- %d ------ \n
+      xref 140004850 DATA in FUN_1400047b0@1400047b0
+14002bcc0 | SERVICE_STOPPED  IsExistHotkeyUtilityProcessAndKill   fail GetLastError: %d
+      xref 140004919 DATA in FUN_140004880@140004880
+      xref 1400048f5 DATA in FUN_140004880@140004880
+14002bd60 | ::OnServiceControlHandle User Session WTS_CONSOLE_CONNECT\n
+      xref 14000492e DATA in FUN_140004880@140004880
+14002bde0 | OnServiceControlHandle CreateThread _Thread_HotkeyUtilityProcessAndKill fail GetLastError: %d
+      xref 140004969 DATA in FUN_140004880@140004880
+      xref 140004c31 DATA in FUN_140004880@140004880
+      xref 140004ca6 DATA in FUN_140004880@140004880
+14002bea0 | :CUtilityService::g_HandleMicMuteLEDInterface LSK_SetFeature, error: %d
+      xref 1400049f5 DATA in FUN_140004880@140004880
+      xref 140004a2d DATA in FUN_140004880@140004880
+      xref 140004ab6 DATA in FUN_140004880@140004880
+      xref 140005655 DATA in FUN_140005580@140005580
+      xref 1400056e4 DATA in FUN_140005580@140005580
+      xref 1400057f2 DATA in FUN_140005580@140005580
+14002bf30 | :CUtilityService::g_HandleMicMuteLEDInterface pGetState, error: %d
+      xref 140004bd2 DATA in FUN_140004880@140004880
+14002bfc0 | ::OnServiceControlHandle User Session WTS_CONSOLE_DISCONNECT\n
+      xref 140004bf6 DATA in FUN_140004880@140004880
+14002c040 | ::OnServiceControlHandle User Logged on\n
+      xref 140004c6b DATA in FUN_140004880@140004880
+14002c0a0 | :CUtilityService::g_HandleMicMuteLEDInterface LSK_SetFeature1, error: %d
+      xref 140004d56 DATA in FUN_140004880@140004880
+      xref 140004d91 DATA in FUN_140004880@140004880
+14002c140 | :CUtilityService::g_HandleMicMuteLEDInterface LSK_SetFeature, error1: %d
+      xref 140004e29 DATA in FUN_140004880@140004880
+14002c1e0 | :CUtilityService::g_HandleMicMuteLEDInterface pGetState1, error: %d
+      xref 140004f64 DATA in FUN_140004880@140004880
+14002c270 | ::OnServiceControlHandle User Logged off\n
+      xref 140004f7a DATA in FUN_140004880@140004880
+14002c2d0 | ::OnServiceControlHandle User Session Locked\n
+      xref 140004f94 DATA in FUN_140004880@140004880
+14002c330 | dwEvent::OnServiceControlHandle User Session %d\n
+      xref 140004bb9 DATA in FUN_140004880@140004880
+      xref 140004be0 DATA in FUN_140004880@140004880
+      xref 140004c48 DATA in FUN_140004880@140004880
+14002c3a0 | ::OnServiceControlHandle Syetem Shutdown\n
+      xref 140004fa5 DATA in FUN_140004880@140004880
+14002c400 |  Lenovo utility svc  SVC_CTL_SEND_UI_METRICS_ON_VER  inter\n
+      xref 140004fb6 DATA in FUN_140004880@140004880
+14002c478 |  -UIMERTICSON
+      xref 140004fe9 DATA in FUN_140004880@140004880
+14002c4a0 | :CUtilityService::OnServiceControlHandle SVC_CTL_SEND_UI_METRICS_ON_VER return fail, error: %d
+      xref 140005048 DATA in FUN_140004880@140004880
+14002c560 |  Lenovo utility svc   SVC_CTL_SEND_UI_METRICS_OFF_VER  inter\n
+      xref 140005059 DATA in FUN_140004880@140004880
+14002c5e0 |  -UIMERTICSOFF
+      xref 14000508c DATA in FUN_140004880@140004880
+14002c600 | :CUtilityService::OnServiceControlHandle SVC_CTL_SEND_UI_METRICS_OFF_VER return fail, error: %d
+      xref 1400050eb DATA in FUN_140004880@140004880
+14002c6c0 | SERVICE_CONTROL_POWEREVENT
+      xref 1400050fc DATA in FUN_140004880@140004880
+14002c700 | Svc Suspend control event received.
+      xref 140005178 DATA in FUN_140004880@140004880
+14002c750 | Svc RESUMECRITICAL control event received.
+      xref 14000513b DATA in FUN_140004880@140004880
+14002c7b0 | Svc RESUMEAUTOMATIC control event received.
+      xref 140005121 DATA in FUN_140004880@140004880
+      xref 14000512a DATA in FUN_140004880@140004880
+14002c808 | SVC_CTL_SEND_UI_CAPSLOCK_ON
+      xref 140005189 DATA in FUN_140004880@140004880
+14002c840 | ShowCapsNumlkOSD
+      xref 140005332 DATA in FUN_140004880@140004880
+      xref 1400053c6 DATA in FUN_140004880@140004880
+      xref 1400051ef DATA in FUN_140004880@140004880
+      xref 140005288 DATA in FUN_140004880@140004880
+14002c870 | SYSTEM\CurrentControlSet\Services\LenovoFnAndFunctionKeys\ControlShowOSD
+      xref 1400052fd DATA in FUN_140004880@140004880
+      xref 140005367 DATA in FUN_140004880@140004880
+      xref 140005393 DATA in FUN_140004880@140004880
+      xref 1400051be DATA in FUN_140004880@140004880
+      xref 140005224 DATA in FUN_140004880@140004880
+      xref 140005255 DATA in FUN_140004880@140004880
+14002c910 | LenovoUtilityService OnServiceControlHandle SVC_CTL_SEND_UI_CAPSLOCK_ON writetoReg fail! Line:% d  GetLastError : % d 
+      xref 1400052c3 DATA in FUN_140004880@140004880
+14002ca00 | SVC_CTL_SEND_UI_CAPSLOCK_OFF
+      xref 1400052cf DATA in FUN_140004880@140004880
+14002ca40 | LenovoUtilityService OnServiceControlHandle SVC_CTL_SEND_UI_CAPSLOCK_OFF writetoReg fail!Line:% d  GetLastError : % d 
+      xref 1400053fd DATA in FUN_140004880@140004880
+14002cb30 | :CUtilityService::OnServiceControlHandle LaunchFnHotkeyUtilityProcess return fail, error: %d
+      xref 140005552 DATA in FUN_140005520@140005520
+14002cbf0 | :CUtilityService::g_HandleMicMuteLEDInterface LoadMicMuteInterface, error: %d
+      xref 140005843 DATA in FUN_140005580@140005580
+14002cc90 | :CUtilityService:: hMicMuteThread error: %d
+      xref 140005834 DATA in FUN_140005580@140005580
+14002cd38 | %s\%s
+      xref 14000680d DATA in FUN_140006780@140006780
+14002cd50 | CServiceBase::ServiceMain m_serviceStatusHandle is NULL! error: %d
+      xref 1400061f6 DATA in FUN_1400061a0@1400061a0
+      xref 14000623a DATA in FUN_1400061a0@1400061a0
+14002cde0 | Provider not registered. EventRegister failed with %d\n
+      xref 140002e6d DATA in FUN_140002e00@140002e00
+14002ce50 | Service trying to start.
+      xref 140006390 DATA in FUN_140006360@140006360
+14002ce88 | Service Start
+      xref 14001e865 DATA in FUN_14001e850@14001e850
+14002cea8 | Service failed to start.
+      xref 14001e8d0 DATA in FUN_14001e8b8@14001e8b8
+14002cee0 | Service Stop
+      xref 14001e932 DATA in FUN_14001e920@14001e920
+14002cf00 | Service failed to stop.
+      xref 14001e97c DATA in FUN_14001e964@14001e964
+14002cf30 | Service Pause
+      xref 14001e9c2 DATA in FUN_14001e9b0@14001e9b0
+14002cf50 | Service failed to pause.
+      xref 14001ea2a DATA in FUN_14001ea12@14001ea12
+14002cf88 | Service Continue
+      xref 14001ea92 DATA in FUN_14001ea80@14001ea80
+14002cfb0 | Service failed to resume.
+      xref 14001eb0c DATA in FUN_14001eaf4@14001eaf4
+14002cfe8 | Service Shutdown
+      xref 14001eb81 DATA in FUN_14001eb70@14001eb70
+14002d010 | Service failed to shut down.
+      xref 14001ebba DATA in FUN_14001eba3@14001eba3
+14002d050 | %s failed w/err 0x%08lx
+      xref 140006736 DATA in FUN_140006710@140006710
+14002d080 | Software\Lenovo\Hotkey
+      xref 140006a1b DATA in FUN_140006780@140006780
+14002d0b0 | Software\Lenovo\LenovoHotkeysService
+      xref 140006a56 DATA in FUN_140006780@140006780
+14002d100 | DeleteSymbolicLink  DeleteRegValue  fail GetLastError: %d
+      xref 140006ad9 DATA in FUN_140006780@140006780
+14002d178 | LenovoFnAndFunctionKeys
+      xref 140006b08 DATA in FUN_140006780@140006780
+14002d1a8 | *LHK2019
+      xref 1400070ac DATA in FUN_140006f80@140006f80
+      xref 1400070b6 READ in FUN_140006f80@140006f80
+      xref 1400070bc PARAM in FUN_140006f80@140006f80
+      xref 1400070c9 PARAM in FUN_140006f80@140006f80
+      xref 1400071b8 DATA in FUN_140006f80@140006f80
+      xref 1400071c3 READ in FUN_140006f80@140006f80
+      xref 1400071c9 PARAM in FUN_140006f80@140006f80
+      xref 1400071d6 PARAM in FUN_140006f80@140006f80
+14002d1c0 | System\CurrentControlSet\Enum
+      xref 140006801 DATA in FUN_140006780@140006780
+14002d260 | GetModuleFileName failed w/err 0x%08lx\n
+      xref 14000227f DATA in FUN_1400021f0@1400021f0
+14002d2b0 | OpenSCManager failed w/err 0x%08lx\n
+      xref 1400022ae DATA in FUN_1400021f0@1400021f0
+14002d300 | CreateService failed w/err 0x%08lx\n
+      xref 14000232d DATA in FUN_1400021f0@1400021f0
+14002d348 | %s is installed.\n
+      xref 14000234e DATA in FUN_1400021f0@1400021f0
+14002d370 | OpenService failed w/err 0x%08lx\n
+      xref 1400023dd DATA in FUN_1400021f0@1400021f0
+14002d3b8 | Stopping %s.
+      xref 140002418 DATA in FUN_1400021f0@1400021f0
+14002d3d8 | \n%s is stopped.\n
+      xref 14000247d DATA in FUN_1400021f0@1400021f0
+14002d400 | \n%s failed to stop.\n
+      xref 140002486 DATA in FUN_1400021f0@1400021f0
+14002d430 | DeleteService failed w/err 0x%08lx\n
+      xref 1400024a7 DATA in FUN_1400021f0@1400021f0
+14002d478 | %s is removed.\n
+      xref 1400024bc DATA in FUN_1400021f0@1400021f0
+14002d4a0 | %c:\Windows\Temp\_LenovoUtility_
+      xref 140006c74 DATA in FUN_140006bf0@140006bf0
+14002d4f0 | %c:\Windows\Temp\_LenovoUtility_\_FnHotkeySvcUtility.log 
+      xref 140006ca6 DATA in FUN_140006bf0@140006bf0
+14002d568 | %d-%d-%d %d:%d:%d
+      xref 140006d9a DATA in FUN_140006bf0@140006bf0
+14002d590 | [%s %d] %s 
+      xref 140006dbd DATA in FUN_140006bf0@140006bf0
+14002d5b0 | utility log file is create failed
+      xref 140006d25 DATA in FUN_140006bf0@140006bf0
+14002d600 | Software\Lenovo\LenovoUtility\log
+      xref 140006ea0 DATA in FUN_140006e60@140006e60
+14002d648 | %s\r\n
+      xref 140006f37 DATA in FUN_140006e60@140006e60
+14002d658 | LENOVO_UTILITY_DATA
+      xref 14000774c DATA in FUN_1400076d0@1400076d0
+      xref 140007783 READ in FUN_1400076d0@1400076d0
+      xref 140007fcd DATA in FUN_140007f50@140007f50
+      xref 14000746b DATA in FUN_1400073a0@1400073a0
+      xref 140007493 READ in FUN_1400073a0@1400073a0
+14002d692 | OOT\WMI
+      xref 140007553 READ in FUN_1400073a0@1400073a0
+14002d6a8 | featuretype
+      xref 1400077be DATA in FUN_1400076d0@1400076d0
+      xref 1400077e6 READ in FUN_1400076d0@1400076d0
+14002d6c0 | SetFeature
+      xref 140007826 DATA in FUN_1400076d0@1400076d0
+      xref 140007853 READ in FUN_1400076d0@1400076d0
+14002d6e0 | __PATH
+      xref 1400078ce DATA in FUN_1400076d0@1400076d0
+      xref 140008108 DATA in FUN_140007f50@140007f50
+14002d6f0 | Utility:: Get WMI Infomation exception!!! 
+      xref 14001eccd DATA in FUN_14001ecc0@14001ecc0
+14002d748 | datatype
+      xref 14000801e DATA in FUN_140007f50@140007f50
+14002d760 | GetIfSupportOrVersion
+      xref 140008076 DATA in FUN_140007f50@140007f50
+14002e604 | .rdata
+14002e63c | .rdata$voltmd
+14002e764 | .data
+14002e7a8 | .pdata
+14002e7b8 | _RDATA
+140030db2 | InitializeCriticalSection
+140030dce | DeleteCriticalSection
+140030de6 | CoCreateInstance
+140030dfa | CoSetProxyBlanket
+140030e0e | HeapDestroy
+140030e1c | HeapSize
+140030e28 | HeapReAlloc
+140030e36 | HeapFree
+140030e42 | HeapAlloc
+140030e4e | GetProcessHeap
+140030e60 | CoCreateGuid
+140030e70 | UuidToStringW
+140030e80 | RpcStringFreeW
+140030e92 | GetLastError
+140030ea2 | QueryFullProcessImageNameW
+140030ec0 | GetCurrentProcess
+140030ed4 | LoadLibraryW
+140030ee4 | GetProcAddress
+140030ef6 | CreateEventW
+140030f06 | CloseHandle
+140030f14 | FreeLibrary
+140030f22 | MsgWaitForMultipleObjects
+140030f3e | LookupPrivilegeValueW
+140030f56 | AdjustTokenPrivileges
+140030f6e | CreateThreadpoolTimer
+140030f86 | SetThreadpoolTimer
+140030f9c | WaitForThreadpoolTimerCallbacks
+140030fbe | CloseThreadpoolTimer
+140030fd6 | Sleep
+140030fde | WTSGetActiveConsoleSessionId
+140030ffe | CreateThreadpoolWork
+140031016 | SubmitThreadpoolWork
+14003102e | CreateToolhelp32Snapshot
+14003104a | Process32FirstW
+14003105c | Process32NextW
+14003106e | ProcessIdToSessionId
+140031086 | OpenProcessToken
+14003109a | OpenProcess
+1400310a8 | TerminateProcess
+1400310bc | WTSQuerySessionInformationW
+1400310da | WTSFreeMemory
+1400310ea | GetTempPathW
+1400310fa | WTSQueryUserToken
+14003110e | DuplicateTokenEx
+140031122 | CreateEnvironmentBlock
+14003113c | CreateProcessAsUserW
+140031154 | DestroyEnvironmentBlock
+14003116e | GetModuleFileNameW
+140031184 | GetModuleHandleW
+140031198 | GetThreadId
+1400311a6 | GetCurrentThread
+1400311ba | CreateThread
+1400311ca | OutputDebugStringW
+1400311e0 | RegOpenKeyExW
+1400311f0 | RegCloseKey
+1400311fe | RegEnumKeyExW
+14003120e | RegCreateKeyExW
+140031220 | RegSetValueExW
+140031232 | RegDeleteKeyW
+140031242 | StartServiceCtrlDispatcherW
+140031260 | RegisterServiceCtrlHandlerExW
+140031280 | EventRegister
+140031290 | EventUnregister
+1400312a2 | SetServiceStatus
+1400312b6 | EventWriteString
+1400312ca | LoadLibraryExW
+1400312dc | ImpersonateLoggedOnUser
+1400312f6 | UnloadUserProfile
+14003130a | RevertToSelf
+14003131a | OpenSCManagerW
+14003132c | OpenServiceW
+14003133c | DeleteService
+14003134c | CloseServiceHandle
+140031362 | RegNotifyChangeKeyValue
+14003137c | WaitForMultipleObjects
+140031396 | CMP_WaitNoPendingInstallEvents
+1400313b8 | CM_Locate_DevNodeW
+1400313ce | CreateServiceW
+1400313e0 | ControlService
+1400313f2 | QueryServiceStatus
+140031408 | CreateDirectoryW
+14003141c | SetupDiDestroyDeviceInfoList
+14003143c | lstrlenW
+140031448 | WriteFile
+140031454 | SetFilePointer
+140031466 | InitializeCriticalSectionEx
+140031484 | LocalAlloc
+140031492 | CreateFileW
+1400314a0 | RaiseException
+1400314b2 | GetLocalTime
+1400314c2 | LocalFree
+1400314ce | SetupDiGetDeviceInstanceIdW
+1400314ec | lstrcmpiW
+1400314f8 | SetupDiEnumDeviceInfo
+140031510 | SetupDiGetDeviceRegistryPropertyW
+140031534 | SetupDiGetClassDevsW
+14003154c | CoUninitialize
+14003155e | CoInitializeEx
+140031570 | CoInitializeSecurity
+140031588 | SizeofResource
+14003159a | LockResource
+1400315aa | LoadResource
+1400315ba | FindResourceExW
+1400315cc | FindResourceW
+1400315da | OLEAUT32.dll
+1400315e8 | KERNEL32.dll
+1400315f6 | ole32.dll
+140031600 | RPCRT4.dll
+14003160c | USER32.dll
+140031618 | ADVAPI32.dll
+140031626 | WTSAPI32.dll
+140031634 | USERENV.dll
+140031640 | SETUPAPI.dll
+140031650 | InitializeSRWLock
+140031664 | ReleaseSRWLockExclusive
+14003167e | AcquireSRWLockExclusive
+140031698 | EnterCriticalSection
+1400316b0 | LeaveCriticalSection
+1400316c8 | TryEnterCriticalSection
+1400316e2 | GetCurrentThreadId
+1400316f8 | QueryPerformanceCounter
+140031712 | GetSystemTimeAsFileTime
+14003172c | IsDebuggerPresent
+140031740 | InitializeCriticalSectionAndSpinCount
+140031768 | SetEvent
+140031774 | ResetEvent
+140031782 | WaitForSingleObjectEx
+14003179a | RtlCaptureContext
+1400317ae | RtlLookupFunctionEntry
+1400317c8 | RtlVirtualUnwind
+1400317dc | UnhandledExceptionFilter
+1400317f8 | SetUnhandledExceptionFilter
+140031816 | IsProcessorFeaturePresent
+140031832 | GetStartupInfoW
+140031844 | GetCurrentProcessId
+14003185a | InitializeSListHead
+140031870 | RtlUnwindEx
+14003187e | RtlPcToFileHeader
+140031892 | SetLastError
+1400318a2 | EncodePointer
+1400318b2 | TlsAlloc
+1400318be | TlsGetValue
+1400318cc | TlsSetValue
+1400318da | TlsFree
+1400318e4 | ExitProcess
+1400318f2 | GetModuleHandleExW
+140031908 | GetStdHandle
+140031918 | GetCommandLineA
+14003192a | GetCommandLineW
+14003193c | CompareStringW
+14003194e | LCMapStringW
+14003195e | GetFileType
+14003196c | GetFileSizeEx
+14003197c | SetFilePointerEx
+140031990 | FindClose
+14003199c | FindFirstFileExW
+1400319b0 | FindNextFileW
+1400319c0 | IsValidCodePage
+1400319d2 | GetACP
+1400319dc | GetOEMCP
+1400319e8 | GetCPInfo
+1400319f4 | MultiByteToWideChar
+140031a0a | WideCharToMultiByte
+140031a20 | GetEnvironmentStringsW
+140031a3a | FreeEnvironmentStringsW
+140031a54 | SetEnvironmentVariableW
+140031a6e | SetStdHandle
+140031a7e | GetStringTypeW
+140031a90 | FlushFileBuffers
+140031aa4 | GetConsoleOutputCP
+140031aba | GetConsoleMode
+140031acc | WriteConsoleW
+1400324ba | abcdefghijklmnopqrstuvwxyz
+1400324da | ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1400326e1 | abcdefghijklmnopqrstuvwxyz
+140032701 | ABCDEFGHIJKLMNOPQRSTUVWXYZ
+140038102 | StringFileInfo
+140038126 | 040904b0
+14003813e | CompanyName
+140038158 | Lenovo(beijing) Limited
+14003818e | FileDescription
+1400381b0 | Lenovo Fn and function keys service
+1400381fe | FileVersion
+140038218 | 2.0.0.25
+140038232 | InternalName
+14003824c | LenovoUtilityService.exe
+140038286 | LegalCopyright
+1400382a4 | ©2020 Lenovo. All rights reserved.
+1400382f2 | OriginalFilename
+140038314 | LenovoUtilityService.exe
+14003834e | ProductName
+140038368 | Lenovo Fn and function keys service
+1400383b6 | ProductVersion
+1400383d4 | 2.0.0.25
+1400383ee | VarFileInfo
+14003840e | Translation
+140038430 | <?xml version='1.0' encoding='UTF-8' standalone='yes'?>\r\n<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>\r\n  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">\r\n    <security>\r\n      <requestedPrivileges>\r\n        <requestedExecutionLevel level='asInvoker' uiAcce...

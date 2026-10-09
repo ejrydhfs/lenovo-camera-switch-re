@@ -1,0 +1,38 @@
+bABGR
+rargb
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+System.Runtime.WindowsRuntime.dll
+CompanyName
+Microsoft Corporation
+FileDescription
+System.Runtime.WindowsRuntime.dll
+FileVersion
+4.0.30319.18020
+InternalName
+System.Runtime.WindowsRuntime.dll
+LegalCopyright
+ Microsoft Corporation.  All rights reserved.
+OriginalFilename
+System.Runtime.WindowsRuntime.dll
+ProductName
+Microsoft
+ .NET Framework
+ProductVersion
+4.0.30319.18020
+Assembly Version
+4.0.0.0
+SubC
+BSystem.Runtime.WindowsRuntime.dl
+SubC
+Legal_policy_statement
+BSystem.Runtime.WindowsRuntime.dl
+SubC
+Legal_Policy_Statement
+SubC
+Lenov
+SubC

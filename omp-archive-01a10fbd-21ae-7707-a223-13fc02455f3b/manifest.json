@@ -1,0 +1,434 @@
+{
+  "format": "omp-session-archive/v1",
+  "generatedAt": "2026-10-06T06:26:39.986Z",
+  "source": {
+    "sessionFile": "/home/user/.omp/agent/sessions/-Downloads/2026-10-06T05-43-35-598Z_01a10fbd-21ae-7707-a223-13fc02455f3b.jsonl",
+    "sessionId": "01a10fbd-21ae-7707-a223-13fc02455f3b",
+    "cwd": "/home/user/Downloads",
+    "title": "Lenovo camera switch: reverse engineering + driver (82JU)"
+  },
+  "main": {
+    "entries": 756,
+    "bytes": 2706064
+  },
+  "subagents": [
+    {
+      "key": "AcpiEventChain",
+      "file": "artifacts/AcpiEventChain.jsonl",
+      "entries": 94,
+      "bytes": 701542,
+      "aborted": false
+    },
+    {
+      "key": "BmofDecode",
+      "file": "artifacts/BmofDecode.jsonl",
+      "entries": 200,
+      "bytes": 1180925,
+      "aborted": false
+    },
+    {
+      "key": "DotNetArch",
+      "file": "artifacts/DotNetArch.jsonl",
+      "entries": 107,
+      "bytes": 564906,
+      "aborted": false
+    },
+    {
+      "key": "DotNetVerify",
+      "file": "artifacts/DotNetVerify.jsonl",
+      "entries": 119,
+      "bytes": 365140,
+      "aborted": false
+    },
+    {
+      "key": "GhidraFnHotkey",
+      "file": "artifacts/GhidraFnHotkey.jsonl",
+      "entries": 300,
+      "bytes": 1305067,
+      "aborted": false
+    },
+    {
+      "key": "GhidraService",
+      "file": "artifacts/GhidraService.jsonl",
+      "entries": 218,
+      "bytes": 697997,
+      "aborted": false
+    },
+    {
+      "key": "KernelPoc",
+      "file": "artifacts/KernelPoc.jsonl",
+      "entries": 84,
+      "bytes": 250086,
+      "aborted": true
+    },
+    {
+      "key": "LegionAndWeb",
+      "file": "artifacts/LegionAndWeb.jsonl",
+      "entries": 148,
+      "bytes": 793434,
+      "aborted": false
+    },
+    {
+      "key": "LfcnMemory",
+      "file": "artifacts/LfcnMemory.jsonl",
+      "entries": 56,
+      "bytes": 278163,
+      "aborted": false
+    }
+  ],
+  "artifacts": [
+    {
+      "file": "artifacts/100.eval.log",
+      "bytes": 6839
+    },
+    {
+      "file": "artifacts/103.bash.log",
+      "bytes": 15761
+    },
+    {
+      "file": "artifacts/106.bash.log",
+      "bytes": 12014
+    },
+    {
+      "file": "artifacts/113.read.log",
+      "bytes": 24894
+    },
+    {
+      "file": "artifacts/114.eval.log",
+      "bytes": 111105
+    },
+    {
+      "file": "artifacts/144.bash.log",
+      "bytes": 2343
+    },
+    {
+      "file": "artifacts/154.eval.log",
+      "bytes": 1612
+    },
+    {
+      "file": "artifacts/170.bash.log",
+      "bytes": 6136
+    },
+    {
+      "file": "artifacts/180.eval.log",
+      "bytes": 1242
+    },
+    {
+      "file": "artifacts/240.eval.log",
+      "bytes": 1526
+    },
+    {
+      "file": "artifacts/257.bash-original.log",
+      "bytes": 1611
+    },
+    {
+      "file": "artifacts/45.bash.log",
+      "bytes": 12584
+    },
+    {
+      "file": "artifacts/47.bash.log",
+      "bytes": 4497
+    },
+    {
+      "file": "artifacts/56.bash-original.log",
+      "bytes": 9313
+    },
+    {
+      "file": "artifacts/57.bash-original.log",
+      "bytes": 6565
+    },
+    {
+      "file": "artifacts/64.read.log",
+      "bytes": 28152
+    },
+    {
+      "file": "artifacts/72.bash-original.log",
+      "bytes": 3837
+    },
+    {
+      "file": "artifacts/82.read.log",
+      "bytes": 10041
+    },
+    {
+      "file": "artifacts/83.read.log",
+      "bytes": 38548
+    },
+    {
+      "file": "artifacts/AcpiEventChain.json",
+      "bytes": 27744
+    },
+    {
+      "file": "artifacts/AcpiEventChain.jsonl",
+      "bytes": 701542
+    },
+    {
+      "file": "artifacts/AcpiEventChain.md",
+      "bytes": 27743
+    },
+    {
+      "file": "artifacts/BmofDecode.json",
+      "bytes": 4940
+    },
+    {
+      "file": "artifacts/BmofDecode.jsonl",
+      "bytes": 1180925
+    },
+    {
+      "file": "artifacts/BmofDecode.md",
+      "bytes": 4939
+    },
+    {
+      "file": "artifacts/DotNetArch.json",
+      "bytes": 25505
+    },
+    {
+      "file": "artifacts/DotNetArch.jsonl",
+      "bytes": 564906
+    },
+    {
+      "file": "artifacts/DotNetArch.md",
+      "bytes": 25504
+    },
+    {
+      "file": "artifacts/DotNetVerify.jsonl",
+      "bytes": 365140
+    },
+    {
+      "file": "artifacts/DotNetVerify.md",
+      "bytes": 4567
+    },
+    {
+      "file": "artifacts/GhidraFnHotkey.jsonl",
+      "bytes": 1305067
+    },
+    {
+      "file": "artifacts/GhidraFnHotkey.md",
+      "bytes": 6147
+    },
+    {
+      "file": "artifacts/GhidraService.jsonl",
+      "bytes": 697997
+    },
+    {
+      "file": "artifacts/GhidraService.md",
+      "bytes": 4576
+    },
+    {
+      "file": "artifacts/KernelPoc.jsonl",
+      "bytes": 250086
+    },
+    {
+      "file": "artifacts/KernelPoc.jsonl.tombstone",
+      "bytes": 0
+    },
+    {
+      "file": "artifacts/KernelPoc.md",
+      "bytes": 193
+    },
+    {
+      "file": "artifacts/LegionAndWeb.json",
+      "bytes": 13397
+    },
+    {
+      "file": "artifacts/LegionAndWeb.jsonl",
+      "bytes": 793434
+    },
+    {
+      "file": "artifacts/LegionAndWeb.md",
+      "bytes": 13396
+    },
+    {
+      "file": "artifacts/LfcnMemory.json",
+      "bytes": 11372
+    },
+    {
+      "file": "artifacts/LfcnMemory.jsonl",
+      "bytes": 278163
+    },
+    {
+      "file": "artifacts/LfcnMemory.md",
+      "bytes": 11371
+    },
+    {
+      "file": "artifacts/url-search/16s4vsv6pxgsz.11",
+      "bytes": 500097
+    }
+  ],
+  "agents": {
+    "count": 0,
+    "agents": []
+  },
+  "jobs": {
+    "liveAgents": [],
+    "completed": 17,
+    "completedJobs": [
+      {
+        "agent": "main",
+        "entryId": "95e201aa",
+        "at": "2026-10-06T05:56:24.237Z",
+        "label": "LfcnMemory",
+        "status": "completed",
+        "jobId": "LfcnMemory",
+        "jobAgent": "scout",
+        "duration": "1m30s",
+        "lines": "6",
+        "size": "9.9KB",
+        "fullOutput": "agent://LfcnMemory"
+      },
+      {
+        "agent": "main",
+        "entryId": "fcd1e8a8",
+        "at": "2026-10-06T05:56:47.593Z",
+        "label": "LfcnMemory-2",
+        "status": "completed",
+        "jobId": "LfcnMemory",
+        "jobAgent": "scout",
+        "duration": "16.8s",
+        "lines": "6",
+        "size": "11.0KB",
+        "fullOutput": "agent://LfcnMemory"
+      },
+      {
+        "agent": "main",
+        "entryId": "896512e9",
+        "at": "2026-10-06T05:57:09.016Z",
+        "label": "LegionAndWeb",
+        "status": "completed",
+        "jobId": "LegionAndWeb",
+        "jobAgent": "scout",
+        "duration": "2m14s",
+        "lines": "20",
+        "size": "13.1KB",
+        "fullOutput": "agent://LegionAndWeb"
+      },
+      {
+        "agent": "main",
+        "entryId": "c42a3ac8",
+        "at": "2026-10-06T05:57:40.539Z",
+        "label": "AcpiEventChain",
+        "status": "completed",
+        "jobId": "AcpiEventChain",
+        "jobAgent": "scout",
+        "duration": "2m46s",
+        "lines": "6",
+        "size": "27.0KB",
+        "fullOutput": "agent://AcpiEventChain"
+      },
+      {
+        "agent": "main",
+        "entryId": "2434dc3f",
+        "at": "2026-10-06T05:58:05.109Z",
+        "label": "DotNetArch",
+        "status": "completed",
+        "jobId": "DotNetArch",
+        "jobAgent": "scout",
+        "duration": "2m29s",
+        "lines": "35",
+        "size": "24.8KB",
+        "fullOutput": "agent://DotNetArch"
+      },
+      {
+        "agent": "main",
+        "entryId": "ff587b36",
+        "at": "2026-10-06T06:01:43.438Z",
+        "label": "DotNetVerify",
+        "status": "completed",
+        "jobId": "DotNetVerify",
+        "jobAgent": "task",
+        "duration": "3m2s",
+        "lines": "43",
+        "size": "4.5KB"
+      },
+      {
+        "agent": "main",
+        "entryId": "aabc4ee0",
+        "at": "2026-10-06T06:02:22.483Z",
+        "label": "GhidraService",
+        "status": "completed",
+        "jobId": "GhidraService",
+        "jobAgent": "task",
+        "duration": "6m48s",
+        "lines": "23",
+        "size": "4.5KB"
+      },
+      {
+        "agent": "main",
+        "entryId": "89345368",
+        "at": "2026-10-06T06:10:45.498Z",
+        "label": "bg_47",
+        "status": "completed"
+      },
+      {
+        "agent": "main",
+        "entryId": "5c5c5d8d",
+        "at": "2026-10-06T06:13:15.947Z",
+        "label": "bg_48",
+        "status": "completed"
+      },
+      {
+        "agent": "main",
+        "entryId": "81016abd",
+        "at": "2026-10-06T06:16:37.060Z",
+        "label": "bg_49",
+        "status": "completed"
+      },
+      {
+        "agent": "main",
+        "entryId": "6e880a65",
+        "at": "2026-10-06T06:24:43.173Z",
+        "label": "bg_50",
+        "status": "completed"
+      },
+      {
+        "agent": "GhidraFnHotkey",
+        "entryId": "343b2f23",
+        "at": "2026-10-06T05:56:36.077Z",
+        "label": "bg_24",
+        "status": "completed"
+      },
+      {
+        "agent": "GhidraFnHotkey",
+        "entryId": "b339d108",
+        "at": "2026-10-06T05:57:19.517Z",
+        "label": "bg_20",
+        "status": "completed"
+      },
+      {
+        "agent": "GhidraFnHotkey",
+        "entryId": "6d78bc97",
+        "at": "2026-10-06T06:03:34.463Z",
+        "label": "bg_46",
+        "status": "completed"
+      },
+      {
+        "agent": "GhidraService",
+        "entryId": "f1b2b1e0",
+        "at": "2026-10-06T05:56:42.251Z",
+        "label": "bg_19",
+        "status": "completed"
+      },
+      {
+        "agent": "KernelPoc",
+        "entryId": "6c0f8d51",
+        "at": "2026-10-06T05:57:07.704Z",
+        "label": "bg_25",
+        "status": "completed"
+      },
+      {
+        "agent": "KernelPoc",
+        "entryId": "2975cfb7",
+        "at": "2026-10-06T05:57:18.216Z",
+        "label": "bg_28",
+        "status": "completed"
+      }
+    ]
+  },
+  "totals": {
+    "files": 50,
+    "bytes": 22147016
+  },
+  "omitted": [
+    "agents.json: the live per-agent registry (model / system prompt / tools) is host-only in-process state; the extension captures it while the session runs, it is not persisted for an external run",
+    "jobs.json.live: the live background-job snapshot is host-only in-process state; jobs.json.completed is still recovered from every transcript"
+  ]
+}

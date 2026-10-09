@@ -1,0 +1,489 @@
+# Interesting strings and their references (token filter)
+# total defined strings scanned: 1726, token hits: 154
+
+== 1400372b0  "CameraPrivacy SwitchCameraStatus CoCreateInstance Line: %d  GetLastError: %d"
+    from 140007afa  type=DATA  func=FUN_140007a90@140007a90
+
+== 140037350  "CameraPrivacy SwitchCameraStatus pMoniker[nIndexCamera]->BindToObject Line: %d  GetLastError: %d"
+    from 140007de1  type=DATA  func=FUN_140007a90@140007a90
+
+== 140037420  "CameraPrivacy SwitchCameraStatus QueryInterface Line: %d  GetLastError: %d"
+    from 140007dd3  type=DATA  func=FUN_140007a90@140007a90
+    from 140007df5  type=PARAM  func=FUN_140007a90@140007a90
+
+== 1400374c0  "CameraPrivacy SwitchCameraStatus pCameraControl[i]->Set Line: %d  GetLastError: %d"
+    from 140007cee  type=DATA  func=FUN_140007a90@140007a90
+
+== 140037570  "CameraPrivacy SwitchCameraStatus out"
+    from 140007d08  type=DATA  func=FUN_140007a90@140007a90
+
+== 140038f80  "EMDriverMsgCenter CKernelLib m_EMNotifyEvent GetSmartKeyBoardEventMode return not hotkey!Line: %d "
+    from 14000928d  type=DATA  func=FUN_140008fd0@140008fd0
+
+== 140039210  "Connected to ROOT\WMI WMI namespace\n"
+    from 140013dd6  type=DATA  func=FUN_140013c50@140013c50
+    from 14000954a  type=DATA  func=FUN_1400093a0@1400093a0
+
+== 140039320  "SELECT * FROM Win32_VideoController"
+    from 1400095a3  type=DATA  func=FUN_1400093a0@1400093a0
+
+== 1400396a0  "ROOT\WMI"
+    from 14001392e  type=DATA  func=FUN_140013800@140013800
+    from 140013d4e  type=DATA  func=FUN_140013c50@140013c50
+    from 140015d50  type=DATA  func=FUN_140015cf0@140015cf0
+    from 1400133ae  type=DATA  func=FUN_140013280@140013280
+    from 1400098bb  type=DATA  func=FUN_1400097b0@1400097b0
+
+== 14003a6b0  "MsgLogic g_HandleEvent e_Event_PANEL_RFESHRATE retChangeRfresh Line: %d  GetLastError: %d"
+    from 14000ae3d  type=DATA  func=FUN_14000ae00@14000ae00
+    from 140015707  type=DATA  func=FUN_1400153e0@1400153e0
+
+== 14003c750  "SELECT * FROM Win32_PnPEntity WHERE DeviceID LIKE "%ACPI\\LIC0001%""
+    from 1400112e5  type=DATA  func=FUN_140011280@140011280
+
+== 14003c7e0  "SELECT * FROM Win32_PnPEntity WHERE DeviceID LIKE "%ACPI\\IDEA2004%""
+    from 140011373  type=DATA  func=FUN_140011280@140011280
+
+== 14003c870  "SELECT * FROM Win32_PnPEntity WHERE DeviceID LIKE "%ACPI\\IDEA2008%""
+    from 140011401  type=DATA  func=FUN_140011280@140011280
+
+== 14003e5d0  "MoniterWmiGetFnQ Indicate FnQ Button press(%d),(%d)_\n"
+    from 14001319d  type=DATA  func=FUN_140013090@140013090
+
+== 14003e640  "MoniterWmiGetFnQ Indicate FnQ Button press(%d)_  Line: %d GetLastError: %d"
+    from 1400131d7  type=DATA  func=FUN_140013090@140013090
+
+== 14003e6e0  "MoniterWmiGetFnQ SetStatus Call complete. hResult = 0x%X\n"
+    from 14001324b  type=DATA  func=FUN_140013240@140013240
+
+== 14003e760  "MoniterWmiGetFnQ SetStatus Call in progress.\n"
+    from 140013263  type=DATA  func=FUN_140013240@140013240
+
+== 14003e7c0  "MoniterWmiGetFnQ StartFnQMonitor Monitor oc button done.\n"
+    from 14000cd36  type=DATA  func=FUN_14000ca40@14000ca40
+
+== 14003e840  "MoniterWmiGetFnQ _Thread_WmiFnQMonitor CoInitializeSecurity Line: %d  GetLastError: %d"
+    from 140013311  type=DATA  func=FUN_140013280@140013280
+
+== 14003e8f0  "MoniterWmiGetFnQ _Thread_WmiFnQMonitor CoCreateInstance Line: %d  GetLastError: %d"
+    from 140013384  type=DATA  func=FUN_140013280@140013280
+
+== 14003e9a0  "MoniterWmiGetFnQ _Thread_WmiFnQMonitor ConnectServer Line: %d  GetLastError: %d"
+    from 140013421  type=DATA  func=FUN_140013280@140013280
+
+== 14003ea40  "MoniterWmiGetFnQ _Thread_WmiFnQMonitor ConnectServer to ROOT\WMI WMI namespace\n"
+    from 140013435  type=DATA  func=FUN_140013280@140013280
+
+== 14003eae0  "MoniterWmiGetFnQ _Thread_WmiFnQMonitor CoSetProxyBlanket Line: %d  GetLastError: %d"
+    from 14001347e  type=DATA  func=FUN_140013280@140013280
+
+== 14003eb90  "MoniterWmiGetFnQ _Thread_WmiFnQMonitor CreateObjectStub Line: %d  GetLastError : %d"
+    from 140013647  type=DATA  func=FUN_140013280@140013280
+
+== 14003ec40  "MoniterWmiGetFnQ _Thread_WmiFnQMonitor QueryInterface Line: %d  GetLastError : %d"
+    from 140013626  type=DATA  func=FUN_140013280@140013280
+
+== 14003ece8  "SELECT * FROM LENOVO_GAMEZONE_SMART_FAN_MODE_EVENT"
+    from 14001353f  type=DATA  func=FUN_140013280@140013280
+
+== 14003ed20  "MoniterWmiGetFnQ _Thread_WmiFnQMonitor ExecNotificationQueryAsync Line: %d  GetLastError : %d"
+    from 1400135df  type=DATA  func=FUN_140013280@140013280
+
+== 14003ee40  "MoniterWmiUtilityEvent SetStatus Call complete. hResult = 0x%X\n"
+    from 1400137cb  type=DATA  func=FUN_1400137c0@1400137c0
+
+== 14003eec0  "MoniterWmiUtilityEvent SetStatus Call in progress.\n"
+    from 1400137e3  type=DATA  func=FUN_1400137c0@1400137c0
+
+== 14003ef30  "MoniterWmiUtilityEvent StartUtilityEventMonitor Monitor LSKEvent button done.\n"
+    from 14000cdc2  type=DATA  func=FUN_14000ca40@14000ca40
+
+== 14003efd0  "MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor CoInitializeSecurity Line: %d  GetLastError: %d"
+    from 140013891  type=DATA  func=FUN_140013800@140013800
+
+== 14003f0a0  "MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor CoCreateInstance Line: %d  GetLastError: %d"
+    from 140013904  type=DATA  func=FUN_140013800@140013800
+
+== 14003f1c0  "MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor Connected to ROOT\WMI WMI namespace\n"
+    from 1400139a9  type=DATA  func=FUN_140013800@140013800
+
+== 14003f280  "MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor CoSetProxyBlanket Line: %d  GetLastError: %d"
+    from 1400139f2  type=DATA  func=FUN_140013800@140013800
+
+== 14003f380  "MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor QueryInterface Line: %d  GetLastError: %d"
+    from 140013b98  type=DATA  func=FUN_140013800@140013800
+
+== 14003f440  "SELECT * FROM LENOVO_UTILITY_EVENT"
+    from 140013ab1  type=DATA  func=FUN_140013800@140013800
+
+== 14003f470  "MoniterWmiUtilityEvent _Thread_WmiUtilityEventMonitor ExecNotificationQueryAsync Line: %d  GetLastError: %d"
+    from 140013b51  type=DATA  func=FUN_140013800@140013800
+
+== 1400409a0  "MsgLogic g_HandleEvent e_Event_PANEL_RFESHRATE CreateThread IDB_PANNEL_RFRESH Line: %d  GetLastError: %d"
+    from 1400154e5  type=DATA  func=FUN_1400153e0@1400153e0
+
+== 140040eb0  "SELECT * FROM Win32_BIOS"
+    from 140016797  type=DATA  func=FUN_140016740@140016740
+
+== 140041050  "--serviceexperts --source=hotkeyF9"
+    from 140017fbb  type=DATA  func=FUN_140017eb0@140017eb0
+
+== 140041870  "_Thread_Launch_LenovoSmartkey3x ShellExecuteEx LENOVO_UTILITY_MSSTORE_DOWNLOAD_URL fail =  %d"
+    from 140018a5e  type=DATA  func=FUN_140018930@140018930
+    from 140018a73  type=DATA  func=FUN_140018930@140018930
+
+== 140041b78  "-LSK3XSINGLECLICK"
+    from 1400187ae  type=DATA  func=FUN_1400186a0@1400186a0
+
+== 140041ba0  "-LSK3XDOUBLECLICK"
+    from 1400187ba  type=DATA  func=FUN_1400186a0@1400186a0
+    from 140018841  type=PARAM  func=FUN_1400186a0@1400186a0
+
+== 140042b80  "MsgLogic g_HandleEvent Init GetHotKeyConfig fail! Line: %d  GetLastError: %d"
+    from 14001aba0  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140042c20  "MsgLogic g_HandleEvent Init CAMERA_BIT7 fail! Line: %d  GetLastError: %d"
+    from 14001abd0  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 1400430a0  "MsgLogic g_HandleEvent m_OsdSupport CAMERA_BIT7  TRUE"
+    from 14001b383  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140043110  "MsgLogic g_HandleEvent SwitchCameraStatus  in ...."
+    from 14001b3a0  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140043178  "Camera"
+    from 14001b3f0  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140043270  "MsgLogic g_HandleEvent camera unkown status! Line: %d  GetLastError: %d"
+    from 14001b4a3  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140043310  "MsgLogic g_HandleEvent e_Event_CapsLock GetLanguageName is ja ,do not show osd!"
+    from 14001b50b  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140043570  "MsgLogic g_HandleEvent e_Event_Backlight_new"
+    from 14001b92c  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 1400435d0  "MsgLogic g_HandleEvent e_Event_Backlight_new ::mode=%d  Failed Line: %d  GetLastError: %d"
+    from 14001baaf  type=DATA  func=FUN_14001aa60@14001aa60
+    from 14001bb0c  type=DATA  func=FUN_14001aa60@14001aa60
+    from 14001bbaf  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140043860  "MsgLogic g_HandleEvent::e_Event_Mic  m_volumemgr.RefreshDevice return false %d error:%d"
+    from 14001bcd6  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140043910  "MsgLogic g_HandleEvent e_Event_Mic Line: %d  GetLastError: %d"
+    from 1400297ab  type=DATA  func=FUN_140029790@140029790
+
+== 140043ab0  "MsgLogic e_Event_NumberLock try catch Line: %d  GetLastError: %d"
+    from 140029817  type=DATA  func=FUN_1400297fc@1400297fc
+
+== 140043b40  "MsgLogic g_HandleEvent e_Event_FnQ Line: %d  GetLastError: %d"
+    from 14001c13a  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140043bd0  "MsgLogic g_HandleEvent e_Event_FnQ_X60 Line: %d  GetLastError: %d"
+    from 14001c235  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140043de0  "MsgLogic g_HandleEvent e_Event_VOIP_ANSWER_2 AIMeeingManager is install and running, Hotkey not responds"
+    from 14001c33e  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140043f50  "MsgLogic g_HandleEvent e_Event_VOIP_END_2 Teams not Installed Line: %d  GetLastError: %d"
+    from 14001c3b1  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140044010  "MsgLogic g_HandleEvent e_Event_SNAP_TOOL CreateThread Line: %d  GetLastError: %d"
+    from 14001c408  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 1400440d8  "FnLock"
+    from 14001c45f  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 1400441a0  "MsgLogic g_HandleEvent e_Event_HID_SUPERKEY"
+    from 14001c543  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140044200  "MsgLogic g_HandleEvent e_Event_HID_SUPERKEY CreateThread _Thread_Launch_LenovoVantage3xOrPcm Line: %d  GetLastError: %d"
+    from 14001c57f  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 1400442f0  "CameraHW"
+    from 14001c5b9  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140044310  "MsgLogic g_HandleEvent e_Event_PANEL_RFESHRATE CreateThread _Thread_Panel_Rfresh_2_Thread Line: %d  GetLastError: %d"
+    from 14001c616  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140044400  "MsgLogic g_HandleEvent e_Event_PANEL_RFESHRATE"
+    from 14001c628  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140044460  "MsgLogic g_HandleEvent e_Event_PANEL_RFESHRATE CreateThread _Thread_Panel_Rfresh_Thread Line: %d  GetLastError: %d"
+    from 14001c664  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140044550  "MsgLogic e_Event_DOLBY_THREE_MODE:: catch error , Line: %d  GetLastError: %d"
+    from 140029850  type=DATA  func=FUN_140029835@140029835
+    from 140029889  type=DATA  func=FUN_14002986e@14002986e
+
+== 140044620  "MsgLogic g_HandleEvent e_Event_Bluetooth ShellExecute fail Line: %d  GetLastError: %d"
+    from 14001c6ce  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140044720  "MsgLogic e_Event_DOLBY_THREE_MODE::Dolby Initialize failed! error:%d"
+    from 14001c72f  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 1400447b0  "MsgLogic e_Event_DOLBY_THREE_MODE::Dolby UnInstall! error:%d"
+    from 14001c76a  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140044830  "MsgLogic e_Event_DOLBY_THREE_MODE::Dolby Not Start! Set Dolby Enable"
+    from 14001c79a  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 1400448e0  "MsgLogic e_Event_DOLBY_THREE_MODE::OpenRPC Not Start! error:%d"
+    from 14001c95d  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140044960  "MsgLogic g_HandleEvent e_Event_HID_SUPERKEY CreateThread _Thread_night_screen_mode Line: %d  GetLastError: %d"
+    from 14001c9bc  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140044b00  "MsgLogic e_Event_SERVICE_KEY_C970::LaunchLenovoOnlineServiceUrl() return fail!"
+    from 14001cc62  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140044ba0  "MsgLogic g_HandleEvent e_Event_HID_SUPERKEY CreateThread _Thread_switch_camera Line: %d  GetLastError: %d"
+    from 14001ccb7  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140044c80  "MsgLogic g_HandleEvent e_Event_HID_SUPERKEY CreateThread _Thread_switch_touchpad Line: %d  GetLastError: %d"
+    from 14001ccf4  type=DATA  func=FUN_14001aa60@14001aa60
+
+== 140044e48  "e_Event_OnekeyStudio_ITS"
+    from 14001ce85  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140044e80  "e_Event_Bluetooth"
+    from 14001ced4  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140044ea8  "e_Event_Backlight_new"
+    from 14001cf1c  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140044ed8  "e_Event_SPDIF_TouchPad"
+    from 14001cf64  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140044f08  "e_Event_Camera"
+    from 14001cfac  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140044f28  "e_Event_TouchPad"
+    from 14001cff0  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140044f50  "e_Event_All_RF"
+    from 14001d034  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140044f70  "e_Event_Carema_Utility"
+    from 14001d078  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140044fa0  "e_Event_Event2_bit5_AirPlane"
+    from 14001d0e7  type=DATA  func=FUN_14001ce70@14001ce70
+    from 14001d0ee  type=PARAM  func=FUN_14001ce70@14001ce70
+    from 14001d113  type=READ  func=FUN_14001ce70@14001ce70
+    from 14001d122  type=PARAM  func=FUN_14001ce70@14001ce70
+
+== 140044fe0  "e_Event_CapsLock"
+    from 14001d159  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045008  "e_Event_NumberLock"
+    from 14001d19d  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045030  "e_Event_Mic"
+    from 14001d1e1  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045048  "e_Event_ControlPanel"
+    from 14001d225  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045078  "e_Event_TouchScreen"
+    from 14001d269  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400450a0  "e_Event_General"
+    from 14001d2ad  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400450c0  "e_Event_FnQ"
+    from 14001d2f1  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400450d8  "e_Event_FnQ_X60"
+    from 14001d335  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400450f8  "e_Event_LSK"
+    from 14001d379  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045110  "e_Event_LSK_2_WMI"
+    from 14001d3bd  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045138  "e_Event_HID_SUPERKEY"
+    from 14001d401  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045168  "e_Event_LSK_CLICK"
+    from 14001d445  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045190  "e_Event_VOIP_ANSWER"
+    from 14001d489  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400451b8  "e_Event_VOIP_END"
+    from 14001d4d9  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400451e0  "e_Event_VOIP_ANSWER_2"
+    from 14001d529  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045210  "e_Event_VOIP_END_2"
+    from 14001d579  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045238  "e_Event_SNAP_TOOL"
+    from 14001d5c9  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045260  "e_Event_FNLK_ON"
+    from 14001d619  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045280  "e_Event_FNLK_OFF"
+    from 14001d669  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400452a8  "e_Event_SERVICE"
+    from 14001d6b9  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400452c8  "e_Event_VOICE"
+    from 14001d72c  type=DATA  func=FUN_14001ce70@14001ce70
+    from 14001d733  type=PARAM  func=FUN_14001ce70@14001ce70
+    from 14001d753  type=READ  func=FUN_14001ce70@14001ce70
+    from 14001d762  type=PARAM  func=FUN_14001ce70@14001ce70
+
+== 1400452e8  "e_Event_CAMERA_SWITCH_ON"
+    from 14001d799  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045320  "e_Event_CAMERA_SWITCH_OFF"
+    from 14001d7e9  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045358  "e_Event_PANEL_RFESHRATE"
+    from 14001d839  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045388  "e_Event_LAUNCH_VANTAAGE"
+    from 14001d889  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400453b8  "e_Event_DOLBY_THREE_MODE"
+    from 14001d8d9  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400453f0  "e_Event_NIGHT_SCREEN_MODE"
+    from 14001d929  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045428  "e_Event_GAMELOGO_FNL_ON"
+    from 14001d979  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045458  "e_Event_GAMELOGO_FNL_OFF"
+    from 14001d9c9  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045490  "e_Event_PLUGIN_LED_FNU_ON"
+    from 14001da19  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400454c8  "e_Event_PLUGIN_LED_FNU_OFF"
+    from 14001da69  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045500  "e_Event_KBDBRIGHT_OFF"
+    from 14001dab9  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045530  "e_Event_KBDBRIGHT_L1"
+    from 14001db09  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045560  "e_Event_KBDBRIGHT_L2"
+    from 14001db59  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045590  "e_Event_KBDBRIGHT_L3"
+    from 14001dba9  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400455c0  "e_Event_RGB_KBD_LE_WAVE"
+    from 14001dbf9  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400455f0  "e_Event_RGB_KBD_LE_BREATH"
+    from 14001dc49  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045628  "e_Event_RGB_KBD_LE_SMOOTH"
+    from 14001dc99  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045660  "e_Event_RGB_KBD_LE_ALWAYS"
+    from 14001dce9  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045698  "e_Event_RGB_KBD_LE_OFF"
+    from 14001dd39  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400456c8  "e_Event_RGB_KBD_LE_RAINBOW"
+    from 14001dd89  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045700  "e_Event_RGB_KBD_LE_BLUE"
+    from 14001ddd9  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045730  "e_Event_RGB_KBD_LE_RIPPLE"
+    from 14001de29  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045768  "e_Event_RGB_KBD_LE_RAINING"
+    from 14001de79  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400457a0  "e_Event_RGB_KBD_LE_AWAVEM"
+    from 14001dec9  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400457d8  "e_Event_RGB_KBD_LE_AWAVELR"
+    from 14001df19  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045810  "e_Event_Mouse_ITS"
+    from 14001df69  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045838  "e_Event_SERVICE_KEY_C970"
+    from 14001dfb9  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140045870  "e_Event_CAMERA_BG_BLUR"
+    from 14001e009  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 1400458a0  "e_Event_PTP_TOUCHPAD"
+    from 14001e059  type=DATA  func=FUN_14001ce70@14001ce70
+
+== 140046800  "MsgLogic  e_Event_NIGHT_SCREEN_MODE hSettingNightLight Line: %d  GetLastError: %d"
+    from 14001ecdd  type=DATA  func=FUN_14001ea30@14001ea30
+
+== 1400468b0  "MsgLogic  e_Event_NIGHT_SCREEN_MODE try catch Line: %d  GetLastError: %d"
+    from 1400298cb  type=DATA  func=FUN_1400298b0@1400298b0
+
+== 140046a30  "e_Event_CAMERA_BG_BLUR BlurSwitchCLR Switch retBlur=%d"
+    from 14001ed60  type=DATA  func=FUN_14001ed10@14001ed10
+
+== 140046aa0  "BackgroundBlur"
+    from 14001ede1  type=DATA  func=FUN_14001ed10@14001ed10
+    from 14001eee3  type=DATA  func=FUN_14001ed10@14001ed10
+    from 140020aa5  type=DATA  func=FUN_140020990@140020990
+
+== 140046ac0  "e_Event_CAMERA_BG_BLUR LaunchSmartAppearance UWP success "
+    from 14001ef70  type=DATA  func=FUN_14001ed10@14001ed10
+    from 14001ef9d  type=DATA  func=FUN_14001ed10@14001ed10
+
+== 140046b40  "e_Event_CAMERA_BG_BLUR LaunchSmartAppearance UWP failed =%d"
+    from 14001ef86  type=DATA  func=FUN_14001ed10@14001ed10
+    from 14001efb3  type=DATA  func=FUN_14001ed10@14001ed10
+
+== 140046bc0  "MsgLogic e_Event_CAMERA_BG_BLUR strLVFComponentInstallPath RegKeyExists Line: %d  GetLastError: %d"
+    from 14001efcd  type=DATA  func=FUN_14001ed10@14001ed10
+
+== 140046c90  "MsgLogic  e_Event_CAMERA_BG_BLUR try catch Line: %d  GetLastError: %d"
+    from 14002990b  type=DATA  func=FUN_1400298f0@1400298f0
+
+== 140046eb0  "MsgLogic g_HandleEvent e_Event_TouchPad_Switch ret=%d  Failed Line: %d  GetLastError: %d"
+    from 14001f710  type=DATA  func=FUN_14001f570@14001f570
+    from 14001f92a  type=DATA  func=FUN_14001f570@14001f570
+    from 14001f94a  type=DATA  func=FUN_14001f570@14001f570
+
+== 1400471d0  "WMIMonitorMsgCenter UtilityFnQStatus wParam=%d, %d"
+    from 14001311e  type=DATA  func=FUN_140013090@140013090
+
+== 140047240  "WMIMonitorMsgCenter UtilityFnQStatus FnQ msgVersion = %d"
+    from 140013163  type=DATA  func=FUN_140013090@140013090
+
+== 1400472c0  "WMIMonitorMsgCenter g_UtilityEvent UtilityLSK2.0Status  wParam=%d"
+    from 140020490  type=DATA  func=FUN_140020480@140020480
+
+== 140047350  "WMIMonitorMsgCenter g_UtilityEvent UtilityLSK2.0Status  wParam invalid"
+    from 1400208d4  type=DATA  func=FUN_140020480@140020480
+
+== 140047490  "MsgLogic e_Event_CAMERA_BG_BLUR Launch lenovo-smartappearance failed! Line: %d GetLastError: %d"
+    from 140020a60  type=DATA  func=FUN_140020990@140020990
+
+== 1400475b0  "e_Event_CAMERA_BG_BLUR ShellExecuteEx LENOVO_SMARTAPPEARANCE_DOWNLOAD_URL fail =  %d"
+    from 140020be7  type=DATA  func=FUN_140020990@140020990
+    from 140020c01  type=DATA  func=FUN_140020990@140020990
+
+== 140055520  ".?AVCMoniterWmiGetFnQ@@"
+    (no references)
+
+== 140055570  ".?AVCMoniterWmiUtilityEvent@@"
+    (no references)
+
+== 1400bdb48  "This utility controls special keyboard functions like hotkeys and function keys, on your Lenovo notebook."
+    (no references)

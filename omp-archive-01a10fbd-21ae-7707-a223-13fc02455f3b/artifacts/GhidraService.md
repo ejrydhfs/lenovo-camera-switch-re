@@ -1,0 +1,23 @@
+{
+  "task": "06-ghidra-service",
+  "status": "done",
+  "deliverable": "/home/user/Downloads/lenovo-camera-switch-re/50-ghidra/lenovoutilityservice/REPORT.md",
+  "extra_artifacts": [
+    "lenovoutilityservice.exe-decomp.c (641 fns, 0 fails)",
+    "lenovoutilityservice.exe-strings-xref.txt",
+    "lenovoutilityservice.exe-imports.txt/-functions.txt/-thunks.txt/-blocks.txt",
+    "controllib.dll-decomp.c (633 fns) + same set",
+    "pe-imports-exports.txt",
+    "ghidra-run*.log",
+    "50-ghidra/scripts/DumpAllScript.java (GhidraScript used)"
+  ],
+  "answers": {
+    "q1_device_ioctl": "NEGATIVE. No \\\\.\\/\\\\?\\ path string exists anywhere; DeviceIoControl is not imported at all -> no IOCTL control codes. CreateFileW has exactly 4 call sites: C:\\Windows\\Temp\\_LenovoUtility_\\_FnHotkeySvcUtility.log (FUN_140006bf0, decomp:4838/4840) and CONOUT$ (decomp:28376/28416). LHK2019 is used only as a PnP lifetime signal: FUN_140006f80 does SetupDiGetClassDevsW(NULL,NULL,NULL,DIGCF_ALLCLASSES=6)+SPDRP_HARDWAREID/COMPATIBLEIDS matching L\"*LHK2019\" then SetupDiGetDeviceInstanceIdW; FUN_140006780 (thread from ServiceMain FUN_1400061a0) opens HKLM\\System\\CurrentControlSet\\Enum\\<instance>, RegNotifyChangeKeyValue(4=LAST_SET,async), WaitForMultipleObjects, CMP_WaitNoPendingInstallEvents, CM_Locate_DevNodeW loop; on devnode disappearance it deletes HKCU Software\\Lenovo\\{Hotkey,LenovoHotkeysService} and DeleteService(L\"LenovoFnAndFunctionKeys\").",
+    "q2_hid": "NEGATIVE. No HID.DLL/HidD_*/HidP_* imports, no HID path, 0 hits for hid/VID_/PID_/usagepage. LSK_SetFeature in the strings is trace text of the WMI call path (FUN_140002bf0 -> FUN_1400076d0), not HID: g_lsk.LSK_SetFeature == WMI LENOVO_UTILITY_DATA::SetFeature(featuretype=1 -> mic LED ON, 2 -> OFF). HID lives in FnHotkeyUtility.exe (imports HID.DLL HidD_GetAttributes/GetFeature, DeviceIoControl; keys Software\\Lenovo\\Hotkey\\VID_17EF&PID_*), whose camera path is DirectShow IAMCameraControl::Set.",
+    "q3_wmi": "YES via COM. CLSID {4590F811-1D3A-11D0-891F-00AA004B2E24}=CLSID_WbemLocator, IID {DC12A687-737F-11CF-884D-00AA004B2E24}=IID_IWbemLocator (rdata 0x140021bf8/0x140021c08). Namespace ROOT\\WMI, class LENOVO_UTILITY_DATA, instance obtained via IWbemServices::CreateInstanceEnum (+0x90, flags 0x30) + IEnumWbemClassObject::Next. Methods: SetFeature(in featuretype BSTR \"1\"/\"2\", out Data VT_I4) and GetIfSupportOrVersion(in datatype \"5\"/\"19\"); path from __PATH; ExecMethod at IWbemServices+0xC0. NO SELECT query and NO ExecNotificationQueryAsync (that is FnHotkeyUtility.exe: SELECT * FROM LENOVO_UTILITY_EVENT, per STATE.md).",
+    "q4_camera_registry": "No camera state read: 0 occurrences of camera/privacy/CAM_/SW_CAMERA in strings or code; no HID/EC/ACPI/USB camera access. Registry: HKLM\\SYSTEM\\CurrentControlSet\\Services\\LenovoFnAndFunctionKeys\\{Capbility (SupportServiceKey DWORD write, SupportPanelRefeshRate read), ControlShowOSD (ShowCapsNumlkOSD write)}, HKLM\\System\\CurrentControlSet\\Enum\\<LHK2019> (watch), HKLM\\SOFTWARE\\Lenovo\\LenovoUtility\\log (read gate), HKCU\\SOFTWARE\\Lenovo\\{Hotkey,LenovoHotkeysService} (delete tree). Files: only the temp log + CONOUT$. Loads mmstate.dll (EnterMicMuteStateTracking/LeaveMicMuteStateTracking/GetState). No config file, no network in the service.",
+    "q5_controllib": "ControlLib.dll = Intel Graphics Control Library (IGCL) loader: 86 exports all ctl* (ctlInit..ctlWaitForPropertyChange), NO CLSIDs (no DllGetClassObject/DllRegisterServer, no COM, no CLR header). Registry SOFTWARE\\Intel\\Display\\IGCL (+ per-class Driver/ControlApiPath), SetupDiGetClassDevsW over device-interface GUID {1CA05180-A699-450A-9A0C-DE4FBE3DDD89}, filters _8086/Intel, LoadLibrary's the per-GPU IGCL impl (IntelControlLib.dll uses D3DKMTEscape). Relationship to LHK2019: NONE; referenced only by FnHotkeyUtility.exe (string 'ControlLib'), for Intel display features."
+  },
+  "bottom_line": "LenovoUtilityService.exe holds no camera logic and no ACPI/IOCTL device protocol; LHK2019's only role is to trigger service install/lifetime (deleted when the devnode disappears). No HID in the service. WMI ROOT\\WMI\\LENOVO_UTILITY_DATA is the LUD/LSK20 mic-LED + capability interface. ControlLib.dll is Intel IGCL, unrelated to LHK2019. Camera events are owned by FnHotkeyUtility.exe.",
+  "verification_note_for_main": "Static analysis only; nothing was run against hardware. Main may want to cross-check the FnHotkeyUtility.exe camera path (other task) and that no sibling file under 50-ghidra/lenovoutilityservice/ was clobbered."
+}

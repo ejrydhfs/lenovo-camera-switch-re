@@ -1,0 +1,1822 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.nep
+`.rdata
+@.data
+.pdata
+@.gfids
+@.rsrc
+@.reloc
+,	(,
+,	(,
+,	(,
+jU+O
+jX(.
+jX(.
+j	({
+\$0H
+\$0H
+\$0H
+|$ AVH
+D$@@
+\$0H
+t$8H
+|$HH
+\$0H
+t$@H
+VWAVH
+\$xH
+@A^_^
+\$0H
+l$8H
+t$@H
+\$0H
+t$8H
+LcA<A
+HcA<H
+t!eH
+L$PH
+\$0H
+l$8H
+t$@H
+\$PH
+uyHc
+uTL+
+\$ UH
+M H1E
+ H3E H3E
+\$HH
+L$0L
+L$(H
+L$ 3
+L$PH
+D$PH
+D$@H
+D$H3
+L$ D
+HcA<H
+8csm
+\$0H
+t$8H
+\$0H
+t$8H
+cAMDD
+entiA
+ineIA
+ntelE
+AuthE
+Genu3
+t(=`
+t!=p
+\$83
+|$@H
+	jXG
+jXG(_
+hjXL)S
+jXL)Q
+jXL)Q
+@jXL)R
+jXL)Q
+,"(Z
+LJ csm
+Xi(m
+jXi(m
+30& 
+\$XH
+L$ E
+H SWH
+X fA
+D$HL
+D$8L
+D$@fA
+\$0L
+D$(E3
+\$0H
+VWAVH
+l$HH
+D$XH
+|$XH
+T$H3
+l$HH
+\$@H
+l$PH
+ A^_^
+\$0H
+\$0H
+t$8H
+\$0H
+\$0H
+t$8H
+t$8H
+|$ H
+\$0H
+\$0H
+|$ H
+t$8H
+\$0H
+T$@3
+L$ E
+L$ SH
+D$@L
+\$xfA
+\$BA
+D$HL
+D$8L
+D$@fA
+\$0L
+D$(E3
+T$H3
+@UATAUAVAWH
+l$PH
+\$PH
+u.fE
+D;E4r
+U0E+
+D$@H
+D$8H
+\$0H
+D$ E3
+t1fD;}
+t*E3
+wbtx
+"wyH
+A_A^A]A\]
+\$HH
+t$ L
+l$PH
+|$(H
+|$@H
+|$@H
+|$@H
+|$@H
+|$@H
+|$@H
+|$@H
+|$(H
+t$ H
+\$HH
+x AVH
+\$0H
+l$8H
+t$@H
+|$HH
+D$8H
+D$8H
+D$@H
+D$(H
+D$(H
+T$0H
+D$8H
+D$8H
+T$@H
+D$H9D$ s"
+D$PI
+\$ WH
+T$PH
+L$XH
+T$PL
+L$0L
+L$`H
+L$(3
+\$hH
+@SVWH
+T$`H
+L$hH
+T$`L
+L$0L
+L$pH
+L$(3
+@_^[
+T$ L
+Unknown exception
+bad allocation
+bad array new length
+>#g/
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+15J5
+\5J5
+u5J5
+I6X6
+t6X6
+ 7v4
+/767
+Q7v4
+Y7v4
+o767
+#867
+<8v4
+E8v4
+L8v4
+Z8v4
+v8v4
+4+v4
+C9]9
+m9s9
+	:v4
+4;v4
+A;v4
+U;J5
+4+>+
+Y+>+
+m+>+0
+0>+	
+1>+	
+l3>+
+w3>+
+uE	#
+2vi	
+`LM#
+`VM1
+`bM8
+`oM8
+`}M>
+`jN3
+t*	~
+Vu5	
+VM=	
+LM/	
+*vd	
+*vA	
+LvA	
+yvA	
+*vd	
+*vA	
+*vd	
+*vA	
+GwA	
+*vd	
+*vA	
+sA	)
+sd	1
+sd	9
+sA	)
+vA	a
+*vA	$
+sA	q
+sA	y
+sA		
+yA	A
+sA	1
+<Module>
+_EXCEPTION_DISPOSITION
+_SID_NAME_USE
+_ACL_INFORMATION_CLASS
+_AUDIT_EVENT_TYPE
+_ACCESS_REASON_TYPE
+_SECURITY_IMPERSONATION_LEVEL
+_TOKEN_TYPE
+_TOKEN_ELEVATION_TYPE
+_TOKEN_INFORMATION_CLASS
+_MANDATORY_LEVEL
+_SE_LEARNING_MODE_DATA_TYPE
+_HARDWARE_COUNTER_TYPE
+_PROCESS_MITIGATION_POLICY
+_JOBOBJECT_RATE_CONTROL_TOLERANCE
+_JOBOBJECT_RATE_CONTROL_TOLERANCE_INTERVAL
+_JOBOBJECTINFOCLASS
+_FIRMWARE_TYPE
+_LOGICAL_PROCESSOR_RELATIONSHIP
+_PROCESSOR_CACHE_TYPE
+_SharedVirtualDiskSupportType
+_SharedVirtualDiskHandleState
+_SYSTEM_POWER_STATE
+_DEVICE_POWER_STATE
+_MONITOR_DISPLAY_STATE
+_USER_ACTIVITY_PRESENCE
+_POWER_REQUEST_TYPE
+_POWER_PLATFORM_ROLE
+IMAGE_AUX_SYMBOL_TYPE
+IMPORT_OBJECT_TYPE
+IMPORT_OBJECT_NAME_TYPE
+ReplacesCorHdrNumericDefines
+_RTL_UMS_THREAD_INFO_CLASS
+_RTL_UMS_SCHEDULER_REASON
+_HEAP_INFORMATION_CLASS
+_ACTIVATION_CONTEXT_INFO_CLASS
+_CM_SERVICE_NODE_TYPE
+_CM_SERVICE_LOAD_TYPE
+_CM_ERROR_CONTROL_TYPE
+_TAPE_DRIVE_PROBLEM_TYPE
+_TRANSACTION_OUTCOME
+_TRANSACTION_STATE
+_TRANSACTION_INFORMATION_CLASS
+_TRANSACTIONMANAGER_INFORMATION_CLASS
+_RESOURCEMANAGER_INFORMATION_CLASS
+_ENLISTMENT_INFORMATION_CLASS
+_KTMOBJECT_TYPE
+_TP_CALLBACK_PRIORITY
+_FINDEX_INFO_LEVELS
+_FINDEX_SEARCH_OPS
+_GET_FILEEX_INFO_LEVELS
+_FILE_INFO_BY_HANDLE_CLASS
+_THREAD_INFORMATION_CLASS
+_COMPUTER_NAME_FORMAT
+_MEMORY_RESOURCE_NOTIFICATION_TYPE
+_PROCESS_INFORMATION_CLASS
+_DEP_SYSTEM_POLICY_TYPE
+_PROC_THREAD_ATTRIBUTE_NUM
+_COPYFILE2_MESSAGE_TYPE
+_COPYFILE2_MESSAGE_ACTION
+_COPYFILE2_COPY_PHASE
+_STREAM_INFO_LEVELS
+_PRIORITY_HINT
+_FILE_ID_TYPE
+tagPOINTER_INPUT_TYPE
+tagPOINTER_BUTTON_CHANGE_TYPE
+tagFEEDBACK_TYPE
+tagPOINTER_DEVICE_TYPE
+tagPOINTER_DEVICE_CURSOR_TYPE
+tagINPUT_MESSAGE_DEVICE_TYPE
+tagINPUT_MESSAGE_ORIGIN_ID
+tagAR_STATE
+ORIENTATION_PREFERENCE
+SYSNLS_FUNCTION
+SYSGEOTYPE
+SYSGEOCLASS
+_NORM_FORM
+_RPC_HTTP_REDIRECTOR_STAGE
+RPC_ADDRESS_CHANGE_TYPE
+RpcProxyPerfCounters
+_RPC_NOTIFICATION_TYPES
+_RPC_ASYNC_EVENT
+tagExtendedErrorParamTypes
+tagRpcLocalAddressFormat
+tagRpcCallType
+tagRpcCallClientLocality
+_RPC_NOTIFICATIONS
+ASSOCCLASS
+SHSTOCKICONID
+_USER_MARSHAL_CB_TYPE
+_IDL_CS_CONVERT
+_system_handle_t
+tagMEMCTX
+tagCLSCTX
+tagMSHLFLAGS
+tagMSHCTX
+tagDVASPECT
+tagSTGC
+tagSTGMOVE
+tagSTATFLAG
+VARENUM
+tagTYSPEC
+_STORAGE_MEDIA_TYPE
+_STORAGE_BUS_TYPE
+_STORAGE_QUERY_TYPE
+_STORAGE_PROPERTY_ID
+_STORAGE_PORT_CODE_SET
+_STORAGE_IDENTIFIER_CODE_SET
+_STORAGE_IDENTIFIER_TYPE
+_STORAGE_ID_NAA_FORMAT
+_STORAGE_ASSOCIATION_TYPE
+_WRITE_CACHE_TYPE
+_WRITE_CACHE_ENABLE
+_WRITE_CACHE_CHANGE
+_WRITE_THROUGH
+_DEVICEDUMP_COLLECTION_TYPE
+_STORAGE_POWERUP_REASON_TYPE
+_MEDIA_TYPE
+_PARTITION_STYLE
+_DETECTION_TYPE
+_BIN_TYPES
+_ELEMENT_TYPE
+_CHANGER_DEVICE_PROBLEM_TYPE
+_SHRINK_VOLUME_REQUEST_TYPES
+_CSV_CONTROL_OP
+_CSVFS_DISK_CONNECTIVITY
+_QUERY_FILE_LAYOUT_FILTER_TYPE
+_FILE_STORAGE_TIER_MEDIA_TYPE
+_PRINTER_OPTION_FLAGS
+tagREGCLS
+tagCOINITBASE
+tagACTIVATIONTYPE
+tagEXTCONN
+tagSTGTY
+tagSTREAM_SEEK
+tagLOCKTYPE
+tagEOLE_AUTHENTICATION_CAPABILITIES
+tagRPCOPT_PROPERTIES
+tagRPCOPT_SERVER_LOCALITY_VALUES
+tagGLOBALOPT_PROPERTIES
+tagGLOBALOPT_EH_VALUES
+tagGLOBALOPT_RPCTP_VALUES
+tagGLOBALOPT_RO_FLAGS
+tagGLOBALOPT_UNMARSHALING_POLICY_VALUES
+tagDCOM_CALL_STATE
+_APTTYPEQUALIFIER
+_APTTYPE
+_THDTYPE
+CO_MARSHALING_CONTEXT_ATTRIBUTES
+tagSTDMSHLFLAGS
+tagCOWAIT_FLAGS
+CWMO_FLAGS
+AgileReferenceOptions
+tagCOINIT
+tagBIND_FLAGS
+tagMKSYS
+tagMKREDUCE
+tagADVF
+tagTYMED
+tagDATADIR
+tagCALLTYPE
+tagSERVERCALL
+tagPENDINGTYPE
+tagPENDINGMSG
+tagApplicationType
+tagShutdownType
+tagCOMSD
+tagDISCARDCACHE
+tagOLEGETMONIKER
+tagOLEWHICHMK
+tagUSERCLASSTYPE
+tagOLEMISC
+tagOLECLOSE
+tagOLERENDER
+tagOLEUPDATE
+tagOLELINKBIND
+tagBINDSPEED
+tagOLECONTF
+tagOLEVERBATTRIB
+tagSF_TYPE
+tagTYPEKIND
+tagCALLCONV
+tagFUNCKIND
+tagINVOKEKIND
+tagVARKIND
+tagTYPEFLAGS
+tagFUNCFLAGS
+tagVARFLAGS
+tagDESCKIND
+tagSYSKIND
+tagLIBFLAGS
+tagCHANGEKIND
+tagDOMNodeType
+tagXMLEMEM_TYPE
+__MIDL_IMonikerProp_0001
+__MIDL_IBindStatusCallback_0001
+__MIDL_IBindStatusCallback_0002
+__MIDL_IBindStatusCallback_0003
+__MIDL_IBindStatusCallback_0004
+__MIDL_IBindStatusCallback_0005
+__MIDL_IBindStatusCallback_0006
+tagBINDSTATUS
+__MIDL_IBindStatusCallbackEx_0001
+__MIDL_IAuthenticateEx_0001
+__MIDL_ICodeInstall_0001
+__MIDL_IUri_0001
+__MIDL_IUri_0002
+tagBINDSTRING
+_tagPI_FLAGS
+_tagOIBDG_FLAGS
+_tagPARSEACTION
+_tagPSUACTION
+_tagQUERYOPTION
+_tagINTERNETFEATURELIST
+__MIDL_IInternetSecurityManager_0001
+__MIDL_IInternetSecurityManager_0002
+__MIDL_IInternetSecurityManager_0003
+tagURLZONE
+tagURLTEMPLATE
+__MIDL_IInternetZoneManager_0001
+__MIDL_IInternetZoneManager_0002
+_URLZONEREG
+__MIDL_IGetBindHandle_0001
+PIDMSI_STATUS_VALUE
+tagREGKIND
+_SC_ACTION_TYPE
+_SC_STATUS_TYPE
+_SC_ENUM_TYPE
+_Uninitialized
+memory_order
+$ArrayType$$$BY00$$CB_W
+<CppImplementationDetails>
+$ArrayType$$$BY09$$CB_W
+$ArrayType$$$BY0BF@$$CBD
+$ArrayType$$$BY0P@$$CBD
+$ArrayType$$$BY0O@$$CBD
+$ArrayType$$$BY0BC@$$CBD
+LUDP_CONFIG
+Ludp
+TRACKEVENT_CALLBACK
+NativeMethods
+context_node_base
+msclr.interop
+marshal_context
+context_node<char const *,System::String ^>
+context_node<wchar_t const *,System::String ^>
+context_node<wchar_t *,System::String ^>
+internal_marshaler<wchar_t *,System::String ^,1>
+internal_marshaler<wchar_t const *,System::String ^,1>
+context_node<System::String ^,wchar_t const *>
+internal_marshaler<System::String ^,wchar_t const *,0>
+$ArrayType$$$BY08$$CBD
+$ArrayType$$$BY0L@$$CBD
+$ArrayType$$$BY0N@$$CBD
+pointer_safety
+bad_cast
+bad_typeid
+__non_rtti_object
+bad_weak_ptr
+_Ref_count_base
+type_info
+_bstr_t
+Data_t
+_variant_t
+tagVARIANT
+$UnnamedClass$0xfc0f8559$456$
+$UnnamedClass$0xfc0f8559$457$
+$UnnamedClass$0xfc0f8559$458$
+$UnnamedClass$0xfc0f8559$459$
+char_buffer<char>
+msclr.interop.details
+char_buffer<wchar_t>
+$_s__RTTIBaseClassArray$_extraBytes_8
+$_s__RTTIBaseClassArray$_extraBytes_16
+$_s__RTTIBaseClassArray$_extraBytes_24
+_s__RTTIBaseClassDescriptor2
+_s__RTTIClassHierarchyDescriptor
+$_TypeDescriptor$_extraBytes_26
+$_TypeDescriptor$_extraBytes_23
+$_TypeDescriptor$_extraBytes_28
+$_TypeDescriptor$_extraBytes_21
+$_TypeDescriptor$_extraBytes_19
+_s__RTTICompleteObjectLocator2
+_ParamPair
+ludp
+_LUDP_CONFIG
+tagDEC
+$UnnamedClass$0xfc0f8559$298$
+$UnnamedClass$0xfc0f8559$299$
+$UnnamedClass$0xfc0f8559$300$
+$UnnamedClass$0xfc0f8559$301$
+tagCY
+$UnnamedClass$0xfc0f8559$297$
+IUnknown
+IDispatch
+_Shared_ptr_spin_lock
+$ArrayType$$$BY04Q6AXXZ
+$ArrayType$$$BY02Q6AXXZ
+exception
+$ArrayType$$$BY01Q6AXXZ
+$_TypeDescriptor$_extraBytes_20
+__std_exception_data
+__type_info_node
+__std_type_info_data
+__crt_locale_data_public
+__crt_locale_pointers
+_GUID
+_TP_CALLBACK_ENVIRON_V3
+<unnamed-type-u>
+<unnamed-type-s>
+_iobuf
+numeric_limits<char>
+numeric_limits<wchar_t>
+numeric_limits<bool>
+numeric_limits<signed char>
+numeric_limits<unsigned char>
+numeric_limits<short>
+numeric_limits<unsigned short>
+numeric_limits<char16_t>
+numeric_limits<int>
+numeric_limits<unsigned int>
+numeric_limits<long>
+numeric_limits<unsigned long>
+numeric_limits<char32_t>
+numeric_limits<__int64>
+numeric_limits<unsigned __int64>
+numeric_limits<float>
+numeric_limits<double>
+numeric_limits<long double>
+bad_exception
+bad_alloc
+bad_array_new_length
+exception_ptr
+nested_exception
+char_traits<wchar_t>
+char_traits<unsigned short>
+char_traits<char>
+_Iterator_base0
+_Container_base12
+_Iterator_base12
+allocator<void>
+logic_error
+domain_error
+invalid_argument
+length_error
+out_of_range
+runtime_error
+overflow_error
+underflow_error
+range_error
+_List_iterator<std::_List_val<std::_List_simple_types<std::pair<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > > > > >
+pair<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > >
+_List_const_iterator<std::_List_val<std::_List_simple_types<std::pair<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > > > > >
+list<std::pair<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > >,std::allocator<std::pair<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > > > >
+basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >
+basic_string<char,std::char_traits<char>,std::allocator<char> >
+_Bitwise_hash<long double>
+_Bitwise_hash<double>
+_Bitwise_hash<float>
+pointer_traits<std::pair<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > > *>
+_String_alloc<std::_String_base_types<wchar_t,std::allocator<wchar_t> > >
+_List_node<std::pair<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > >,void *>
+_List_val<std::_List_simple_types<std::pair<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > > > >
+_List_alloc<std::_List_base_types<std::pair<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > >,std::allocator<std::pair<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > > > > >
+_String_alloc<std::_String_base_types<char,std::allocator<char> > >
+_String_val<std::_Simple_types<wchar_t> >
+_Bxty
+_Compressed_pair<std::_Wrap_alloc<std::allocator<std::_List_node<std::pair<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > >,void *> > >,std::_List_val<std::_List_simple_types<std::pair<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > > > >,1>
+_String_val<std::_Simple_types<char> >
+_Compressed_pair<std::_Wrap_alloc<std::allocator<wchar_t> >,std::_String_val<std::_Simple_types<wchar_t> >,1>
+_List_unchecked_const_iterator<std::_List_val<std::_List_simple_types<std::pair<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> > > > >,std::_Iterator_base0>
+_Compressed_pair<std::_Wrap_alloc<std::allocator<char> >,std::_String_val<std::_Simple_types<char> >,1>
+tagMSG
+HWND__
+hash<double>
+$_TypeDescriptor$_extraBytes_24
+_stat64i32
+tagPROPVARIANT
+$UnnamedClass$0xfc0f8559$464$
+$UnnamedClass$0xfc0f8559$465$
+$UnnamedClass$0xfc0f8559$466$
+hash<float>
+_lldiv_t
+_Container_base0
+$_TypeDescriptor$_extraBytes_22
+$_TypeDescriptor$_extraBytes_27
+_SECURITY_ATTRIBUTES
+_Wrap_int
+HDC__
+stat
+_ldiv_t
+tagTEXTMETRICW
+tagRECT
+_Container_proxy
+$_TypeDescriptor$_extraBytes_25
+_Mbstatet
+$_TypeDescriptor$_extraBytes_31
+hash<long double>
+Exception
+<CrtImplementationDetails>
+ModuleLoadException
+ModuleLoadExceptionHandlerException
+ModuleUninitializer
+OpenMPWithMultipleAppdomainsException
+__MIDL___MIDL_itf_gchost_0000_0000_0001
+__MIDL___MIDL_itf_gchost_0000_0000_0002
+ValidatorFlags
+__MIDL___MIDL_itf_mscoree_0000_0000_0001
+__MIDL___MIDL_itf_mscoree_0000_0000_0002
+__MIDL___MIDL_itf_mscoree_0000_0000_0003
+__MIDL___MIDL_itf_mscoree_0000_0000_0004
+__MIDL___MIDL_itf_mscoree_0000_0000_0005
+__MIDL___MIDL_itf_mscoree_0000_0009_0001
+__MIDL___MIDL_itf_mscoree_0000_0009_0002
+__MIDL___MIDL_itf_mscoree_0000_0009_0003
+__MIDL___MIDL_itf_mscoree_0000_0011_0001
+ETaskType
+__MIDL___MIDL_itf_mscoree_0000_0020_0001
+__MIDL___MIDL_itf_mscoree_0000_0021_0001
+__MIDL___MIDL_itf_mscoree_0000_0021_0002
+__MIDL___MIDL_itf_mscoree_0000_0028_0001
+__MIDL___MIDL_itf_mscoree_0000_0028_0002
+__MIDL___MIDL_itf_mscoree_0000_0028_0003
+__MIDL___MIDL_itf_mscoree_0000_0028_0004
+__MIDL___MIDL_itf_mscoree_0000_0030_0001
+__MIDL___MIDL_itf_mscoree_0000_0030_0002
+_CLRAssemblyIdentityFlags
+_hostBiningPolicyModifyFlags
+__MIDL___MIDL_itf_mscoree_0000_0040_0001
+_HostApplicationPolicy
+__MIDL___MIDL_itf_mscoree_0000_0045_0001
+__MIDL___MIDL_itf_mscoree_0000_0046_0001
+__MIDL___MIDL_itf_mscoree_0000_0048_0001
+$ArrayType$$$BY0N@$$CB_W
+$ArrayType$$$BY0M@$$CBD
+$ArrayType$$$BY0O@$$CB_W
+_crt_argv_mode
+_crt_exit_return_mode
+_crt_exit_cleanup_mode
+_crt_app_type
+ISA_AVAILABILITY
+_EVENT_INFO_CLASS
+__vcrt_lock_id
+__scrt_module_type
+__scrt_native_startup_state
+TriBool
+Progress
+DefaultDomain
+LanguageSupport
+gcroot<System::String ^>
+__s_GUID
+_EVENT_DATA_DESCRIPTOR
+$ArrayType$$$BY0A@P6AHXZ
+$UnnamedClass$0xf62e0d43$261$
+$UnnamedClass$0xf62e0d43$262$
+$UnnamedClass$0xf62e0d43$263$
+ICLRRuntimeHost
+HINSTANCE__
+$ArrayType$$$BY00Q6MPEBXXZ
+_EVENT_DESCRIPTOR
+ICorRuntimeHost
+$ArrayType$$$BY0A@P6AXXZ
+$UnnamedClass$0xf62e0d43$253$
+$UnnamedClass$0xf62e0d43$254$
+$UnnamedClass$0xf62e0d43$255$
+$UnnamedClass$0xf62e0d43$256$
+__crt_fast_encoded_nullptr_t
+tagTEXTMETRICA
+$ArrayType$$$BY0CK@$$CBD
+$ArrayType$$$BY0CL@$$CBD
+$ArrayType$$$BY0DC@$$CBD
+_EXCEPTION_POINTERS
+EHExceptionRecord
+EHParameters
+AtExitLock
+ThisModule
+$UnnamedClass$0x594d9d29$261$
+$UnnamedClass$0x594d9d29$262$
+$UnnamedClass$0x594d9d29$263$
+$UnnamedClass$0x594d9d29$253$
+$UnnamedClass$0x594d9d29$254$
+$UnnamedClass$0x594d9d29$255$
+$UnnamedClass$0x594d9d29$256$
+KERNEL32.dll
+mscorlib
+System.Data
+System
+System.Xml
+NativeCppClassAttribute
+System.Runtime.CompilerServices
+Enum
+UnsafeValueTypeAttribute
+ValueType
+CLSCompliantAttribute
+ComVisibleAttribute
+System.Runtime.InteropServices
+AssemblyVersionAttribute
+System.Reflection
+AssemblyCultureAttribute
+AssemblyTrademarkAttribute
+AssemblyCopyrightAttribute
+AssemblyProductAttribute
+AssemblyCompanyAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+AssemblyTitleAttribute
+AssemblyAttributesGoHere
+SecurityAction
+System.Security.Permissions
+SecurityPermissionAttribute
+AssemblyAttributesGoHereSM
+CallConvCdecl
+SuppressMergeCheckAttribute
+IsConst
+IsSignUnspecifiedByte
+MulticastDelegate
+IAsyncResult
+AsyncCallback
+Object
+IsBoxed
+List`1
+System.Collections.Generic
+Tuple`2
+IDisposable
+IsByValue
+LinkedList`1
+IsImplicitlyDereferenced
+HandleProcessCorruptedStateExceptionsAttribute
+System.Runtime.ExceptionServices
+IntPtr
+DecoratedNameAttribute
+IsExplicitlyDereferenced
+IsLong
+LinkedListNode`1
+Marshal
+Delegate
+String
+Enumerator
+InsufficientMemoryException
+ArgumentOutOfRangeException
+ArgumentException
+RuntimeHelpers
+Interlocked
+System.Threading
+TargetFrameworkAttribute
+System.Runtime.Versioning
+SerializationInfo
+System.Runtime.Serialization
+StreamingContext
+SecurityCriticalAttribute
+System.Security
+Stack
+System.Collections
+EventHandler
+SecuritySafeCriticalAttribute
+EventArgs
+PrePrepareMethodAttribute
+System.Runtime.ConstrainedExecution
+AppDomain
+Int32
+Guid
+DebuggerStepThroughAttribute
+System.Diagnostics
+ReliabilityContractAttribute
+Consistency
+FixedAddressValueTypeAttribute
+IEnumerator
+Monitor
+RuntimeEnvironment
+GCHandle
+Type
+RuntimeTypeHandle
+SecurityRulesAttribute
+SecurityRuleSet
+OutOfMemoryException
+SuppressUnmanagedCodeSecurityAttribute
+ModuleHandle
+RuntimeMethodHandle
+Module
+PtrToStringChars
+msclr.interop.details.GetAnsiStringSize
+_str
+msclr.interop.details.WriteAnsiString
+_buf
+_size
+msclr.interop.marshal_as<class System::String ^,wchar_t const *>
+_from_object
+_com_util.CheckError
+_bstr_t.{ctor}
+_bstr_t._AddRef
+_bstr_t.Data_t.AddRef
+_variant_t.{ctor}
+varSrc
+msclr.interop.marshal_as<void *>
+msclr.interop.details.char_buffer<char>.release
+msclr.interop.details.char_buffer<char>.get
+msclr.interop.details.char_buffer<char>.{dtor}
+msclr.interop.details.char_buffer<char>.{ctor}
+std.exception.{ctor}
+_Other
+std.exception.{dtor}
+std.exception.what
+std.exception.__vecDelDtor
+std.exception_ptr.{dtor}
+std.exception_ptr.{ctor}
+_Rhs
+std._Container_base12.{ctor}
+std._Iterator_base12.{ctor}
+_Right
+std._Iterator_base12.=
+std._Iterator_base12._Adopt
+_Parent
+std.allocator<void>.{ctor}
+<CrtImplementationDetails>.ThrowNestedModuleLoadException
+innerException
+nestedException
+<CrtImplementationDetails>.ThrowModuleLoadException
+errorMessage
+<CrtImplementationDetails>.RegisterModuleUninitializer
+handler
+<CrtImplementationDetails>.FromGUID
+guid
+__get_default_appdomain
+ppUnk
+__release_appdomain
+<CrtImplementationDetails>.GetDefaultDomain
+<CrtImplementationDetails>.DoCallBackInDefaultDomain
+function
+cookie
+__scrt_is_safe_for_managed_code
+value
+<CrtImplementationDetails>.DefaultDomain.DoNothing
+<CrtImplementationDetails>.DefaultDomain.HasPerProcess
+<CrtImplementationDetails>.DefaultDomain.HasNative
+<CrtImplementationDetails>.DefaultDomain.NeedsInitialization
+<CrtImplementationDetails>.DefaultDomain.NeedsUninitialization
+<CrtImplementationDetails>.DefaultDomain.Initialize
+?A0xf62e0d43.??__E?Initialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA@@YMXXZ
+?A0xf62e0d43.??__E?Uninitialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA@@YMXXZ
+?A0xf62e0d43.??__E?IsDefaultDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2_NA@@YMXXZ
+?A0xf62e0d43.??__E?InitializedVtables@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+?A0xf62e0d43.??__E?InitializedNative@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+?A0xf62e0d43.??__E?InitializedPerProcess@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+?A0xf62e0d43.??__E?InitializedPerAppDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+<CrtImplementationDetails>.LanguageSupport.InitializeVtables
+<CrtImplementationDetails>.LanguageSupport.InitializeDefaultAppDomain
+<CrtImplementationDetails>.LanguageSupport.InitializeNative
+<CrtImplementationDetails>.LanguageSupport.InitializePerProcess
+<CrtImplementationDetails>.LanguageSupport.InitializePerAppDomain
+<CrtImplementationDetails>.LanguageSupport.InitializeUninitializer
+<CrtImplementationDetails>.LanguageSupport._Initialize
+<CrtImplementationDetails>.LanguageSupport.UninitializeAppDomain
+<CrtImplementationDetails>.LanguageSupport._UninitializeDefaultDomain
+<CrtImplementationDetails>.LanguageSupport.UninitializeDefaultDomain
+<CrtImplementationDetails>.LanguageSupport.DomainUnload
+<CrtImplementationDetails>.LanguageSupport.Cleanup
+<CrtImplementationDetails>.LanguageSupport.{ctor}
+<CrtImplementationDetails>.LanguageSupport.{dtor}
+<CrtImplementationDetails>.LanguageSupport.Initialize
+.cctor
+gcroot<System::String ^>..PE$AAVString@System@@
+gcroot<System::String ^>.=
+gcroot<System::String ^>.{dtor}
+gcroot<System::String ^>.{ctor}
+___CxxCallUnwindDtor
+pDtor
+pThis
+___CxxCallUnwindDelDtor
+___CxxCallUnwindVecDtor
+pVecDtor
+size
+count
+__ehvec_dtor
+destructor
+?A0xc01c2e3b.ArrayUnwindFilter
+pExPtrs
+__ArrayUnwind
+<CrtImplementationDetails>.AtExitLock._handle
+<CrtImplementationDetails>.AtExitLock._lock_Construct
+<CrtImplementationDetails>.AtExitLock._lock_Set
+<CrtImplementationDetails>.AtExitLock._lock_Get
+<CrtImplementationDetails>.AtExitLock._lock_Destruct
+<CrtImplementationDetails>.AtExitLock.IsInitialized
+<CrtImplementationDetails>.AtExitLock.AddRef
+<CrtImplementationDetails>.AtExitLock.RemoveRef
+<CrtImplementationDetails>.AtExitLock.Enter
+<CrtImplementationDetails>.AtExitLock.Exit
+?A0xc2538164.__global_lock
+?A0xc2538164.__global_unlock
+?A0xc2538164.__alloc_global_lock
+?A0xc2538164.__dealloc_global_lock
+_atexit_helper
+func
+__pexit_list_size
+__ponexitend_e
+__ponexitbegin_e
+_exit_callback
+_initatexit_m
+_onexit_m
+_Function
+_atexit_m
+_initatexit_app_domain
+_app_exit_callback
+_onexit_m_appdomain
+_atexit_m_appdomain
+DecodePointer
+_Ptr
+EncodePointer
+_initterm_e
+pfbegin
+pfend
+_initterm
+<CrtImplementationDetails>.ThisModule.Handle
+_initterm_m
+<CrtImplementationDetails>.ThisModule.ResolveMethod<void const * __clrcall(void)>
+methodToken
+finish
+setCertSN
+getDeviceID
+trackAppStop
+trackAppStart
+setTerminateTimeoutsMs
+setTerminateTimeouts
+disableTrack
+enableTrack
+trackUserAction
+trackWindowBackstage
+trackWindowOntop
+trackEventWithCallback
+trackEvent2
+new[]
+initialize
+initialize2
+wcscpy_s
+VariantCopy
+VariantInit
+_com_issue_error
+delete[]
+WideCharToMultiByte
+__ExceptionPtrDestroy
+delete
+__std_exception_copy
+__ExceptionPtrCopy
+__std_exception_destroy
+_getFiberPtrId
+_cexit
+Sleep
+abort
+__security_init_cookie
+__FrameUnwindFilter
+terminate
+__m2mep@?PtrToStringChars@@$$FYMPE$CB_WPE$ABVString@System@@@Z
+__m2mep@?GetAnsiStringSize@details@interop@msclr@@$$FYM_KPE$AAVString@System@@@Z
+__m2mep@?WriteAnsiString@details@interop@msclr@@$$FYMXPEAD_KPE$AAVString@System@@@Z
+__m2mep@??$marshal_as@PE$AAVString@System@@PEB_W@interop@msclr@@$$FYMPE$AAVString@System@@AEBQEB_W@Z
+__m2mep@?CheckError@_com_util@@$$FYAXJ@Z
+__m2mep@??0_bstr_t@@$$FQEAA@AEBV0@@Z
+__m2mep@?_AddRef@_bstr_t@@$$FAEAAXXZ
+__m2mep@?AddRef@Data_t@_bstr_t@@$$FQEAAKXZ
+__m2mep@??0_variant_t@@$$FQEAA@AEBV0@@Z
+__m2mep@??$marshal_as@PEAX@interop@msclr@@$$FYMPEAXVIntPtr@System@@@Z
+__m2mep@?release@?$char_buffer@D@details@interop@msclr@@$$FQEAAPEADXZ
+__m2mep@?get@?$char_buffer@D@details@interop@msclr@@$$FQEBAPEADXZ
+__m2mep@??1?$char_buffer@D@details@interop@msclr@@$$FQEAA@XZ
+__m2mep@??0?$char_buffer@D@details@interop@msclr@@$$FQEAA@_K@Z
+??_C@_0BC@EOODALEL@Unknown?5exception?$AA@
+??_R4exception@std@@6B@
+??_R1A@?0A@EA@exception@std@@8
+__@@_PchSym_@00@UsfwhlmUdliphkzxvUofwkOdrmOhwpUofwkOmvgUcGEUivovzhvUhgwzucOlyq@E712E5293CA581FE
+??_R2exception@std@@8
+??_7exception@std@@6B@
+??_R3exception@std@@8
+??_R0?AVexception@std@@@8
+__m2mep@??0exception@std@@$$FQEAA@AEBV01@@Z
+__m2mep@??1exception@std@@$$FUEAA@XZ
+__m2mep@?what@exception@std@@$$FUEBAPEBDXZ
+__m2mep@??_Eexception@std@@$$FUEAAPEAXI@Z
+__m2mep@??1exception_ptr@std@@$$FQEAA@XZ
+__m2mep@??0exception_ptr@std@@$$FQEAA@AEBV01@@Z
+__m2mep@?<MarshalCopy>@exception_ptr@std@@$$FSMXPEAV12@0@Z
+__m2mep@?<MarshalDestroy>@exception_ptr@std@@$$FSMXPEAV12@@Z
+__m2mep@??0_Container_base12@std@@$$FQEAA@AEBU01@@Z
+__m2mep@??0_Iterator_base12@std@@$$FQEAA@AEBU01@@Z
+__m2mep@??4_Iterator_base12@std@@$$FQEAAAEAU01@AEBU01@@Z
+__m2mep@?_Adopt@_Iterator_base12@std@@$$FQEAAXPEBU_Container_base12@2@@Z
+__m2mep@??0?$allocator@X@std@@$$FQEAA@AEBV01@@Z
+_GUID_cb2f6723_ab3a_11d2_9c40_00c04fa30a3e
+_GUID_cb2f6722_ab3a_11d2_9c40_00c04fa30a3e
+?Uninitialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA
+?A0xf62e0d43.?Uninitialized$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZEA
+?InitializedNative@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?A0xf62e0d43.?InitializedNative$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZEA
+_GUID_90f1a06c_7712_4762_86b5_7a5eba6bdb02
+_GUID_90f1a06e_7712_4762_86b5_7a5eba6bdb02
+?InitializedPerAppDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?Entered@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?hasNative@DefaultDomain@<CrtImplementationDetails>@@0W4TriBool@2@A
+?InitializedPerProcess@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?Count@AllDomains@<CrtImplementationDetails>@@2HA
+?Initialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA
+?InitializedNativeFromCCTOR@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?IsDefaultDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2_NA
+?InitializedVtables@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?InitializedNative@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?InitializedPerProcess@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?hasPerProcess@DefaultDomain@<CrtImplementationDetails>@@0W4TriBool@2@A
+__xc_mp_z
+__xi_vt_z
+?A0xf62e0d43.?InitializedPerProcess$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZEA
+__xc_ma_a
+__xc_ma_z
+?A0xf62e0d43.?InitializedPerAppDomain$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZEA
+__xi_vt_a
+?A0xf62e0d43.?Initialized$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZEA
+__xc_mp_a
+?A0xf62e0d43.?InitializedVtables$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZEA
+?A0xf62e0d43.?IsDefaultDomain$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZEA
+__m2mep@?ThrowNestedModuleLoadException@<CrtImplementationDetails>@@$$FYMXPE$AAVException@System@@0@Z
+__m2mep@?ThrowModuleLoadException@<CrtImplementationDetails>@@$$FYMXPE$AAVString@System@@@Z
+__m2mep@?ThrowModuleLoadException@<CrtImplementationDetails>@@$$FYMXPE$AAVString@System@@PE$AAVException@3@@Z
+__m2mep@?RegisterModuleUninitializer@<CrtImplementationDetails>@@$$FYMXPE$AAVEventHandler@System@@@Z
+__m2mep@?FromGUID@<CrtImplementationDetails>@@$$FYM?AVGuid@System@@AEBU_GUID@@@Z
+__m2mep@?__get_default_appdomain@@$$FYAJPEAPEAUIUnknown@@@Z
+__m2mep@?__release_appdomain@@$$FYAXPEAUIUnknown@@@Z
+__m2mep@?GetDefaultDomain@<CrtImplementationDetails>@@$$FYMPE$AAVAppDomain@System@@XZ
+__m2mep@?DoCallBackInDefaultDomain@<CrtImplementationDetails>@@$$FYAXP6AJPEAX@Z0@Z
+__m2mep@?__scrt_is_safe_for_managed_code@@$$FYA_NXZ
+__m2mep@?DoNothing@DefaultDomain@<CrtImplementationDetails>@@$$FCAJPEAX@Z
+__m2mep@?HasPerProcess@DefaultDomain@<CrtImplementationDetails>@@$$FSA_NXZ
+__m2mep@?HasNative@DefaultDomain@<CrtImplementationDetails>@@$$FSA_NXZ
+__m2mep@?NeedsInitialization@DefaultDomain@<CrtImplementationDetails>@@$$FSA_NXZ
+__m2mep@?NeedsUninitialization@DefaultDomain@<CrtImplementationDetails>@@$$FSA_NXZ
+__m2mep@?Initialize@DefaultDomain@<CrtImplementationDetails>@@$$FSAXXZ
+__m2mep@?InitializeVtables@LanguageSupport@<CrtImplementationDetails>@@$$FAEAAXXZ
+__m2mep@?InitializeDefaultAppDomain@LanguageSupport@<CrtImplementationDetails>@@$$FAEAAXXZ
+__m2mep@?InitializeNative@LanguageSupport@<CrtImplementationDetails>@@$$FAEAAXXZ
+__m2mep@?InitializePerProcess@LanguageSupport@<CrtImplementationDetails>@@$$FAEAAXXZ
+__m2mep@?InitializePerAppDomain@LanguageSupport@<CrtImplementationDetails>@@$$FAEAAXXZ
+__m2mep@?InitializeUninitializer@LanguageSupport@<CrtImplementationDetails>@@$$FAEAAXXZ
+__m2mep@?_Initialize@LanguageSupport@<CrtImplementationDetails>@@$$FAEAAXXZ
+__m2mep@?UninitializeAppDomain@LanguageSupport@<CrtImplementationDetails>@@$$FCAXXZ
+__m2mep@?_UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@$$FCAJPEAX@Z
+__m2mep@?UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@$$FCAXXZ
+__m2mep@?DomainUnload@LanguageSupport@<CrtImplementationDetails>@@$$FCMXPE$AAVObject@System@@PE$AAVEventArgs@4@@Z
+__m2mep@?Cleanup@LanguageSupport@<CrtImplementationDetails>@@$$FAEAMXPE$AAVException@System@@@Z
+__m2mep@??0LanguageSupport@<CrtImplementationDetails>@@$$FQEAA@XZ
+__m2mep@??1LanguageSupport@<CrtImplementationDetails>@@$$FQEAA@XZ
+__m2mep@?Initialize@LanguageSupport@<CrtImplementationDetails>@@$$FQEAAXXZ
+__m2mep@?.cctor@@$$FYMXXZ
+__m2mep@??B?$gcroot@PE$AAVString@System@@@@$$FQEBMPE$AAVString@System@@XZ
+__m2mep@??4?$gcroot@PE$AAVString@System@@@@$$FQEAMAEAU0@PE$AAVString@System@@@Z
+__m2mep@??1?$gcroot@PE$AAVString@System@@@@$$FQEAA@XZ
+__m2mep@??0?$gcroot@PE$AAVString@System@@@@$$FQEAA@XZ
+__unep@?DoNothing@DefaultDomain@<CrtImplementationDetails>@@$$FCAJPEAX@Z
+__unep@?_UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@$$FCAJPEAX@Z
+__m2mep@?___CxxCallUnwindDtor@@$$J0YMXP6MXPEAX@Z0@Z
+__m2mep@?___CxxCallUnwindDelDtor@@$$J0YMXP6MXPEAX@Z0@Z
+__m2mep@?___CxxCallUnwindVecDtor@@$$J0YMXP6MXPEAX_KHP6MX0@Z@Z01H2@Z
+__m2mep@??_M@$$FYMXPEAX_K1P6MX0@Z@Z
+__m2mep@?ArrayUnwindFilter@?A0xc01c2e3b@@$$FYAHPEAU_EXCEPTION_POINTERS@@@Z
+__m2mep@?__ArrayUnwind@@$$FYMXPEAX_K1P6MX0@Z@Z
+__m2mep@??_M@$$FYMXPEAX_KHP6MX0@Z@Z
+?A0xc2538164.__onexitbegin_m
+?A0xc2538164.__exit_list_size
+__onexitend_app_domain
+?_lock@AtExitLock@<CrtImplementationDetails>@@$$Q0PEAXEA
+?_ref_count@AtExitLock@<CrtImplementationDetails>@@$$Q0HA
+?A0xc2538164.__onexitend_m
+__exit_list_size_app_domain
+__onexitbegin_app_domain
+__m2mep@?_handle@AtExitLock@<CrtImplementationDetails>@@$$FCMPE$AA__ZVGCHandle@InteropServices@Runtime@System@@XZ
+__m2mep@?_lock_Construct@AtExitLock@<CrtImplementationDetails>@@$$FCMXPE$AAVObject@System@@@Z
+__m2mep@?_lock_Set@AtExitLock@<CrtImplementationDetails>@@$$FCMXPE$AAVObject@System@@@Z
+__m2mep@?_lock_Get@AtExitLock@<CrtImplementationDetails>@@$$FCMPE$AAVObject@System@@XZ
+__m2mep@?_lock_Destruct@AtExitLock@<CrtImplementationDetails>@@$$FCAXXZ
+__m2mep@?IsInitialized@AtExitLock@<CrtImplementationDetails>@@$$FSA_NXZ
+__m2mep@?AddRef@AtExitLock@<CrtImplementationDetails>@@$$FSAXXZ
+__m2mep@?RemoveRef@AtExitLock@<CrtImplementationDetails>@@$$FSAXXZ
+__m2mep@?Enter@AtExitLock@<CrtImplementationDetails>@@$$FSAXXZ
+__m2mep@?Exit@AtExitLock@<CrtImplementationDetails>@@$$FSAXXZ
+__m2mep@?__global_lock@?A0xc2538164@@$$FYA_NXZ
+__m2mep@?__global_unlock@?A0xc2538164@@$$FYA_NXZ
+__m2mep@?__alloc_global_lock@?A0xc2538164@@$$FYA_NXZ
+__m2mep@?__dealloc_global_lock@?A0xc2538164@@$$FYAXXZ
+__m2mep@?_atexit_helper@@$$J0YMHP6MXXZPEA_KPEAPEAP6MXXZ2@Z
+__m2mep@?_exit_callback@@$$J0YMXXZ
+__m2mep@?_initatexit_m@@$$J0YMHXZ
+__m2mep@?_onexit_m@@$$J0YMP6MHXZP6MHXZ@Z
+__m2mep@?_atexit_m@@$$J0YMHP6MXXZ@Z
+__m2mep@?_initatexit_app_domain@@$$J0YMHXZ
+__m2mep@?_app_exit_callback@@$$J0YMXXZ
+__m2mep@?_onexit_m_appdomain@@$$J0YMP6MHXZP6MHXZ@Z
+__m2mep@?_atexit_m_appdomain@@$$J0YMHP6MXXZ@Z
+__m2mep@?_initterm_e@@$$FYMHPEAP6AHXZ0@Z
+__m2mep@?_initterm@@$$FYMXPEAP6AXXZ0@Z
+__m2mep@?Handle@ThisModule@<CrtImplementationDetails>@@$$FCM?AVModuleHandle@System@@XZ
+__m2mep@?_initterm_m@@$$FYMXPEBQ6MPEBXXZ0@Z
+__m2mep@??$ResolveMethod@$$A6MPEBXXZ@ThisModule@<CrtImplementationDetails>@@$$FSMP6MPEBXXZP6MPEBXXZ@Z
+??_7type_info@@6B@
+__xi_z
+__scrt_current_native_startup_state
+__scrt_native_startup_lock
+__xc_a
+__xi_a
+__scrt_native_dllmain_reason
+__xc_z
+value__
+AppToken
+AppVersionName
+AppVersionCode
+CacheDir
+Channel
+ProxyServer
+CustomProxy
+LogLevel
+CacheMaxSize
+.ctor
+Invoke
+errorCode
+BeginInvoke
+callback
+EndInvoke
+result
+Initialize2
+hWnd
+config
+Initialize
+sAppToken
+sAppVersionName
+sAppVersionCode
+sCacheDir
+sChannel
+sProxyServer
+bCustomProxy
+iLogLevel
+iCacheMaxSize
+TrackEvent
+sCategory
+sAction
+sLabel
+iValue
+listParams
+TrackEventWithCallback
+listener
+TrackWindowOntop
+sWinName
+TrackWindowBackstage
+TrackUserAction
+sUserAction
+sPageName
+EnableTrack
+DisableTrack
+SetTerminateTimeouts
+resolveTo
+connectTo
+sendTo
+receiveTo
+SetTerminateTimeoutsMs
+TrackAppStart
+TrackAppStop
+Finish
+_Needs_Context
+marshal_as<System::String ^>
+_from
+marshal_as<wchar_t *,System::String>
+marshal_as<wchar_t const *,System::String>
+~marshal_context
+Dispose
+_clean_up_list
+_to_object
+~context_node<char const *,System::String ^>
+!context_node<char const *,System::String ^>
+Finalize
+_ptr
+~context_node<wchar_t const *,System::String ^>
+!context_node<wchar_t const *,System::String ^>
+from
+~context_node<wchar_t *,System::String ^>
+!context_node<wchar_t *,System::String ^>
+marshal_as
+<alignment member>
+<MarshalCopy>
+<MarshalDestroy>
+info
+context
+message
+Nested
+get_NestedException
+set_NestedException
+__set_formal
+ToString
+GetObjectData
+formatString
+<backing_store>NestedException
+NestedException
+AddHandler
+SingletonDomainUnload
+source
+arguments
+lock
+_ModuleUninitializer
+AddLast
+GetFunctionPointerForDelegate
+get_Item2
+get_Item
+get_Item1
+get_Count
+FreeBSTR
+StringToBSTR
+FreeHGlobal
+Zero
+op_Inequality
+ToPointer
+StringToHGlobalUni
+op_Equality
+SuppressFinalize
+get_Current
+MoveNext
+GetEnumerator
+get_Length
+get_OffsetToStringData
+Increment
+Decrement
+Exchange
+CompareExchange
+Enter
+Exit
+GetRuntimeInterfaceAsIntPtr
+Alloc
+Free
+op_Explicit
+get_Target
+set_Target
+ThrowExceptionForHR
+GetHRForException
+GetObjectForIUnknown
+PrepareDelegate
+PrepareConstrainedRegions
+AddValue
+GetValue
+KeepAlive
+Format
+Empty
+GetType
+get_Message
+get_InnerException
+IsDefaultAppDomain
+get_CurrentDomain
+get_Id
+add_ProcessExit
+add_DomainUnload
+GetTypeFromHandle
+Push
+GetExceptionPointers
+FromIntPtr
+ToIntPtr
+AllocHGlobal
+ReAllocHGlobal
+ResolveMethodHandle
+GetFunctionPointer
+get_Module
+get_ModuleHandle
+ludp.net
+ludp.net.dll
+:D:x
+ Y Y
+ Y Y
+ Y Y
+	 Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+, Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+  Y Y
+8 Y Y
+< Y Y
+< Y Y
+ Y Y
+@ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+1.0.*
+ludpnet
+Copyright (c)  2016
+SkipVerification
+.NETFramework,Version=v4.5
+FrameworkDisplayName
+.NET Framework 4.5
+System.Security.Permissions.SecurityPermissionAttribute, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+UnmanagedCode
+System.Security.Permissions.SecurityPermissionAttribute, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+SkipVerification
+RSDSs
+e:\hudson\workspace\Ludp.Win.sdk\x64\Release\ludp.net.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.nep
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.CRTMA$XCA
+.CRTMA$XCC
+.CRTMA$XCZ
+.CRTMP$XCA
+.CRTMP$XCZ
+.CRTVT$XCA
+.CRTVT$XCZ
+.rdata
+.rdata$ilfixup
+.rdata$r
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.bss
+.pdata
+.gfids$y
+.rsrc$01
+.rsrc$02
+U+t&
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+DisableThreadLibraryCalls
+InitializeSListHead
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+IsProcessorFeaturePresent
+GetModuleHandleW
+KERNEL32.dll
+__std_exception_copy
+__std_exception_destroy
+_CxxThrowException
+__C_specific_handler
+__std_type_info_destroy_list
+memset
+VCRUNTIME140.dll
+_initterm
+_initterm_e
+_seh_filter_dll
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_execute_onexit_table
+_crt_atexit
+_crt_at_quick_exit
+_cexit
+terminate
+free
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+?__ExceptionPtrDestroy@@YAXPEAX@Z
+?__ExceptionPtrCopy@@YAXPEAXPEBX@Z
+MSVCP140.dll
+enableTrack
+disableTrack
+setTerminateTimeouts
+setTerminateTimeoutsMs
+trackAppStart
+trackAppStop
+finish
+initialize2
+initialize
+trackEvent2
+trackEventWithCallback
+trackWindowOntop
+trackWindowBackstage
+trackUserAction
+getDeviceID
+setCertSN
+ludp.dll
+OLEAUT32.dll
+WideCharToMultiByte
+Sleep
+LocalFree
+GetLastError
+__FrameUnwindFilter
+wcscpy_s
+abort
+_callnewh
+malloc
+api-ms-win-crt-string-l1-1-0.dll
+GetCurrentProcess
+TerminateProcess
+_CorDllMain
+mscoree.dll
+.?AVexception@std@@
+.?AVtype_info@@
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AV_com_error@@
+IHDR
+sRGB
+gAMA
+	pHYs
+IDATx^
+:}NX
+IEND
+IHDR
+sRGB
+gAMA
+	pHYs
+-IDATx^
+IEND
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+N0L0
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA0
+200720000000Z
+210701235959Z0l1
+North Carolina1
+Morrisville1
+Lenovo1
+G071
+Lenovo0
+%]r\i.
+~SDl
+?`E6
+F|Ct1
+Z0X0V
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0
+rf0+
+$0"0 
+http://sv.symcb.com/sv.crl0W
+K0I0
+http://sv.symcd.com0&
+http://sv.symcb.com/sv.crt0
+T7d4
+E|;Xf
+0HRf
+C*u{
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+131210000000Z
+231209235959Z0
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA0
+XM#bj
+1-=n
++ojr\`
+#0!0
+http://s2.symcb.com0
+e0c0a
+0R0&
+http://www.symauth.com/cps0(
+http://www.symauth.com/rpa00
+)0'0%
+http://s1.symcb.com/pca3-g5.crl0
+SymantecPKI-1-5670
+3130
+5/3X
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA
+ nN_
+0!0	
+.Jos
+20200722073529Z0
+Symantec Corporation1
+Symantec Trust Network110/
+(Symantec SHA256 TimeStamping Signer - G3
+IhQD
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2008 VeriSign, Inc. - For authorized use only1806
+/VeriSign Universal Root Certification Authority0
+160112000000Z
+310111235959Z0w1
+Symantec Corporation1
+Symantec Trust Network1(0&
+Symantec SHA256 TimeStamping CA0
+^m@8
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0.
+"0 0
+http://s.symcd.com06
+/0-0+
+%http://s.symcb.com/universal-root.crl0
+TimeStamp-2048-30
+cH9@!
+xlBn
+Symantec Corporation1
+Symantec Trust Network1(0&
+Symantec SHA256 TimeStamping CA0
+171223000000Z
+290322235959Z0
+Symantec Corporation1
+Symantec Trust Network110/
+(Symantec SHA256 TimeStamping Signer - G30
+$ m0
+?'J3Nm
+C#uGp
+rHWeM
+lUaW
+{@SXy
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0@
+90705
+/http://ts-crl.ws.symantec.com/sha256-tss-ca.crl0
+k0i0*
+http://ts-ocsp.ws.symantec.com0;
+/http://ts-aia.ws.symantec.com/sha256-tss-ca.cer0(
+TimeStamp-2048-60
+rpc/
+U){9FN
+D<F\
+t`n`
+fE?v1
+Symantec Corporation1
+Symantec Trust Network1(0&
+Symantec SHA256 TimeStamping CA
+200722073529Z0/
+%;2T
+/1(0&0$0"
+ b/Mi
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+210617175559Z
+220616175559Z0
+Washington1
+Redmond1
+Microsoft Corporation1;09
+2Microsoft Windows Hardware Compatibility Publisher0
+PS-2O[|
+'W);
+E0C1)0'
+ Microsoft Operations Puerto Rico1
+232825+4661110
+!vOR
+m0k0i
+chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crl0
+u0s0q
+ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crt0
+gKo(
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+120418234838Z
+270418235838Z0
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+^W1&
+-g<'<V
+}PH.=C
+!vOR
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+i+w#
+ip(sf
+83ha
+p%|Yi1$
+pCq<
+fvr`
+/^ r
+ot?`
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 2012
+ nN_
+1>0<
+(https://www.microsoft.com/en-us/windows 0
+<i*I}
+&=fW
+20220426043826.291Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:2264-E33E-780C1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+211202190515Z
+230228190515Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:2264-E33E-780C1%0#
+Microsoft Time-Stamp Service0
+F<>4
+U-/*b
+F,n7D
+W\dV
+ ja(
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+N"4A>
+jg{i8c
+'B~s
+C[\^
+mOaV
+  0M
+Q*za
+Kl$H
+@$cQ
+y^+F
+{]P	/=
+ykZ~
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+`}jR
+q\Q17
+&S|9a
+0\O,
+s=CN
+!]_0t
+\RQ]
+<F5)
+U0S0Q
+0A0?
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,	x
+J>f;O
+ctH,
+WITd
+!TkjE
+Af=i
+AI~~
+$5g+
+'B=%
+tt[j
+pcSM
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:2264-E33E-780C1%0#
+Microsoft Time-Stamp Service
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20220426090935Z
+20220427090935Z0t0:
+1,0*0
+1(0&0
+7nCB
+VNEe1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+0V\s
+}f}oU
+=]T{xOA

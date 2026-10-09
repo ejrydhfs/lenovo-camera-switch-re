@@ -1,0 +1,9 @@
+Headers 140000000-1400003ff size=0x400 r=true w=false x=false init=true
+.text 140001000-14001f1ff size=0x1e200 r=true w=false x=true init=true
+.rdata 140020000-140031bff size=0x11c00 r=true w=false x=false init=true
+.data 140032000-140034b83 size=0x2b84 r=true w=true x=false init=true
+.pdata 140035000-140036bff size=0x1c00 r=true w=false x=false init=true
+_RDATA 140037000-1400371ff size=0x200 r=true w=false x=false init=true
+.rsrc 140038000-1400385ff size=0x600 r=true w=false x=false init=true
+.reloc 140039000-1400399ff size=0xa00 r=true w=false x=false init=true
+tdb ff00000000-ff0000184f size=0x1850 r=true w=true x=false init=true

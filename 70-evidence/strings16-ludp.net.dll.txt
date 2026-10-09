@@ -1,0 +1,26 @@
+^elw
+Conversion from WideChar to MultiByte failed.  Please check the content of the string and/or locale settings.
+Size of string exceeds INT_MAX.
+A nested exception occurred after the primary exception that caused the C++ module to fail to load.
+{0}: {1}
+--- Start of primary exception ---
+--- End of primary exception ---
+--- Start of nested exception ---
+--- End of nested exception ---
+NestedException
+The C++ module failed to load during vtable initialization.
+The C++ module failed to load while attempting to initialize the default appdomain.
+The C++ module failed to load during native initialization.
+The C++ module failed to load during process initialization.
+The C++ module failed to load during appdomain initialization.
+The C++ module failed to load during registration for the unload events.
+The C++ module failed to load.
+A nested exception occurred after the primary exception that caused the C++ module to fail to load.
+{0}: {1}
+--- Start of primary exception ---
+--- End of primary exception ---
+--- Start of nested exception ---
+--- End of nested exception ---
+SubC
+Lenov
+SubC

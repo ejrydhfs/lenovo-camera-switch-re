@@ -1,0 +1,197 @@
+============================== lenovoutilityservice.exe
+IMPORT OLEAUT32.dll :: SysAllocString SysFreeString VariantClear VariantInit
+IMPORT KERNEL32.dll :: AcquireSRWLockExclusive CloseHandle CloseThreadpoolTimer CompareStringW CreateDirectoryW CreateEventW CreateFileW CreateThread CreateThreadpoolTimer CreateThreadpoolWork CreateToolhelp32Snapshot DeleteCriticalSection EncodePointer EnterCriticalSection ExitProcess FindClose FindFirstFileExW FindNextFileW FindResourceExW FindResourceW FlushFileBuffers FreeEnvironmentStringsW FreeLibrary GetACP GetCPInfo GetCommandLineA GetCommandLineW GetConsoleMode GetConsoleOutputCP GetCurrentProcess GetCurrentProcessId GetCurrentThread GetCurrentThreadId GetEnvironmentStringsW GetFileSizeEx GetFileType GetLastError GetLocalTime GetModuleFileNameW GetModuleHandleExW GetModuleHandleW GetOEMCP GetProcAddress GetProcessHeap GetStartupInfoW GetStdHandle GetStringTypeW GetSystemTimeAsFileTime GetTempPathW GetThreadId HeapAlloc HeapDestroy HeapFree HeapReAlloc HeapSize InitializeCriticalSection InitializeCriticalSectionAndSpinCount InitializeCriticalSectionEx InitializeSListHead InitializeSRWLock IsDebuggerPresent IsProcessorFeaturePresent IsValidCodePage LCMapStringW LeaveCriticalSection LoadLibraryExW LoadLibraryW LoadResource LocalAlloc LocalFree LockResource MultiByteToWideChar OpenProcess OutputDebugStringW Process32FirstW Process32NextW ProcessIdToSessionId QueryFullProcessImageNameW QueryPerformanceCounter RaiseException ReleaseSRWLockExclusive ResetEvent RtlCaptureContext RtlLookupFunctionEntry RtlPcToFileHeader RtlUnwindEx RtlVirtualUnwind SetEnvironmentVariableW SetEvent SetFilePointer SetFilePointerEx SetLastError SetStdHandle SetThreadpoolTimer SetUnhandledExceptionFilter SizeofResource Sleep SubmitThreadpoolWork TerminateProcess TlsAlloc TlsFree TlsGetValue TlsSetValue TryEnterCriticalSection UnhandledExceptionFilter WTSGetActiveConsoleSessionId WaitForMultipleObjects WaitForSingleObjectEx WaitForThreadpoolTimerCallbacks WideCharToMultiByte WriteConsoleW WriteFile lstrcmpiW lstrlenW
+IMPORT ole32.dll :: CoCreateGuid CoCreateInstance CoInitializeEx CoInitializeSecurity CoSetProxyBlanket CoUninitialize
+IMPORT RPCRT4.dll :: RpcStringFreeW UuidToStringW
+IMPORT USER32.dll :: MsgWaitForMultipleObjects
+IMPORT ADVAPI32.dll :: AdjustTokenPrivileges CloseServiceHandle ControlService CreateProcessAsUserW CreateServiceW DeleteService DuplicateTokenEx EventRegister EventUnregister EventWriteString ImpersonateLoggedOnUser LookupPrivilegeValueW OpenProcessToken OpenSCManagerW OpenServiceW QueryServiceStatus RegCloseKey RegCreateKeyExW RegDeleteKeyW RegEnumKeyExW RegNotifyChangeKeyValue RegOpenKeyExW RegSetValueExW RegisterServiceCtrlHandlerExW RevertToSelf SetServiceStatus StartServiceCtrlDispatcherW
+IMPORT WTSAPI32.dll :: WTSFreeMemory WTSQuerySessionInformationW WTSQueryUserToken
+IMPORT USERENV.dll :: CreateEnvironmentBlock DestroyEnvironmentBlock UnloadUserProfile
+IMPORT SETUPAPI.dll :: CMP_WaitNoPendingInstallEvents CM_Locate_DevNodeW SetupDiDestroyDeviceInfoList SetupDiEnumDeviceInfo SetupDiGetClassDevsW SetupDiGetDeviceInstanceIdW SetupDiGetDeviceRegistryPropertyW
+============================== controllib.dll
+IMPORT SETUPAPI.dll :: SetupDiDestroyDeviceInfoList SetupDiEnumDeviceInterfaces SetupDiGetClassDevsW SetupDiGetDeviceInterfaceDetailW
+IMPORT KERNEL32.dll :: CloseHandle CreateFileW DeleteCriticalSection EncodePointer EnterCriticalSection ExitProcess FindClose FindFirstFileExW FindNextFileW FlsAlloc FlsFree FlsGetValue FlsSetValue FlushFileBuffers FreeEnvironmentStringsW FreeLibrary GetACP GetCPInfo GetCommandLineA GetCommandLineW GetConsoleMode GetConsoleOutputCP GetCurrentProcess GetCurrentProcessId GetCurrentThreadId GetEnvironmentStringsW GetFileSizeEx GetFileType GetLastError GetModuleFileNameW GetModuleHandleA GetModuleHandleExW GetModuleHandleW GetOEMCP GetProcAddress GetProcessHeap GetStartupInfoW GetStdHandle GetStringTypeW GetSystemTimeAsFileTime GetVersion HeapAlloc HeapFree HeapReAlloc HeapSize InitializeCriticalSectionAndSpinCount InitializeSListHead InterlockedFlushSList IsDebuggerPresent IsProcessorFeaturePresent IsValidCodePage LCMapStringW LeaveCriticalSection LoadLibraryExW LoadLibraryW MultiByteToWideChar OutputDebugStringA QueryPerformanceCounter RaiseException RtlCaptureContext RtlLookupFunctionEntry RtlPcToFileHeader RtlUnwindEx RtlVirtualUnwind SetFilePointerEx SetLastError SetStdHandle SetUnhandledExceptionFilter TerminateProcess TlsAlloc TlsFree TlsGetValue TlsSetValue UnhandledExceptionFilter WideCharToMultiByte WriteConsoleW WriteFile
+IMPORT ADVAPI32.dll :: RegGetValueW
+IMPORT ntdll.dll :: RtlAnsiStringToUnicodeString RtlFreeUnicodeString RtlInitAnsiString
+EXPORT 1 0x1020 ctlAUXAccess
+EXPORT 2 0x1080 ctlCheckDriverVersion
+EXPORT 3 0x10e0 ctlClose
+EXPORT 4 0x10f0 ctlEngineGetActivity
+EXPORT 5 0x1150 ctlEngineGetProperties
+EXPORT 6 0x11b0 ctlEnumEngineGroups
+EXPORT 7 0x1230 ctlEnumFans
+EXPORT 8 0x12b0 ctlEnumFrequencyDomains
+EXPORT 9 0x1330 ctlEnumMemoryModules
+EXPORT 10 0x13b0 ctlEnumPowerDomains
+EXPORT 11 0x1430 ctlEnumTemperatureSensors
+EXPORT 12 0x14b0 ctlEnumerateDevices
+EXPORT 13 0x14c0 ctlEnumerateDisplayOutputs
+EXPORT 14 0x1540 ctlFanGetConfig
+EXPORT 15 0x15a0 ctlFanGetProperties
+EXPORT 16 0x1600 ctlFanGetState
+EXPORT 17 0x1670 ctlFanSetDefaultMode
+EXPORT 18 0x16c0 ctlFanSetFixedSpeedMode
+EXPORT 19 0x1720 ctlFanSetSpeedTableMode
+EXPORT 20 0x1780 ctlFrequencyGetAvailableClocks
+EXPORT 21 0x17f0 ctlFrequencyGetProperties
+EXPORT 22 0x1850 ctlFrequencyGetRange
+EXPORT 23 0x18b0 ctlFrequencyGetState
+EXPORT 24 0x1910 ctlFrequencyGetThrottleTime
+EXPORT 25 0x1970 ctlFrequencySetRange
+EXPORT 26 0x19d0 ctlGetAdaperDisplayEncoderProperties
+EXPORT 27 0x1a30 ctlGetCurrentScaling
+EXPORT 28 0x1a90 ctlGetCurrentSharpness
+EXPORT 29 0x1af0 ctlGetDeviceProperties
+EXPORT 30 0x1b50 ctlGetDisplayProperties
+EXPORT 31 0x1bb0 ctlGetIntelArcSyncInfoForMonitor
+EXPORT 32 0x1c10 ctlGetIntelArcSyncProfile
+EXPORT 33 0x1c70 ctlGetLACEConfig
+EXPORT 34 0x1cd0 ctlGetPowerOptimizationCaps
+EXPORT 35 0x1d30 ctlGetPowerOptimizationSetting
+EXPORT 36 0x1d90 ctlGetSet3DFeature
+EXPORT 37 0x1df0 ctlGetSetRetroScaling
+EXPORT 38 0x1e50 ctlGetSetVideoProcessingFeature
+EXPORT 39 0x1eb0 ctlGetSharpnessCaps
+EXPORT 40 0x1f10 ctlGetSupported3DCapabilities
+EXPORT 41 0x1f70 ctlGetSupportedRetroScalingCapability
+EXPORT 42 0x1fd0 ctlGetSupportedScalingCapability
+EXPORT 43 0x2030 ctlGetSupportedVideoProcessingCapabilities
+EXPORT 44 0x2090 ctlGetZeDevice
+EXPORT 45 0x2100 ctlI2CAccess
+EXPORT 46 0x2160 ctlInit
+EXPORT 47 0x2170 ctlMemoryGetBandwidth
+EXPORT 48 0x21d0 ctlMemoryGetProperties
+EXPORT 49 0x2230 ctlMemoryGetState
+EXPORT 50 0x2290 ctlOverclockGetProperties
+EXPORT 51 0x22f0 ctlOverclockGpuFrequencyOffsetGet
+EXPORT 52 0x2350 ctlOverclockGpuFrequencyOffsetSet
+EXPORT 53 0x23b0 ctlOverclockGpuLockGet
+EXPORT 54 0x2410 ctlOverclockGpuLockSet
+EXPORT 55 0x2480 ctlOverclockGpuVoltageOffsetGet
+EXPORT 56 0x24e0 ctlOverclockGpuVoltageOffsetSet
+EXPORT 57 0x2540 ctlOverclockPowerLimitGet
+EXPORT 58 0x25a0 ctlOverclockPowerLimitSet
+EXPORT 59 0x2600 ctlOverclockTemperatureLimitGet
+EXPORT 60 0x2660 ctlOverclockTemperatureLimitSet
+EXPORT 61 0x26c0 ctlOverclockVramFrequencyOffsetGet
+EXPORT 62 0x2720 ctlOverclockVramFrequencyOffsetSet
+EXPORT 63 0x2780 ctlOverclockVramVoltageOffsetGet
+EXPORT 64 0x27e0 ctlOverclockVramVoltageOffsetSet
+EXPORT 65 0x2840 ctlOverclockWaiverSet
+EXPORT 66 0x2890 ctlPanelDescriptorAccess
+EXPORT 67 0x28f0 ctlPciGetProperties
+EXPORT 68 0x2950 ctlPciGetState
+EXPORT 69 0x29b0 ctlPixelTransformationGetConfig
+EXPORT 70 0x2a10 ctlPixelTransformationSetConfig
+EXPORT 71 0x2a70 ctlPowerGetEnergyCounter
+EXPORT 72 0x2ad0 ctlPowerGetLimits
+EXPORT 73 0x2b30 ctlPowerGetProperties
+EXPORT 74 0x2b90 ctlPowerSetLimits
+EXPORT 75 0x2bf0 ctlPowerTelemetryGet
+EXPORT 76 0x2c50 ctlReservedCall
+EXPORT 77 0x2cb0 ctlSetCurrentScaling
+EXPORT 78 0x2d10 ctlSetCurrentSharpness
+EXPORT 79 0x2d70 ctlSetIntelArcSyncProfile
+EXPORT 80 0x2dd0 ctlSetLACEConfig
+EXPORT 81 0x2e30 ctlSetPowerOptimizationSetting
+EXPORT 82 0x2e90 ctlSetRuntimePath
+EXPORT 83 0x2ea0 ctlSoftwarePSR
+EXPORT 84 0x2f00 ctlTemperatureGetProperties
+EXPORT 85 0x2f60 ctlTemperatureGetState
+EXPORT 86 0x2fc0 ctlWaitForPropertyChange
+============================== intelcontrollib.dll
+IMPORT SETUPAPI.dll :: SetupDiDestroyDeviceInfoList SetupDiEnumDeviceInterfaces SetupDiGetClassDevsW SetupDiGetDeviceInterfaceDetailW
+IMPORT dxgi.dll :: CreateDXGIFactory1
+IMPORT SHELL32.dll :: ord680
+IMPORT KERNEL32.dll :: CloseHandle CompareStringW CreateDirectoryA CreateEventW CreateFileW DeleteCriticalSection DeleteFileW EncodePointer EnterCriticalSection ExitProcess FindClose FindFirstFileExW FindFirstFileW FindNextFileW FlsAlloc FlsFree FlsGetValue FlsSetValue FlushFileBuffers FreeEnvironmentStringsW FreeLibrary GetACP GetCPInfo GetCommandLineA GetCommandLineW GetConsoleMode GetConsoleOutputCP GetCurrentApplicationUserModelId GetCurrentProcess GetCurrentProcessId GetCurrentThreadId GetEnvironmentStringsW GetFileSizeEx GetFileType GetLastError GetModuleFileNameA GetModuleFileNameW GetModuleHandleA GetModuleHandleExW GetModuleHandleW GetOEMCP GetProcAddress GetProcessHeap GetStartupInfoW GetStdHandle GetStringTypeW GetSystemTimeAsFileTime GetVersion GlobalAlloc GlobalFree GlobalLock GlobalUnlock HeapAlloc HeapFree HeapReAlloc HeapSize InitOnceBeginInitialize InitOnceComplete InitializeCriticalSectionAndSpinCount InitializeSListHead InterlockedFlushSList IsDebuggerPresent IsProcessorFeaturePresent IsValidCodePage LCMapStringW LeaveCriticalSection LoadLibraryExW LoadLibraryW MultiByteToWideChar OpenEventW OutputDebugStringA QueryPerformanceCounter QueryPerformanceFrequency RaiseException ReadConsoleW ReadFile ResetEvent RtlCaptureContext RtlLookupFunctionEntry RtlPcToFileHeader RtlUnwindEx RtlVirtualUnwind SetEndOfFile SetEnvironmentVariableW SetEvent SetFilePointerEx SetLastError SetStdHandle SetUnhandledExceptionFilter TerminateProcess TlsAlloc TlsFree TlsGetValue TlsSetValue UnhandledExceptionFilter WaitForMultipleObjectsEx WideCharToMultiByte WriteConsoleW WriteFile
+IMPORT ADVAPI32.dll :: RegCloseKey RegGetValueW RegOpenKeyExW RegQueryValueExW RegSetValueExW
+IMPORT USER32.dll :: GetDisplayConfigBufferSizes QueryDisplayConfig SetDisplayConfig wsprintfW
+IMPORT ntdll.dll :: RtlAnsiStringToUnicodeString RtlFreeUnicodeString RtlInitAnsiString
+IMPORT GDI32.dll :: D3DKMTCloseAdapter D3DKMTEscape D3DKMTOpenAdapterFromDeviceName D3DKMTQueryAdapterInfo
+EXPORT 1 0x1020 ctlAUXAccess
+EXPORT 2 0x10b0 ctlCheckDriverVersion
+EXPORT 3 0x1100 ctlClose
+EXPORT 4 0x1150 ctlEngineGetActivity
+EXPORT 5 0x11e0 ctlEngineGetProperties
+EXPORT 6 0x1270 ctlEnumEngineGroups
+EXPORT 7 0x12d0 ctlEnumFans
+EXPORT 8 0x1330 ctlEnumFrequencyDomains
+EXPORT 9 0x1390 ctlEnumMemoryModules
+EXPORT 10 0x13f0 ctlEnumPowerDomains
+EXPORT 11 0x1450 ctlEnumTemperatureSensors
+EXPORT 12 0x14b0 ctlEnumerateDevices
+EXPORT 13 0x1520 ctlEnumerateDisplayOutputs
+EXPORT 14 0x1580 ctlFanGetConfig
+EXPORT 15 0x1610 ctlFanGetProperties
+EXPORT 16 0x16a0 ctlFanGetState
+EXPORT 17 0x1710 ctlFanSetDefaultMode
+EXPORT 18 0x1740 ctlFanSetFixedSpeedMode
+EXPORT 19 0x17d0 ctlFanSetSpeedTableMode
+EXPORT 20 0x1860 ctlFrequencyGetAvailableClocks
+EXPORT 21 0x18c0 ctlFrequencyGetProperties
+EXPORT 22 0x1950 ctlFrequencyGetRange
+EXPORT 23 0x19e0 ctlFrequencyGetState
+EXPORT 24 0x1a70 ctlFrequencyGetThrottleTime
+EXPORT 25 0x1b00 ctlFrequencySetRange
+EXPORT 26 0x1b90 ctlGetAdaperDisplayEncoderProperties
+EXPORT 27 0x1c20 ctlGetCurrentScaling
+EXPORT 28 0x1cb0 ctlGetCurrentSharpness
+EXPORT 29 0x1d40 ctlGetDeviceProperties
+EXPORT 30 0x1dd0 ctlGetDisplayProperties
+EXPORT 31 0x1e60 ctlGetIntelArcSyncInfoForMonitor
+EXPORT 32 0x1ef0 ctlGetIntelArcSyncProfile
+EXPORT 33 0x1f80 ctlGetLACEConfig
+EXPORT 34 0x2010 ctlGetPowerOptimizationCaps
+EXPORT 35 0x20a0 ctlGetPowerOptimizationSetting
+EXPORT 36 0x2130 ctlGetSet3DFeature
+EXPORT 37 0x21c0 ctlGetSetRetroScaling
+EXPORT 38 0x2250 ctlGetSetVideoProcessingFeature
+EXPORT 39 0x22e0 ctlGetSharpnessCaps
+EXPORT 40 0x2370 ctlGetSupported3DCapabilities
+EXPORT 41 0x2400 ctlGetSupportedRetroScalingCapability
+EXPORT 42 0x2490 ctlGetSupportedScalingCapability
+EXPORT 43 0x2520 ctlGetSupportedVideoProcessingCapabilities
+EXPORT 44 0x25b0 ctlGetZeDevice
+EXPORT 45 0x2610 ctlI2CAccess
+EXPORT 46 0x26a0 ctlInit
+EXPORT 47 0x2860 ctlMemoryGetBandwidth
+EXPORT 48 0x28f0 ctlMemoryGetProperties
+EXPORT 49 0x2980 ctlMemoryGetState
+EXPORT 50 0x2a10 ctlOverclockGetProperties
+EXPORT 51 0x2aa0 ctlOverclockGpuFrequencyOffsetGet
+EXPORT 52 0x2af0 ctlOverclockGpuFrequencyOffsetSet
+EXPORT 53 0x2b40 ctlOverclockGpuLockGet
+EXPORT 54 0x2b90 ctlOverclockGpuLockSet
+EXPORT 55 0x2bf0 ctlOverclockGpuVoltageOffsetGet
+EXPORT 56 0x2c40 ctlOverclockGpuVoltageOffsetSet
+EXPORT 57 0x2c90 ctlOverclockPowerLimitGet
+EXPORT 58 0x2ce0 ctlOverclockPowerLimitSet
+EXPORT 59 0x2d30 ctlOverclockTemperatureLimitGet
+EXPORT 60 0x2d80 ctlOverclockTemperatureLimitSet
+EXPORT 61 0x2dd0 ctlOverclockVramFrequencyOffsetGet
+EXPORT 62 0x2dd0 ctlOverclockVramFrequencyOffsetSet
+EXPORT 63 0x2dd0 ctlOverclockVramVoltageOffsetGet
+EXPORT 64 0x2dd0 ctlOverclockVramVoltageOffsetSet
+EXPORT 65 0x2de0 ctlOverclockWaiverSet
+EXPORT 66 0x2e10 ctlPanelDescriptorAccess
+EXPORT 67 0x2ea0 ctlPciGetProperties
+EXPORT 68 0x2f30 ctlPciGetState
+EXPORT 69 0x2fc0 ctlPixelTransformationGetConfig
+EXPORT 70 0x3050 ctlPixelTransformationSetConfig
+EXPORT 71 0x30e0 ctlPowerGetEnergyCounter
+EXPORT 72 0x3170 ctlPowerGetLimits
+EXPORT 73 0x3200 ctlPowerGetProperties
+EXPORT 74 0x3290 ctlPowerSetLimits
+EXPORT 75 0x3320 ctlPowerTelemetryGet
+EXPORT 76 0x3370 ctlReservedCall
+EXPORT 77 0x3460 ctlSetCurrentScaling
+EXPORT 78 0x34f0 ctlSetCurrentSharpness
+EXPORT 79 0x3580 ctlSetIntelArcSyncProfile
+EXPORT 80 0x3610 ctlSetLACEConfig
+EXPORT 81 0x36a0 ctlSetPowerOptimizationSetting
+EXPORT 82 0x3730 ctlSetRuntimePath
+EXPORT 83 0x3770 ctlSoftwarePSR
+EXPORT 84 0x3800 ctlTemperatureGetProperties
+EXPORT 85 0x3890 ctlTemperatureGetState
+EXPORT 86 0x38f0 ctlWaitForPropertyChange
+EXPORT 87 0x3990 ctlpvtTestFunction

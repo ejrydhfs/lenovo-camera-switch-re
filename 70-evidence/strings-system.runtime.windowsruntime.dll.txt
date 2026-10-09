@@ -1,0 +1,637 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+Ab]+
+:/`b
+[G!]otwD
+*BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+<Module>
+System.Runtime.WindowsRuntime.dll
+WindowsRuntimeSystemExtensions
+System
+WindowsRuntimeStorageExtensions
+System.IO
+WindowsRuntimeStreamExtensions
+AsyncInfo
+System.Runtime.InteropServices.WindowsRuntime
+WindowsRuntimeBuffer
+WindowsRuntimeBufferExtensions
+Point
+Windows.Foundation
+Rect
+Size
+Color
+Windows.UI
+System.Runtime
+Object
+ValueType
+IFormattable
+Windows
+IAsyncAction
+System.Threading.Tasks
+Task
+AsAsyncAction
+IAsyncOperation`1
+Task`1
+AsAsyncOperation
+TResult
+AsTask
+System.Threading
+CancellationToken
+IAsyncActionWithProgress`1
+TProgress
+IProgress`1
+IAsyncOperationWithProgress`2
+System.Runtime.CompilerServices
+TaskAwaiter
+GetAwaiter
+TaskAwaiter`1
+Stream
+Windows.Storage
+IStorageFile
+OpenStreamForReadAsync
+IStorageFolder
+OpenStreamForWriteAsync
+CreationCollisionOption
+Windows.Storage.Streams
+IInputStream
+AsInputStream
+IOutputStream
+AsOutputStream
+IRandomAccessStream
+AsStream
+AsStreamForRead
+AsStreamForWrite
+Func`2
+Func`3
+.ctor
+IBuffer
+Create
+AsBuffer
+CopyTo
+GetByte
+MemoryStream
+GetWindowsRuntimeBuffer
+IsSameData
+ToArray
+get_X
+set_X
+get_Y
+set_Y
+Equals
+GetHashCode
+op_Equality
+op_Inequality
+ToString
+IFormatProvider
+System.IFormattable.ToString
+get_Bottom
+get_Empty
+get_Height
+set_Height
+get_IsEmpty
+get_Left
+get_Right
+get_Top
+get_Width
+set_Width
+Contains
+Intersect
+Union
+Bottom
+Empty
+Height
+IsEmpty
+Left
+Right
+Width
+get_A
+set_A
+get_B
+set_B
+get_G
+set_G
+get_R
+set_R
+FromArgb
+source
+cancellationToken
+progress
+windowsRuntimeFile
+rootDirectory
+relativePath
+creationCollisionOption
+stream
+windowsRuntimeStream
+bufferSize
+taskProvider
+data
+offset
+length
+capacity
+sourceIndex
+destination
+destinationIndex
+count
+byteOffset
+underlyingStream
+positionInStream
+buffer
+otherBuffer
+value
+point1
+point2
+provider
+format
+width
+height
+location
+size
+point
+rect
+rect1
+rect2
+size1
+size2
+color
+color1
+color2
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+CLSCompliantAttribute
+System.Security
+AllowPartiallyTrustedCallersAttribute
+AssemblyFlagsAttribute
+AssemblyNameFlags
+ReferenceAssemblyAttribute
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+ExtensionAttribute
+System.Runtime.WindowsRuntime
+SecurityCriticalAttribute
+System.ComponentModel
+EditorBrowsableAttribute
+EditorBrowsableState
+System.Runtime.InteropServices
+StructLayoutAttribute
+LayoutKind
+NotImplementedException
+SecuritySafeCriticalAttribute
+!System.Runtime.WindowsRuntime.dll
+Microsoft Corporation
+Microsoft
+ .NET Framework
+ Microsoft Corporation.  All rights reserved.
+4.0.30319.18020
+$f:\dd\tools\devdiv\EcmaPublicKey.snk
+WrapNonExceptionThrows
+_CorDllMain
+mscoree.dll
+dFov
+dFov?
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+120726205041Z
+131026205041Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+@w7!0t[
+L4l>G
+g}W>5
+&[>[]
+^ESX
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+jmtRd
+*\ik
+![k;
+% #0
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+120109222558Z
+130409222558Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:F528-3777-8A761%0#
+Microsoft Time-Stamp Service0
+Cz-?
+cw{0
+b%MS%
+5S#6w
+L!=v0
+es)H'
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+\J-h
+E/]E
+m5#g
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1`0^
+http://microsoft.com0
+g:>3h)
+Tp$/
+OF_6N
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120926100305Z0#
+skQj
+#G}k
+N0L0
+\W=e$)
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+120707001432Z
+131007001432Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+=X?,
+]::H
+*D>8
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+s{B.>[
+A'MP
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+u_RvyR
+1`0^
+http://microsoft.com0
+brOW
+d&4z
+l [B
+P?kN;B
+20120926100307.372Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:F528-3777-8A761%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120109213528Z
+130409214528Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:F528-3777-8A761%0#
+Microsoft Time-Stamp Service0
+fs%4
+Olugw&
+YM A
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+ymL"8
+M'|P
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:F528-3777-8A761%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120926002140Z
+20120927002140Z0w0=
+1/0-0
+1(0&0
+||PLh 9
+Kv`6
+L&9L
+	<A9
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+.6Y<g
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+-BEjU
+mEE\
+f:W]
+N0L0
+\W=e$)
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+210617175559Z
+220616175559Z0
+Washington1
+Redmond1
+Microsoft Corporation1;09
+2Microsoft Windows Hardware Compatibility Publisher0
+PS-2O[|
+'W);
+E0C1)0'
+ Microsoft Operations Puerto Rico1
+232825+4661110
+!vOR
+m0k0i
+chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crl0
+u0s0q
+ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crt0
+gKo(
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+120418234838Z
+270418235838Z0
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+^W1&
+-g<'<V
+}PH.=C
+!vOR
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+i+w#
+ip(sf
+83ha
+p%|Yi1$
+pCq<
+fvr`
+/^ r
+ot?`
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 2012
+u_RvyR
+1>0<
+(https://www.microsoft.com/en-us/windows 0
+]zXJ
+WlxPNg
+~\#N.
+ 6OB[
+20220426043831.785Z0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:60BC-E383-26351%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+220302185121Z
+230511185121Z0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:60BC-E383-26351%0#
+Microsoft Time-Stamp Service0
+k;dG
+-J(>
+:e	}
+[	mB
+frPy=?=
+``PJn
+:T!;
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+|jyd&1
+ MR^o
+"XkU-
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+`}jR
+q\Q17
+&S|9a
+0\O,
+s=CN
+!]_0t
+\RQ]
+<F5)
+U0S0Q
+0A0?
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,	x
+J>f;O
+ctH,
+WITd
+!TkjE
+Af=i
+AI~~
+$5g+
+'B=%
+tt[j
+pcSM
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:60BC-E383-26351%0#
+Microsoft Time-Stamp Service
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20220425214911Z
+20220426214911Z0w0=
+1/0-0
+1(0&0
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+?t}k
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+b2gZ
+RsA#S
+%D&3
+7pEO

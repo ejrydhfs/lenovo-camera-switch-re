@@ -1,0 +1,7 @@
+line 3695 case=0x38 :: L"MsgLogic e_Event_SERVICE_KEY_C970::LaunchLenovoOnlineServiceUrl() return fail!"
+line 3704 case=0x39 :: pvVar31 = CreateThread((LPSECURITY_ATTRIBUTES)0x0,0,FUN_14001ed10,(LPVOID)0x0,0,(LPDWORD)0x0);
+line 3566 case=0x23 :: L"MsgLogic g_HandleEvent e_Event_HID_SUPERKEY CreateThread _Thread_night_screen_mode Line: %d  GetLastError: %d"
+line 3708 case=0x39 :: L"MsgLogic g_HandleEvent e_Event_HID_SUPERKEY CreateThread _Thread_switch_camera Line: %d  GetLastError: %d"
+line 3716 case=0x3a :: L"MsgLogic g_HandleEvent e_Event_HID_SUPERKEY CreateThread _Thread_switch_touchpad Line: %d  GetLastError: %d"
+line 3712 case=0x3a :: pvVar31 = CreateThread((LPSECURITY_ATTRIBUTES)0x0,0,FUN_14001f570,(LPVOID)0x0,0,(LPDWORD)0x0);
+cases: [(2753, '0'), (2763, '1'), (2774, '2'), (2860, '3'), (2904, '4'), (2952, '8'), (2977, '9'), (3071, '10'), (3138, '0xb'), (3183, '0xf'), (3237, '0x10'), (3277, '0x12'), (3288, '0x13'), (3301, '0x15'), (3319, '0x16'), (3336, '0x17'), (3367, '0x18'), (3384, '0x19'), (3396, '0x1a'), (3401, '0x1b'), (3409, '0x1c'), (3416, '0x1d'), (3422, '0x1e'), (3427, '0x1f'), (3441, '0x20'), (3466, '0x22'), (3557, '0x23'), (3569, '0x24'), (3574, '0x25'), (3582, '0x26'), (3587, '0x27'), (3595, '0x28'), (3600, '0x29'), (3605, '0x2a'), (3610, '0x2b'), (3618, '0x2c'), (3623, '0x2d'), (3628, '0x2e'), (3633, '0x2f'), (3638, '0x30'), (3646, '0x31'), (3651, '0x32'), (3656, '0x33'), (3661, '0x34'), (3666, '0x35'), (3671, '0x36'), (3682, '0x37'), (3685, '0x38'), (3699, '0x39'), (3711, '0x3a')]

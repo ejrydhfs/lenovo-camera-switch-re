@@ -1,0 +1,30 @@
+fnhotkeyutility.exe
+  GDI32.dll : CreateCompatibleDC CreateDIBSection DeleteDC DeleteObject SelectObject
+  KERNEL32.dll : CloseHandle CreateDirectoryW CreateEventW CreateFileMappingW CreateFileW CreateThread CreateToolhelp32Snapshot DeleteCriticalSection DeviceIoControl EnterCriticalSection FindPackagesByPackageFamily FindResourceExW FindResourceW FreeLibrary FreeResource GetCurrentProcess GetCurrentProcessId GetCurrentThread GetCurrentThreadId GetFullPathNameW GetLastError GetLocalTime GetLocaleInfoW GetModuleFileNameW GetModuleHandleW GetProcAddress GetProcessHeap GetStartupInfoW GetSystemDefaultUILanguage GetSystemDirectoryW GetSystemTimeAsFileTime GetTempPathW GetTickCount64 GetUserDefaultUILanguage GetUserPreferredUILanguages GetVersionExW GlobalAlloc GlobalFree GlobalLock GlobalUnlock HeapAlloc HeapDestroy HeapFree HeapReAlloc HeapSize InitializeCriticalSection InitializeCriticalSectionAndSpinCount InitializeCriticalSectionEx InitializeSListHead IsDebuggerPresent IsProcessorFeaturePresent K32EnumProcesses LeaveCriticalSection LoadLibraryExW LoadLibraryW LoadResource LocalAlloc LocalFree LocalReAlloc LockResource MapViewOfFile MultiByteToWideChar OpenProcess OutputDebugStringW PackageIdFromFullName Process32FirstW Process32NextW ProcessIdToSessionId QueryFullProcessImageNameW QueryPerformanceCounter RaiseException ReadFile ResetEvent RtlCaptureContext RtlLookupFunctionEntry RtlVirtualUnwind SearchPathW SetEvent SetFilePointer SetLastError SetThreadPriority SetUnhandledExceptionFilter SizeofResource Sleep TerminateProcess UnhandledExceptionFilter UnmapViewOfFile VerSetConditionMask VerifyVersionInfoW WTSGetActiveConsoleSessionId WaitForSingleObject WaitForSingleObjectEx WideCharToMultiByte WriteFile lstrcmpiW lstrlenW
+  USER32.dll : BeginPaint BringWindowToTop ChangeDisplaySettingsExW CreateWindowExW DefWindowProcW DestroyWindow DialogBoxParamW DispatchMessageW EndDialog EndPaint EnumDisplayDevicesW EnumDisplaySettingsW FindWindowW GetClassNameW GetDC GetDesktopWindow GetDisplayConfigBufferSizes GetForegroundWindow GetKeyState GetMessageW GetRawInputData GetRawInputDeviceInfoW GetSystemMetrics GetWindowLongW GetWindowRect GetWindowThreadProcessId IsWindow IsWindowVisible KillTimer LoadAcceleratorsW LoadCursorW LoadStringW MoveWindow PostMessageW PostQuitMessage QueryDisplayConfig RegisterClassExW RegisterRawInputDevices SendInput SetDisplayConfig SetFocus SetForegroundWindow SetProcessDPIAware SetTimer SetWindowLongW SetWindowPos ShowWindow SwitchToThisWindow TranslateAcceleratorW TranslateMessage UpdateLayeredWindow UpdateWindow WaitForInputIdle
+  ADVAPI32.dll : CloseServiceHandle ControlService CryptAcquireContextW CryptCreateHash CryptDestroyHash CryptGetHashParam CryptHashData CryptReleaseContext OpenSCManagerW OpenServiceW RegCloseKey RegCreateKeyExW RegEnumKeyExW RegEnumValueW RegFlushKey RegGetValueW RegOpenKeyExW RegQueryInfoKeyW RegQueryValueExW RegSetValueExW
+  SHELL32.dll : SHGetFolderPathW ShellExecuteExW ShellExecuteW
+  ole32.dll : CoCreateInstance CoFreeUnusedLibrariesEx CoInitialize CoInitializeEx CoInitializeSecurity CoSetProxyBlanket CoTaskMemFree CoUninitialize CreateStreamOnHGlobal OleRun PropVariantClear StringFromGUID2
+  OLEAUT32.dll : BSTR_UserFree BSTR_UserFree64 BSTR_UserMarshal BSTR_UserMarshal64 BSTR_UserSize BSTR_UserSize64 BSTR_UserUnmarshal BSTR_UserUnmarshal64 GetErrorInfo LPSAFEARRAY_UserFree LPSAFEARRAY_UserFree64 LPSAFEARRAY_UserMarshal LPSAFEARRAY_UserMarshal64 LPSAFEARRAY_UserSize LPSAFEARRAY_UserSize64 LPSAFEARRAY_UserUnmarshal LPSAFEARRAY_UserUnmarshal64 SysAllocString SysFreeString VariantChangeType VariantClear VariantInit
+  SHLWAPI.dll : PathFileExistsW PathIsDirectoryW SHGetValueW SHSetValueW StrChrW StrCmpIW StrCmpNIW StrCmpW StrRChrW StrStrIW StrToIntExW
+  MSVCP140.dll : ?_Throw_C_error@std@@YAXH@Z ?_Xbad_function_call@std@@YAXXZ ?_Xlength_error@std@@YAXPEBD@Z _Mtx_destroy_in_situ _Mtx_init_in_situ _Mtx_lock _Mtx_unlock
+  gdiplus.dll : GdipAlloc GdipCloneImage GdipCreateFromHDC GdipDeleteGraphics GdipDisposeImage GdipDrawImageRectI GdipFree GdipGetImageHeight GdipGetImageWidth GdipLoadImageFromStream GdipReleaseDC GdipSetPageScale GdipSetPageUnit GdipSetSmoothingMode GdiplusShutdown GdiplusStartup
+  WTSAPI32.dll : WTSFreeMemory WTSQuerySessionInformationW
+  VERSION.dll : GetFileVersionInfoSizeW GetFileVersionInfoW VerQueryValueW
+  SETUPAPI.dll : SetupDiDestroyDeviceInfoList SetupDiEnumDeviceInterfaces SetupDiGetClassDevsW SetupDiGetDeviceInterfaceDetailW SetupDiGetDeviceRegistryPropertyW
+  ludp.dll : finish initialize2 trackEvent2
+  RPCRT4.dll : NdrClientCall3 NdrServerCall2 NdrServerCallAll RpcBindingFree RpcBindingFromStringBindingW RpcStringBindingComposeW RpcStringFreeW
+  HID.DLL : HidD_FreePreparsedData HidD_GetAttributes HidD_GetFeature HidD_GetPreparsedData HidP_GetCaps
+  WINTRUST.dll : WinVerifyTrust
+  VCRUNTIME140.dll : _CxxThrowException __C_specific_handler __FrameUnwindFilter __current_exception __current_exception_context __std_exception_copy __std_exception_destroy __std_terminate memcpy memmove memset wcschr wcsrchr wcsstr
+  VCRUNTIME140_1.dll : __CxxFrameHandler4
+  api-ms-win-crt-runtime-l1-1-0.dll : _beginthreadex _c_exit _cexit _configure_wide_argv _crt_atexit _errno _exit _get_wide_winmain_command_line _initialize_onexit_table _initialize_wide_environment _initterm _initterm_e _invalid_parameter_noinfo _invalid_parameter_noinfo_noreturn _register_onexit_function _register_thread_local_exe_atexit_callback _seh_filter_exe _set_app_type abort exit terminate
+  api-ms-win-crt-heap-l1-1-0.dll : _callnewh _set_new_mode free malloc
+  api-ms-win-crt-filesystem-l1-1-0.dll : _wmakepath_s _wsplitpath_s
+  api-ms-win-crt-stdio-l1-1-0.dll : __p__commode __stdio_common_vswprintf __stdio_common_vswprintf_s _set_fmode
+  api-ms-win-crt-string-l1-1-0.dll : _wcsicmp _wcslwr_s _wcsnicmp memcpy_s wcscat_s wcscpy_s wcsncmp wcsncpy_s wcsnlen
+  api-ms-win-crt-convert-l1-1-0.dll : _wtoi
+  api-ms-win-crt-math-l1-1-0.dll : __setusermatherr ceilf log10 pow
+  api-ms-win-crt-locale-l1-1-0.dll : _configthreadlocale
+  api-ms-win-crt-utility-l1-1-0.dll : bsearch
+  mscoree.dll : _CorExeMain

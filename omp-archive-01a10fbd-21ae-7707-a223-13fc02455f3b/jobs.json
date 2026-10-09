@@ -1,0 +1,164 @@
+{
+  "live": null,
+  "completed": [
+    {
+      "agent": "main",
+      "entryId": "95e201aa",
+      "at": "2026-10-06T05:56:24.237Z",
+      "label": "LfcnMemory",
+      "status": "completed",
+      "jobId": "LfcnMemory",
+      "jobAgent": "scout",
+      "duration": "1m30s",
+      "lines": "6",
+      "size": "9.9KB",
+      "fullOutput": "agent://LfcnMemory"
+    },
+    {
+      "agent": "main",
+      "entryId": "fcd1e8a8",
+      "at": "2026-10-06T05:56:47.593Z",
+      "label": "LfcnMemory-2",
+      "status": "completed",
+      "jobId": "LfcnMemory",
+      "jobAgent": "scout",
+      "duration": "16.8s",
+      "lines": "6",
+      "size": "11.0KB",
+      "fullOutput": "agent://LfcnMemory"
+    },
+    {
+      "agent": "main",
+      "entryId": "896512e9",
+      "at": "2026-10-06T05:57:09.016Z",
+      "label": "LegionAndWeb",
+      "status": "completed",
+      "jobId": "LegionAndWeb",
+      "jobAgent": "scout",
+      "duration": "2m14s",
+      "lines": "20",
+      "size": "13.1KB",
+      "fullOutput": "agent://LegionAndWeb"
+    },
+    {
+      "agent": "main",
+      "entryId": "c42a3ac8",
+      "at": "2026-10-06T05:57:40.539Z",
+      "label": "AcpiEventChain",
+      "status": "completed",
+      "jobId": "AcpiEventChain",
+      "jobAgent": "scout",
+      "duration": "2m46s",
+      "lines": "6",
+      "size": "27.0KB",
+      "fullOutput": "agent://AcpiEventChain"
+    },
+    {
+      "agent": "main",
+      "entryId": "2434dc3f",
+      "at": "2026-10-06T05:58:05.109Z",
+      "label": "DotNetArch",
+      "status": "completed",
+      "jobId": "DotNetArch",
+      "jobAgent": "scout",
+      "duration": "2m29s",
+      "lines": "35",
+      "size": "24.8KB",
+      "fullOutput": "agent://DotNetArch"
+    },
+    {
+      "agent": "main",
+      "entryId": "ff587b36",
+      "at": "2026-10-06T06:01:43.438Z",
+      "label": "DotNetVerify",
+      "status": "completed",
+      "jobId": "DotNetVerify",
+      "jobAgent": "task",
+      "duration": "3m2s",
+      "lines": "43",
+      "size": "4.5KB"
+    },
+    {
+      "agent": "main",
+      "entryId": "aabc4ee0",
+      "at": "2026-10-06T06:02:22.483Z",
+      "label": "GhidraService",
+      "status": "completed",
+      "jobId": "GhidraService",
+      "jobAgent": "task",
+      "duration": "6m48s",
+      "lines": "23",
+      "size": "4.5KB"
+    },
+    {
+      "agent": "main",
+      "entryId": "89345368",
+      "at": "2026-10-06T06:10:45.498Z",
+      "label": "bg_47",
+      "status": "completed"
+    },
+    {
+      "agent": "main",
+      "entryId": "5c5c5d8d",
+      "at": "2026-10-06T06:13:15.947Z",
+      "label": "bg_48",
+      "status": "completed"
+    },
+    {
+      "agent": "main",
+      "entryId": "81016abd",
+      "at": "2026-10-06T06:16:37.060Z",
+      "label": "bg_49",
+      "status": "completed"
+    },
+    {
+      "agent": "main",
+      "entryId": "6e880a65",
+      "at": "2026-10-06T06:24:43.173Z",
+      "label": "bg_50",
+      "status": "completed"
+    },
+    {
+      "agent": "GhidraFnHotkey",
+      "entryId": "343b2f23",
+      "at": "2026-10-06T05:56:36.077Z",
+      "label": "bg_24",
+      "status": "completed"
+    },
+    {
+      "agent": "GhidraFnHotkey",
+      "entryId": "b339d108",
+      "at": "2026-10-06T05:57:19.517Z",
+      "label": "bg_20",
+      "status": "completed"
+    },
+    {
+      "agent": "GhidraFnHotkey",
+      "entryId": "6d78bc97",
+      "at": "2026-10-06T06:03:34.463Z",
+      "label": "bg_46",
+      "status": "completed"
+    },
+    {
+      "agent": "GhidraService",
+      "entryId": "f1b2b1e0",
+      "at": "2026-10-06T05:56:42.251Z",
+      "label": "bg_19",
+      "status": "completed"
+    },
+    {
+      "agent": "KernelPoc",
+      "entryId": "6c0f8d51",
+      "at": "2026-10-06T05:57:07.704Z",
+      "label": "bg_25",
+      "status": "completed"
+    },
+    {
+      "agent": "KernelPoc",
+      "entryId": "2975cfb7",
+      "at": "2026-10-06T05:57:18.216Z",
+      "label": "bg_28",
+      "status": "completed"
+    }
+  ]
+}

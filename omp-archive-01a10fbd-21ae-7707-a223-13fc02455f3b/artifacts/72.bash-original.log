@@ -1,0 +1,62 @@
+total 1024
+drwxr-xr-x  2 user user   4096 Oct  6 00:51 .
+drwxr-xr-x 12 user user   4096 Oct  6 00:55 ..
+-rw-r--r--  1 user user 203293 Oct  6 00:51 strings-atiadlxx.dll.txt
+-rw-r--r--  1 user user   4607 Oct  6 00:51 strings-blurswitchcs.dll.txt
+-rw-r--r--  1 user user  23359 Oct  6 00:51 strings-controllib.dll.txt
+-rw-r--r--  1 user user 108899 Oct  6 00:51 strings-fnhotkeyutility.exe.txt
+-rw-r--r--  1 user user  42979 Oct  6 00:51 strings-intelcontrollib.dll.txt
+-rw-r--r--  1 user user  30493 Oct  6 00:51 strings-lenovo.assemblyvalidation.native.dll.txt
+-rw-r--r--  1 user user  25285 Oct  6 00:51 strings-lenovoutilityservice.exe.txt
+-rw-r--r--  1 user user 177099 Oct  6 00:51 strings-ludp.dll.txt
+-rw-r--r--  1 user user  41032 Oct  6 00:51 strings-ludp.net.dll.txt
+-rw-r--r--  1 user user   7321 Oct  6 00:51 strings-mmstate.dll.txt
+-rw-r--r--  1 user user 157273 Oct  6 00:51 strings-msvcp140.dll.txt
+-rw-r--r--  1 user user  10088 Oct  6 00:51 strings-system.runtime.windowsruntime.dll.txt
+-rw-r--r--  1 user user  19531 Oct  6 00:51 strings-vcruntime140.dll.txt
+-rw-r--r--  1 user user  11653 Oct  6 00:51 strings-vcruntime140_1.dll.txt
+-rw-r--r--  1 user user   5664 Oct  6 00:51 strings16-atiadlxx.dll.txt
+-rw-r--r--  1 user user    467 Oct  6 00:51 strings16-blurswitchcs.dll.txt
+-rw-r--r--  1 user user   3394 Oct  6 00:51 strings16-controllib.dll.txt
+-rw-r--r--  1 user user  39348 Oct  6 00:51 strings16-fnhotkeyutility.exe.txt
+-rw-r--r--  1 user user   4489 Oct  6 00:51 strings16-intelcontrollib.dll.txt
+-rw-r--r--  1 user user  20793 Oct  6 00:51 strings16-lenovo.assemblyvalidation.native.dll.txt
+-rw-r--r--  1 user user   9255 Oct  6 00:51 strings16-lenovoutilityservice.exe.txt
+-rw-r--r--  1 user user  14915 Oct  6 00:51 strings16-ludp.dll.txt
+-rw-r--r--  1 user user   1097 Oct  6 00:51 strings16-ludp.net.dll.txt
+-rw-r--r--  1 user user    331 Oct  6 00:51 strings16-mmstate.dll.txt
+-rw-r--r--  1 user user   2962 Oct  6 00:51 strings16-msvcp140.dll.txt
+-rw-r--r--  1 user user    629 Oct  6 00:51 strings16-system.runtime.windowsruntime.dll.txt
+-rw-r--r--  1 user user    665 Oct  6 00:51 strings16-vcruntime140.dll.txt
+-rw-r--r--  1 user user    559 Oct  6 00:51 strings16-vcruntime140_1.dll.txt
+-rw-r--r--  1 user user     87 Oct  6 00:48 target-sha256.txt
+total 6488
+drwxr-xr-x 2 user user    4096 Oct  6 00:49 .
+drwxr-xr-x 3 user user    4096 Oct  6 00:49 ..
+-rw-r--r-- 1 user user 1878344 Apr 25  2022 atiadlxx.dll
+-rw-r--r-- 1 user user   15760 Apr 25  2022 blurswitchcs.dll
+-rw-r--r-- 1 user user  190352 Apr 25  2022 controllib.dll
+-rw-r--r-- 1 user user  785240 Apr 25  2022 fnhotkeyutility.exe
+-rw-r--r-- 1 user user  364944 Apr 25  2022 intelcontrollib.dll
+-rw-r--r-- 1 user user  320320 Apr 25  2022 lenovo.assemblyvalidation.native.dll
+-rw-r--r-- 1 user user   17461 Apr 25  2022 lenovofnandfunctionkeys.cat
+-rw-r--r-- 1 user user    4864 Apr 25  2022 lenovofnandfunctionkeys.inf
+-rw-r--r-- 1 user user  231744 Apr 25  2022 lenovoutilityservice.exe
+-rw-r--r-- 1 user user 1705816 Apr 25  2022 ludp.dll
+-rw-r--r-- 1 user user  157384 Apr 25  2022 ludp.net.dll
+-rw-r--r-- 1 user user   35144 Apr 25  2022 mmstate.dll
+-rw-r--r-- 1 user user  646200 Apr 25  2022 msvcp140.dll
+-rw-r--r-- 1 user user    1028 Apr 25  2022 qrcode.html
+-rw-r--r-- 1 user user   40381 Apr 25  2022 qrcode.png
+-rw-r--r-- 1 user user   37848 Apr 25  2022 system.runtime.windowsruntime.dll
+-rw-r--r-- 1 user user  103992 Apr 25  2022 vcruntime140.dll
+-rw-r--r-- 1 user user   52928 Apr 25  2022 vcruntime140_1.dll
+/home/user/Downloads/lenovo-camera-switch-re/50-ghidra/:
+total 8
+drwxr-xr-x  2 user user 4096 Oct  6 00:48 .
+drwxr-xr-x 12 user user 4096 Oct  6 00:55 ..
+
+/home/user/Downloads/lenovo-camera-switch-re/80-tools/:
+total 8
+drwxr-xr-x  2 user user 4096 Oct  6 00:48 .
+drwxr-xr-x 12 user user 4096 Oct  6 00:55 ..

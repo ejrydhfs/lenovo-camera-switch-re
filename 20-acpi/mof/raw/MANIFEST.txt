@@ -1,0 +1,62 @@
+[
+ {
+  "file": "DSDT.dsl_WQBD_484982.bmof",
+  "aml": "WQBD",
+  "table": "DSDT.dsl",
+  "buflen": 629,
+  "declared": 629,
+  "bmof_version": 1,
+  "comp_size": 613,
+  "raw_size": 1528,
+  "payload_sig": "44530001",
+  "consistent": true
+ },
+ {
+  "file": "DSDT.dsl_WQDD_770853.bmof",
+  "aml": "WQDD",
+  "table": "DSDT.dsl",
+  "buflen": 19821,
+  "declared": 19821,
+  "bmof_version": 1,
+  "comp_size": 19805,
+  "raw_size": 130240,
+  "payload_sig": "44530001",
+  "consistent": true
+ },
+ {
+  "file": "DSDT.dsl_WQDA_1043573.bmof",
+  "aml": "WQDA",
+  "table": "DSDT.dsl",
+  "buflen": 1048,
+  "declared": 1048,
+  "bmof_version": 1,
+  "comp_size": 1032,
+  "raw_size": 3166,
+  "payload_sig": "44530001",
+  "consistent": true
+ },
+ {
+  "file": "SSDT3.dsl_WQBA_76874.bmof",
+  "aml": "WQBA",
+  "table": "SSDT3.dsl",
+  "buflen": 2647,
+  "declared": 2647,
+  "bmof_version": 1,
+  "comp_size": 2631,
+  "raw_size": 14136,
+  "payload_sig": "44530001",
+  "consistent": true
+ },
+ {
+  "file": "SSDT6.dsl_WQ00_242275.bmof",
+  "aml": "WQ00",
+  "table": "SSDT6.dsl",
+  "buflen": 893,
+  "declared": 893,
+  "bmof_version": 1,
+  "comp_size": 877,
+  "raw_size": 2920,
+  "payload_sig": "44530001",
+  "consistent": true
+ }
+]

@@ -1,0 +1,90 @@
+============================== lenovoutilityservice.exe
+ DLL OLEAUT32.dll 4
+    SysAllocString SysFreeString VariantClear VariantInit
+ DLL KERNEL32.dll 114
+    AcquireSRWLockExclusive CloseHandle CloseThreadpoolTimer CompareStringW CreateDirectoryW CreateEventW CreateFileW CreateThread CreateThreadpoolTimer CreateThreadpoolWork CreateToolhelp32Snapshot DeleteCriticalSection EncodePointer EnterCriticalSection ExitProcess FindClose FindFirstFileExW FindNextFileW FindResourceExW FindResourceW FlushFileBuffers FreeEnvironmentStringsW FreeLibrary GetACP GetCPInfo GetCommandLineA GetCommandLineW GetConsoleMode GetConsoleOutputCP GetCurrentProcess GetCurrentProcessId GetCurrentThread GetCurrentThreadId GetEnvironmentStringsW GetFileSizeEx GetFileType GetLastError GetLocalTime GetModuleFileNameW GetModuleHandleExW GetModuleHandleW GetOEMCP GetProcAddress GetProcessHeap GetStartupInfoW GetStdHandle GetStringTypeW GetSystemTimeAsFileTime GetTempPathW GetThreadId HeapAlloc HeapDestroy HeapFree HeapReAlloc HeapSize InitializeCriticalSection InitializeCriticalSectionAndSpinCount InitializeCriticalSectionEx InitializeSListHead InitializeSRWLock IsDebuggerPresent IsProcessorFeaturePresent IsValidCodePage LCMapStringW LeaveCriticalSection LoadLibraryExW LoadLibraryW LoadResource LocalAlloc LocalFree LockResource MultiByteToWideChar OpenProcess OutputDebugStringW Process32FirstW Process32NextW ProcessIdToSessionId QueryFullProcessImageNameW QueryPerformanceCounter RaiseException ReleaseSRWLockExclusive ResetEvent RtlCaptureContext RtlLookupFunctionEntry RtlPcToFileHeader RtlUnwindEx RtlVirtualUnwind SetEnvironmentVariableW SetEvent SetFilePointer SetFilePointerEx SetLastError SetStdHandle SetThreadpoolTimer SetUnhandledExceptionFilter SizeofResource Sleep SubmitThreadpoolWork TerminateProcess TlsAlloc TlsFree TlsGetValue TlsSetValue TryEnterCriticalSection UnhandledExceptionFilter WTSGetActiveConsoleSessionId WaitForMultipleObjects WaitForSingleObjectEx WaitForThreadpoolTimerCallbacks WideCharToMultiByte WriteConsoleW WriteFile lstrcmpiW lstrlenW
+ DLL ole32.dll 6
+    CoCreateGuid CoCreateInstance CoInitializeEx CoInitializeSecurity CoSetProxyBlanket CoUninitialize
+ DLL RPCRT4.dll 2
+    RpcStringFreeW UuidToStringW
+ DLL USER32.dll 1
+    MsgWaitForMultipleObjects
+ DLL ADVAPI32.dll 27
+    AdjustTokenPrivileges CloseServiceHandle ControlService CreateProcessAsUserW CreateServiceW DeleteService DuplicateTokenEx EventRegister EventUnregister EventWriteString ImpersonateLoggedOnUser LookupPrivilegeValueW OpenProcessToken OpenSCManagerW OpenServiceW QueryServiceStatus RegCloseKey RegCreateKeyExW RegDeleteKeyW RegEnumKeyExW RegNotifyChangeKeyValue RegOpenKeyExW RegSetValueExW RegisterServiceCtrlHandlerExW RevertToSelf SetServiceStatus StartServiceCtrlDispatcherW
+ DLL WTSAPI32.dll 3
+    WTSFreeMemory WTSQuerySessionInformationW WTSQueryUserToken
+ DLL USERENV.dll 3
+    CreateEnvironmentBlock DestroyEnvironmentBlock UnloadUserProfile
+ DLL SETUPAPI.dll 7
+    CMP_WaitNoPendingInstallEvents CM_Locate_DevNodeW SetupDiDestroyDeviceInfoList SetupDiEnumDeviceInfo SetupDiGetClassDevsW SetupDiGetDeviceInstanceIdW SetupDiGetDeviceRegistryPropertyW
+============================== controllib.dll
+ DLL SETUPAPI.dll 4
+    SetupDiDestroyDeviceInfoList SetupDiEnumDeviceInterfaces SetupDiGetClassDevsW SetupDiGetDeviceInterfaceDetailW
+ DLL KERNEL32.dll 77
+    CloseHandle CreateFileW DeleteCriticalSection EncodePointer EnterCriticalSection ExitProcess FindClose FindFirstFileExW FindNextFileW FlsAlloc FlsFree FlsGetValue FlsSetValue FlushFileBuffers FreeEnvironmentStringsW FreeLibrary GetACP GetCPInfo GetCommandLineA GetCommandLineW GetConsoleMode GetConsoleOutputCP GetCurrentProcess GetCurrentProcessId GetCurrentThreadId GetEnvironmentStringsW GetFileSizeEx GetFileType GetLastError GetModuleFileNameW GetModuleHandleA GetModuleHandleExW GetModuleHandleW GetOEMCP GetProcAddress GetProcessHeap GetStartupInfoW GetStdHandle GetStringTypeW GetSystemTimeAsFileTime GetVersion HeapAlloc HeapFree HeapReAlloc HeapSize InitializeCriticalSectionAndSpinCount InitializeSListHead InterlockedFlushSList IsDebuggerPresent IsProcessorFeaturePresent IsValidCodePage LCMapStringW LeaveCriticalSection LoadLibraryExW LoadLibraryW MultiByteToWideChar OutputDebugStringA QueryPerformanceCounter RaiseException RtlCaptureContext RtlLookupFunctionEntry RtlPcToFileHeader RtlUnwindEx RtlVirtualUnwind SetFilePointerEx SetLastError SetStdHandle SetUnhandledExceptionFilter TerminateProcess TlsAlloc TlsFree TlsGetValue TlsSetValue UnhandledExceptionFilter WideCharToMultiByte WriteConsoleW WriteFile
+ DLL ADVAPI32.dll 1
+    RegGetValueW
+ DLL ntdll.dll 3
+    RtlAnsiStringToUnicodeString RtlFreeUnicodeString RtlInitAnsiString
+============================== intelcontrollib.dll
+ DLL SETUPAPI.dll 4
+    SetupDiDestroyDeviceInfoList SetupDiEnumDeviceInterfaces SetupDiGetClassDevsW SetupDiGetDeviceInterfaceDetailW
+ DLL dxgi.dll 1
+    CreateDXGIFactory1
+ DLL SHELL32.dll 1
+    ord680
+ DLL KERNEL32.dll 99
+    CloseHandle CompareStringW CreateDirectoryA CreateEventW CreateFileW DeleteCriticalSection DeleteFileW EncodePointer EnterCriticalSection ExitProcess FindClose FindFirstFileExW FindFirstFileW FindNextFileW FlsAlloc FlsFree FlsGetValue FlsSetValue FlushFileBuffers FreeEnvironmentStringsW FreeLibrary GetACP GetCPInfo GetCommandLineA GetCommandLineW GetConsoleMode GetConsoleOutputCP GetCurrentApplicationUserModelId GetCurrentProcess GetCurrentProcessId GetCurrentThreadId GetEnvironmentStringsW GetFileSizeEx GetFileType GetLastError GetModuleFileNameA GetModuleFileNameW GetModuleHandleA GetModuleHandleExW GetModuleHandleW GetOEMCP GetProcAddress GetProcessHeap GetStartupInfoW GetStdHandle GetStringTypeW GetSystemTimeAsFileTime GetVersion GlobalAlloc GlobalFree GlobalLock GlobalUnlock HeapAlloc HeapFree HeapReAlloc HeapSize InitOnceBeginInitialize InitOnceComplete InitializeCriticalSectionAndSpinCount InitializeSListHead InterlockedFlushSList IsDebuggerPresent IsProcessorFeaturePresent IsValidCodePage LCMapStringW LeaveCriticalSection LoadLibraryExW LoadLibraryW MultiByteToWideChar OpenEventW OutputDebugStringA QueryPerformanceCounter QueryPerformanceFrequency RaiseException ReadConsoleW ReadFile ResetEvent RtlCaptureContext RtlLookupFunctionEntry RtlPcToFileHeader RtlUnwindEx RtlVirtualUnwind SetEndOfFile SetEnvironmentVariableW SetEvent SetFilePointerEx SetLastError SetStdHandle SetUnhandledExceptionFilter TerminateProcess TlsAlloc TlsFree TlsGetValue TlsSetValue UnhandledExceptionFilter WaitForMultipleObjectsEx WideCharToMultiByte WriteConsoleW WriteFile
+ DLL ADVAPI32.dll 5
+    RegCloseKey RegGetValueW RegOpenKeyExW RegQueryValueExW RegSetValueExW
+ DLL USER32.dll 4
+    GetDisplayConfigBufferSizes QueryDisplayConfig SetDisplayConfig wsprintfW
+ DLL ntdll.dll 3
+    RtlAnsiStringToUnicodeString RtlFreeUnicodeString RtlInitAnsiString
+ DLL GDI32.dll 4
+    D3DKMTCloseAdapter D3DKMTEscape D3DKMTOpenAdapterFromDeviceName D3DKMTQueryAdapterInfo
+============================== ludp.dll
+ DLL WINHTTP.dll 19
+    WinHttpCloseHandle WinHttpConnect WinHttpCrackUrl WinHttpGetIEProxyConfigForCurrentUser WinHttpGetProxyForUrl WinHttpOpen WinHttpOpenRequest WinHttpQueryAuthSchemes WinHttpQueryDataAvailable WinHttpQueryHeaders WinHttpQueryOption WinHttpReadData WinHttpReceiveResponse WinHttpSendRequest WinHttpSetCredentials WinHttpSetOption WinHttpSetStatusCallback WinHttpSetTimeouts WinHttpWriteData
+ DLL IPHLPAPI.DLL 1
+    GetAdaptersAddresses
+ DLL CRYPT32.dll 1
+    CertFreeCertificateContext
+ DLL dbghelp.dll 1
+    MakeSureDirectoryPathExists
+ DLL WTSAPI32.dll 1
+    WTSQueryUserToken
+ DLL SensApi.dll 1
+    IsNetworkAlive
+ DLL KERNEL32.dll 170
+    AreFileApisANSI ChangeTimerQueueTimer CloseHandle CompareStringW CreateDirectoryW CreateEventW CreateFileA CreateFileMappingA CreateFileMappingW CreateFileW CreateMutexW CreateThread CreateTimerQueue CreateTimerQueueTimer DecodePointer DeleteCriticalSection DeleteFileA DeleteFileW DeleteTimerQueueTimer DuplicateHandle EncodePointer EnterCriticalSection EnumSystemLocalesW ExitProcess ExitThread FindClose FindFirstFileExA FindNextFileA FindResourceExW FindResourceW FlushFileBuffers FlushViewOfFile FormatMessageA FormatMessageW FreeEnvironmentStringsW FreeLibrary FreeLibraryAndExitThread GetACP GetCPInfo GetCommandLineA GetCommandLineW GetConsoleCP GetConsoleMode GetCurrentProcess GetCurrentProcessId GetCurrentThread GetCurrentThreadId GetDiskFreeSpaceA GetDiskFreeSpaceW GetEnvironmentStringsW GetEnvironmentVariableW GetFileAttributesA GetFileAttributesExW GetFileAttributesW GetFileSize GetFileType GetFullPathNameA GetFullPathNameW GetLastError GetLocaleInfoW GetLogicalProcessorInformation GetModuleFileNameA GetModuleFileNameW GetModuleHandleA GetModuleHandleExW GetModuleHandleW GetNumaHighestNodeNumber GetOEMCP GetProcAddress GetProcessAffinityMask GetProcessHeap GetStartupInfoW GetStdHandle GetStringTypeW GetSystemInfo GetSystemTime GetSystemTimeAsFileTime GetTempPathA GetTempPathW GetThreadPriority GetThreadTimes GetTickCount GetTimeZoneInformation GetUserDefaultLCID GetVersionExW HeapAlloc HeapCompact HeapCreate HeapDestroy HeapFree HeapReAlloc HeapSize HeapValidate InitializeCriticalSection InitializeCriticalSectionAndSpinCount InitializeCriticalSectionEx InitializeSListHead InterlockedFlushSList InterlockedPopEntrySList InterlockedPushEntrySList IsDebuggerPresent IsProcessorFeaturePresent IsValidCodePage IsValidLocale LCMapStringW LeaveCriticalSection LoadLibraryA LoadLibraryExW LoadLibraryW LoadResource LocalFree LockFile LockFileEx LockResource MapViewOfFile MultiByteToWideChar OutputDebugStringA OutputDebugStringW QueryDepthSList QueryPerformanceCounter RaiseException ReadConsoleW ReadFile RegisterWaitForSingleObject ReleaseMutex ReleaseSemaphore ResetEvent RtlCaptureContext RtlLookupFunctionEntry RtlPcToFileHeader RtlUnwindEx RtlVirtualUnwind SetEndOfFile SetEnvironmentVariableA SetEvent SetFilePointer SetFilePointerEx SetLastError SetStdHandle SetThreadAffinityMask SetThreadPriority SetUnhandledExceptionFilter SignalObjectAndWait SizeofResource Sleep SwitchToThread SystemTimeToFileTime TerminateProcess TerminateThread TlsAlloc TlsFree TlsGetValue TlsSetValue TryEnterCriticalSection UnhandledExceptionFilter UnlockFile UnlockFileEx UnmapViewOfFile UnregisterWait UnregisterWaitEx VirtualAlloc VirtualFree VirtualProtect WTSGetActiveConsoleSessionId WaitForMultipleObjects WaitForSingleObject WaitForSingleObjectEx WideCharToMultiByte WriteConsoleW WriteFile
+ DLL USER32.dll 2
+    EnumDisplaySettingsW GetSystemMetrics
+ DLL ADVAPI32.dll 9
+    CloseServiceHandle ControlService GetUserNameA ImpersonateLoggedOnUser OpenSCManagerW OpenServiceW QueryServiceStatus RevertToSelf StartServiceW
+ DLL SHELL32.dll 1
+    SHGetSpecialFolderPathW
+ DLL ole32.dll 6
+    CoCreateInstance CoInitialize CoInitializeEx CoInitializeSecurity CoSetProxyBlanket CoUninitialize
+ DLL OLEAUT32.dll 3
+    SysAllocString SysFreeString VariantClear
+============================== mmstate.dll
+ DLL KERNEL32.dll 15
+    GetCurrentProcess GetCurrentProcessId GetCurrentThreadId GetSystemTimeAsFileTime InitializeSListHead IsDebuggerPresent IsProcessorFeaturePresent QueryPerformanceCounter RtlCaptureContext RtlLookupFunctionEntry RtlVirtualUnwind SetEvent SetUnhandledExceptionFilter TerminateProcess UnhandledExceptionFilter
+ DLL ole32.dll 3
+    CoCreateInstance CoInitializeEx CoUninitialize
+ DLL VCRUNTIME140.dll 6
+    _CxxThrowException __C_specific_handler __std_exception_copy __std_exception_destroy __std_type_info_destroy_list memset
+ DLL api-ms-win-crt-heap-l1-1-0.dll 3
+    _callnewh free malloc
+ DLL api-ms-win-crt-runtime-l1-1-0.dll 8
+    _cexit _configure_narrow_argv _execute_onexit_table _initialize_narrow_environment _initialize_onexit_table _initterm _initterm_e _seh_filter_dll
+=== raw grep for sensitive APIs in dumps ===
+0
+--- lenovoutilityservice.exe
+      1 CM_Locate_DevNodeW
+      1 CreateFileW
+      1 SetupDiGetClassDevsW
+--- controllib.dll
+      1 CreateFileW
+      1 SetupDiGetClassDevsW

@@ -1,0 +1,887 @@
+OPENSSL_ia32cap
+@@@@@@@@@hHHHH@@@@@@@@@@@@@@@@@@
+ERROR : Unable to initialize critical section in CAtlBaseModule
+es-ve
+et-ee
+eu-es
+fa-ir
+fi-fi
+fo-fo
+fr-be
+fr-ca
+fr-ch
+fr-fr
+fr-lu
+fr-mc
+gl-es
+gu-in
+he-il
+hi-in
+hr-ba
+hr-hr
+hu-hu
+hy-am
+id-id
+is-is
+it-ch
+it-it
+ja-jp
+ka-ge
+kk-kz
+kn-in
+ko-kr
+kok-in
+ky-kg
+lt-lt
+lv-lv
+mi-nz
+mk-mk
+ml-in
+mn-mn
+mr-in
+ms-bn
+ms-my
+mt-mt
+nb-no
+nl-be
+nl-nl
+nn-no
+ns-za
+pa-in
+pl-pl
+pt-br
+pt-pt
+quz-bo
+quz-ec
+quz-pe
+ro-ro
+ru-ru
+sa-in
+se-fi
+se-no
+se-se
+sk-sk
+sl-si
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sq-al
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+sv-fi
+sv-se
+sw-ke
+syr-sy
+ta-in
+te-in
+th-th
+tn-za
+tr-tr
+tt-ru
+uk-ua
+ur-pk
+uz-uz-cyrl
+uz-uz-latn
+vi-vn
+xh-za
+zh-chs
+zh-cht
+zh-cn
+zh-hk
+zh-mo
+zh-sg
+zh-tw
+zu-za
+zh-CHS
+ar-SA
+bg-BG
+ca-ES
+zh-TW
+cs-CZ
+da-DK
+de-DE
+el-GR
+en-US
+fi-FI
+fr-FR
+he-IL
+hu-HU
+is-IS
+it-IT
+ja-JP
+ko-KR
+nl-NL
+nb-NO
+pl-PL
+pt-BR
+ro-RO
+ru-RU
+hr-HR
+sk-SK
+sq-AL
+sv-SE
+th-TH
+tr-TR
+ur-PK
+id-ID
+uk-UA
+be-BY
+sl-SI
+et-EE
+lv-LV
+lt-LT
+fa-IR
+vi-VN
+hy-AM
+az-AZ-Latn
+eu-ES
+mk-MK
+tn-ZA
+xh-ZA
+zu-ZA
+af-ZA
+ka-GE
+fo-FO
+hi-IN
+mt-MT
+se-NO
+ms-MY
+kk-KZ
+ky-KG
+sw-KE
+uz-UZ-Latn
+tt-RU
+bn-IN
+pa-IN
+gu-IN
+ta-IN
+te-IN
+kn-IN
+ml-IN
+mr-IN
+sa-IN
+mn-MN
+cy-GB
+gl-ES
+kok-IN
+syr-SY
+div-MV
+quz-BO
+ns-ZA
+mi-NZ
+ar-IQ
+zh-CN
+de-CH
+en-GB
+es-MX
+fr-BE
+it-CH
+nl-BE
+nn-NO
+pt-PT
+sr-SP-Latn
+sv-FI
+az-AZ-Cyrl
+se-SE
+ms-BN
+uz-UZ-Cyrl
+quz-EC
+ar-EG
+zh-HK
+de-AT
+en-AU
+es-ES
+fr-CA
+sr-SP-Cyrl
+se-FI
+quz-PE
+ar-LY
+zh-SG
+de-LU
+en-CA
+es-GT
+fr-CH
+hr-BA
+smj-NO
+ar-DZ
+zh-MO
+de-LI
+en-NZ
+es-CR
+fr-LU
+bs-BA-Latn
+smj-SE
+ar-MA
+en-IE
+es-PA
+fr-MC
+sr-BA-Latn
+sma-NO
+ar-TN
+en-ZA
+es-DO
+sr-BA-Cyrl
+sma-SE
+ar-OM
+en-JM
+es-VE
+sms-FI
+ar-YE
+en-CB
+es-CO
+smn-FI
+ar-SY
+en-BZ
+es-PE
+ar-JO
+en-TT
+es-AR
+ar-LB
+en-ZW
+es-EC
+ar-KW
+en-PH
+es-CL
+ar-AE
+es-UY
+ar-BH
+es-PY
+ar-QA
+es-BO
+es-SV
+es-HN
+es-NI
+es-PR
+zh-CHT
+af-za
+ar-ae
+ar-bh
+ar-dz
+ar-eg
+ar-iq
+ar-jo
+ar-kw
+ar-lb
+ar-ly
+ar-ma
+ar-om
+ar-qa
+ar-sa
+ar-sy
+ar-tn
+ar-ye
+az-az-cyrl
+az-az-latn
+be-by
+bg-bg
+bn-in
+bs-ba-latn
+ca-es
+cs-cz
+cy-gb
+da-dk
+de-at
+de-ch
+de-de
+de-li
+de-lu
+div-mv
+el-gr
+en-au
+en-bz
+en-ca
+en-cb
+en-gb
+en-ie
+en-jm
+en-nz
+en-ph
+en-tt
+en-us
+en-za
+en-zw
+es-ar
+es-bo
+es-cl
+es-co
+es-cr
+es-do
+es-ec
+es-es
+es-gt
+es-hn
+es-mx
+es-ni
+es-pa
+es-pe
+es-pr
+es-py
+es-sv
+es-uy
+combase.dll
+advapi32.dll
+advapi32
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+(null)
+minkernel\crts\ucrt\inc\corecrt_internal_strtox.h
+__crt_strtox::floating_point_value::as_double
+_is_double
+__crt_strtox::floating_point_value::as_float
+!_is_double
+mscoree.dll
+         (((((                  H
+         (((((                  H
+      (                          
+LC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+api-ms-win-appmodel-runtime-l1-1-1
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l2-1-1
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-kernel32-package-current-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+user32
+Eccs
+UTF-8
+UTF-16LEUNICODE
+american
+american english
+american-english
+australian
+belgian
+canadian
+chinese
+chinese-hongkong
+chinese-simplified
+chinese-singapore
+chinese-traditional
+dutch-belgian
+english-american
+english-aus
+english-belize
+english-can
+english-caribbean
+english-ire
+english-jamaica
+english-nz
+english-south africa
+english-trinidad y tobago
+english-uk
+english-us
+english-usa
+french-belgian
+french-canadian
+french-luxembourg
+french-swiss
+german-austrian
+german-lichtenstein
+german-luxembourg
+german-swiss
+irish-english
+italian-swiss
+norwegian
+norwegian-bokmal
+norwegian-nynorsk
+portuguese-brazilian
+spanish-argentina
+spanish-bolivia
+spanish-chile
+spanish-colombia
+spanish-costa rica
+spanish-dominican republic
+spanish-ecuador
+spanish-el salvador
+spanish-guatemala
+spanish-honduras
+spanish-mexican
+spanish-modern
+spanish-nicaragua
+spanish-panama
+spanish-paraguay
+spanish-peru
+spanish-puerto rico
+spanish-uruguay
+spanish-venezuela
+swedish-finland
+swiss
+america
+britain
+china
+czech
+england
+great britain
+holland
+hong-kong
+new-zealand
+pr china
+pr-china
+puerto-rico
+slovak
+south africa
+south korea
+south-africa
+south-korea
+trinidad & tobago
+united-kingdom
+united-states
+CONOUT$
+RpcSs
+RpcLocator
+wmiApSrv
+ROOT\CIMV2
+ROOT\CIMV
+LCaption
+Description
+IdentifyingNumber
+Name
+SKUNumber
+UUID
+Vendor
+Version
+BiosCharacteristics
+BIOSVersion
+BuildNumber
+CodeSet
+CurrentLanguage
+IdentificationCode
+InstallableLanguages
+LanguageEdition
+ListOfLanguages
+Manufacturer
+OtherTargetOS
+PrimaryBIOS
+ReleaseDate
+SerialNumber
+SMBIOSBIOSVersion
+SMBIOSMajorVersion
+SMBIOSMinorVersion
+SMBIOSPresent
+SoftwareElementID
+SoftwareElementState
+Status
+TargetOperatingSystem
+ConfigOptions
+CreationClassName
+Depth
+Height
+HostingBoard
+HotSwappable
+InstallDate
+Model
+OtherIdentifyingInfo
+PartNumber
+PoweredOn
+Product
+Removable
+Replaceable
+RequirementsDescription
+RequiresDaughterBoard
+SlotLayout
+SpecialRequirements
+Weight
+Width
+INVALID
+Lenovo Product
+To Be Filled By O.E.M.
+To be filled by O.E.M.
+!$).056;>ACENQVZZ^ceiow{{{~
+****
+**GG
+GGGG
+wwxxxx
+wwxxxx
+vvvvuuttts
+vvvvuuttts
+wwxxxx
+uuttts
+{vvvvuuttts
+ttts
+xxxxq
+vvvvuuttts
+wwxxxx
+Pvvvvuuttts
+wwxxxx
+vvvvuuttts
+xxxx
+vvvvuuttts
+wwxxxx
+vvvvuuttts
+wwxxxx
+vvvvuuttts
+vvvvuuttts
+wwxxxx
+wwxxxx
+GGvvvvuuttts
+vvvvuuttts
+wwxxxx
+wwxxxx
+vvvvuuttts
+vvvvuuttts
+wwxxxx
+wwxxxx
+vvvvuuttts
+vvvvuuttts
+wwxxxx
+wwxxxxvvvvuuttts
+vvvvuuttts
+wwxxxx
+wwxxxx
+wwxxxx
+vvvvuuttts
+vvvvuuttts
+vvvvuuttts
+wwxxxxGG
+vvvvuuttts
+==>>
+--..ii
+LL66
+++00
++,-./0123456789
+Q+,-./0123456789
+efghijklmno
+yefghijklmno;+,-./0123456789
+ijklmno
+Eefghijklmnoklmno
+6789:
+rst!efghijklmno
++,-./0123456789
+;Cefghijklmno
+o+,-./0123456789
+efghijklmno
+Lkr;
+6789
+efghijklmno+,-./0123456789
+rst./01=efghijklmno+,-./0123456789}~
+efghijklmno;
+rstuI;xyzH
+wefghijklmno+,-./0123456789
++,-./0123456789
+efghijklmno;
+uvwxyz{
+efghijklmno+,-./0123456789
+rst;u
++,-./0123456789
+efghijklmno
+efghijklmno+,-./0123456789
++,-./0123456789#
+efghijklmno
+BijI
+efghijklmno+,-./0123456789
+-./0123456789efghijklmno.
+efghijklmno
++,-./0123456789
+c+,-./0123456789sM;Ow+,-./0123456789
+efghijklmno;
+efghijklmno
+efghijklmno
+qrst
+,-./0123456789
+efghijklmno;
+rst?
+p*rst
+;;ij
+t U|
+NssQ
+p<rst
+"""]"
+;;;;
+;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+out of memory
+BCDE
+bad parameter or other API misuse
+1.0.0.1
+AnalyticsTracker::~AnalyticsTracker finished
+LudpAppManager::isTimeForAddSessionVisits is time for add session visits
+ /():,;*+=_.-
+AnalyticsTracker::syncExit enter
+AnalyticsTracker::syncExit returned after %d ms
+.log
+AnalyticsTracker::initialize dataDir=%s
+config\systemprofile
+AnalyticsTracker::System user, now ImpersonateLoggedOnUser
+\Lenovo
+\Ludp
+AnalyticsTracker::MakeSureDirectoryPathExists failed:%d
+initial
+trackEvent failed: apptoken is null!
+sendEvents finished. postLength=%d, time=%dms, id=
+AnalyticsTracker::sendEvents no reported event.
+AnalyticsTracker::SDK init failure.
+AnalyticsTracker::run No need to send this event %s/%s
+sendEventWithCallback tThread finished. postLength=%d, time=%dms
+ReportTask::run No need to send this event %s/%s
+%s%s
+Memory allocation failed for IP_ADAPTER_ADDRESSES struct.
+Call to getMAC failed with error: %d
+ntdll.dll
+kernel32.dll
+Microsoft 
+Windows Vista
+Windows Server 2008
+Windows 7 
+Windows Server 2008 R2 
+Ultimate Edition
+Home Premium Edition
+Home Basic Edition
+Enterprise Edition
+Business Edition
+Starter Edition
+Cluster Server Edition
+Datacenter Edition
+Datacenter Edition (core installation)
+Enterprise Edition (core installation)
+Enterprise Edition for Itanium-based Systems
+Small Business Server
+Small Business Server Premium Edition
+Standard Edition
+Standard Edition (core installation)
+Web Server Edition
+Windows Server 2003 R2, 
+Windows Storage Server 2003
+Windows XP Professional x64 Edition
+Windows Server 2003, 
+Datacenter Edition for Itanium-based Systems
+Datacenter x64 Edition
+Enterprise x64 Edition
+Standard x64 Edition
+Compute Cluster Edition
+Web Edition
+Windows XP 
+Home Edition
+Professional
+Windows 2000 
+Datacenter Server
+Advanced Server
+Server
+ (build 
+, 64-bit
+, 32-bit
+Windows
+https=
+https://
+http=
+http://
+Configuration::asyncIESetting using proxy url: %s
+Configuration::asyncIESetting null proxy url
+Configuration::asyncIESetting WinHttpGetIEProxyConfigForCurrentUser failed of error %d
+LockBase::signalMutexWaitConditionInfinite wait INFINITE succeed of [%lu] ms, status [%lu]
+LockBase::signalMutexWaitConditionInfinite failed of error %x, [%d] times
+LockBase::signalMutexWaitConditionInfinite wait INFINITE succeed of [%lu] ms, status [%lu], byteWakeFlag [%x]
+LockBase::signalMutex signal failed of error %x, times [%d]
+LockBase::signalMutexAll signal failed of error %x, times [%d]
+ServerConfigManager::updatePreference not json array type!
+ServerConfigManager::updatePreference value of "%s" should be string!
+ServerConfigManager::tryAdd %s/%s saved.
+/report2
+/post2
+/config2
+/config
+/message2
+https://osfsr.lenovomm.com
+DeviceId: %s
+Win 
+Configuration::initReportAndConfigurationUrl There was a problem with the Server URL %S
+2.3.5
+PRELOAD
+MAINFRAME2
+WinHTTP LpsLudp/2.3.5
+#Ignore#
+AddSessionInterval
+UpdateInterval
+SDKEnable
+EventNotSend
+DispatchLan
+Compress2G
+Compress3G4G
+HttpTimeout
+EventPriority
+SessionTimeEnable
+MsgEnable
+MsgNeedElapsed
+DatabaseHelper::Initailize failed: %s
+DatabaseHelper::Initailize failed.
+DatabaseHelper::outdated data was deleted(%d rows)
+DatabaseHelper::Truncate failed
+DatabaseHelper::AddVisit failed: %s
+DatabaseHelper::AddVisit failed.
+DatabaseHelper::AddEvent failed: appkey is empty
+DatabaseHelper::AddEvent failed: %s
+DatabaseHelper::AddEvent failed.
+DatabaseHelper::DeleteEvents failed: %s
+DatabaseHelper::DeleteEvents failed.
+DatabaseHelper::ClearEvent failed: %s
+DatabaseHelper::ClearEvent failed.
+DatabaseHelper::GetEventString failed: %s
+DatabaseHelper::GetEventString failed.
+DatabaseHelper::GetEventList failed: %s
+DatabaseHelper::GetEventList failed.
+DatabaseHelper::UpdateConfig failed: %s
+DatabaseHelper::UpdateConfig failed.
+DatabaseHelper::GetConfig failed: %s
+DatabaseHelper::GetConfig failed.
+unknown
+__NEWUA__
+__PAGEVIEW__
+__INITIAL__
+PAGE_QUEUE_NO
+FRAME_PAGE
+USER_ACTION_QUEUE_NO
+%lld
+HttpRequest::HttpRequest init failed of error %d.
+HttpRequest::doGet failed of error %d.
+HttpRequest::doPost failed of error %d.
+HttpRequest::init There was a problem with the Server URL %s
+Proxy Used
+HttpRequest::init There was a problem with the proxy URL %s
+<local>
+HttpRequest::init WinHttpOpen succeed.
+HttpRequest::init WinHttpOpen failed
+HttpRequest::WinHttpSetStatusCallback failed
+HttpRequest::init WinHttpSetTimeouts failed
+HttpRequest::connet WinHttpOpen error
+HttpRequest::doRequest connect failed of error %d.
+POST
+HttpRequest::doRequest not supported method type %d.
+HttpRequest::doRequest WinHttpOpenRequest error
+HttpRequest::doRequest WinHttpConnect error
+HttpRequest::doRequest setproxy
+HttpRequest::doRequest not supported request type %d
+HttpRequest::get0 WinHttpSendRequest error %d.
+HttpRequest::post0 WinHttpSendRequest error=%lu
+Lenovo
+WinHttpQueryOption::certificate has no Lenovo
+Invalid Certification SN, Nothing uploaded
+HttpRequest::post0 WinHttpWriteData error. err=%lu, dwByteWrite=%lu
+HttpRequest::post0 WinHttpReceiveResponse error
+HttpRequest::parseStatusCode WINHTTP_QUERY_STATUS_CODE failed
+HttpRequest::parseStatusCode %d
+HttpRequest::parseContentLength WINHTTP_QUERY_CONTENT_LENGTH failed
+HttpRequest::parseContentLength %d
+HttpRequest::parseContentType WINHTTP_QUERY_CONTENT_TYPE failed
+HttpRequest::parseContentType %S
+HttpRequest::receiveResponse Error %d in WinHttpQueryDataAvailable.
+HttpRequest::receiveResponse Out of memory
+HttpRequest::receiveResponse Error %d in WinHttpReadData.
+HttpRequest::receiveResponse succeed. StatusCode:%lu, ContentLength:%lu, StreamLength=%lu
+HttpRequest::checkStatusCode request was successfully completed.
+HttpRequest::checkStatusCode The server requires authentication. Sending credentials...
+HttpRequest::checkStatusCode Server Authentication failed.
+HttpRequest::checkStatusCode The proxy requires authentication.  Sending credentials...
+HttpRequest::checkStatusCode 405 post method not support
+HttpRequest::checkStatusCode %lu returned.
+WINHTTP_STATUS_CALLBACK::https secure failure %x
+WINHTTP_STATUS_CALLBACK::revocation check failed to verify whether a certificate has been revoked. The server used to check for revocation might be unreachable
+WINHTTP_STATUS_CALLBACK::certificate invalid
+WINHTTP_STATUS_CALLBACK::certificate revoked
+WINHTTP_STATUS_CALLBACK::certificate date invalid
+WINHTTP_STATUS_CALLBACK::certificate CA invalid
+WINHTTP_STATUS_CALLBACK::certificate host name field invalid
+WINHTTP_STATUS_CALLBACK::internal error loading the SSL libraries
+Server IP is %s
+DEBUG
+INFO
+WARN
+ERROR
+%04d-%02d-%02d %02d:%02d:%02d 
+User
+KLog
+HttpRequestHandler::postEvents network not ready
+HttpRequestHandler::postEvents network reconnected. FailedCount=%d
+HttpRequestHandler::postEvents network not ready: check interval not reached
+HttpRequestHandler::postEvents send failed 3 times continuously. NetworkStatus=%d
+HttpRequestHandler::postEvents enter listSize=%d
+HttpRequestHandler::postEvents events number: %d, events length: %d
+HttpRequestHandler::postEvents data: %s
+HttpRequestHandler::postFile serverContext: %s, ProxyServerUrl: %s
+true
+?tk=%s&sv=%s&ds=%s&aid=%s&dit=%s&di=%s&net=%d
+Config
+unknow
+ServerConfigurationUpdateTask::processResponseResult json string parse succeed
+ServerConfigurationUpdateTask::processResponseResult json string parse failed
+ServerConfigurationUpdateTask::check server post url is null.
+ServerConfigurationUpdateTask::check server get url is null.
+ServerConfigurationUpdateTask::check Proxy setting not ready, wait a while
+QueryPacTask::run finished url=%s timeuse(ms)=%d
+ReportTask::run Proxy setting not ready, wait a while
+TaskExecutor::notifyAllAndWait WaitForMultipleObjects returned
+TaskExecutor::notifyAllAndWait finished
+TaskExecutor::init thread %d threadId=[%lu]
+TaskExecutor::init succeed. size=%d
+TaskExecutor::stopThreads StopThread[%d] called
+TaskExecutor::closeThreads closeThread[%lu] already closed
+TaskExecutor::closeThreads closeThread[%lu] closed
+TaskExecutor::_threadFunc[%lu] enter
+TaskExecutor::_threadFunc[%lu] wake up to terminate
+await [%d] %d
+task run exception()
+TaskExecutor::_threadFunc[%lu] null task
+TaskExecutor::_threadFunc[%lu] exit
+TaskExecutor::~TaskExecutor finished
+VS_VERSION_INFO
+StringFileInfo
+080404b0
+CompanyName
+Lenovo
+FileDescription
+LUDP Core
+FileVersion
+2.1.1.89 
+InternalName
+LUDP.dll
+LegalCopyright
+Copyright (C) 2019
+OriginalFilename
+LUDP.dll
+ProductName
+Lenovo LUDP Windows SDK
+ProductVersion
+2.1.1.89 
+VarFileInfo
+Translation
+SubC
+Lenov
+SubC

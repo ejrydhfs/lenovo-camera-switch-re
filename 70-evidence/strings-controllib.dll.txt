@@ -1,0 +1,2525 @@
+!This program cannot be run in DOS mode.
+#z#S#u[
+/?#r[
+#s[W#r[
+#Richs[
+.text
+`.rdata
+@.data
+.pdata
+@_RDATA
+@.rsrc
+@.reloc
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+t$8H
+|$@H
+\$0H
+t$8H
+|$@H
+\$0H
+t$8H
+|$@H
+\$0H
+t$8H
+|$@H
+\$0H
+t$8H
+|$@H
+\$0H
+t$8H
+|$@H
+\$0H
+t$8H
+|$@H
+\$0H
+\$0H
+\$0H
+t$8H
+t$8H
+\$0H
+\$0H
+\$0H
+t$8H
+t$8H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+t$8H
+t$8H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+)t$ H
+(t$ H
+(t$ 
+\$0H
+T$ H
+)D$ 
+\$PH
+\$0H
+)t$ H
+(t$ H
+(t$ 
+\$0H
+)t$ H
+(t$ H
+(t$ 
+\$0H
+)t$ H
+(t$ H
+(t$ 
+\$0H
+)t$ H
+(t$ H
+(t$ 
+\$0H
+)t$ H
+(t$ H
+(t$ 
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+@UWAVH
+\$@H
+t$HL
+|$PE3
+|$PH
+t$HH
+\$@H
+ A^_]
+\$0H
+t$8H
+WATAUAVAWH
+q E3
+l$(H
+D$HH
+t$8H
+l$(H
+D$@H
+t$8H
+l$HH
+|$@L
+t$ L
+\$PI
+A_A^A]A\_
+\$ H
+\$ H
+\$0fff
+\$0H
+\$0fff
+\$0H
+\$0H
+t$@H
+l$8H
+\$0H
+WATAUAVAWH
+UUUUUUU
+D$0D
+l$8H
+D$0H9X s
+l$8H
+H;Y saI9V
+t$ L
+)D$0L
+T$0I
+UUUUUUU
+\$PI
+A_A^A]A\_
+|$ UATAUAVAWH
+H9y s
+H;z 
+H9x s
+H;y s
+H9x s
+H;y s
+H9x s
+H;y 
+A_A^A]A\]
+H9P s
+H;Q 
+ATAVH
+l$03
+D$DA
+D$@@
+D$HI
+t$0H
+twfff
+l$83
+D$8H
+H9t$8t
+?H;{Hu
+D$0L
+L$4H
+A^A\
+@SUAVAWH
+HA_A^][
+d$@A
+<N#u
+f9,Cu
+t$pL
+f9,Ku
+D$xD
+|$xH
+D$0L
+|$(A
+|$ H
+D$xA
+D$0L
+\$(H
+D$0L
+|$(A
+|$ H
+D$0L
+l$(H
+t$pI
+d$@H
+HA_A^][
+H9H s
+H;J r
+|$ ATAVAWH
+d$03
+t$8I;
+d$ H
+t$(H
+|$HL
+l$8H
+tHff
+t$(L
+D$@H
+l$8H
+I)t$
+|$HL
+t$@I
+\$PI
+A_A^A\
+\$0H
+t$8H
+|$ AVH
+\$0H
+t$8A
+H9X s
+H;Y r
+t$8H
+l$@H
+|$ AVH
+H9X s
+H;Z r
+H9X s
+u1H;Z r+H;
+H;BHu
+|$XH
+t$PH
+SUVWATAUAVAWH
+l$0H
+thD;
+L9x s
+L;y r
+t$8H
+T$XI
+D$PH9X s
+T$XH
+H;Y sgH
+UUUUUUU
+t$@H
+)D$PL
+T$PH
+l$0L
+xA_A^A]A\_^][
+UVWATAUAVAWH
+D$0H
+D$(H
+\$ D
+D$ E3
+\$(H
+D$ E3
+D$(H
+D$ D
+D$ L
+u^E3
+9H sT
+D$ D
+A_A^A]A\_^]
+L$ SVH
+T$0H
+D$(H
+t$ H
+L$ SVWH
+t$ L
+0_^[
+L$ SVWH
+t$`H
+t$(H
+0_^[
+\$PH
+x AVH
+\$0H
+l$8H
+t$@H
+|$HH
+|$ AVH
+D$@@
+\$0H
+t$8H
+|$HH
+\$@H
+VWAVH
+\$xH
+@A^_^
+\$0H
+t$8H
+D$8H
+D$8H
+D$@H
+D$(H
+D$(H
+T$0H
+\$ WH
+T$PH
+L$XH
+T$PL
+L$0L
+L$`H
+L$(3
+\$hH
+@SVWH
+T$`H
+L$hH
+T$`L
+L$0L
+L$pH
+L$(3
+@_^[
+\$ UH
+M H1E
+ H3E H3E
+\$HH
+t!eH
+L$PH
+\$0H
+l$8H
+t$@H
+uxHc
+uTL+
+L$0L
+L$(H
+L$ 3
+L$PH
+D$PH
+D$@H
+D$H3
+\$0H
+\$0H
+ntelA
+GenuD
+ineI
+t(=`
+t!=p
+ w$H
+T$ H
+D$ "
+D$ $
+\$(3
+t$0H
+D$ H
+HfA;(
+fA;8unI
+fA;(t(fA98t
+\$0H
+t$8H
+|$@H
+t$ WH
+T$ H
+D$ H
+|$(L
+L$(H
+\$8H
+D$@D
+\$pH
+t$xH
+D$@H
+D$@H
+\$0H
+t$8H
+x AV
+D8L$0uP
+t$ H
+|$(A^
+L$HI
+\$0H
+t$8H
+L$0t
+L$0A
+VWATAVAWH
+ttIcF
+T$PE3
+D$PD
+\$XH
+l$`H
+ A_A^A\_^
+WATAUAVAWH
+D;9|
+d$ A
+d$0A
+\$@I
+D$(A
+D$ D
+A_A^A]A\_
+x AVH
+T$ H
+T$03
+|$(H
+(t$ H
+(t$ H
+K$E;
+t$@H
+t$8H
+D$0L
+\$`H
+(t$P
+HcE_H
+D$(I
+D$0H
+D$ H
+HcE_L
+HcEgH
+D$(I
+D$0H
+D$ H
+H;XXs
+H;xXu5
+\$0H
+p WH
+T$PH
+D$8H
+D$(H
+L$ H
+\$XH
+l$`H
+t$hH
+p WH
+T$@L
+D$@H
+D$ H
+\$`I
+t=L;
+ffff
+WATAUAVAWH
+_8M+
+l$0H
+|$8;3
+L$0I
+x}~t
+D$(I
+ tDE3
+\$@I
+A_A^A]A\_
+A	H+
+9csm
+A - 
+t7HcP
+?RCC
+?MOC
+?csm
+\$03
+\$0H
+t$8H
+(McH
+L$@I
+L$@;|
+\$0H
+tRLcY
+AUAVAWH
+u4I9}(
+;I9}(tiH
+\$PH
+t$XH
+|$`H
+0A_A^A]
+AUAVAWH
+u	9{
+u4I9}(
+;I9}(tiH
+\$PH
+t$XH
+|$`H
+0A_A^A]
+\$0H
+t$8H
+|$@H
+\$0H
+t$8H
+|$@H
+UVWATAUAVAWH
+L$PI
+|$HH
+|$0L
+l$(H
+`A_A^A]A\_^]
+UVWATAUAVAWH
+L$PI
+|$HH
+|$0L
+l$(H
+`A_A^A]A\_^]
+@USVWATAUAVAWH
+D$hH
+;csm
+C - 
+;csm
+C - 
+|$hH
+;csm
+C - 
+D$(H
+|$ E
+L$xH
+K0HcQ
+L$pL
+C0Hc	H
+D$dH
+D$hH
+D$PH
+D$@H
+D$8H
+D$0H
+D$(H
+L$xE3
+D9o t
+HcO H
+D9o t
+HcG H
+D$hH
+t$HL
+L$0I
+|$(L
+l$8M
+D$0I
+t$(H
+A_A^A]A\_^[]
+L$hH
+@USVWATAUAVAWH
+T$xI
+t)IcV
+;csm
+C - 
+;csm
+C - 
+|$xL
+;csm
+C - 
+D$(H
+t$ D
+D$hA
+E E3
+K0HcQ
+D$pHc
+d$dH
+d$dD;d$ltY
+T$xM
+D$XH
+D$PH
+D$@H
+D$8H
+d$0H
+D$(L
+L$hA
+L$h;M
+@tQI
+d$8M
+D$0I
+|$(H
+MpH3
+A_A^A]A\_^[]
+UVWATAUAVAWH
+>MOC
+>RCC
+mwtMH
+d$8I
+D$0D
+l$(H
+A_A^A]A\_^]
+l$(H
+|$ E
+t-Lck
+@uDH
+D$HH
+l$@H
+D$8H
+\$(H
+MGD;}
+@USVWATAUAVAWH
+D$pL
+>MOC
+>RCC
+D$pL
+D$xI
+|$8H
+D$0D
+d$(L
+d$(H
+t$ E
+D$`A
+@uIH
+D$pL
+D$xI
+D$HH
+d$@H
+D$8H
+D$(L
+D$hL
+L$`;M
+M(H3
+A_A^A]A\_^[]
+x AVH
+tK9_
+\$0H
+l$8H
+t$@H
+|$HH
+x AVH
+tK9_
+\$0H
+l$8H
+t$@H
+|$HH
+x AVH
+?csm
+ t]9
+HcK H
+?csm
+G0HcH
+L$8M
+L$0I
+L$(H
+D$8M
+D$0H
+D$(H
+\$`H
+l$hH
+t$pH
+|$xH
+WAVAWH
+9p@u+
+;csm
+t#D9
+t'HcW
+L$PH
+9t$Pu	
+;csm
+C09p
+C0HcH
+L$8M
+L$0I
+L$(H
+D$8M
+D$0H
+D$(H
+A_A^_
+IH9B
+tEHcR
+@SVWATAUAVAWH
+|$ D!
+L!|$(L!
+D$0H
+D$HL
+t$PH
+D$8L9
+D$(H
+|$ H
+\$(L
+l$@H
+t$PL
+d$8I
+>csm
+F - 
+D$0HcH
+pA_A^A]A\_^[
+SVWATAUAWH
+d$ D!
+L!d$(L!d$@D
+D$0H
+D$PL
+D$pH
+D$HL9gXt
+L$@A
+D$(H
+\$(I
+|$8L
+D$@L
+d$ H
+\$(H
+|$8L
+|$0L
+l$HI
+>csm
+F - 
+A_A]A\_^[
+Ic	I
+< u\A
+A A+
+B(I9A(u
+I A+
+\$0H
+L$ L
+SVWATAUAVAWH
+D$(L
+|$pL
+0A_A^A]A\_^[
+SVWATAUAVAWH
+L$pH
+L$`H
+T$xD
+D$hH
+t@HcS
+D$0H
+T$8H
+D$PH
+T$XH
+D$PH
+D$ L
+L$0E
+t$8L;
+L;t$X
+T$8H
+t$8H
+(D$0f
+T$8H
+t$8H
+D$0H
+D$ D
+L$@E
+D$`H
+t$DL
+|$pH
+|$xD
+A_A^A]A\_^[
+L$HL
+L$HH
+\$0H
+t$@H
+t$ WATAUAVAWH
+E0Lc`
+E0HcH
+~THc
+T$XL
+\$PA
+l$`H
+t$hH
+ A_A^A]A\_
+9)~P3
+\$0H
+l$8H
+t$@H
+UVWATAUAVAWH
+99~CE
+T$`H
+d$xI
+ A_A^A]A\_^]
+|$`I
+D$ f
+L$ H
+D$ f
+L$ H
+\$@H
+t$HH
+t#eH
+WATAUAVAWH
+Wu-D
+\$PH
+l$XH
+t$`H
+ A_A^A]A\_
+\$0H
+\$0H
+t$8H
+L$0H
+T$8D
+D$@H
+T$8H
+L$0H
+T$8D
+D$@H
+L$0H
+T$8H
+T$8H
+L$0H
+T$8L
+D$@D
+L$HE
+T$8A
+ffff
+ffffff
+fffffff
+ob0f
+obpf
+fffff
+D$0u
+L$0H
+\$8H
+D$0@8{
+L$0H
+\$8H
+t$@H
+\$0H
+t$8H
+UWAVH
+L$pA
+D$pH
+D$HH
+T$@I
+L$XH
+T$@L
+L$0M
+L$`H
+L$(H
+L$ 3
+t$pH
+A^_]
+D$(H
+L$hI
+p*W4H
+L$`H
+L$ L
+\$@H
+l$HH
+t$PH
+T$hH
+p*W4H
+D$`D
+D$ H
+f9,Yu
+\$@H
+l$HH
+t$PH
+l$ E3
+\$0H
+t$8H
+@UAVAWH
+l$0H
+d$(A
+\$0H
+t$(L
+\$ H
+A_A^]
+D$(H
+\$PH
+x AVH
+N0E3
+\$0H
+l$8H
+t$@H
+|$HH
+L$ WH
+\$0H
+v	H;
+\$0H
+l$8H
+t$@H
+x AUAVAWH
+l$(3
++u	A
+t	A;
+<	w	@
+t;A8
+	w	@
+A80t
+\$PH
+l$XH
+t$`H
+|$hH
+0A_A^A]
+D$(H
+t	Hcp
+HcS0
+\$@H
+l$HH
+t$PH
+D$(H
+t	Hcp
+HcS0
+\$@H
+l$HH
+t$PH
+D$(H
+t	Hcp
+HcS0
+\$@H
+l$HH
+t$PH
+A+P@H
+E+A@H
+D+A@H
+A+P@H
+E+A@H
+D+A@H
+x UAVAWH
+L$(H
+T$ L
+\$0H
+A_A^]
+s WH
+8H0t
+x,"t
+D$@H;F
+\$HH
+l$PH
+VWAVH
+D$(E3
+l$ 3
+\$XH
+l$`H
+0A^_^
+D$(H
+ t@A
+#t1A
++t"A
+kL@8o(u
+D$(H
+VWAVH
+D$(3
+ t@A
+#t1A
++t"A
+kL@8o(u
+\$XH
+l$`H
+0A^_^
+D$(H
+D$(E3
+l$ 3
+A9<Fu
+<NuA
+D$(H
+<htl<jt\<lt4<tt$<wt
+2uIH
+8<6u
+4u.H
+,X< w
+A9<Fu
+<NuA
+D$(H
+<htl<jt\<lt4<tt$<wt
+2uIH
+8<6u
+4u.H
+,X< w
+|$ UATAUAVAWH
+<Ct-<D
+<St[A:
+t'<Zt
+u<g~l<it[<ntP<ot,<pt
+<utK@:
+{,D+{HD+
+T$ L
+T$ L
+;sHu
+T$ L
+\$PI
+A_A^A]A\]
+|$ UATAUAVAWH
+<Ct-<D
+<St[@:
+t'<Zt
+u<g~l<it[<ntP<ot,<pt
+<utK@:
+u_E3
+D$ L
+uNE3
+c@E3
+D$ I
+D;sHu
+tLE3
+\$PI
+A_A^A]A\]
+t$ WH
+A9,A$
+y9gt
+y9Gu
+D$`M
+L$0H
+l$(H
+T$ H
+C9,G
+K(@H
+,I<%w
+C9sH
+\$hH
+L$ H
+D$(H
+HcC H
+\$@H
+K@Ic
+K@Ic
+\$0H
+t$8H
+x AVH
+?H+A
+\$0H
+l$8H
+t$@H
+|$HH
+WAVAWH
+t$`I
+^,tyI
+~,*u<I
+l$HH
+\$@H
+t$PH
+ A_A^_
+@USWH
+D$(E3
+@USVWATAVAWH
+d$PI
+d$`H
+d$xL
+D9%J
+D$hM
+D$(E3
+d$ 3
+d$IfD
+d$MD
+d$OH
+t$0H
+\$8L
+d$@A
+d$HH
+D$PD
+D$0D
+D$@H;
+xVH;
+D$@H;
+D$@H;
+\$|H
+X D8e
+A_A^A\_^[]
+\$0H
+p0R^G'
+\$0H
+98t H
+\$0H
+l$8H
+t$@H
+L$ WH
+\$0H
+u3HcH<H
+\$`H
+D$HH
+p{Z^
+L$HH
+x ATAVAWH
+|$`M
+< t=<	t9
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+UVWAVAWH
+@8>u
+D$ E3
+H9:t
+H98u
+0A_A^_^]
+\$0H
+x AVH
+<=t5
+\$@H
+l$HH
+t$PH
+|$XH
+\$0H
+L$ WH
+\$0H
+WAVAWH
+\$@H
+l$HH
+t$PH
+ A_A^_
+D$XM
+L$ WH
+\$0H
+L$ WH
+\$0H
+L$ WH
+\$0H
+L$ WH
+\$0H
+\$0H
+\$0H
+t$8H
+\$0H
+t$8H
+t$8H
+\$0H
+L$ WH
+\$ H
+H93t
+\$@H
+t$HH
+D$8I
+D$@I
+t6SH
+wu	H
+wu	I
+fA9	t	I
+fA9	
+D$(H
+\$`H
+l$hH
+t$pH
+WATAUAVAWH
+\$PH
+l$XH
+t$`H
+ A_A^A]A\_
+p0R^G'
+\$0H
+t$8H
+L$8H
+L$(H
+D$ I
+\$`H
+l$hH
+t$pH
+\$0H
+\$$;
+tmHc
+D$ H
+D$ H
+\$HH
+L$ WH
+\$0H
+L$ VWAVH
+\$8I;
+D$ H
+D$ L
+D$@H
+D$HH
+L$PH
+T$XH
+D$ H
+D$(H
+D$0L
+L$(L
+D$@H
+T$0H
+`A^_^
+EE(H
+\$0H
+l$8H
+t$@H
+|$xH
+x AVH
+fD9t$b
+D$hH
+x AVH
+\$0H
+l$8H
+t$@H
+|$HH
+WATAUAVAWH
+L$(E3
+\$ 3
+D$HH
+D$8H
+|$(H
+D8[(u
+d|3H
+gfffffffH
+\$PI
+A_A^A]A\_
+{ AVH
+|$@-D
+D$(3
+D$@L
+t$8D
+D$(H
+\$`H
+l$hH
+t$pH
+|$xH
+{ AUAVAWH
+\$PH
+l$XH
+t$`H
+|$hH
+0A_A^A]
+t$xt*3
+80tWD
+gfffA
+D$DE3
+|$@-D
+l$0D
+D$(H
+T$ I
+l$(L
+L$@D
+\$`H
+l$hH
+t$pH
+WAVAWH
+|$hA
+\$@3
+l$HH
+t$PH
+ A_A^_
+s AWH
+|$DE3
+|$@-D
+D$(A
+L$ H
+L$@H
+}5D;
+L$@L
+t$(H
+D$@D
+t$8H
+\$`H
+l$hH
+|$pL
+t$xH
+x ATAVAWH
+L9?|
+L9?}
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+T$8I
+D$(L
+D$ M
+D$8H
+D$(L
+D$ M
+T$8I
+D$(L
+D$ M
+T$8I
+D$(L
+D$ M
+\$`H
+t$hH
+L$ VWAVH
+8_(u
+L$xH
+D$hL
+\$hI
+8_0t
+\$`H
+l$pH
+@A^_^
+\$hH
+D$8L
+D$xH
+\$0A
+l$(3
+9\$hu
+w,E3
+|$(E3
+x AVH
+D82u
+E8q(u
+\$ L
+fD94H}aD
+~+A;
+D$(H
+D$(A
+\$@H
+l$HH
+t$PH
+|$XH
+\$0H
+t7SH
+\$0eH
+H 9Y
+x AVH
+u$D8r(t
+D81uUL9r
+uED8r(t
+t$(L
+vAD8s(t
+T$(L
+D$ A
+\$@H
+l$HH
+t$PH
+|$XH
+x AVH
+u$D8r(t
+fD91uTL9r
+uED8r(t
+t$8A
+t$0L
+t$(3
+v@D8s(t
+t$8L
+T$(3
+\$PH
+l$XH
+t$`H
+|$hH
+UVWATAUAVAWH
+EH*?H
+UPL+
+tLH+
+PA_A^A]A\_^]
+WATAUAVAWH
+@84)u
+\$`H
+l$hH
+t$pH
+0A_A^A]A\_
+H97u+A
+mL+7H
+t$ E3
+@USVWATAUAVH
+,/<-w
+t$@H
+t$PH
+L$pL
+t$XM
+t$`L#
+t$h3
+D$0H
+L$PL
+t$(L
+t$ I
+D8t$ht
+I+4$H
+D$0H
+0<.u
+ut8E
+l$8H
+D8t$ht
+A^A]A\_^[]
+@8j(t
+f9)u4H9j
+u%@8j(t
+l$8A
+l$0L
+l$(3
+@8k(t
+l$8L
+l$03
+\$PH
+l$XH
+t$`H
+L$(H
+\$H3
+D$PH
+D$`H
+D$0A
+8D$@t
+D$ H
+T$HH
+D$hH
+L$ WH
+D$XH
+L$ H
+D$(H
+L$0H
+\$PH
+\$0H
+D$VH
+D$p 
+D$8H
+\$0H
+D$8H
+\$0H
+EpL+
+UWAVH
+D$0L
+L$$H
+D$8L
+T$(H
+A^_]
+\$0H;
+L$0H;
+\$8H
+t$@H
+l$ VWATAVAWH
+D$8H
+L$&8\$&t,8Y
+t>8Z
+L$8H3
+\$@I
+A_A^A\_^
+D$(H
+\$PH
+t$XH
+*u/3
+D$HE
+L$@L
+D$HL
+L$@E
+x AVH
+f90t
+f9tE
+t$8H+
+t$0H
+t$(3
+t$ 3
+t$8D
+t$0L
+t$(3
+\$PH
+l$XH
+t$`H
+|$hH
+\$0H
+l$8H
+t$@H
+t;H;
+p;Y>u
+\$0H
+t$8H
+p;Y>u
+L$ WH
+\$0H
+D$8I
+D$@I
+\$ VWATAUAVH
+D!l$xA
+@A^A]A\_^
+D$0I
+D$(H;
+pqTX
+\$0H
+l$8H
+t$@H
+t0SH
+\$0H
+\$0H
+K H;
+K(H;
+K0H;
+K8H;
+K@H;
+KHH;
+KhH;
+KpH;
+KxH;
+tfSH
+KXH;
+K`H;
+\$0H
+\$0H
+l$8H
+@UATAUAVAWH
+l$0H
+\$0H
+t$(M
+M H3
+e0A_A^A]A\]
+WAVAWH
+\$@H
+l$HH
+t$PH
+ A_A^_
+\$HH
+\$@H
+t$HH
+|$xH
+L$ WH
+\$0H
+T$XL
+L$PH
+T$XH
+D$ L
+D$ H
+UVWATAUAVAWH
+A8}(u
+@88t
+l$ L
+D$ L
+fB9<A}1L
+|$8H
+D$ E
+|$ L
+D$@H
+|$ L
+T$@I
+~$I+
+A_A^A]A\_^]
+VWAV
+\$@H;
+D$@+
+L$0D
+T$@I
+A^_^
+VWAV
+\$@H;
+D$@H+
+L$0H
+A^_^
+VWATAVAW
+D$PI;
+L$PH
+D$PH+
+D$(U
+L$ D
+L$@D
+t$@;
+A_A^A\_^
+AUAVAWH
+L$0J
+\$(A
+\$hH
+|$pL
+d$xH
+@A_A^A]
+@USVWATAUAVAWH
+\$(H
+@8{(u
+\$ M
+H!D$ I
+hA_A^A]A\_^[]
+\$0H
+t$@H
+l$8H
+\$0H
+t$8H
+\$@H
+t$HH
+|$PH
+\$ ;
+\$0H
+t$8H
+|$@H
+s*Hc
+x ATAVAWH
+D$(E3
+u7H;
+?0t*
+\$PH
+l$XH
+t$`H
+|$hH
+0A_A^A\
+SUVWATAVAWH
+D$TH
+l$PL
+l$8L
+D$@L
+L$0E;
+L$@E
+D$(I
+D$(3
+D$0L
+\$ M
+\$8A
+L$0L
+A_A^A\_^][
+@USVWATAVAWH
+L$`L
+t$xL
+D$`A
+|$hH
+tDA+
+t6A+
+t(A;
+D$PH
+T$PL
+t$XI
+swkA
+swkA
+svDE3
+tvE3
+t$xH
+\$<H
+T$0E
+u!E;
+st]A
+\$<A
+L$PH
+T$0E
+L$@H
++L$DA
+t[E3
+\$@H
+T$PE
+u!E;
+st]A
+\$@A
+T$PE
+T$<L
++T$H
+A_A^A\_^[]
+\$0H
+t$8H
+D$pH
+L$0H
+WATAUAVAWH
+l$ H
+l$ H
+\$hH
+l$pH
+0A_A^A]A\_
+B8 t
+T$0A
+\$8H
+l$@H
+t$HH
+D$83
+T$0H
+D$0H9D$8
+\$0H
+t$8H
+s&Hc
+ATAUAVH
+L$ fff
+t$I+
+L$ H
+L$ |+L;
+L$ I;
+L$ L;
+A^A]A\
+\$0A
+t$8H
+D$@3
+L$@H3
+L$0H
+\$PH
+@UATAUAVAWH
+l$PH
+Hcu`M
+|$PH
+|$(D
+D$(I
+\$PH
+t$(I
+H!T$0D
+u,!T$(H!T$ 
+D$(H
+A_A^A]A\]
+D$@L
+D$8H
+D$0H
+\$pI
+\$0H
+L$ WH
+\$0H
+x`D;
+D$`H
+T$@D
+D$xH
+T$0D
+D$0L
+L$xL
+D$8H
+D$8H
+\$0H
+t$8H
+AUAVAWH
+L$0J
+\$(A
+\$hH
+|$pL
+d$xH
+@A_A^A]
+D$ H
+D$ H
+\$@H
+l$HH
+t$PH
+\$pH
+|$xH
+D$09
+D$49C
+D$8H
+@CH;
+ot$ H
+ffffff
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+ot$ H
+fffffff
+ot$ H
+t'H;
+ot$ H
+@SUVWATAVAWH
+D$0H
+fE9Z
+L$0H3
+@A_A^A\_^][
+\$0H
+\$0D
+\$(H
+\$PH
+t$`H
+ATAVAWH
+\$@=
+\$@A
+\$HH
+t$PH
+ A_A^A\
+D$@H
+t$83
+USVWAVH
+D$HH
+D$@H
+D$@H
+D$(H
+T$HH
+L$PH
+D$HM
+D$@H
+A^_^[]
+T$ H
+D$ D
+D$8A
+D$("
+t$xL
+(t$PH
+D$xH
+D$(H
+D$pH
+t>H=
+t&H=
+!P H
+!P`H
+A A#
+B`A#
+\$8H
+t$@H
+|$HH
+t$ WH
+\$@H
+t$HH
+LcA<E3
+t"H+
+\$0H
+u HcA<H
+x AVH
+\$0H
+l$8H
+t$@H
+|$HH
+x AVH
+\$0H
+l$8H
+t$@H
+|$HH
+;csm
+\$0H
+T$ L
+@SUH
+D$ L
+@SUH
+D$ L
+@SUH
+8csm
+@SUH
+;csm
+C - 
+@SUH
+;csm
+C - 
+ctlWaitForPropertyChange
+ctlReservedCall
+ctlGetSupported3DCapabilities
+ctlGetSet3DFeature
+ctlCheckDriverVersion
+ctlEnumerateDisplayOutputs
+ctlGetDeviceProperties
+ctlGetDisplayProperties
+ctlGetAdaperDisplayEncoderProperties
+ctlGetZeDevice
+ctlGetSharpnessCaps
+ctlGetCurrentSharpness
+ctlSetCurrentSharpness
+ctlI2CAccess
+ctlAUXAccess
+ctlGetPowerOptimizationCaps
+ctlGetPowerOptimizationSetting
+ctlSetPowerOptimizationSetting
+ctlPixelTransformationGetConfig
+ctlPixelTransformationSetConfig
+ctlPanelDescriptorAccess
+ctlGetSupportedRetroScalingCapability
+ctlGetSetRetroScaling
+ctlGetSupportedScalingCapability
+ctlGetCurrentScaling
+ctlSetCurrentScaling
+ctlGetLACEConfig
+ctlSetLACEConfig
+ctlSoftwarePSR
+ctlGetIntelArcSyncInfoForMonitor
+ctlGetIntelArcSyncProfile
+ctlSetIntelArcSyncProfile
+ctlEnumEngineGroups
+ctlEngineGetProperties
+ctlEngineGetActivity
+ctlEnumFans
+ctlFanGetProperties
+ctlFanGetConfig
+ctlFanSetDefaultMode
+ctlFanSetFixedSpeedMode
+ctlFanSetSpeedTableMode
+ctlFanGetState
+ctlEnumFrequencyDomains
+ctlFrequencyGetProperties
+ctlFrequencyGetAvailableClocks
+ctlFrequencyGetRange
+ctlFrequencySetRange
+ctlFrequencyGetState
+ctlFrequencyGetThrottleTime
+ctlGetSupportedVideoProcessingCapabilities
+ctlGetSetVideoProcessingFeature
+ctlEnumMemoryModules
+ctlMemoryGetProperties
+ctlMemoryGetState
+ctlMemoryGetBandwidth
+ctlOverclockGetProperties
+ctlOverclockWaiverSet
+ctlOverclockGpuFrequencyOffsetGet
+ctlOverclockGpuFrequencyOffsetSet
+ctlOverclockGpuVoltageOffsetGet
+ctlOverclockGpuVoltageOffsetSet
+ctlOverclockGpuLockGet
+ctlOverclockGpuLockSet
+ctlOverclockVramFrequencyOffsetGet
+ctlOverclockVramFrequencyOffsetSet
+ctlOverclockVramVoltageOffsetGet
+ctlOverclockVramVoltageOffsetSet
+ctlOverclockPowerLimitGet
+ctlOverclockPowerLimitSet
+ctlOverclockTemperatureLimitGet
+ctlOverclockTemperatureLimitSet
+ctlPowerTelemetryGet
+ctlPciGetProperties
+ctlPciGetState
+ctlEnumPowerDomains
+ctlPowerGetProperties
+ctlPowerGetEnergyCounter
+ctlPowerGetLimits
+ctlPowerSetLimits
+ctlEnumTemperatureSensors
+ctlTemperatureGetProperties
+ctlTemperatureGetState
+Unknown exception
+bad array new length
+map/set too long
+CAPILoader: %d:%s(): 
+Removing adapter ID: 0x%X:0x%X
+ClearOldRTHandleDuplicates
+Calling LoadLibrary(%ws)
+ctlInitPerAdapter
+ctlSetRuntimePath
+pfnSetRuntimePath() returned 0x%X
+ctlInit
+ctlClose
+Result = %d
+Retrieved PCIPath = %ws
+GetControlLibRTPath
+Constructed Registry path = %ws
+Retrieved driver entry = %ws
+Not able to read registry value for runtime
+Returned = %ws
+Already initialized, returning already init data
+ctlInit2
+Overrall Result = %d
+ext-ms-win-setupapi-classinstallers-l1-1-0
+ext-ms-win-setupapi-classinstallers-l1-1-2
+SetupDiGetDeviceInterfaceDetail(): %ws
+ctlInitPerAdapter() succeeded. RT API version = 0x%X
+ctlInitPerAdapter() failed, so ignoring
+Already loaded, ignoring
+ctlClose2
+ctlEnumerateDevices
+Not able to get ctlEnumerateDevices from hLib = 0x%X
+ctlEnumerateDevices2_GetDeviceCount
+phTempDevices is NULL!!
+%d handles added to runtime list
+%d adapters from hLib = 0x%X
+ctlEnumerateDevices2
+list too long
+ntdll.dll
+ApiSetQueryApiSetPresence
+ApiSetQueryApiSetPresenceEx
+bad allocation
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ new
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`RTTI
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+operator<=>
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`anonymous namespace'
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+(null)
+CorExitProcess
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+AreFileApisANSI
+LCMapStringEx
+LocaleNameToLCID
+AppPolicyGetProcessTerminationMethod
+NAN(SNAN)
+nan(snan)
+NAN(IND)
+nan(ind)
+e+000
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+d8L2
+[aOni*{
+@2&@
+"RP(
+eLK(w
+FEMh
+h0'D
+owM&
+~ $s%r
+@b;zO]
+$qE}
+;*xh
+["93
+iu+-,
+\lo}
+obwQ4
+&Sgw
+R	E]
+?nz(
+=87M
+v2!L.2
+	cQr
+X/4B
+k=yI
+^<V7w
+W&|.
+1#INF
+1#QNAN
+1#SNAN
+1#IND
+UUUUUU
+UUUUUU
+TUUUU
+#Ib?
+=imb;D
+=W>6
+:		r
+>[^j
+>Kb|
++>De
+1<.	/>:
+11Y@
+/>58d%
+MJ$>
+>cQ6
+!>6'Y
+>jtm}S
+>77:
+)>6{1n
+r	Vr.>T
++f)>0'
+Lj[;>
+3>fvw
+;H9>&X
+*StO9>T
+.>Tu
+.(!>
+n03>Pu
+/>	V
+S9>H
+x.&>
+K~Je#>!
+-/!>
+(>aI
+=cQ6
++M<7>
+*>f[
+o ->
+l(>>
+c(>\,
+ET5>
+;>9l
+mG4>
+bp(=>?g
+36,>
+37>k
+~X3>
+6>J`
+?>!T
+BC?>6t9^	c:>
+8'>0
+'._M
+=4<,
+BF>^G
+K&>.yC
+ 'L>[
+.xJ>Hf
+y\PD>!
+|b=})>
+c [1>H'
+dL?>
+uzKs@>
+3>N;kU
+	kE>fvw
+eF>t
+L>ev
+A>pP&
+V6E>`"(5
+,=>B
+">}t
+0iN>/
++h->|
+@>%>b
+?qBJ
+l@6 
+?-hk
+OZQ%
+-)4d
+?:kP<
+?UUUUUU
+?f`Y4
+?QY^&
+?U)#
+?ysB
+?$G4
+?30]
+?7zQ6$
+log10
+RSDS
+cH*T(
+D:\qb\workspace\27479\source\output\dump64\CtlApi\bin\Release\ControlLib.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.gfids
+.rdata
+.rdata$r
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.bss
+.pdata
+_RDATA
+.rsrc$01
+.rsrc$02
+@b`4
+ControlLib.dll
+ctlAUXAccess
+ctlCheckDriverVersion
+ctlClose
+ctlEngineGetActivity
+ctlEngineGetProperties
+ctlEnumEngineGroups
+ctlEnumFans
+ctlEnumFrequencyDomains
+ctlEnumMemoryModules
+ctlEnumPowerDomains
+ctlEnumTemperatureSensors
+ctlEnumerateDevices
+ctlEnumerateDisplayOutputs
+ctlFanGetConfig
+ctlFanGetProperties
+ctlFanGetState
+ctlFanSetDefaultMode
+ctlFanSetFixedSpeedMode
+ctlFanSetSpeedTableMode
+ctlFrequencyGetAvailableClocks
+ctlFrequencyGetProperties
+ctlFrequencyGetRange
+ctlFrequencyGetState
+ctlFrequencyGetThrottleTime
+ctlFrequencySetRange
+ctlGetAdaperDisplayEncoderProperties
+ctlGetCurrentScaling
+ctlGetCurrentSharpness
+ctlGetDeviceProperties
+ctlGetDisplayProperties
+ctlGetIntelArcSyncInfoForMonitor
+ctlGetIntelArcSyncProfile
+ctlGetLACEConfig
+ctlGetPowerOptimizationCaps
+ctlGetPowerOptimizationSetting
+ctlGetSet3DFeature
+ctlGetSetRetroScaling
+ctlGetSetVideoProcessingFeature
+ctlGetSharpnessCaps
+ctlGetSupported3DCapabilities
+ctlGetSupportedRetroScalingCapability
+ctlGetSupportedScalingCapability
+ctlGetSupportedVideoProcessingCapabilities
+ctlGetZeDevice
+ctlI2CAccess
+ctlInit
+ctlMemoryGetBandwidth
+ctlMemoryGetProperties
+ctlMemoryGetState
+ctlOverclockGetProperties
+ctlOverclockGpuFrequencyOffsetGet
+ctlOverclockGpuFrequencyOffsetSet
+ctlOverclockGpuLockGet
+ctlOverclockGpuLockSet
+ctlOverclockGpuVoltageOffsetGet
+ctlOverclockGpuVoltageOffsetSet
+ctlOverclockPowerLimitGet
+ctlOverclockPowerLimitSet
+ctlOverclockTemperatureLimitGet
+ctlOverclockTemperatureLimitSet
+ctlOverclockVramFrequencyOffsetGet
+ctlOverclockVramFrequencyOffsetSet
+ctlOverclockVramVoltageOffsetGet
+ctlOverclockVramVoltageOffsetSet
+ctlOverclockWaiverSet
+ctlPanelDescriptorAccess
+ctlPciGetProperties
+ctlPciGetState
+ctlPixelTransformationGetConfig
+ctlPixelTransformationSetConfig
+ctlPowerGetEnergyCounter
+ctlPowerGetLimits
+ctlPowerGetProperties
+ctlPowerSetLimits
+ctlPowerTelemetryGet
+ctlReservedCall
+ctlSetCurrentScaling
+ctlSetCurrentSharpness
+ctlSetIntelArcSyncProfile
+ctlSetLACEConfig
+ctlSetPowerOptimizationSetting
+ctlSetRuntimePath
+ctlSoftwarePSR
+ctlTemperatureGetProperties
+ctlTemperatureGetState
+ctlWaitForPropertyChange
+SetupDiDestroyDeviceInfoList
+SetupDiEnumDeviceInterfaces
+SetupDiGetDeviceInterfaceDetailW
+SetupDiGetClassDevsW
+SETUPAPI.dll
+GetProcAddress
+OutputDebugStringA
+GetLastError
+FreeLibrary
+LoadLibraryW
+RegGetValueW
+KERNEL32.dll
+RtlInitAnsiString
+GetVersion
+GetModuleHandleA
+RtlFreeUnicodeString
+RtlAnsiStringToUnicodeString
+ADVAPI32.dll
+ntdll.dll
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+GetStartupInfoW
+GetModuleHandleW
+RtlPcToFileHeader
+RaiseException
+RtlUnwindEx
+InterlockedFlushSList
+SetLastError
+EncodePointer
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+LoadLibraryExW
+ExitProcess
+GetModuleHandleExW
+GetModuleFileNameW
+HeapFree
+HeapAlloc
+FlsAlloc
+FlsGetValue
+FlsSetValue
+FlsFree
+LCMapStringW
+GetStdHandle
+GetFileType
+FindClose
+FindFirstFileExW
+FindNextFileW
+IsValidCodePage
+GetACP
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetCommandLineW
+MultiByteToWideChar
+WideCharToMultiByte
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetProcessHeap
+GetStringTypeW
+FlushFileBuffers
+WriteFile
+GetConsoleOutputCP
+GetConsoleMode
+SetStdHandle
+GetFileSizeEx
+SetFilePointerEx
+HeapSize
+HeapReAlloc
+CloseHandle
+CreateFileW
+WriteConsoleW
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVbad_array_new_length@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVbad_exception@std@@
+.?AVtype_info@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+210617175559Z
+220616175559Z0
+Washington1
+Redmond1
+Microsoft Corporation1;09
+2Microsoft Windows Hardware Compatibility Publisher0
+PS-2O[|
+'W);
+E0C1)0'
+ Microsoft Operations Puerto Rico1
+232825+4661110
+!vOR
+m0k0i
+chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crl0
+u0s0q
+ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crt0
+gKo(
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+120418234838Z
+270418235838Z0
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+^W1&
+-g<'<V
+}PH.=C
+!vOR
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+i+w#
+ip(sf
+83ha
+p%|Yi1$
+pCq<
+fvr`
+/^ r
+ot?`
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 2012
+1>0<
+(https://www.microsoft.com/en-us/windows 0
+@%tz?j
+;	7?
+20220426043808.478Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:49BC-E37A-233C1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+211202190514Z
+230228190514Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:49BC-E37A-233C1%0#
+Microsoft Time-Stamp Service0
+Q:X%
+VfL$
+m}oaT
+*eI1
+"4eqI
+D!0}
+#[pS`
+\1Ts
+a#xa
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+(jrd
+PX;*
+oEtG
+:.zc
+;t>v!n
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+`}jR
+q\Q17
+&S|9a
+0\O,
+s=CN
+!]_0t
+\RQ]
+<F5)
+U0S0Q
+0A0?
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,	x
+J>f;O
+ctH,
+WITd
+!TkjE
+Af=i
+AI~~
+$5g+
+'B=%
+tt[j
+pcSM
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:49BC-E37A-233C1%0#
+Microsoft Time-Stamp Service
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20220426082149Z
+20220427082149Z0t0:
+1,0*0
+1(0&0
+D7MQ
+$HF]
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+-j!=
+V&~e
+1|t>o
+,<.C
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+ +@ {
+tk7^
+~LnF
+KN*a
+.|fq
+{7!T
+<uRC
+)},!
+m$+~

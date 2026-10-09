@@ -1,0 +1,545 @@
+ckernel32.dll
+ERROR : Unable to initialize critical section in CAtlBaseModule
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+(null)
+mscoree.dll
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+en-US
+         (((((                  H
+         (((((                  H
+      (                          
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+ntdll
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+ext-ms-
+ja-JP
+zh-CN
+ko-KR
+zh-TW
+zh-CHS
+ar-SA
+bg-BG
+ca-ES
+cs-CZ
+da-DK
+de-DE
+el-GR
+fi-FI
+fr-FR
+he-IL
+hu-HU
+is-IS
+it-IT
+nl-NL
+nb-NO
+pl-PL
+pt-BR
+ro-RO
+ru-RU
+hr-HR
+sk-SK
+sq-AL
+sv-SE
+th-TH
+tr-TR
+ur-PK
+id-ID
+uk-UA
+be-BY
+sl-SI
+et-EE
+lv-LV
+lt-LT
+fa-IR
+vi-VN
+hy-AM
+az-AZ-Latn
+eu-ES
+mk-MK
+tn-ZA
+xh-ZA
+zu-ZA
+af-ZA
+ka-GE
+fo-FO
+hi-IN
+mt-MT
+se-NO
+ms-MY
+kk-KZ
+ky-KG
+sw-KE
+uz-UZ-Latn
+tt-RU
+bn-IN
+pa-IN
+gu-IN
+ta-IN
+te-IN
+kn-IN
+ml-IN
+mr-IN
+sa-IN
+mn-MN
+cy-GB
+gl-ES
+kok-IN
+syr-SY
+div-MV
+quz-BO
+ns-ZA
+mi-NZ
+ar-IQ
+de-CH
+en-GB
+es-MX
+fr-BE
+it-CH
+nl-BE
+nn-NO
+pt-PT
+sr-SP-Latn
+sv-FI
+az-AZ-Cyrl
+se-SE
+ms-BN
+uz-UZ-Cyrl
+quz-EC
+ar-EG
+zh-HK
+de-AT
+en-AU
+es-ES
+fr-CA
+sr-SP-Cyrl
+se-FI
+quz-PE
+ar-LY
+zh-SG
+de-LU
+en-CA
+es-GT
+fr-CH
+hr-BA
+smj-NO
+ar-DZ
+zh-MO
+de-LI
+en-NZ
+es-CR
+fr-LU
+bs-BA-Latn
+smj-SE
+ar-MA
+en-IE
+es-PA
+fr-MC
+sr-BA-Latn
+sma-NO
+ar-TN
+en-ZA
+es-DO
+sr-BA-Cyrl
+sma-SE
+ar-OM
+en-JM
+es-VE
+sms-FI
+ar-YE
+en-CB
+es-CO
+smn-FI
+ar-SY
+en-BZ
+es-PE
+ar-JO
+en-TT
+es-AR
+ar-LB
+en-ZW
+es-EC
+ar-KW
+en-PH
+es-CL
+ar-AE
+es-UY
+ar-BH
+es-PY
+ar-QA
+es-BO
+es-SV
+es-HN
+es-NI
+es-PR
+zh-CHT
+af-za
+ar-ae
+ar-bh
+ar-dz
+ar-eg
+ar-iq
+ar-jo
+ar-kw
+ar-lb
+ar-ly
+ar-ma
+ar-om
+ar-qa
+ar-sa
+ar-sy
+ar-tn
+ar-ye
+az-az-cyrl
+az-az-latn
+be-by
+bg-bg
+bn-in
+bs-ba-latn
+ca-es
+cs-cz
+cy-gb
+da-dk
+de-at
+de-ch
+de-de
+de-li
+de-lu
+div-mv
+el-gr
+en-au
+en-bz
+en-ca
+en-cb
+en-gb
+en-ie
+en-jm
+en-nz
+en-ph
+en-tt
+en-us
+en-za
+en-zw
+es-ar
+es-bo
+es-cl
+es-co
+es-cr
+es-do
+es-ec
+es-es
+es-gt
+es-hn
+es-mx
+es-ni
+es-pa
+es-pe
+es-pr
+es-py
+es-sv
+es-uy
+es-ve
+et-ee
+eu-es
+fa-ir
+fi-fi
+fo-fo
+fr-be
+fr-ca
+fr-ch
+fr-fr
+fr-lu
+fr-mc
+gl-es
+gu-in
+he-il
+hi-in
+hr-ba
+hr-hr
+hu-hu
+hy-am
+id-id
+is-is
+it-ch
+it-it
+ja-jp
+ka-ge
+kk-kz
+kn-in
+kok-in
+ko-kr
+ky-kg
+lt-lt
+lv-lv
+mi-nz
+mk-mk
+ml-in
+mn-mn
+mr-in
+ms-bn
+ms-my
+mt-mt
+nb-no
+nl-be
+nl-nl
+nn-no
+ns-za
+pa-in
+pl-pl
+pt-br
+pt-pt
+quz-bo
+quz-ec
+quz-pe
+ro-ro
+ru-ru
+sa-in
+se-fi
+se-no
+se-se
+sk-sk
+sl-si
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sq-al
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+sv-fi
+sv-se
+sw-ke
+syr-sy
+ta-in
+te-in
+th-th
+tn-za
+tr-tr
+tt-ru
+uk-ua
+ur-pk
+uz-uz-cyrl
+uz-uz-latn
+vi-vn
+xh-za
+zh-chs
+zh-cht
+zh-cn
+zh-hk
+zh-mo
+zh-sg
+zh-tw
+zu-za
+CONOUT$
+WMI:Connect ConnectServer failed!
+ Error(%x)
+WMI:Connect Server failed!
+ Error(%x)
+WMI:EnumInstances SysAllocString failed!
+ Error
+WMI:ExecMethodWMI SysAllocString failed!
+ Error 
+WMI:Get method successfully
+WMI:ExecMethodWMI put var failed! error=0x%x
+WMI:ExecMethodWMI SpawnInstance failed! error=0x%x
+WMI:ExecMethodWMI get method(%s) failed! error=0x%x
+WMI:ExecMethodWMI get object failed! error=0x%x
+WMI:ExecMethodWMI reconnect com server.
+ReleaseWmi fatal error!
+get Feature Capbilty failed %d
+SYSTEM\CurrentControlSet\Services\LenovoFnAndFunctionKeys\Capbility
+SupportPanelRefeshRate
+get Feature Capbilty failed 
+SupportServiceKey
+LenovoUtilityService
+install
+Lenovo Utility Service
+remove
+console
+Service failed to run w/err 0x%08lx
+Parameters:
+ -install  to install the service.
+ -remove   to remove the service.
+ -console  to run in console mode.
+mmstate
+ g_lsk.LSK_SetFeature(SET_KBD_MIC_LED_OFF return failed
+ g_lsk.LSK_SetFeature __outParam return 1 
+ g_lsk.LSK_SetFeature(SET_KBD_MIC_LED_ON return failed
+CUtilityService CreateThreadpoolTimer() return failed! error: %d
+%d: %ls
+ Mark Feature Capbilty return success
+:CUtilityService::ServiceWorkerThread LaunchFnHotkeyUtilityProcess return success
+:CUtilityService::ServiceWorkerThread LaunchFnHotkeyUtilityProcess return fail, error: %d
+UtilityService::OnStart enter.
+CppWindowsService in OnStart
+CreateThreadpoolWork failed
+CUtilityService::OnStart CreateThreadpoolWork() return fail, error: %d
+CUtilityService::OnStop enter.
+CppWindowsService in OnStop
+FnHotkeyUtility.exe
+IsExistUtilityProcess The "%s" process is existance. Its session id is %u
+SeDebugPrivilege
+TerminateProcess error :%d 
+GetCurrentUserNameAndSessionId WTSGetActiveConsoleSessionId() return fail, error: 0x%x
+winsta0\default
+CreateProcessInUserSession CreateProcessAsUser() return fail, error: %d
+LaunchLenovoUtilityAppx GetModuleFileName() return fail, error: %d
+Launch Utility ProcessAgent exe were  signature  
+LaunchLenovoUtilityAppx wsAppPathAndCmd is "%s"
+success.
+failure!
+LaunchLenovoUtilityAppx Create "%s" process %s
+LaunchLenovoUtilityAppx "%s" process exit, It's return code is 0x%x
+LaunchUserProcess wsAppPathAndCmd is "%s"
+LaunchUserProcess Create "%s" process %s
+LaunchUserProcess "%s" process exit, It's return code is 0x%x
+::UtilityPackageCheckDelayTimerCallback CUtilityService is NULL!
+::UtilityPackageCheckDelayTimerCallback m_pDirectoryWatcherMutex is NULL
+::UtilityPackageCheckDelayTimerCallback  +++++++++++++++++++++ %d +++++++++++++++++++++ 
+::UtilityPackageCheckDelayTimerCallback LaunchFnHotkeyUtilityProcess sucess
+::UtilityPackageCheckDelayTimerCallback LaunchFnHotkeyUtilityProcess fail
+::UtilityPackageCheckDelayTimerCallback  ----- %d ------ 
+SERVICE_STOPPED  IsExistHotkeyUtilityProcessAndKill   fail GetLastError: %d
+::OnServiceControlHandle User Session WTS_CONSOLE_CONNECT
+OnServiceControlHandle CreateThread _Thread_HotkeyUtilityProcessAndKill fail GetLastError: %d
+:CUtilityService::g_HandleMicMuteLEDInterface LSK_SetFeature, error: %d
+:CUtilityService::g_HandleMicMuteLEDInterface pGetState, error: %d
+::OnServiceControlHandle User Session WTS_CONSOLE_DISCONNECT
+::OnServiceControlHandle User Logged on
+:CUtilityService::g_HandleMicMuteLEDInterface LSK_SetFeature1, error: %d
+:CUtilityService::g_HandleMicMuteLEDInterface LSK_SetFeature, error1: %d
+:CUtilityService::g_HandleMicMuteLEDInterface pGetState1, error: %d
+::OnServiceControlHandle User Logged off
+::OnServiceControlHandle User Session Locked
+dwEvent::OnServiceControlHandle User Session %d
+::OnServiceControlHandle Syetem Shutdown
+ Lenovo utility svc  SVC_CTL_SEND_UI_METRICS_ON_VER  inter
+ -UIMERTICSON
+:CUtilityService::OnServiceControlHandle SVC_CTL_SEND_UI_METRICS_ON_VER return fail, error: %d
+ Lenovo utility svc   SVC_CTL_SEND_UI_METRICS_OFF_VER  inter
+ -UIMERTICSOFF
+:CUtilityService::OnServiceControlHandle SVC_CTL_SEND_UI_METRICS_OFF_VER return fail, error: %d
+SERVICE_CONTROL_POWEREVENT
+Svc Suspend control event received.
+Svc RESUMECRITICAL control event received.
+Svc RESUMEAUTOMATIC control event received.
+SVC_CTL_SEND_UI_CAPSLOCK_ON
+ShowCapsNumlkOSD
+SYSTEM\CurrentControlSet\Services\LenovoFnAndFunctionKeys\ControlShowOSD
+LenovoUtilityService OnServiceControlHandle SVC_CTL_SEND_UI_CAPSLOCK_ON writetoReg fail! Line:% d  GetLastError : % d 
+SVC_CTL_SEND_UI_CAPSLOCK_OFF
+LenovoUtilityService OnServiceControlHandle SVC_CTL_SEND_UI_CAPSLOCK_OFF writetoReg fail!Line:% d  GetLastError : % d 
+:CUtilityService::OnServiceControlHandle LaunchFnHotkeyUtilityProcess return fail, error: %d
+:CUtilityService::g_HandleMicMuteLEDInterface LoadMicMuteInterface, error: %d
+:CUtilityService:: hMicMuteThread error: %d
+%s\%s
+CServiceBase::ServiceMain m_serviceStatusHandle is NULL! error: %d
+Provider not registered. EventRegister failed with %d
+Service trying to start.
+Service Start
+Service failed to start.
+Service Stop
+Service failed to stop.
+Service Pause
+Service failed to pause.
+Service Continue
+Service failed to resume.
+Service Shutdown
+Service failed to shut down.
+%s failed w/err 0x%08lx
+Software\Lenovo\Hotkey
+Software\Lenovo\LenovoHotkeysService
+DeleteSymbolicLink  DeleteRegValue  fail GetLastError: %d
+LenovoFnAndFunctionKeys
+*LHK2019
+System\CurrentControlSet\Enum
+GetModuleFileName failed w/err 0x%08lx
+OpenSCManager failed w/err 0x%08lx
+CreateService failed w/err 0x%08lx
+%s is installed.
+OpenService failed w/err 0x%08lx
+Stopping %s.
+%s is stopped.
+%s failed to stop.
+DeleteService failed w/err 0x%08lx
+%s is removed.
+%c:\Windows\Temp\_LenovoUtility_
+%c:\Windows\Temp\_LenovoUtility_\_FnHotkeySvcUtility.log 
+%d-%d-%d %d:%d:%d
+[%s %d] %s 
+utility log file is create failed
+Software\Lenovo\LenovoUtility\log
+LENOVO_UTILITY_DATA
+Data
+ROOT\WMI
+featuretype
+SetFeature
+__PATH
+Utility:: Get WMI Infomation exception!!! 
+datatype
+GetIfSupportOrVersion
+VS_VERSION_INFO
+StringFileInfo
+040904b0
+CompanyName
+Lenovo(beijing) Limited
+FileDescription
+Lenovo Fn and function keys service
+FileVersion
+2.0.0.25
+InternalName
+LenovoUtilityService.exe
+LegalCopyright
+2020 Lenovo. All rights reserved.
+OriginalFilename
+LenovoUtilityService.exe
+ProductName
+Lenovo Fn and function keys service
+ProductVersion
+2.0.0.25
+VarFileInfo
+Translation
+SubC
+Lenov
+SubC
